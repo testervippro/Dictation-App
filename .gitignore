@@ -1,6 +1,32 @@
+# =========================
+# Python cache
+# =========================
 __pycache__/
-.venv/
 *.pyc
-chunk_sub.py
-chunk_audip.py
 
+# =========================
+# Virtual environment
+# =========================
+.venv/
+venv/
+env/
+
+# =========================
+# Audio files (large / generated)
+# =========================
+P1.mp3
+P2.mp3
+P3.mp3
+P4.mp3
+
+# =========================
+# Scripts (temporary / local)
+# =========================
+chunk_sub.py
+chunk_audio.py
+
+# =========================
+# OS / misc
+# =========================
+.DS_Store
+Thumbs.db

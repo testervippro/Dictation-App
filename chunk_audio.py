@@ -1,275 +1,50 @@
-from flask import Flask, send_from_directory, request
-import os, json, re
-
-app = Flask(__name__)
-
-AUDIO_BASE = "data_audio"
-
-PART_FOLDERS = {
-    "p1": "toeic_audio_p1ets2020",
-    "p2": "toeic_audio_p2ets2020",
-    "p3": "toeic_audio_p3ets2020",
-    "p4": "toeic_audio_p4ets2020",
-}
-
-def natural_sort_key(filename):
-    match = re.match(r"(\d+)", filename)
-    return int(match.group(1)) if match else 0
-
-def get_audio_files(part):
-    folder = PART_FOLDERS.get(part, PART_FOLDERS["p1"])
-    path = os.path.join(AUDIO_BASE, folder)
-
-    if not os.path.exists(path):
-        return [], folder
-
-    files = [f for f in os.listdir(path) if f.endswith(".mp3")]
-    files.sort(key=natural_sort_key)
-    return files, folder
-
-
-@app.route("/")
-def index():
-    part = request.args.get("part", "p1")
-    audio_files, folder = get_audio_files(part)
-
-    return f"""
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="UTF-8">
-<title>TOEIC Dictation Pro</title>
-
-<style>
-body {{
-    font-family: system-ui;
-    background:#f0f2f5;
-    display:flex;
-    justify-content:center;
-    padding:20px;
-}}
-
-.container {{
-    width:650px;
-    background:white;
-    padding:25px;
-    border-radius:12px;
-}}
-
-.note {{
-    background:#f8f9fa;
-    border-left:4px solid #1877f2;
-    padding:10px;
-    margin-bottom:10px;
-}}
-
-.bar {{
-    height:10px;
-    background:#1877f2;
-    margin-bottom:10px;
-}}
-
-input {{
-    width:100%;
-    padding:12px;
-    margin:10px 0;
-    text-align:center;
-}}
-
-.correct {{
-    background:#eaffea;
-}}
-
-.diff {{
-    text-align:center;
-    margin-top:10px;
-    font-size:16px;
-}}
-
-.correct-word {{ color:green; font-weight:bold; }}
-.wrong-word {{ color:red; text-decoration:line-through; }}
-.suggest-word {{ color:#1877f2; font-weight:bold; }}
-
-button {{
-    margin:5px;
-    padding:10px;
-}}
-</style>
-</head>
-
-<body>
-<div class="container">
-
-<h3>🎧 TOEIC Dictation</h3>
-
-<div class="note">
-🚀 Auto Next takes priority over Auto Repeat
-</div>
-
-<div id="progressText"></div>
-<div id="bar" class="bar"></div>
-
-<input id="jump" placeholder="Jump (vd: 228)" onkeypress="if(event.key==='Enter') jumpTo()">
-
-<div>
-<label><input type="checkbox" id="autoNext" checked> Auto Next</label>
-<label><input type="checkbox" id="autoLoop"> Auto Repeat</label>
-<label><input type="checkbox" id="manualCheck"> Check Mode</label>
-</div>
-
-<audio id="player"></audio>
-
-<input id="input" placeholder="Type what you hear...">
-
-<div id="result"></div>
-<div id="diffBox" class="diff"></div>
-
-<div>
-<button onclick="preview()">Preview</button>
-<button onclick="play()">Play</button>
-<button onclick="next()">Next</button>
-<button onclick="checkAnswer()">Check</button>
-<button onclick="showAnswer()">Answer</button>
-</div>
-
-</div>
-
-<script>
-const audioFiles = {json.dumps(audio_files)};
-const folder = "{folder}";
-const part = "{part}";
-
-let index = parseInt(localStorage.getItem(part+"_idx")) || 0;
-
-const player = document.getElementById("player");
-const input = document.getElementById("input");
-
-// =========================
-// ANSWER lấy từ filename
-// =========================
-function getAnswer() {{
-    return audioFiles[index]
-        .substring(4)
-        .replace(".mp3","")
-        .replace(/_/g," ");
-}}
-
-function normalize(t) {{
-    return t.toLowerCase().replace(/[^\\w\\s]/g,"").trim();
-}}
-
-// =========================
-function load() {{
-    if(index >= audioFiles.length) index = 0;
-
-    localStorage.setItem(part+"_idx", index);
-
-    progressText.innerText = `Câu ${{index+1}} / ${{audioFiles.length}}`;
-    bar.style.width = `${{(index+1)/audioFiles.length*100}}%`;
-
-    player.src = `/data_audio/${{folder}}/${{audioFiles[index]}}`;
-
-    input.value = "";
-    input.classList.remove("correct");
-    result.innerText = "";
-    diffBox.innerHTML = "";
-
-    player.play();
-}}
-
-// =========================
-// 🔥 SO SÁNH ANSWER
-// =========================
-function compareText(user, correct) {{
-    const u = user.split(" ");
-    const c = correct.split(" ");
-
-    let out = "";
-
-    for(let i=0;i<Math.max(u.length, c.length);i++) {{
-        if(u[i] === c[i]) {{
-            out += `<span class="correct-word">${{c[i] || ""}}</span> `;
-        }} else {{
-            if(u[i]) out += `<span class="wrong-word">${{u[i]}}</span> `;
-            if(c[i]) out += `<span class="suggest-word">${{c[i]}}</span> `;
-        }}
-    }}
-
-    return out;
-}}
-
-// =========================
-function checkAnswer() {{
-    const user = normalize(input.value);
-    const correct = normalize(getAnswer());
-
-    diffBox.innerHTML = compareText(user, correct);
-
-    if(user === correct) {{
-        result.innerText = "✅ Correct";
-        input.classList.add("correct");
-
-        if(autoNext.checked) setTimeout(next,500);
-    }} else {{
-        result.innerText = "❌ Wrong";
-    }}
-}}
-
-// =========================
-input.addEventListener("input", () => {{
-
-    if(manualCheck.checked) return;
-
-    if(normalize(input.value) === normalize(getAnswer())) {{
-        input.classList.add("correct");
-
-        if(autoNext.checked) setTimeout(next,400);
-    }}
-}});
-
-// =========================
-player.onended = () => {{
-    if(autoNext.checked) return setTimeout(next,700);
-    if(autoLoop.checked) player.play();
-}};
-
-// =========================
-function jumpTo() {{
-    const v = parseInt(jump.value);
-    if(!v || v<1 || v>audioFiles.length) return;
-
-    index = v-1;
-    load();
-}}
-
-function preview() {{
-    if(index>0) {{ index--; load(); }}
-}}
-
-function next() {{
-    index++;
-    load();
-}}
-
-function play() {{
-    player.currentTime = 0;
-    player.play();
-}}
-
-function showAnswer() {{
-    result.innerText = "Answer: " + getAnswer();
-}}
-
-window.onload = load;
-</script>
-
-</body>
-</html>
-"""
-
-@app.route("/data_audio/<path:folder>/<path:filename>")
-def serve_audio(folder, filename):
-    return send_from_directory(os.path.join(os.getcwd(), AUDIO_BASE, folder), filename)
-
-if __name__ == "__main__":
-    app.run(debug=True, port=5001)
+import os
+import re
+from pydub import AudioSegment
+
+# --- Configuration ---
+input_txt = 'p1ets2020_clean.txt'
+input_audio = 'P1.mp3'
+output_folder = 'toeic_audio_p1ets2020'
+
+# Create directory if it doesn't exist
+if not os.path.exists(output_folder):
+    os.makedirs(output_folder)
+
+# Load the original audio file
+print(f"Loading {input_audio}...")
+audio = AudioSegment.from_file(input_audio)
+
+# Regex to extract [start - end] and text
+pattern = re.compile(r"\[\s*([\d.]+)s\s*-\s*([\d.]+)s\]\s*(.*)")
+
+def clean_filename(text):
+    """Remove special characters to create safe filenames"""
+    # Replace spaces with underscores, remove periods, commas, question marks
+    clean = re.sub(r'[^\w\s-]', '', text).strip().replace(" ", "_")
+    return clean
+
+with open(input_txt, 'r', encoding='utf-8') as f:
+    for i, line in enumerate(f):
+        match = pattern.search(line)
+        if match:
+            start_s = float(match.group(1))
+            end_s = float(match.group(2))
+            original_text = match.group(3).strip()
+
+            # Convert to milliseconds and add 100ms buffer
+            start_ms = max(0, (start_s - 0.1) * 1000)
+            end_ms = (end_s + 0.1) * 1000
+
+            # Create filename: STT_Content.mp3 (example: 003_A_woman_is_painting.mp3)
+            name_part = clean_filename(original_text)
+            filename = f"{i+1:03d}_{name_part}.mp3"
+            filepath = os.path.join(output_folder, filename)
+
+            # Cut and export file
+            segment = audio[start_ms:end_ms]
+            segment.export(filepath, format="mp3")
+            
+            print(f"Saved: {filename}")
+
+print(f"\n--- DONE! All audio files are in the folder: {output_folder} ---")

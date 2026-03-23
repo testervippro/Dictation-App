@@ -1,4 +1,6 @@
 __pycache__/
 .venv/
 *.pyc
+chunk_sub.py
+chunk_audip.py
 

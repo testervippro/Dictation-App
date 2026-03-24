@@ -189,9 +189,8 @@ Auto Next overrides Auto Repeat
 <div id="diffBox" class="diff"></div>
 
 <div class="controls">
-<label><input type="checkbox" id="autoNext" checked> Auto</label>
+<label><input type="checkbox" id="autoNext" checked> Auto Next</label>
 <label><input type="checkbox" id="autoLoop"> Loop</label>
-<label><input type="checkbox" id="manualCheck"> Check</label>
 </div>
 
 <div class="buttons">

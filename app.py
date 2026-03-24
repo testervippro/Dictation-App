@@ -50,7 +50,7 @@ body {{
 }}
 
 .container {{
-    width:500px;
+    width:520px;
     background:white;
     padding:24px;
     border-radius:16px;
@@ -67,6 +67,14 @@ h3 {{
     font-size:13px;
     color:#888;
     margin-bottom:15px;
+}}
+
+select {{
+    width:100%;
+    padding:10px;
+    border-radius:10px;
+    border:1px solid #ddd;
+    margin-bottom:10px;
 }}
 
 .progress {{
@@ -159,6 +167,14 @@ button.primary {{
 Auto Next overrides Auto Repeat
 </div>
 
+<!-- ✅ PART SELECT -->
+<select id="partSelect" onchange="changePart(this.value)">
+    <option value="p1">Part 1</option>
+    <option value="p2">Part 2</option>
+    <option value="p3">Part 3</option>
+    <option value="p4">Part 4</option>
+</select>
+
 <div id="progressText"></div>
 
 <div class="progress">
@@ -173,9 +189,9 @@ Auto Next overrides Auto Repeat
 <div id="diffBox" class="diff"></div>
 
 <div class="controls">
-<label><input type="checkbox" id="autoNext" checked> Auto Next</label>
+<label><input type="checkbox" id="autoNext" checked> Auto</label>
 <label><input type="checkbox" id="autoLoop"> Loop</label>
-<label><input type="checkbox" id="manualCheck"> Auto Check</label>
+<label><input type="checkbox" id="manualCheck"> Check</label>
 </div>
 
 <div class="buttons">
@@ -196,9 +212,12 @@ const audioFiles = {json.dumps(audio_files)};
 const folder = "{folder}";
 const part = "{part}";
 
+// set dropdown đúng part
+document.getElementById("partSelect").value = part;
+
 let index = parseInt(localStorage.getItem(part+"_idx")) || 0;
 
-const player = document.getElementById("player") || new Audio();
+const player = new Audio();
 const input = document.getElementById("input");
 
 // =========================
@@ -313,6 +332,10 @@ function showAnswer() {{
     result.innerText = getAnswer();
 }}
 
+function changePart(p) {{
+    window.location.href = `/?part=${{p}}`;
+}}
+
 window.onload = load;
 </script>
 
@@ -325,4 +348,4 @@ def serve_audio(folder, filename):
     return send_from_directory(os.path.join(os.getcwd(), AUDIO_BASE, folder), filename)
 
 if __name__ == "__main__":
-    app.run(debug=True, port=5001)
+    app.run(host="0.0.0.0", port=5001)

@@ -1,36 +1,108 @@
-# TOEIC Listening Transcription App
+# 🎧 Dictation App (Docker)
 
-## Overview
-This repository is a transcription app for TOEIC Listening (ETS 2020 set). Users can listen to audio segments and edit transcriptions (dictation correction) with provided text transcripts.
+Simple TOEIC dictation 
 
-## Prerequisites
-- Python 3.9+ (3.11 recommended)
-- Virtual environment tool (venv)
+---
 
-## Setup
+## 🚀 Quick Start (Beginner Friendly)
+
+If you are new to Docker, just copy & run:
+
 ```bash
-python -m venv .venv
-source .venv/bin/activate
-pip install --upgrade pip
-pip install -r requirements.txt
+docker run -p 5001:5001 cuxuanthoai/dictation-app
 ```
 
-## Usage
-1. Inspect the dataset:
-   - Audio: `data_audio/toeic_audio_p1ets2020`, `p2`, `p3`, `p4`
-   - Text: `p1ets2020_clean.txt`, ...
+Then open your browser:
 
-2. Run your script (example):
+👉 [http://localhost:5001](http://localhost:5001)
+
+---
+
+## 🧭 Common Options (Easy to Understand)
+
+### 🔹 1. Run in background (recommended)
+
 ```bash
-python app.py
+docker run -d -p 5001:5001 cuxuanthoai/dictation-app
 ```
 
-3. Add more notes or custom command usage in code or this README.
+👉 App runs in background (no terminal blocking)
 
-## Git
-Repository is already initialized with a starting commit.
+---
 
-## Files
-- `app.py`: main application logic (if any)
-- `requirements.txt`: installed Python dependencies
+### 🔹 2. Give your container a name
 
+```bash
+docker run -d -p 5001:5001 --name dictation-app cuxuanthoai/dictation-app
+```
+
+👉 easier to manage later
+
+---
+
+### 🔹 3. Stop the app
+
+```bash
+docker stop dictation-app
+```
+
+---
+
+### 🔹 4. Start again (after stop)
+
+```bash
+docker start dictation-app
+```
+
+---
+
+### 🔹 5. Remove container
+
+```bash
+docker rm dictation-app
+```
+
+---
+
+### 🔹 6. Change port (if 5001 is busy)
+
+```bash
+docker run -p 8080:5001 cuxuanthoai/dictation-app
+```
+
+👉 access at: [http://localhost:8080](http://localhost:8080)
+
+---
+
+
+## 🌐 Access the App
+
+Default:
+
+👉 [http://localhost:5001](http://localhost:5001)
+
+---
+
+## 📦 Features
+
+* 🎧 Audio-based dictation practice (TOEIC style)
+* 🔁 Auto next / loop playback
+* ✅ Instant answer checking
+* 📊 Progress tracking
+
+---
+
+## ❗ Troubleshooting (Quick Fix)
+
+### App not opening?
+
+* Check Docker is running
+* Try another port (8080)
+
+### Port already in use?
+
+```bash
+docker run -p 8080:5001 cuxuanthoai/dictation-app
+```
+
+---

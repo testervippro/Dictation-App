@@ -1,0 +1,1856 @@
+[
+  {
+    "id": 0,
+    "start": 0.08,
+    "end": 0.98,
+    "text": "Test 6"
+  },
+  {
+    "id": 1,
+    "start": 3.6,
+    "end": 6.04,
+    "text": "You will hear a number of different recordings"
+  },
+  {
+    "id": 2,
+    "start": 7.02,
+    "end": 10.14,
+    "text": "and you will have to answer questions on what you hear."
+  },
+  {
+    "id": 3,
+    "start": 12.38,
+    "end": 15.92,
+    "text": "There will be time for you to read the instructions and questions"
+  },
+  {
+    "id": 4,
+    "start": 16.86,
+    "end": 19.52,
+    "text": "and you will have a chance to check your work."
+  },
+  {
+    "id": 5,
+    "start": 21.18,
+    "end": 24.68,
+    "text": "All the recordings will be played once only."
+  },
+  {
+    "id": 6,
+    "start": 26.8,
+    "end": 29.2,
+    "text": "The test is in four sections."
+  },
+  {
+    "id": 7,
+    "start": 31.3,
+    "end": 34.92,
+    "text": "At the end of the test, you will be given ten minutes"
+  },
+  {
+    "id": 8,
+    "start": 35.34,
+    "end": 38.14,
+    "text": "to transfer your answers to an answer sheet."
+  },
+  {
+    "id": 9,
+    "start": 40.58,
+    "end": 42.54,
+    "text": "Now turn to section one."
+  },
+  {
+    "id": 10,
+    "start": 48.0,
+    "end": 48.92,
+    "text": "Section one"
+  },
+  {
+    "id": 11,
+    "start": 51.24,
+    "end": 54.26,
+    "text": "You will hear a woman phoning a box office"
+  },
+  {
+    "id": 12,
+    "start": 54.78,
+    "end": 58.0,
+    "text": "to ask about a festival in the town of Kenton."
+  },
+  {
+    "id": 13,
+    "start": 59.92,
+    "end": 64.72,
+    "text": "First, you have some time to look at questions one to five."
+  },
+  {
+    "id": 14,
+    "start": 84.68,
+    "end": 93.92,
+    "text": "You will see that there is an example that has been done for you."
+  },
+  {
+    "id": 15,
+    "start": 95.44,
+    "end": 101.34,
+    "text": "On this occasion only, the conversation relating to this will be played first."
+  },
+  {
+    "id": 16,
+    "start": 104.6,
+    "end": 106.96,
+    "text": "Good morning Kenton Festival Box Office."
+  },
+  {
+    "id": 17,
+    "start": 107.16,
+    "end": 108.16,
+    "text": "How can I help you?"
+  },
+  {
+    "id": 18,
+    "start": 108.58,
+    "end": 109.64,
+    "text": "Oh, good morning."
+  },
+  {
+    "id": 19,
+    "start": 110.28,
+    "end": 114.32,
+    "text": "I'm coming to Kenton for a few days holiday next month"
+  },
+  {
+    "id": 20,
+    "start": 114.92,
+    "end": 117.02,
+    "text": "and a friend told me there is a festival."
+  },
+  {
+    "id": 21,
+    "start": 117.46,
+    "end": 119.98,
+    "text": "She gave me this number to find out about it."
+  },
+  {
+    "id": 22,
+    "start": 120.52,
+    "end": 121.21,
+    "text": "That's right."
+  },
+  {
+    "id": 23,
+    "start": 121.21,
+    "end": 126.8,
+    "text": "The festival begins on the 16th of May and goes on till the 19th."
+  },
+  {
+    "id": 24,
+    "start": 127.36,
+    "end": 128.34,
+    "text": "Oh, that's great."
+  },
+  {
+    "id": 25,
+    "start": 128.98,
+    "end": 131.86,
+    "text": "I'll be there from the 15th till the 19th."
+  },
+  {
+    "id": 26,
+    "start": 135.1,
+    "end": 138.3,
+    "text": "The festival starts on the 16th of May."
+  },
+  {
+    "id": 27,
+    "start": 139.3,
+    "end": 142.84,
+    "text": "So 16th has been written in the space."
+  },
+  {
+    "id": 28,
+    "start": 145.3,
+    "end": 146.34,
+    "text": "Now we shall begin."
+  },
+  {
+    "id": 29,
+    "start": 148.52,
+    "end": 150.92,
+    "text": "You should answer the questions as you listen"
+  },
+  {
+    "id": 30,
+    "start": 151.5,
+    "end": 154.78,
+    "text": "because you will not hear the recording a second time."
+  },
+  {
+    "id": 31,
+    "start": 157.58,
+    "end": 161.62,
+    "text": "Listen carefully and answer questions one to five."
+  },
+  {
+    "id": 32,
+    "start": 165.26,
+    "end": 167.52,
+    "text": "Good morning Kenton Festival Box Office."
+  },
+  {
+    "id": 33,
+    "start": 167.66,
+    "end": 168.7,
+    "text": "How can I help you?"
+  },
+  {
+    "id": 34,
+    "start": 169.1,
+    "end": 170.16,
+    "text": "Oh, good morning."
+  },
+  {
+    "id": 35,
+    "start": 170.76,
+    "end": 174.86,
+    "text": "I'm coming to Kenton for a few days holiday next month"
+  },
+  {
+    "id": 36,
+    "start": 175.46,
+    "end": 177.58,
+    "text": "and a friend told me there is a festival."
+  },
+  {
+    "id": 37,
+    "start": 178.0,
+    "end": 180.5,
+    "text": "She gave me this number to find out about it."
+  },
+  {
+    "id": 38,
+    "start": 181.02,
+    "end": 181.73,
+    "text": "That's right."
+  },
+  {
+    "id": 39,
+    "start": 181.73,
+    "end": 187.34,
+    "text": "The festival begins on the 16th of May and goes on till the 19th."
+  },
+  {
+    "id": 40,
+    "start": 187.9,
+    "end": 188.86,
+    "text": "Oh, that's great."
+  },
+  {
+    "id": 41,
+    "start": 189.52,
+    "end": 192.4,
+    "text": "I'll be there from the 15th till the 19th."
+  },
+  {
+    "id": 42,
+    "start": 193.42,
+    "end": 195.92,
+    "text": "So could you tell me the programme please?"
+  },
+  {
+    "id": 43,
+    "start": 196.72,
+    "end": 199.9,
+    "text": "Well, on the first day, there's the opening ceremony"
+  },
+  {
+    "id": 44,
+    "start": 199.94,
+    "end": 201.44,
+    "text": "in the town centre."
+  },
+  {
+    "id": 45,
+    "start": 202.06,
+    "end": 205.1,
+    "text": "People start gathering around two o'clock"
+  },
+  {
+    "id": 46,
+    "start": 205.36,
+    "end": 207.34,
+    "text": "to get a good place to see from"
+  },
+  {
+    "id": 47,
+    "start": 207.92,
+    "end": 214.5,
+    "text": "and the events will start at 2.45 and finish about 5.30."
+  },
+  {
+    "id": 48,
+    "start": 215.06,
+    "end": 216.1,
+    "text": "OK, thanks."
+  },
+  {
+    "id": 49,
+    "start": 216.56,
+    "end": 219.28,
+    "text": "I'll make sure I get there early to get a good spot."
+  },
+  {
+    "id": 50,
+    "start": 220.16,
+    "end": 223.48,
+    "text": "The festival will be officially opened by the mayor."
+  },
+  {
+    "id": 51,
+    "start": 224.24,
+    "end": 226.18,
+    "text": "He'll just speak for a few minutes,"
+  },
+  {
+    "id": 52,
+    "start": 226.9,
+    "end": 229.02,
+    "text": "welcoming everyone to the festival."
+  },
+  {
+    "id": 53,
+    "start": 229.52,
+    "end": 231.9,
+    "text": "All the town counsellors will be there"
+  },
+  {
+    "id": 54,
+    "start": 232.4,
+    "end": 234.56,
+    "text": "and of course lots of other people."
+  },
+  {
+    "id": 55,
+    "start": 235.06,
+    "end": 235.46,
+    "text": "Right."
+  },
+  {
+    "id": 56,
+    "start": 236.2,
+    "end": 239.26,
+    "text": "Then there'll be a performance by a band."
+  },
+  {
+    "id": 57,
+    "start": 240.0,
+    "end": 242.56,
+    "text": "Most years we have a children's choir,"
+  },
+  {
+    "id": 58,
+    "start": 242.94,
+    "end": 246.88,
+    "text": "but this year the local army cadets offered to perform"
+  },
+  {
+    "id": 59,
+    "start": 247.4,
+    "end": 248.24,
+    "text": "and they're very good."
+  },
+  {
+    "id": 60,
+    "start": 248.62,
+    "end": 248.98,
+    "text": "Aha."
+  },
+  {
+    "id": 61,
+    "start": 249.6,
+    "end": 252.54,
+    "text": "After that, a community group from the town"
+  },
+  {
+    "id": 62,
+    "start": 252.78,
+    "end": 255.46,
+    "text": "will perform a play they've written themselves,"
+  },
+  {
+    "id": 63,
+    "start": 255.92,
+    "end": 257.08,
+    "text": "just a short one."
+  },
+  {
+    "id": 64,
+    "start": 257.6,
+    "end": 259.48,
+    "text": "It's about Helen Tongate."
+  },
+  {
+    "id": 65,
+    "start": 260.14,
+    "end": 262.2,
+    "text": "I don't know if you've heard of her."
+  },
+  {
+    "id": 66,
+    "start": 262.42,
+    "end": 263.72,
+    "text": "I certainly have."
+  },
+  {
+    "id": 67,
+    "start": 264.46,
+    "end": 266.46,
+    "text": "She was a scientist years ago."
+  },
+  {
+    "id": 68,
+    "start": 266.98,
+    "end": 267.74,
+    "text": "That's right."
+  },
+  {
+    "id": 69,
+    "start": 268.2,
+    "end": 271.98,
+    "text": "She was born in Kenton exactly 100 years ago."
+  },
+  {
+    "id": 70,
+    "start": 272.38,
+    "end": 274.78,
+    "text": "So we're celebrating her centenary."
+  },
+  {
+    "id": 71,
+    "start": 275.2,
+    "end": 278.56,
+    "text": "I'm a biologist, so I've always been interested in her."
+  },
+  {
+    "id": 72,
+    "start": 279.26,
+    "end": 281.44,
+    "text": "I didn't realise she came from Kenton."
+  },
+  {
+    "id": 73,
+    "start": 281.7,
+    "end": 282.08,
+    "text": "Yes."
+  },
+  {
+    "id": 74,
+    "start": 283.16,
+    "end": 285.92,
+    "text": "Well, all that will take place in the afternoon"
+  },
+  {
+    "id": 75,
+    "start": 286.46,
+    "end": 288.43,
+    "text": "and later, as the sun sets,"
+  },
+  {
+    "id": 76,
+    "start": 288.43,
+    "end": 290.7,
+    "text": "there'll be a firework display."
+  },
+  {
+    "id": 77,
+    "start": 291.46,
+    "end": 293.66,
+    "text": "You should go to the park to watch"
+  },
+  {
+    "id": 78,
+    "start": 294.0,
+    "end": 296.24,
+    "text": "as you'll get the best view from there."
+  },
+  {
+    "id": 79,
+    "start": 297.04,
+    "end": 300.52,
+    "text": "And the display takes place on the opposite side of the river."
+  },
+  {
+    "id": 80,
+    "start": 301.06,
+    "end": 304.3,
+    "text": "It's always one of the most popular events in the festival."
+  },
+  {
+    "id": 81,
+    "start": 304.62,
+    "end": 305.6,
+    "text": "Sounds great."
+  },
+  {
+    "id": 82,
+    "start": 309.28,
+    "end": 311.4,
+    "text": "Before you hear the rest of the conversation,"
+  },
+  {
+    "id": 83,
+    "start": 312.06,
+    "end": 315.36,
+    "text": "you have some time to look at questions six to 10."
+  },
+  {
+    "id": 84,
+    "start": 340.88,
+    "end": 344.42,
+    "text": "Now listen and answer questions six to 10."
+  },
+  {
+    "id": 85,
+    "start": 347.94,
+    "end": 350.0,
+    "text": "And what's happening on the other days?"
+  },
+  {
+    "id": 86,
+    "start": 350.84,
+    "end": 354.0,
+    "text": "There are several events that go on the whole time."
+  },
+  {
+    "id": 87,
+    "start": 354.52,
+    "end": 357.7,
+    "text": "For example, the students of the art college"
+  },
+  {
+    "id": 88,
+    "start": 357.84,
+    "end": 359.82,
+    "text": "have produced a number of videos"
+  },
+  {
+    "id": 89,
+    "start": 360.38,
+    "end": 363.8,
+    "text": "all connected with relationships between children"
+  },
+  {
+    "id": 90,
+    "start": 363.82,
+    "end": 365.08,
+    "text": "and their grandparents."
+  },
+  {
+    "id": 91,
+    "start": 365.68,
+    "end": 367.0,
+    "text": "That sounds interesting."
+  },
+  {
+    "id": 92,
+    "start": 367.76,
+    "end": 371.07,
+    "text": "It makes a change from children and parents, doesn't it?"
+  },
+  {
+    "id": 93,
+    "start": 371.07,
+    "end": 372.16,
+    "text": "Exactly."
+  },
+  {
+    "id": 94,
+    "start": 373.06,
+    "end": 378.08,
+    "text": "Because the art college is in use for classes throughout the festival,"
+  },
+  {
+    "id": 95,
+    "start": 378.44,
+    "end": 381.56,
+    "text": "the videos are being shown in Hansworth House."
+  },
+  {
+    "id": 96,
+    "start": 382.3,
+    "end": 383.6,
+    "text": "How do you spell the name?"
+  },
+  {
+    "id": 97,
+    "start": 384.3,
+    "end": 391.68,
+    "text": "H-A-N-D-S-W-O-R-T-H."
+  },
+  {
+    "id": 98,
+    "start": 392.06,
+    "end": 393.34,
+    "text": "Hansworth House."
+  },
+  {
+    "id": 99,
+    "start": 393.88,
+    "end": 395.58,
+    "text": "It's close to the town hall."
+  },
+  {
+    "id": 100,
+    "start": 396.1,
+    "end": 396.46,
+    "text": "Right."
+  },
+  {
+    "id": 101,
+    "start": 397.44,
+    "end": 400.98,
+    "text": "Now, let me see what else can I tell you about?"
+  },
+  {
+    "id": 102,
+    "start": 401.66,
+    "end": 404.2,
+    "text": "Are there any displays of ballet dancing?"
+  },
+  {
+    "id": 103,
+    "start": 404.92,
+    "end": 408.26,
+    "text": "I'm particularly interested in that as I do it as a hobby."
+  },
+  {
+    "id": 104,
+    "start": 408.86,
+    "end": 411.22,
+    "text": "There isn't any ballet, I'm afraid,"
+  },
+  {
+    "id": 105,
+    "start": 411.76,
+    "end": 414.54,
+    "text": "but there'll be a demonstration of traditional dances"
+  },
+  {
+    "id": 106,
+    "start": 414.54,
+    "end": 416.46,
+    "text": "from all around the country."
+  },
+  {
+    "id": 107,
+    "start": 416.84,
+    "end": 417.82,
+    "text": "Well, that would be nice."
+  },
+  {
+    "id": 108,
+    "start": 418.58,
+    "end": 419.74,
+    "text": "Where is that being held?"
+  },
+  {
+    "id": 109,
+    "start": 420.18,
+    "end": 422.7,
+    "text": "It's in the market in the town centre."
+  },
+  {
+    "id": 110,
+    "start": 422.7,
+    "end": 425.86,
+    "text": "The outdoor one, not the covered market."
+  },
+  {
+    "id": 111,
+    "start": 426.74,
+    "end": 431.92,
+    "text": "And it's on at two and five every afternoon of the festival,"
+  },
+  {
+    "id": 112,
+    "start": 432.3,
+    "end": 433.7,
+    "text": "apart from the first day."
+  },
+  {
+    "id": 113,
+    "start": 434.18,
+    "end": 434.64,
+    "text": "Lovely."
+  },
+  {
+    "id": 114,
+    "start": 435.54,
+    "end": 437.7,
+    "text": "I'm interested in all kinds of dancing,"
+  },
+  {
+    "id": 115,
+    "start": 437.8,
+    "end": 439.54,
+    "text": "so I'm sure I'll enjoy that."
+  },
+  {
+    "id": 116,
+    "start": 439.96,
+    "end": 441.14,
+    "text": "Hmm, I'm sure you will."
+  },
+  {
+    "id": 117,
+    "start": 441.7,
+    "end": 445.34,
+    "text": "And I'd really like to go to some concerts, if there are any."
+  },
+  {
+    "id": 118,
+    "start": 446.1,
+    "end": 447.46,
+    "text": "Yes, there are several."
+  },
+  {
+    "id": 119,
+    "start": 448.08,
+    "end": 452.46,
+    "text": "Three performed by professionals and one by local children."
+  },
+  {
+    "id": 120,
+    "start": 453.28,
+    "end": 454.74,
+    "text": "And where is it being held?"
+  },
+  {
+    "id": 121,
+    "start": 455.36,
+    "end": 458.48,
+    "text": "It's in the library, which is in Park Street."
+  },
+  {
+    "id": 122,
+    "start": 459.4,
+    "end": 462.9,
+    "text": "On the 18th at 630 in the evening."
+  },
+  {
+    "id": 123,
+    "start": 463.34,
+    "end": 465.42,
+    "text": "I presume I'll need tickets for that."
+  },
+  {
+    "id": 124,
+    "start": 465.98,
+    "end": 468.2,
+    "text": "Yes, you can book online,"
+  },
+  {
+    "id": 125,
+    "start": 468.84,
+    "end": 471.68,
+    "text": "or you can buy them when you arrive in Kenton,"
+  },
+  {
+    "id": 126,
+    "start": 472.06,
+    "end": 473.98,
+    "text": "either at the festival box office,"
+  },
+  {
+    "id": 127,
+    "start": 474.52,
+    "end": 478.42,
+    "text": "or from any shops displaying our logo in the windows."
+  },
+  {
+    "id": 128,
+    "start": 479.74,
+    "end": 482.28,
+    "text": "Well, I think that'll keep me busy"
+  },
+  {
+    "id": 129,
+    "start": 482.4,
+    "end": 484.46,
+    "text": "for the whole of my stay in Kenton."
+  },
+  {
+    "id": 130,
+    "start": 485.2,
+    "end": 487.18,
+    "text": "Thank you so much for all your help."
+  },
+  {
+    "id": 131,
+    "start": 487.8,
+    "end": 490.62,
+    "text": "You're welcome. I hope you enjoy your stay."
+  },
+  {
+    "id": 132,
+    "start": 491.16,
+    "end": 492.22,
+    "text": "Thank you. Goodbye."
+  },
+  {
+    "id": 133,
+    "start": 495.8,
+    "end": 497.54,
+    "text": "That is the end of section one."
+  },
+  {
+    "id": 134,
+    "start": 499.36,
+    "end": 502.62,
+    "text": "You now have half a minute to check your answers."
+  },
+  {
+    "id": 135,
+    "start": 512.32,
+    "end": 535.52,
+    "text": "Now turn to section two."
+  },
+  {
+    "id": 136,
+    "start": 536.32,
+    "end": 541.88,
+    "text": "Section two."
+  },
+  {
+    "id": 137,
+    "start": 544.16,
+    "end": 547.32,
+    "text": "You will hear a man talking to a group of people"
+  },
+  {
+    "id": 138,
+    "start": 547.74,
+    "end": 551.54,
+    "text": "about a tour of theatres in the city of Munich in Germany"
+  },
+  {
+    "id": 139,
+    "start": 552.1,
+    "end": 553.64,
+    "text": "that he has arranged for them."
+  },
+  {
+    "id": 140,
+    "start": 555.88,
+    "end": 560.7,
+    "text": "First, you have some time to look at questions 11 to 15."
+  },
+  {
+    "id": 141,
+    "start": 596.32,
+    "end": 601.14,
+    "text": "Now listen carefully and answer questions 11 to 15."
+  },
+  {
+    "id": 142,
+    "start": 604.74,
+    "end": 610.3,
+    "text": "Right, I've now almost succeeded in finalising plans for our tour,"
+  },
+  {
+    "id": 143,
+    "start": 610.8,
+    "end": 613.58,
+    "text": "so I'll bring you up to date with what I know."
+  },
+  {
+    "id": 144,
+    "start": 614.86,
+    "end": 619.9,
+    "text": "As you know, we're flying first to Munich on Monday the 4th."
+  },
+  {
+    "id": 145,
+    "start": 621.02,
+    "end": 623.38,
+    "text": "The flight is at 1130,"
+  },
+  {
+    "id": 146,
+    "start": 624.08,
+    "end": 626.64,
+    "text": "so it's too early to have lunch at the airport."
+  },
+  {
+    "id": 147,
+    "start": 627.88,
+    "end": 631.28,
+    "text": "I suggest we meet there for coffee at 10,"
+  },
+  {
+    "id": 148,
+    "start": 632.08,
+    "end": 636.1,
+    "text": "which should give us plenty of time for breakfast before we leave home."
+  },
+  {
+    "id": 149,
+    "start": 638.4,
+    "end": 643.64,
+    "text": "When we arrive in Munich, we'll be met at the airport by Klaus Bauer."
+  },
+  {
+    "id": 150,
+    "start": 645.02,
+    "end": 647.3,
+    "text": "Klaus works for a tour operator,"
+  },
+  {
+    "id": 151,
+    "start": 647.94,
+    "end": 651.28,
+    "text": "and he'll look after us for the time we'll be in Germany."
+  },
+  {
+    "id": 152,
+    "start": 652.7,
+    "end": 657.06,
+    "text": "He's already liased with the managers of the theatres we're going to visit,"
+  },
+  {
+    "id": 153,
+    "start": 657.82,
+    "end": 662.14,
+    "text": "and he's also arranged for an officer of the National Theatre in Munich"
+  },
+  {
+    "id": 154,
+    "start": 662.66,
+    "end": 666.54,
+    "text": "to show us around the theatre one afternoon during our stay."
+  },
+  {
+    "id": 155,
+    "start": 668.76,
+    "end": 671.34,
+    "text": "Now, last time we discussed this trip,"
+  },
+  {
+    "id": 156,
+    "start": 671.9,
+    "end": 676.54,
+    "text": "I didn't have the precise cost for hotel rooms, but now I have."
+  },
+  {
+    "id": 157,
+    "start": 677.78,
+    "end": 685.25,
+    "text": "The normal rate at the hotel where we're staying is 150 euros a night for a double room."
+  },
+  {
+    "id": 158,
+    "start": 685.25,
+    "end": 689.34,
+    "text": "I'd hoped to get that down to 120 euros,"
+  },
+  {
+    "id": 159,
+    "start": 690.28,
+    "end": 694.54,
+    "text": "but in fact I've been able to negotiate a rate of 110."
+  },
+  {
+    "id": 160,
+    "start": 696.08,
+    "end": 701.52,
+    "text": "That'll be reflected in the final payment, which you'll need to make by the end of this week."
+  },
+  {
+    "id": 161,
+    "start": 701.6,
+    "end": 711.9,
+    "text": "On Tuesday, the day after our arrival, I had hoped we could sit in on a rehearsal at one of the theatres,"
+  },
+  {
+    "id": 162,
+    "start": 712.28,
+    "end": 716.44,
+    "text": "but unfortunately that's proved very difficult to arrange."
+  },
+  {
+    "id": 163,
+    "start": 717.58,
+    "end": 724.52,
+    "text": "So instead we'll have a coach trip to one of the amazing castles in the mountains south of Munich."
+  },
+  {
+    "id": 164,
+    "start": 725.1,
+    "end": 731.46,
+    "text": "On Tuesday evening, we'll all have dinner together in a restaurant near our hotel."
+  },
+  {
+    "id": 165,
+    "start": 732.64,
+    "end": 739.58,
+    "text": "From talking to you all about your preferences, it was clear that a typical local restaurant"
+  },
+  {
+    "id": 166,
+    "start": 739.96,
+    "end": 743.72,
+    "text": "would be to meet oriented for some of you."
+  },
+  {
+    "id": 167,
+    "start": 744.32,
+    "end": 751.3,
+    "text": "Some of you suggested an Italian restaurant, but I must confess that I decided to book a Lebanese one,"
+  },
+  {
+    "id": 168,
+    "start": 751.9,
+    "end": 756.44,
+    "text": "as we have plenty of opportunities to go to an Italian restaurant at home."
+  },
+  {
+    "id": 169,
+    "start": 758.08,
+    "end": 764.5,
+    "text": "On Wednesday afternoon, the director of the play we're going to see that evening will talk to us"
+  },
+  {
+    "id": 170,
+    "start": 764.5,
+    "end": 769.78,
+    "text": "at the theatre. She'll describe the whole process of producing a play,"
+  },
+  {
+    "id": 171,
+    "start": 770.52,
+    "end": 776.51,
+    "text": "including how she chose the actors, and as the play we're going to see is a modern one,"
+  },
+  {
+    "id": 172,
+    "start": 776.51,
+    "end": 778.82,
+    "text": "how she worked with the playwright."
+  },
+  {
+    "id": 173,
+    "start": 782.36,
+    "end": 788.84,
+    "text": "Before you hear the rest of the talk, you have some time to look at questions 16 to 20."
+  },
+  {
+    "id": 174,
+    "start": 811.9,
+    "end": 818.3,
+    "text": "Now listen and answer questions 16 to 20."
+  },
+  {
+    "id": 175,
+    "start": 821.76,
+    "end": 827.36,
+    "text": "Right, now I'd just like to make a few points about the plays we're going to see,"
+  },
+  {
+    "id": 176,
+    "start": 828.34,
+    "end": 833.26,
+    "text": "partly because it might influence your choice of clothes to take with you."
+  },
+  {
+    "id": 177,
+    "start": 834.72,
+    "end": 838.14,
+    "text": "The play we're seeing on Wednesday evening is a modern one,"
+  },
+  {
+    "id": 178,
+    "start": 838.88,
+    "end": 843.4,
+    "text": "and we're going to the premiere, so it'll be quite a dressy occasion,"
+  },
+  {
+    "id": 179,
+    "start": 844.14,
+    "end": 851.22,
+    "text": "though of course you don't have to dress formally. I gather it's rather a multimedia production"
+  },
+  {
+    "id": 180,
+    "start": 851.72,
+    "end": 857.72,
+    "text": "with amazing lighting effects and a soundtrack of electronic music, though unfortunately"
+  },
+  {
+    "id": 181,
+    "start": 857.98,
+    "end": 862.5,
+    "text": "the playwright is ill and is unlikely to be able to attend."
+  },
+  {
+    "id": 182,
+    "start": 862.8,
+    "end": 870.32,
+    "text": "On Thursday we're seeing a play that was first performed last year when it was commissioned"
+  },
+  {
+    "id": 183,
+    "start": 870.54,
+    "end": 875.26,
+    "text": "to mark a hundred years since the birth in the town of a well-known scientist."
+  },
+  {
+    "id": 184,
+    "start": 876.52,
+    "end": 881.44,
+    "text": "We're going to see a revival of that production, which aroused a lot of interest."
+  },
+  {
+    "id": 185,
+    "start": 883.16,
+    "end": 887.5,
+    "text": "Friday's play will really make you think hard about what clothes to pack,"
+  },
+  {
+    "id": 186,
+    "start": 888.18,
+    "end": 895.0,
+    "text": "as it'll be in the garden of a palace. It's a beautiful setting, but I'd better warn you,"
+  },
+  {
+    "id": 187,
+    "start": 895.46,
+    "end": 902.8,
+    "text": "there won't be much protection from the wind. On Saturday we're going by coach to a theatre"
+  },
+  {
+    "id": 188,
+    "start": 902.82,
+    "end": 909.28,
+    "text": "in another town, not far from Munich. This will be the opening of a drama festival,"
+  },
+  {
+    "id": 189,
+    "start": 910.08,
+    "end": 914.38,
+    "text": "and the mayor and all the other dignitaries of the town will be attending."
+  },
+  {
+    "id": 190,
+    "start": 916.04,
+    "end": 920.08,
+    "text": "After the performance, the mayor is hosting a reception for all the audience,"
+  },
+  {
+    "id": 191,
+    "start": 920.2,
+    "end": 924.24,
+    "text": "and there'll be a band playing traditional music of the region."
+  },
+  {
+    "id": 192,
+    "start": 925.94,
+    "end": 930.61,
+    "text": "And after having a day off on Sunday, our final play is on Monday,"
+  },
+  {
+    "id": 193,
+    "start": 930.61,
+    "end": 937.86,
+    "text": "and it's in the stunning setting of the Old Town Hall, which dates back to the 14th century."
+  },
+  {
+    "id": 194,
+    "start": 937.92,
+    "end": 944.22,
+    "text": "The performance marks the 50 years that the lead actor has been on stage,"
+  },
+  {
+    "id": 195,
+    "start": 944.22,
+    "end": 950.68,
+    "text": "and the play is the one where he made his first professional appearance all those years ago."
+  },
+  {
+    "id": 196,
+    "start": 952.58,
+    "end": 961.81,
+    "text": "And the day after that, we'll be flying back home. Now, have you got any questions before I..."
+  },
+  {
+    "id": 197,
+    "start": 961.81,
+    "end": 966.84,
+    "text": "That is the end of section 2."
+  },
+  {
+    "id": 198,
+    "start": 968.78,
+    "end": 971.98,
+    "text": "You now have half a minute to check your answers."
+  },
+  {
+    "id": 199,
+    "start": 991.68,
+    "end": 1004.72,
+    "text": "Now turn to section 3."
+  },
+  {
+    "id": 200,
+    "start": 1010.46,
+    "end": 1011.14,
+    "text": "Section 3"
+  },
+  {
+    "id": 201,
+    "start": 1013.74,
+    "end": 1019.16,
+    "text": "You will hear James, who is in the Scandinavian Studies Department at his university,"
+  },
+  {
+    "id": 202,
+    "start": 1020.06,
+    "end": 1028.38,
+    "text": "talking to his tutor, Beth. First, you have some time to look at questions 21 to 25."
+  },
+  {
+    "id": 203,
+    "start": 1049.28,
+    "end": 1069.1,
+    "text": "Now listen carefully and answer questions 21 to 25."
+  },
+  {
+    "id": 204,
+    "start": 1072.66,
+    "end": 1077.88,
+    "text": "Oh, good morning. You must be James. I'm Beth Cartwright. Please call me Beth."
+  },
+  {
+    "id": 205,
+    "start": 1078.24,
+    "end": 1084.9,
+    "text": "Thank you. Now, as this is your first tutorial since you started on the Scandinavian Studies course,"
+  },
+  {
+    "id": 206,
+    "start": 1085.66,
+    "end": 1090.1,
+    "text": "I'd like to find out something about you. Why did you decide to take this course?"
+  },
+  {
+    "id": 207,
+    "start": 1090.62,
+    "end": 1097.24,
+    "text": "Well, my mother is Danish, and although we always lived in England, she used to talk about her home a lot,"
+  },
+  {
+    "id": 208,
+    "start": 1098.12,
+    "end": 1104.72,
+    "text": "and that made me want to visit Denmark. We hardly ever did, though. My mother usually went on her own."
+  },
+  {
+    "id": 209,
+    "start": 1105.72,
+    "end": 1110.56,
+    "text": "But whenever her relations or friends were in England, they always came to see us."
+  },
+  {
+    "id": 210,
+    "start": 1110.86,
+    "end": 1116.68,
+    "text": "I see. So I assume you already speak Danish. One of the languages you'll be studying."
+  },
+  {
+    "id": 211,
+    "start": 1117.1,
+    "end": 1121.76,
+    "text": "I can get by when I talk to people, though I'm not terribly accurate."
+  },
+  {
+    "id": 212,
+    "start": 1122.9,
+    "end": 1128.52,
+    "text": "Now you probably know that you'll spend the third year of the course abroad. Have you had any"
+  },
+  {
+    "id": 213,
+    "start": 1128.52,
+    "end": 1134.26,
+    "text": "thoughts about that? I'm really looking forward to it. And although Denmark seems the obvious"
+  },
+  {
+    "id": 214,
+    "start": 1134.4,
+    "end": 1138.94,
+    "text": "place to go because of my family connections, I'd love to spend the time in Iceland."
+  },
+  {
+    "id": 215,
+    "start": 1139.9,
+    "end": 1146.42,
+    "text": "Oh, I'm sure it can be arranged. Do you have any plans for when you graduate? A lot of students go"
+  },
+  {
+    "id": 216,
+    "start": 1146.42,
+    "end": 1152.26,
+    "text": "on to take a master's degree. I think the four years of the undergraduate course will be enough for me."
+  },
+  {
+    "id": 217,
+    "start": 1153.12,
+    "end": 1158.82,
+    "text": "I'm interested in journalism, and I quite like the idea of moving to Scandinavia and writing"
+  },
+  {
+    "id": 218,
+    "start": 1158.88,
+    "end": 1166.02,
+    "text": "for magazines. I'd find that more creative than translating, which I suppose most graduates do."
+  },
+  {
+    "id": 219,
+    "start": 1166.52,
+    "end": 1170.98,
+    "text": "Okay. Now how are you finding the courses you're taking this term, James?"
+  },
+  {
+    "id": 220,
+    "start": 1171.58,
+    "end": 1174.4,
+    "text": "Well, I'm really enjoying the one on Swedish cinema."
+  },
+  {
+    "id": 221,
+    "start": 1175.06,
+    "end": 1180.32,
+    "text": "That'll continue next term. But the one on Scandinavian literature that's running at the moment"
+  },
+  {
+    "id": 222,
+    "start": 1180.48,
+    "end": 1186.7,
+    "text": "will be replaced by more specialized courses. Oh, and by the way, if you're interested in"
+  },
+  {
+    "id": 223,
+    "start": 1186.82,
+    "end": 1191.64,
+    "text": "watching Danish television programs, there's going to be a course on that the term after next."
+  },
+  {
+    "id": 224,
+    "start": 1191.86,
+    "end": 1196.98,
+    "text": "That sounds good. Have you started thinking about the literature paper that you have to write in"
+  },
+  {
+    "id": 225,
+    "start": 1196.98,
+    "end": 1202.54,
+    "text": "the next few weeks? Yes. My first choice would be to do something on the Icelandic sagas."
+  },
+  {
+    "id": 226,
+    "start": 1204.14,
+    "end": 1210.4,
+    "text": "The trouble with that is that a lot of people choose that topic, and it can be difficult to get hold"
+  },
+  {
+    "id": 227,
+    "start": 1210.4,
+    "end": 1216.96,
+    "text": "of the books you'll need. Why not leave that for another time? Right. You might find modern novels"
+  },
+  {
+    "id": 228,
+    "start": 1216.98,
+    "end": 1223.91,
+    "text": "or 19th century playwrights interesting. I've read or seen several plays in translation, so that"
+  },
+  {
+    "id": 229,
+    "start": 1223.91,
+    "end": 1230.49,
+    "text": "would be a good idea. Fine. I'll put you down for that topic. Right. So what would you advise me"
+  },
+  {
+    "id": 230,
+    "start": 1230.49,
+    "end": 1236.34,
+    "text": "to aim at in the paper? First, I suggest you avoid taking one writer and going into a great deal"
+  },
+  {
+    "id": 231,
+    "start": 1236.46,
+    "end": 1242.16,
+    "text": "of detail. That approach certainly has its place, but I think you first need to get an understanding"
+  },
+  {
+    "id": 232,
+    "start": 1242.3,
+    "end": 1248.46,
+    "text": "of the literature in the context of the society in which it was produced, who it was written for,"
+  },
+  {
+    "id": 233,
+    "start": 1248.76,
+    "end": 1253.95,
+    "text": "how it was published, and so on. I also think that's more fruitful than placing it within the"
+  },
+  {
+    "id": 234,
+    "start": 1253.95,
+    "end": 1262.4,
+    "text": "history of the genre. Okay. That sounds reasonable. Before you hear the rest of the discussion,"
+  },
+  {
+    "id": 235,
+    "start": 1263.16,
+    "end": 1267.02,
+    "text": "you have some time to look at questions 26 to 30."
+  },
+  {
+    "id": 236,
+    "start": 1292.58,
+    "end": 1296.42,
+    "text": "Now listen and answer questions 26 to 30."
+  },
+  {
+    "id": 237,
+    "start": 1299.96,
+    "end": 1304.14,
+    "text": "Could I ask for some advice about writing the paper I'm working on about the Vikings?"
+  },
+  {
+    "id": 238,
+    "start": 1305.16,
+    "end": 1311.06,
+    "text": "I have to do that this week and I'm a bit stuck. Of course. Have you decided yet what to write about?"
+  },
+  {
+    "id": 239,
+    "start": 1311.3,
+    "end": 1317.58,
+    "text": "No, I haven't. There's so much that seems interesting. Viking settlement in other countries,"
+  },
+  {
+    "id": 240,
+    "start": 1318.38,
+    "end": 1324.19,
+    "text": "mythology. Well, what I suggest is that you read an assignment a student wrote last year,"
+  },
+  {
+    "id": 241,
+    "start": 1324.19,
+    "end": 1330.08,
+    "text": "which is kept in the library. It's short and well-focused, and I'm sure you'll find it helpful."
+  },
+  {
+    "id": 242,
+    "start": 1331.0,
+    "end": 1336.67,
+    "text": "I'll give you the details in a moment. Textbooks usually cover so many topics. It can be very"
+  },
+  {
+    "id": 243,
+    "start": 1336.67,
+    "end": 1343.1,
+    "text": "difficult to choose just one. Okay. I've got a DVD of the film about the Vikings that came out"
+  },
+  {
+    "id": 244,
+    "start": 1343.12,
+    "end": 1350.4,
+    "text": "earlier this year. Should I watch that again? If it's the one I am thinking of, I'd ignore it."
+  },
+  {
+    "id": 245,
+    "start": 1350.8,
+    "end": 1356.18,
+    "text": "It's more fantasy than reality. But I've got a recording of a documentary that you should watch."
+  },
+  {
+    "id": 246,
+    "start": 1356.9,
+    "end": 1361.88,
+    "text": "It makes some interesting and provocative points, which I think will help you to focus your topic."
+  },
+  {
+    "id": 247,
+    "start": 1362.4,
+    "end": 1369.8,
+    "text": "Right. So then should I work out an outline? Yes. Just headings for different sections at this stage."
+  },
+  {
+    "id": 248,
+    "start": 1370.58,
+    "end": 1374.58,
+    "text": "And then you should start looking for suitable articles and books to draw on,"
+  },
+  {
+    "id": 249,
+    "start": 1375.0,
+    "end": 1378.54,
+    "text": "and take notes which you organize according to those headings. I see."
+  },
+  {
+    "id": 250,
+    "start": 1379.36,
+    "end": 1383.14,
+    "text": "Then put short phrases and sentences as bullet points under each heading."
+  },
+  {
+    "id": 251,
+    "start": 1383.96,
+    "end": 1389.6,
+    "text": "Make sure that this skeleton makes sense and flows properly before writing up the paper in full."
+  },
+  {
+    "id": 252,
+    "start": 1389.9,
+    "end": 1392.72,
+    "text": "Okay. Thanks. That's very helpful."
+  },
+  {
+    "id": 253,
+    "start": 1392.96,
+    "end": 1397.68,
+    "text": "That is the end of section 3."
+  },
+  {
+    "id": 254,
+    "start": 1399.62,
+    "end": 1402.72,
+    "text": "You now have half a minute to check your answers."
+  },
+  {
+    "id": 255,
+    "start": 1422.8,
+    "end": 1435.44,
+    "text": "Now turn to section 4."
+  },
+  {
+    "id": 256,
+    "start": 1441.08,
+    "end": 1441.8,
+    "text": "Section 4."
+  },
+  {
+    "id": 257,
+    "start": 1444.0,
+    "end": 1450.36,
+    "text": "You will hear part of a lecture about conflict at work given by a business studies lecturer."
+  },
+  {
+    "id": 258,
+    "start": 1451.08,
+    "end": 1457.08,
+    "text": "First, you have some time to look at questions 31 to 40."
+  },
+  {
+    "id": 259,
+    "start": 1480.4,
+    "end": 1508.78,
+    "text": "Now listen carefully."
+  },
+  {
+    "id": 260,
+    "start": 1509.34,
+    "end": 1511.88,
+    "text": "And answer questions 31 to 40."
+  },
+  {
+    "id": 261,
+    "start": 1515.26,
+    "end": 1520.36,
+    "text": "Over the years, attitudes towards workers have changed considerably."
+  },
+  {
+    "id": 262,
+    "start": 1521.5,
+    "end": 1529.24,
+    "text": "After all, there was a time when workers had no rights at all and labored in appalling conditions."
+  },
+  {
+    "id": 263,
+    "start": 1530.32,
+    "end": 1536.82,
+    "text": "Conditions have improved a lot, but conflict in the workplace is still common."
+  },
+  {
+    "id": 264,
+    "start": 1537.66,
+    "end": 1544.2,
+    "text": "And human resources managers nowadays need to be able to deal with it when necessary."
+  },
+  {
+    "id": 265,
+    "start": 1545.46,
+    "end": 1554.88,
+    "text": "What is conflict in the workplace? Definitions vary, but I'm taking it to refer to a whole range"
+  },
+  {
+    "id": 266,
+    "start": 1555.04,
+    "end": 1563.72,
+    "text": "of behaviours that the victim finds unacceptable. From minor harmless arguments to, at the"
+  },
+  {
+    "id": 267,
+    "start": 1563.9,
+    "end": 1572.98,
+    "text": "opposite extreme physical violence. Much of this is covered by the term bullying, by which I"
+  },
+  {
+    "id": 268,
+    "start": 1573.0,
+    "end": 1581.96,
+    "text": "mean one or more people behaving abusively or aggressively against another who is in a weaker position."
+  },
+  {
+    "id": 269,
+    "start": 1583.32,
+    "end": 1591.4,
+    "text": "Although all behaviour like this is a form of conflict, not all conflict can be described in these terms."
+  },
+  {
+    "id": 270,
+    "start": 1593.2,
+    "end": 1601.12,
+    "text": "As with all human behaviour, there are numerous reasons for it, but often it's caused by someone"
+  },
+  {
+    "id": 271,
+    "start": 1601.12,
+    "end": 1609.21,
+    "text": "who feels the need to show their superiority over someone else, in order to feel that they aren't"
+  },
+  {
+    "id": 272,
+    "start": 1609.21,
+    "end": 1619.36,
+    "text": "at the lowest level in a hierarchy or a group of people. In some cases, one person simply dislikes"
+  },
+  {
+    "id": 273,
+    "start": 1619.5,
+    "end": 1627.93,
+    "text": "the other. On the basis that the personality of one is in some way incompatible with that of the"
+  },
+  {
+    "id": 274,
+    "start": 1627.93,
+    "end": 1636.79,
+    "text": "other person. A general habit of optimism in one person could make them intolerant of a colleague"
+  },
+  {
+    "id": 275,
+    "start": 1636.79,
+    "end": 1643.74,
+    "text": "who's constantly pessimistic, not that that justifies treating them badly, of course."
+  },
+  {
+    "id": 276,
+    "start": 1643.98,
+    "end": 1652.83,
+    "text": "Some conflicts arise when people are more interested in promoting themselves and their team"
+  },
+  {
+    "id": 277,
+    "start": 1652.83,
+    "end": 1662.36,
+    "text": "than in the company as a whole. These conflicts are called structural and could come about, for example,"
+  },
+  {
+    "id": 278,
+    "start": 1662.66,
+    "end": 1671.28,
+    "text": "when a sales team believe they are the only people in the business who do any useful work and look"
+  },
+  {
+    "id": 279,
+    "start": 1671.46,
+    "end": 1679.78,
+    "text": "down on behind the scenes administrators. Conflict obviously affects the individuals concerned."
+  },
+  {
+    "id": 280,
+    "start": 1680.86,
+    "end": 1689.08,
+    "text": "The situation is likely to be very stressful for victims, resulting in their absence from work,"
+  },
+  {
+    "id": 281,
+    "start": 1689.22,
+    "end": 1696.46,
+    "text": "possibly for months. For the company, if no effort is made to deal with conflict,"
+  },
+  {
+    "id": 282,
+    "start": 1696.72,
+    "end": 1702.96,
+    "text": "it can spiral out of control and even lead to the breakdown of the business."
+  },
+  {
+    "id": 283,
+    "start": 1708.46,
+    "end": 1717.26,
+    "text": "Some interesting work with chief executives, CEOs, has uncovered some of the reasons why they may"
+  },
+  {
+    "id": 284,
+    "start": 1717.36,
+    "end": 1728.72,
+    "text": "treat colleagues badly. Many CEOs combine two opposing characteristics. Confidence, that is the"
+  },
+  {
+    "id": 285,
+    "start": 1728.72,
+    "end": 1737.98,
+    "text": "belief that they're capable of great achievements with a high level of anxiety, a fear of missing targets,"
+  },
+  {
+    "id": 286,
+    "start": 1738.78,
+    "end": 1746.6,
+    "text": "whether set by themselves or by the directors of the company. This combination can make them"
+  },
+  {
+    "id": 287,
+    "start": 1746.9,
+    "end": 1755.68,
+    "text": "respond badly to anyone who questions their decisions. In a high pressure work environment, such"
+  },
+  {
+    "id": 288,
+    "start": 1756.5,
+    "end": 1763.98,
+    "text": "characteristics become problematic and it's particularly difficult to tackle the situation where"
+  },
+  {
+    "id": 289,
+    "start": 1763.98,
+    "end": 1771.28,
+    "text": "colleagues, managers and board members are all trying to achieve their own visions."
+  },
+  {
+    "id": 290,
+    "start": 1771.72,
+    "end": 1779.52,
+    "text": "When they can't agree on strategic issues and on where they see the business going, there are"
+  },
+  {
+    "id": 291,
+    "start": 1779.52,
+    "end": 1789.06,
+    "text": "real problems. For managers at lower levels within the organisation, it might seem that an autocratic"
+  },
+  {
+    "id": 292,
+    "start": 1789.14,
+    "end": 1797.62,
+    "text": "form of management, where the chief executive gives orders and everyone else has to obey, would see"
+  },
+  {
+    "id": 293,
+    "start": 1797.9,
+    "end": 1806.44,
+    "text": "more conflict than others. Interestingly though, a company with a more democratic business model"
+  },
+  {
+    "id": 294,
+    "start": 1806.96,
+    "end": 1815.9,
+    "text": "can suffer more when uncertainty about who to report to leads to conflicting demands."
+  },
+  {
+    "id": 295,
+    "start": 1818.04,
+    "end": 1824.78,
+    "text": "Now I'll say a little about dealing with the type of conflict that has harmful effects."
+  },
+  {
+    "id": 296,
+    "start": 1825.86,
+    "end": 1833.92,
+    "text": "Of course, the ideal is to prevent it arising in the first place. A good manager at any level"
+  },
+  {
+    "id": 297,
+    "start": 1834.38,
+    "end": 1842.54,
+    "text": "will make efforts to earn the respect of the people they work with, particularly those who report"
+  },
+  {
+    "id": 298,
+    "start": 1842.66,
+    "end": 1850.84,
+    "text": "to them. That will involve politeness in all communications and treating them as equals, who"
+  },
+  {
+    "id": 299,
+    "start": 1850.9,
+    "end": 1859.18,
+    "text": "happen to have a different role within the organisation. Sometimes of course conflict does occur"
+  },
+  {
+    "id": 300,
+    "start": 1859.84,
+    "end": 1867.64,
+    "text": "and can get out of hand. In such cases, the human resources department often gets involved."
+  },
+  {
+    "id": 301,
+    "start": 1868.68,
+    "end": 1876.5,
+    "text": "However, if one of the parties in a conflict sees human resources as simply a mouthpiece for"
+  },
+  {
+    "id": 302,
+    "start": 1876.5,
+    "end": 1882.92,
+    "text": "the chief executive, then an external mediator might be able to help."
+  },
+  {
+    "id": 303,
+    "start": 1884.12,
+    "end": 1889.88,
+    "text": "By talking to both sides and trying to find the truth of what's been happening,"
+  },
+  {
+    "id": 304,
+    "start": 1890.9,
+    "end": 1898.46,
+    "text": "they can build a clear picture of the situation and give feedback that both sides will accept,"
+  },
+  {
+    "id": 305,
+    "start": 1899.36,
+    "end": 1902.6,
+    "text": "precisely because they're independent."
+  },
+  {
+    "id": 306,
+    "start": 1907.02,
+    "end": 1913.48,
+    "text": "That is the end of section 4. You now have half a minute to check your answers."
+  },
+  {
+    "id": 307,
+    "start": 1936.48,
+    "end": 1952.88,
+    "text": "That is the end of the listening test. In the IELTS test, you would now have 10 minutes to transfer"
+  },
+  {
+    "id": 308,
+    "start": 1952.9,
+    "end": 1955.04,
+    "text": "your answers to the answer sheet."
+  }
+]

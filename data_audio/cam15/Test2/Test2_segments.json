@@ -1,0 +1,620 @@
+[
+  {
+    "id": 0,
+    "start": 0.36,
+    "end": 1.18,
+    "text": "Test 2"
+  },
+  {
+    "id": 1,
+    "start": 2.72,
+    "end": 5.0,
+    "text": "This is the IELTS listening test."
+  },
+  {
+    "id": 2,
+    "start": 6.62,
+    "end": 12.7,
+    "text": "You will hear a number of different recordings, and you will have to answer questions on what you hear."
+  },
+  {
+    "id": 3,
+    "start": 14.24,
+    "end": 20.8,
+    "text": "There will be time for you to read the instructions and questions, and you will have a chance to check your work."
+  },
+  {
+    "id": 4,
+    "start": 22.48,
+    "end": 25.52,
+    "text": "All the recordings will be played once only."
+  },
+  {
+    "id": 5,
+    "start": 27.14,
+    "end": 29.02,
+    "text": "The test is in four parts."
+  },
+  {
+    "id": 6,
+    "start": 30.82,
+    "end": 36.84,
+    "text": "At the end of the test, you will be given ten minutes to transfer your answers to the answer sheet."
+  },
+  {
+    "id": 7,
+    "start": 38.6,
+    "end": 40.28,
+    "text": "Now turn to part 1."
+  },
+  {
+    "id": 8,
+    "start": 45.68,
+    "end": 46.32,
+    "text": "Part 1"
+  },
+  {
+    "id": 9,
+    "start": 47.88,
+    "end": 53.1,
+    "text": "You will hear a woman calling a tourist information office to ask about a festival."
+  },
+  {
+    "id": 10,
+    "start": 54.8,
+    "end": 58.58,
+    "text": "First, you have some time to look at questions 1 to 4."
+  },
+  {
+    "id": 11,
+    "start": 61.6,
+    "end": 83.06,
+    "text": "Now listen carefully and answer questions 1 to 4."
+  },
+  {
+    "id": 12,
+    "start": 86.5,
+    "end": 89.4,
+    "text": "Good morning, your through to the tourist information office."
+  },
+  {
+    "id": 13,
+    "start": 90.0,
+    "end": 91.84,
+    "text": "Tim speaking, how can I help you?"
+  },
+  {
+    "id": 14,
+    "start": 92.36,
+    "end": 97.18,
+    "text": "Oh hello, could you give me some information about next month's festival please?"
+  },
+  {
+    "id": 15,
+    "start": 97.76,
+    "end": 100.28,
+    "text": "My family and I will be staying in the town that week."
+  },
+  {
+    "id": 16,
+    "start": 100.8,
+    "end": 101.38,
+    "text": "Of course."
+  },
+  {
+    "id": 17,
+    "start": 102.48,
+    "end": 106.54,
+    "text": "Well, it starts with a concert on the afternoon of the 17th."
+  },
+  {
+    "id": 18,
+    "start": 106.9,
+    "end": 108.26,
+    "text": "Oh, I heard about that."
+  },
+  {
+    "id": 19,
+    "start": 108.78,
+    "end": 111.84,
+    "text": "The orchestra and singers come from the USA, don't they?"
+  },
+  {
+    "id": 20,
+    "start": 112.2,
+    "end": 113.36,
+    "text": "They're from Canada."
+  },
+  {
+    "id": 21,
+    "start": 114.5,
+    "end": 116.2,
+    "text": "They're very popular over there."
+  },
+  {
+    "id": 22,
+    "start": 117.0,
+    "end": 122.38,
+    "text": "They're going to perform a number of well-known pieces that will appeal to children as well as adults."
+  },
+  {
+    "id": 23,
+    "start": 122.84,
+    "end": 123.68,
+    "text": "That sounds good."
+  },
+  {
+    "id": 24,
+    "start": 124.14,
+    "end": 126.16,
+    "text": "My whole family are interested in music."
+  },
+  {
+    "id": 25,
+    "start": 126.92,
+    "end": 133.46,
+    "text": "The next day, the 18th, there's a performance by a ballet company called Ustartis."
+  },
+  {
+    "id": 26,
+    "start": 133.94,
+    "end": 134.38,
+    "text": "Sorry?"
+  },
+  {
+    "id": 27,
+    "start": 135.0,
+    "end": 141.84,
+    "text": "The name is spelled EUS TATIS."
+  },
+  {
+    "id": 28,
+    "start": 142.74,
+    "end": 145.92,
+    "text": "They appeared in last year's festival and went down very well."
+  },
+  {
+    "id": 29,
+    "start": 146.58,
+    "end": 149.66,
+    "text": "Again, their program is designed for all ages."
+  },
+  {
+    "id": 30,
+    "start": 150.18,
+    "end": 150.46,
+    "text": "Good."
+  },
+  {
+    "id": 31,
+    "start": 151.0,
+    "end": 152.18,
+    "text": "I expect we'll go to that."
+  },
+  {
+    "id": 32,
+    "start": 153.2,
+    "end": 156.34,
+    "text": "I hope there's going to be a play during the festival."
+  },
+  {
+    "id": 33,
+    "start": 156.92,
+    "end": 158.18,
+    "text": "A comedy, ideally."
+  },
+  {
+    "id": 34,
+    "start": 158.42,
+    "end": 159.22,
+    "text": "You're in luck."
+  },
+  {
+    "id": 35,
+    "start": 159.9,
+    "end": 166.22,
+    "text": "On the 19th and 20th, a local amateur group are performing one written by a member of the group."
+  },
+  {
+    "id": 36,
+    "start": 166.92,
+    "end": 168.42,
+    "text": "It's called Jemima."
+  },
+  {
+    "id": 37,
+    "start": 169.0,
+    "end": 170.96,
+    "text": "That'll be on in the town hall."
+  },
+  {
+    "id": 38,
+    "start": 171.76,
+    "end": 173.76,
+    "text": "They've already performed it two or three times."
+  },
+  {
+    "id": 39,
+    "start": 174.12,
+    "end": 179.0,
+    "text": "I haven't seen it myself, but the review in the local paper was very good."
+  },
+  {
+    "id": 40,
+    "start": 179.58,
+    "end": 181.74,
+    "text": "And is it suitable for children?"
+  },
+  {
+    "id": 41,
+    "start": 182.2,
+    "end": 182.5,
+    "text": "Yes."
+  },
+  {
+    "id": 42,
+    "start": 183.1,
+    "end": 186.28,
+    "text": "In fact, it's aimed more at children than at adults."
+  },
+  {
+    "id": 43,
+    "start": 186.94,
+    "end": 189.38,
+    "text": "So both performances are in the afternoon."
+  },
+  {
+    "id": 44,
+    "start": 190.04,
+    "end": 191.92,
+    "text": "And what about dance?"
+  },
+  {
+    "id": 45,
+    "start": 192.48,
+    "end": 193.9,
+    "text": "Will there be any performances?"
+  },
+  {
+    "id": 46,
+    "start": 194.56,
+    "end": 197.36,
+    "text": "Yes, also on the 20th, but in the evening."
+  },
+  {
+    "id": 47,
+    "start": 198.14,
+    "end": 204.88,
+    "text": "A professional company is putting on a show of modern pieces with electronic music by young composers."
+  },
+  {
+    "id": 48,
+    "start": 205.4,
+    "end": 205.78,
+    "text": "Uh-huh."
+  },
+  {
+    "id": 49,
+    "start": 206.22,
+    "end": 211.24,
+    "text": "The show is about how people communicate or fail to communicate with each other."
+  },
+  {
+    "id": 50,
+    "start": 211.72,
+    "end": 214.82,
+    "text": "So it's got the rather strange name, chat."
+  },
+  {
+    "id": 51,
+    "start": 215.54,
+    "end": 220.8,
+    "text": "I suppose that's because that's something we do both face to face and online."
+  },
+  {
+    "id": 52,
+    "start": 221.08,
+    "end": 221.86,
+    "text": "That's right."
+  },
+  {
+    "id": 53,
+    "start": 222.9,
+    "end": 231.36,
+    "text": "Before you hear the rest of the conversation, you have some time to look at questions five to ten."
+  },
+  {
+    "id": 54,
+    "start": 252.9,
+    "end": 265.2,
+    "text": "Now listen and answer questions five to ten."
+  },
+  {
+    "id": 55,
+    "start": 268.68,
+    "end": 271.58,
+    "text": "Now there are also some workshops and other activities."
+  },
+  {
+    "id": 56,
+    "start": 272.24,
+    "end": 275.24,
+    "text": "They'll all take place at least once every day."
+  },
+  {
+    "id": 57,
+    "start": 275.74,
+    "end": 278.28,
+    "text": "So everyone who wants to take part will have a chance."
+  },
+  {
+    "id": 58,
+    "start": 278.74,
+    "end": 278.96,
+    "text": "Good."
+  },
+  {
+    "id": 59,
+    "start": 279.66,
+    "end": 282.34,
+    "text": "We're particularly interested in cookery."
+  },
+  {
+    "id": 60,
+    "start": 282.94,
+    "end": 285.94,
+    "text": "You don't happen to have a cookery workshop, do you?"
+  },
+  {
+    "id": 61,
+    "start": 286.08,
+    "end": 287.03,
+    "text": "We certainly do."
+  },
+  {
+    "id": 62,
+    "start": 287.03,
+    "end": 291.88,
+    "text": "It's going to focus on how to make food part of a healthy lifestyle."
+  },
+  {
+    "id": 63,
+    "start": 292.72,
+    "end": 299.88,
+    "text": "And it'll show that even sweet things like cakes can contain much less sugar than they usually do."
+  },
+  {
+    "id": 64,
+    "start": 300.28,
+    "end": 302.04,
+    "text": "Hmm, that might be worth going to."
+  },
+  {
+    "id": 65,
+    "start": 302.64,
+    "end": 305.26,
+    "text": "We're trying to encourage our children to cook."
+  },
+  {
+    "id": 66,
+    "start": 305.8,
+    "end": 308.1,
+    "text": "Another workshop is just the children."
+  },
+  {
+    "id": 67,
+    "start": 308.76,
+    "end": 313.08,
+    "text": "And that's on creating posters to reflect the history of the town."
+  },
+  {
+    "id": 68,
+    "start": 313.98,
+    "end": 321.3,
+    "text": "The aim is to make children aware of how both the town and people's lives have changed over the centuries."
+  },
+  {
+    "id": 69,
+    "start": 322.3,
+    "end": 324.9,
+    "text": "The results will be exhibited in the community centre."
+  },
+  {
+    "id": 70,
+    "start": 325.98,
+    "end": 329.12,
+    "text": "Then the other workshop is in toy making."
+  },
+  {
+    "id": 71,
+    "start": 329.74,
+    "end": 331.34,
+    "text": "And that's for adults only."
+  },
+  {
+    "id": 72,
+    "start": 331.86,
+    "end": 333.08,
+    "text": "Oh, my set."
+  },
+  {
+    "id": 73,
+    "start": 333.62,
+    "end": 335.22,
+    "text": "Because it involves carpentry."
+  },
+  {
+    "id": 74,
+    "start": 335.94,
+    "end": 339.06,
+    "text": "Participants will be making toys out of wood."
+  },
+  {
+    "id": 75,
+    "start": 339.86,
+    "end": 343.74,
+    "text": "So there'll be a lot of sharp chisels and other tools around."
+  },
+  {
+    "id": 76,
+    "start": 344.24,
+    "end": 346.88,
+    "text": "It makes sense to keep children away from it."
+  },
+  {
+    "id": 77,
+    "start": 346.96,
+    "end": 347.36,
+    "text": "Exactly."
+  },
+  {
+    "id": 78,
+    "start": 348.4,
+    "end": 352.12,
+    "text": "Now, let me tell you about some of the outdoor activities."
+  },
+  {
+    "id": 79,
+    "start": 352.92,
+    "end": 355.06,
+    "text": "They'll be supervised while swimming."
+  },
+  {
+    "id": 80,
+    "start": 355.56,
+    "end": 356.72,
+    "text": "Wild swimming?"
+  },
+  {
+    "id": 81,
+    "start": 357.3,
+    "end": 357.96,
+    "text": "What's that?"
+  },
+  {
+    "id": 82,
+    "start": 358.4,
+    "end": 363.12,
+    "text": "It just means swimming in natural waters, rather than a swimming pool."
+  },
+  {
+    "id": 83,
+    "start": 363.48,
+    "end": 364.2,
+    "text": "Oh, okay."
+  },
+  {
+    "id": 84,
+    "start": 364.82,
+    "end": 366.18,
+    "text": "In a lake, for instance."
+  },
+  {
+    "id": 85,
+    "start": 366.5,
+    "end": 369.88,
+    "text": "Yes, there's a beautiful one just outside the town."
+  },
+  {
+    "id": 86,
+    "start": 370.4,
+    "end": 372.18,
+    "text": "And that'll be the venue for the swimming."
+  },
+  {
+    "id": 87,
+    "start": 373.02,
+    "end": 376.9,
+    "text": "There'll be lifeguards on duty, so it's suitable for all ages."
+  },
+  {
+    "id": 88,
+    "start": 377.78,
+    "end": 382.4,
+    "text": "And finally, there'll be a walk in some nearby woods every day."
+  },
+  {
+    "id": 89,
+    "start": 383.2,
+    "end": 385.9,
+    "text": "The leader is an expert on insects."
+  },
+  {
+    "id": 90,
+    "start": 386.86,
+    "end": 391.02,
+    "text": "He'll show some that live in the woods and how important they are for the environment."
+  },
+  {
+    "id": 91,
+    "start": 391.94,
+    "end": 396.36,
+    "text": "So there are going to be all sorts of different things to do during the festival."
+  },
+  {
+    "id": 92,
+    "start": 396.88,
+    "end": 398.08,
+    "text": "They certainly are."
+  },
+  {
+    "id": 93,
+    "start": 398.7,
+    "end": 402.24,
+    "text": "If you'd like to read about how the preparations for the festival are going,"
+  },
+  {
+    "id": 94,
+    "start": 402.86,
+    "end": 404.92,
+    "text": "the festival organizer is keeping a blog."
+  },
+  {
+    "id": 95,
+    "start": 405.84,
+    "end": 410.24,
+    "text": "Just search online for the festival website and you'll find it."
+  },
+  {
+    "id": 96,
+    "start": 410.7,
+    "end": 413.58,
+    "text": "Well, thank you very much for all the information."
+  },
+  {
+    "id": 97,
+    "start": 414.02,
+    "end": 415.28,
+    "text": "You're welcome. Goodbye."
+  },
+  {
+    "id": 98,
+    "start": 415.8,
+    "end": 415.96,
+    "text": "Goodbye."
+  },
+  {
+    "id": 99,
+    "start": 419.48,
+    "end": 421.22,
+    "text": "That is the end of Part 1."
+  },
+  {
+    "id": 100,
+    "start": 422.82,
+    "end": 426.58,
+    "text": "You now have one minute to check your answers to Part 1."
+  },
+  {
+    "id": 101,
+    "start": 446.18,
+    "end": 447.0,
+    "text": "You"
+  },
+  {
+    "id": 102,
+    "start": 475.4,
+    "end": 476.18,
+    "text": "You"
+  }
+]

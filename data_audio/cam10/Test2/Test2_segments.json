@@ -1,0 +1,2414 @@
+[
+  {
+    "id": 0,
+    "start": 1.84,
+    "end": 2.7,
+    "text": "Test 2."
+  },
+  {
+    "id": 1,
+    "start": 4.56,
+    "end": 10.66,
+    "text": "You will hear a number of different recordings and you will have to answer questions on what"
+  },
+  {
+    "id": 2,
+    "start": 10.66,
+    "end": 11.28,
+    "text": "you hear."
+  },
+  {
+    "id": 3,
+    "start": 12.62,
+    "end": 19.46,
+    "text": "There will be time for you to read the instructions and questions and you will have a chance to check"
+  },
+  {
+    "id": 4,
+    "start": 19.48,
+    "end": 20.34,
+    "text": "your work."
+  },
+  {
+    "id": 5,
+    "start": 22.08,
+    "end": 25.14,
+    "text": "All the recordings will be played once only."
+  },
+  {
+    "id": 6,
+    "start": 27.64,
+    "end": 29.72,
+    "text": "The test is in four sections."
+  },
+  {
+    "id": 7,
+    "start": 31.22,
+    "end": 36.83,
+    "text": "At the end of the test, you will be given ten minutes to transfer your answers to an"
+  },
+  {
+    "id": 8,
+    "start": 36.83,
+    "end": 37.5,
+    "text": "answer sheet."
+  },
+  {
+    "id": 9,
+    "start": 39.44,
+    "end": 41.44,
+    "text": "Now turn to section 1."
+  },
+  {
+    "id": 10,
+    "start": 43.14,
+    "end": 44.2,
+    "text": "Section 1."
+  },
+  {
+    "id": 11,
+    "start": 45.7,
+    "end": 49.98,
+    "text": "You will hear a young man phoning a town's youth council."
+  },
+  {
+    "id": 12,
+    "start": 51.76,
+    "end": 56.52,
+    "text": "First, you have some time to look at questions 1 to 5."
+  },
+  {
+    "id": 13,
+    "start": 82.12,
+    "end": 85.84,
+    "text": "You will see that there is an example that has been done for you."
+  },
+  {
+    "id": 14,
+    "start": 87.18,
+    "end": 92.68,
+    "text": "On this occasion only, the conversation relating to this will be played first."
+  },
+  {
+    "id": 15,
+    "start": 92.9,
+    "end": 99.02,
+    "text": "Good morning, youth council, Caroline speaking."
+  },
+  {
+    "id": 16,
+    "start": 99.5,
+    "end": 104.79,
+    "text": "Oh hello, I'm interested in standing for election to the youth council and I was told"
+  },
+  {
+    "id": 17,
+    "start": 104.79,
+    "end": 105.74,
+    "text": "to give you a call."
+  },
+  {
+    "id": 18,
+    "start": 106.08,
+    "end": 106.66,
+    "text": "That's good."
+  },
+  {
+    "id": 19,
+    "start": 107.08,
+    "end": 108.72,
+    "text": "Could I have your name please?"
+  },
+  {
+    "id": 20,
+    "start": 109.22,
+    "end": 110.88,
+    "text": "Yes, it's Roger Brown."
+  },
+  {
+    "id": 21,
+    "start": 111.52,
+    "end": 112.12,
+    "text": "Thank you."
+  },
+  {
+    "id": 22,
+    "start": 115.88,
+    "end": 122.08,
+    "text": "The young man's name is Roger Brown, so Brown has been written in the space."
+  },
+  {
+    "id": 23,
+    "start": 124.54,
+    "end": 125.64,
+    "text": "Now we shall begin."
+  },
+  {
+    "id": 24,
+    "start": 127.12,
+    "end": 132.18,
+    "text": "You should answer the questions as you listen because you will not hear the recording"
+  },
+  {
+    "id": 25,
+    "start": 132.36,
+    "end": 133.46,
+    "text": "a second time."
+  },
+  {
+    "id": 26,
+    "start": 135.88,
+    "end": 140.16,
+    "text": "And carefully, answer questions 1 to 5."
+  },
+  {
+    "id": 27,
+    "start": 142.38,
+    "end": 146.46,
+    "text": "Good morning, youth council, Caroline speaking."
+  },
+  {
+    "id": 28,
+    "start": 147.0,
+    "end": 152.28,
+    "text": "Oh hello, I'm interested in standing for election to the youth council and I was told"
+  },
+  {
+    "id": 29,
+    "start": 152.28,
+    "end": 153.2,
+    "text": "to give you a call."
+  },
+  {
+    "id": 30,
+    "start": 153.56,
+    "end": 154.14,
+    "text": "That's good."
+  },
+  {
+    "id": 31,
+    "start": 154.56,
+    "end": 156.2,
+    "text": "Could I have your name please?"
+  },
+  {
+    "id": 32,
+    "start": 156.66,
+    "end": 158.38,
+    "text": "Yes, it's Roger Brown."
+  },
+  {
+    "id": 33,
+    "start": 158.94,
+    "end": 159.6,
+    "text": "Thank you."
+  },
+  {
+    "id": 34,
+    "start": 160.34,
+    "end": 162.92,
+    "text": "I'm Caroline, the youth council administrator."
+  },
+  {
+    "id": 35,
+    "start": 163.96,
+    "end": 166.84,
+    "text": "So do you know much about what the council does Roger?"
+  },
+  {
+    "id": 36,
+    "start": 167.36,
+    "end": 171.28,
+    "text": "I've talked to Stephanie, I think she's the chair of the council."
+  },
+  {
+    "id": 37,
+    "start": 171.76,
+    "end": 172.26,
+    "text": "That's right."
+  },
+  {
+    "id": 38,
+    "start": 172.26,
+    "end": 174.4,
+    "text": "And she told me a lot about it."
+  },
+  {
+    "id": 39,
+    "start": 174.84,
+    "end": 179.98,
+    "text": "How it's a way for young people to discuss local issues for example and make suggestions"
+  },
+  {
+    "id": 40,
+    "start": 180.04,
+    "end": 181.12,
+    "text": "to the town council."
+  },
+  {
+    "id": 41,
+    "start": 181.66,
+    "end": 182.84,
+    "text": "That's what made me interested."
+  },
+  {
+    "id": 42,
+    "start": 183.6,
+    "end": 186.78,
+    "text": "Fine, well let me take down some of your details."
+  },
+  {
+    "id": 43,
+    "start": 187.58,
+    "end": 189.8,
+    "text": "First of all, how old are you?"
+  },
+  {
+    "id": 44,
+    "start": 190.48,
+    "end": 194.22,
+    "text": "You know the council is for young people aged from 13 to 18."
+  },
+  {
+    "id": 45,
+    "start": 194.68,
+    "end": 195.96,
+    "text": "I've just turned 18."
+  },
+  {
+    "id": 46,
+    "start": 196.64,
+    "end": 198.04,
+    "text": "And where do you live Roger?"
+  },
+  {
+    "id": 47,
+    "start": 198.54,
+    "end": 200.9,
+    "text": "Well that's a bit complicated."
+  },
+  {
+    "id": 48,
+    "start": 201.5,
+    "end": 204.28,
+    "text": "At the moment I'm looking for a flat to rent here."
+  },
+  {
+    "id": 49,
+    "start": 204.72,
+    "end": 207.58,
+    "text": "So I'm in a hostel from Monday to Friday."
+  },
+  {
+    "id": 50,
+    "start": 208.3,
+    "end": 210.36,
+    "text": "I go back to my parents place at the weekend."
+  },
+  {
+    "id": 51,
+    "start": 211.02,
+    "end": 215.8,
+    "text": "Okay, so where's the best place to send you some information about the council?"
+  },
+  {
+    "id": 52,
+    "start": 216.26,
+    "end": 218.0,
+    "text": "Oh to my parents address please."
+  },
+  {
+    "id": 53,
+    "start": 219.74,
+    "end": 219.76,
+    "text": "17."
+  },
+  {
+    "id": 54,
+    "start": 220.54,
+    "end": 221.54,
+    "text": "Buckley Street."
+  },
+  {
+    "id": 55,
+    "start": 222.76,
+    "end": 227.48,
+    "text": "B-U-C-K-L-E-I-G-H."
+  },
+  {
+    "id": 56,
+    "start": 228.14,
+    "end": 228.56,
+    "text": "Street."
+  },
+  {
+    "id": 57,
+    "start": 229.4,
+    "end": 230.1,
+    "text": "Stamford."
+  },
+  {
+    "id": 58,
+    "start": 230.64,
+    "end": 231.3,
+    "text": "Lincolnshire."
+  },
+  {
+    "id": 59,
+    "start": 232.26,
+    "end": 233.9,
+    "text": "Though you don't really need the county."
+  },
+  {
+    "id": 60,
+    "start": 234.56,
+    "end": 236.02,
+    "text": "Oh I know Stamford."
+  },
+  {
+    "id": 61,
+    "start": 236.38,
+    "end": 237.6,
+    "text": "It's a lovely town."
+  },
+  {
+    "id": 62,
+    "start": 238.22,
+    "end": 239.44,
+    "text": "And what's the postcode?"
+  },
+  {
+    "id": 63,
+    "start": 239.96,
+    "end": 241.22,
+    "text": "P-E-9."
+  },
+  {
+    "id": 64,
+    "start": 241.82,
+    "end": 243.86,
+    "text": "7-Q-T."
+  },
+  {
+    "id": 65,
+    "start": 244.4,
+    "end": 245.96,
+    "text": "Right, thank you."
+  },
+  {
+    "id": 66,
+    "start": 246.72,
+    "end": 249.5,
+    "text": "So are you working here or are you a student?"
+  },
+  {
+    "id": 67,
+    "start": 250.08,
+    "end": 255.18,
+    "text": "I started studying at the university a couple of weeks ago and I've got a part-time job"
+  },
+  {
+    "id": 68,
+    "start": 255.18,
+    "end": 256.46,
+    "text": "for a few hours a week."
+  },
+  {
+    "id": 69,
+    "start": 256.8,
+    "end": 257.46,
+    "text": "What do you do?"
+  },
+  {
+    "id": 70,
+    "start": 258.0,
+    "end": 259.78,
+    "text": "Well I've done several different things."
+  },
+  {
+    "id": 71,
+    "start": 260.3,
+    "end": 265.4,
+    "text": "I've just finished a short term contract as a courier and now I'm working as a waiter"
+  },
+  {
+    "id": 72,
+    "start": 265.64,
+    "end": 266.86,
+    "text": "in one of the big hotels."
+  },
+  {
+    "id": 73,
+    "start": 267.34,
+    "end": 267.72,
+    "text": "Uh huh."
+  },
+  {
+    "id": 74,
+    "start": 268.42,
+    "end": 270.08,
+    "text": "That can't leave you much time for studying."
+  },
+  {
+    "id": 75,
+    "start": 270.4,
+    "end": 271.64,
+    "text": "Oh it's not too bad."
+  },
+  {
+    "id": 76,
+    "start": 272.06,
+    "end": 273.26,
+    "text": "I managed to fit it all in."
+  },
+  {
+    "id": 77,
+    "start": 273.68,
+    "end": 274.8,
+    "text": "What are you studying?"
+  },
+  {
+    "id": 78,
+    "start": 275.48,
+    "end": 280.38,
+    "text": "My ambition is to go into Parliament eventually so my major subject is politics."
+  },
+  {
+    "id": 79,
+    "start": 281.28,
+    "end": 285.94,
+    "text": "That's partly why I think the Youth Council is important and want to be a part of it."
+  },
+  {
+    "id": 80,
+    "start": 286.46,
+    "end": 289.86,
+    "text": "And I suppose you're also taking a minor subject aren't you?"
+  },
+  {
+    "id": 81,
+    "start": 290.24,
+    "end": 292.92,
+    "text": "I know a lot of people study economics too."
+  },
+  {
+    "id": 82,
+    "start": 293.36,
+    "end": 294.52,
+    "text": "I chose history."
+  },
+  {
+    "id": 83,
+    "start": 294.7,
+    "end": 298.24,
+    "text": "To be honest I'm not finding it as interesting as I expected."
+  },
+  {
+    "id": 84,
+    "start": 302.12,
+    "end": 308.46,
+    "text": "Or you hear the rest of the phone call you have some time to look at questions 6 to 10."
+  },
+  {
+    "id": 85,
+    "start": 334.08,
+    "end": 338.44,
+    "text": "Now listen and answer questions 6 to 10."
+  },
+  {
+    "id": 86,
+    "start": 342.1,
+    "end": 348.16,
+    "text": "Okay so with your studying and your part-time job do you have time for any other interests"
+  },
+  {
+    "id": 87,
+    "start": 348.3,
+    "end": 348.82,
+    "text": "or hobbies?"
+  },
+  {
+    "id": 88,
+    "start": 349.46,
+    "end": 355.16,
+    "text": "Well I spent quite a lot of time cycling both around town to get to university and to"
+  },
+  {
+    "id": 89,
+    "start": 355.16,
+    "end": 359.06,
+    "text": "work and also long distance from here to London for instance."
+  },
+  {
+    "id": 90,
+    "start": 359.6,
+    "end": 361.08,
+    "text": "That's pretty impressive."
+  },
+  {
+    "id": 91,
+    "start": 361.46,
+    "end": 362.38,
+    "text": "Anything else?"
+  },
+  {
+    "id": 92,
+    "start": 362.8,
+    "end": 365.76,
+    "text": "For relaxation I'm also keen on the cinema."
+  },
+  {
+    "id": 93,
+    "start": 366.48,
+    "end": 370.56,
+    "text": "I used to go at least once a week but I can't manage to go so often now."
+  },
+  {
+    "id": 94,
+    "start": 371.08,
+    "end": 375.0,
+    "text": "Right are you sure you'll have enough time for the Youth Council?"
+  },
+  {
+    "id": 95,
+    "start": 375.42,
+    "end": 379.93,
+    "text": "Yes I've worked out that I can afford to reduce my hours at work and that will make the"
+  },
+  {
+    "id": 96,
+    "start": 379.93,
+    "end": 380.28,
+    "text": "time."
+  },
+  {
+    "id": 97,
+    "start": 380.7,
+    "end": 385.38,
+    "text": "So is there any particular aspect of the Youth Council's work that appeals to you Roger?"
+  },
+  {
+    "id": 98,
+    "start": 386.2,
+    "end": 392.74,
+    "text": "Well my sister is blind so I'm particularly interested in working with disabled young"
+  },
+  {
+    "id": 99,
+    "start": 392.78,
+    "end": 396.04,
+    "text": "people to try and improve the quality of their lives."
+  },
+  {
+    "id": 100,
+    "start": 396.58,
+    "end": 397.26,
+    "text": "That's great."
+  },
+  {
+    "id": 101,
+    "start": 397.82,
+    "end": 402.5,
+    "text": "Well the best way to get involved is to be nominated by some people who you know."
+  },
+  {
+    "id": 102,
+    "start": 402.82,
+    "end": 403.16,
+    "text": "Right."
+  },
+  {
+    "id": 103,
+    "start": 403.84,
+    "end": 406.16,
+    "text": "Can you tell me how to set about organising that?"
+  },
+  {
+    "id": 104,
+    "start": 406.7,
+    "end": 409.82,
+    "text": "You should talk to Geoffrey, our elections officer."
+  },
+  {
+    "id": 105,
+    "start": 410.36,
+    "end": 413.72,
+    "text": "I can arrange a meeting in the Council office with him if you like."
+  },
+  {
+    "id": 106,
+    "start": 414.1,
+    "end": 414.72,
+    "text": "Yes please."
+  },
+  {
+    "id": 107,
+    "start": 415.36,
+    "end": 418.62,
+    "text": "He'll be here next Monday if that suits you."
+  },
+  {
+    "id": 108,
+    "start": 419.04,
+    "end": 420.98,
+    "text": "That's the 14th isn't it?"
+  },
+  {
+    "id": 109,
+    "start": 421.26,
+    "end": 421.48,
+    "text": "Yes."
+  },
+  {
+    "id": 110,
+    "start": 422.24,
+    "end": 423.62,
+    "text": "I can manage late afternoon."
+  },
+  {
+    "id": 111,
+    "start": 424.38,
+    "end": 426.04,
+    "text": "Would you like to suggest a time?"
+  },
+  {
+    "id": 112,
+    "start": 426.5,
+    "end": 428.88,
+    "text": "He generally leaves around 5.30."
+  },
+  {
+    "id": 113,
+    "start": 429.56,
+    "end": 431.84,
+    "text": "Well would 4.30 be okay?"
+  },
+  {
+    "id": 114,
+    "start": 432.84,
+    "end": 436.82,
+    "text": "My last class finishes at 4 so I'd have plenty of time to get to your office."
+  },
+  {
+    "id": 115,
+    "start": 437.38,
+    "end": 438.72,
+    "text": "Right that's fine."
+  },
+  {
+    "id": 116,
+    "start": 439.34,
+    "end": 442.86,
+    "text": "Oh and could I have a phone number we can contact you on?"
+  },
+  {
+    "id": 117,
+    "start": 443.28,
+    "end": 443.48,
+    "text": "Yes."
+  },
+  {
+    "id": 118,
+    "start": 443.88,
+    "end": 451.3,
+    "text": "My mobile numbers O-7788136711."
+  },
+  {
+    "id": 119,
+    "start": 451.9,
+    "end": 452.62,
+    "text": "Thank you."
+  },
+  {
+    "id": 120,
+    "start": 453.14,
+    "end": 455.38,
+    "text": "Well we'll look forward to seeing you next week."
+  },
+  {
+    "id": 121,
+    "start": 456.1,
+    "end": 456.86,
+    "text": "Thanks very much."
+  },
+  {
+    "id": 122,
+    "start": 457.32,
+    "end": 457.66,
+    "text": "Goodbye."
+  },
+  {
+    "id": 123,
+    "start": 458.3,
+    "end": 458.5,
+    "text": "Bye."
+  },
+  {
+    "id": 124,
+    "start": 499.5,
+    "end": 501.3,
+    "text": "Now turn to section 2."
+  },
+  {
+    "id": 125,
+    "start": 506.4,
+    "end": 514.82,
+    "text": "You will hear a woman who works in a theatre talking to two new staff members on their first"
+  },
+  {
+    "id": 126,
+    "start": 514.9,
+    "end": 515.74,
+    "text": "day of work."
+  },
+  {
+    "id": 127,
+    "start": 517.82,
+    "end": 523.06,
+    "text": "First you have some time to look at questions 11 to 16."
+  },
+  {
+    "id": 128,
+    "start": 533.28,
+    "end": 559.26,
+    "text": "Now listen carefully and answer questions 11 to 16."
+  },
+  {
+    "id": 129,
+    "start": 563.24,
+    "end": 563.46,
+    "text": "Hi."
+  },
+  {
+    "id": 130,
+    "start": 563.84,
+    "end": 564.8,
+    "text": "Great to see you."
+  },
+  {
+    "id": 131,
+    "start": 565.46,
+    "end": 570.78,
+    "text": "I'm Jodi and I'll be looking after both of you for the first month you're working here"
+  },
+  {
+    "id": 132,
+    "start": 570.88,
+    "end": 571.9,
+    "text": "at the Amisham Theatre."
+  },
+  {
+    "id": 133,
+    "start": 573.34,
+    "end": 578.28,
+    "text": "I'll tell you something about the theatre now then take you to meet two of the other staff."
+  },
+  {
+    "id": 134,
+    "start": 579.94,
+    "end": 583.82,
+    "text": "It's an old building and it's been modernised several times."
+  },
+  {
+    "id": 135,
+    "start": 584.48,
+    "end": 589.82,
+    "text": "In fact as you can see we're carrying out a major refurbishment at the moment."
+  },
+  {
+    "id": 136,
+    "start": 591.0,
+    "end": 596.66,
+    "text": "The interior has just been repainted and we're about to start on the exterior of the building."
+  },
+  {
+    "id": 137,
+    "start": 597.28,
+    "end": 598.6,
+    "text": "That'll be a big job."
+  },
+  {
+    "id": 138,
+    "start": 599.38,
+    "end": 604.46,
+    "text": "The work's running over budget so we've had to postpone installing an elevator."
+  },
+  {
+    "id": 139,
+    "start": 605.36,
+    "end": 607.64,
+    "text": "I hope you're happy running up and downstairs."
+  },
+  {
+    "id": 140,
+    "start": 608.96,
+    "end": 615.01,
+    "text": "When the theatre was built people were generally slimmer and shorter than now and the seats"
+  },
+  {
+    "id": 141,
+    "start": 615.01,
+    "end": 616.46,
+    "text": "were very close together."
+  },
+  {
+    "id": 142,
+    "start": 617.68,
+    "end": 620.9,
+    "text": "We've replaced them with larger seats with more legroom."
+  },
+  {
+    "id": 143,
+    "start": 622.02,
+    "end": 627.96,
+    "text": "This means fewer seats in total but we've taken the opportunity to install seats that"
+  },
+  {
+    "id": 144,
+    "start": 627.96,
+    "end": 631.36,
+    "text": "can easily be moved to create different acting spaces."
+  },
+  {
+    "id": 145,
+    "start": 632.6,
+    "end": 637.74,
+    "text": "We've also turned a few store rooms over to other purposes like using them for meetings."
+  },
+  {
+    "id": 146,
+    "start": 639.8,
+    "end": 643.2,
+    "text": "We try hard to involve members of the public in the theatre."
+  },
+  {
+    "id": 147,
+    "start": 644.4,
+    "end": 650.52,
+    "text": "One way is by organising backstage tours so people can be shown round the building and"
+  },
+  {
+    "id": 148,
+    "start": 650.52,
+    "end": 652.0,
+    "text": "learn how a theatre operates."
+  },
+  {
+    "id": 149,
+    "start": 652.94,
+    "end": 654.68,
+    "text": "These are proving very popular."
+  },
+  {
+    "id": 150,
+    "start": 656.18,
+    "end": 660.98,
+    "text": "What we're finding is that people want to have lunch or a cup of coffee while they're"
+  },
+  {
+    "id": 151,
+    "start": 660.98,
+    "end": 661.34,
+    "text": "here."
+  },
+  {
+    "id": 152,
+    "start": 662.1,
+    "end": 666.22,
+    "text": "So we're looking into the possibility of opening a cafe in due course."
+  },
+  {
+    "id": 153,
+    "start": 667.6,
+    "end": 673.32,
+    "text": "We have a bookshop which specialises in books about drama and that attracts plenty of"
+  },
+  {
+    "id": 154,
+    "start": 673.52,
+    "end": 673.9,
+    "text": "customers."
+  },
+  {
+    "id": 155,
+    "start": 675.34,
+    "end": 680.52,
+    "text": "Then there are two large rooms that will be decorated next month and they'll be available"
+  },
+  {
+    "id": 156,
+    "start": 680.62,
+    "end": 684.78,
+    "text": "for hire for conferences and private functions such as parties."
+  },
+  {
+    "id": 157,
+    "start": 686.12,
+    "end": 689.66,
+    "text": "We're also considering hiring out costumes to amateur drama clubs."
+  },
+  {
+    "id": 158,
+    "start": 692.14,
+    "end": 694.4,
+    "text": "Now I want to tell you about our workshops."
+  },
+  {
+    "id": 159,
+    "start": 695.54,
+    "end": 699.78,
+    "text": "We recently started a programme of workshops that anyone can join."
+  },
+  {
+    "id": 160,
+    "start": 701.02,
+    "end": 706.72,
+    "text": "Eventually we intend to run courses in acting but we're waiting until we've got the right"
+  },
+  {
+    "id": 161,
+    "start": 706.74,
+    "end": 708.16,
+    "text": "people in place as trainers."
+  },
+  {
+    "id": 162,
+    "start": 709.66,
+    "end": 712.12,
+    "text": "That's proving more difficult than we'd expected."
+  },
+  {
+    "id": 163,
+    "start": 713.66,
+    "end": 718.82,
+    "text": "There's a big demand to learn about the technical side of putting on a production and our"
+  },
+  {
+    "id": 164,
+    "start": 718.82,
+    "end": 722.28,
+    "text": "lighting workshop has already started with great success."
+  },
+  {
+    "id": 165,
+    "start": 723.26,
+    "end": 726.16,
+    "text": "We're going to start one on sound next month."
+  },
+  {
+    "id": 166,
+    "start": 727.44,
+    "end": 732.46,
+    "text": "A number of people have inquired about workshops on makeup and that's something we're considering"
+  },
+  {
+    "id": 167,
+    "start": 732.52,
+    "end": 733.26,
+    "text": "for the future."
+  },
+  {
+    "id": 168,
+    "start": 734.26,
+    "end": 738.38,
+    "text": "A surprise success is the workshop on making puppets."
+  },
+  {
+    "id": 169,
+    "start": 738.5,
+    "end": 743.94,
+    "text": "We happen to have someone working here who does it as a hobby and she offered to run a"
+  },
+  {
+    "id": 170,
+    "start": 743.94,
+    "end": 744.4,
+    "text": "workshop."
+  },
+  {
+    "id": 171,
+    "start": 745.2,
+    "end": 748.4,
+    "text": "It was so popular we're now running them every month."
+  },
+  {
+    "id": 172,
+    "start": 752.48,
+    "end": 759.06,
+    "text": "Before you hear the rest of the talk you have some time to look at questions 17 to 20."
+  },
+  {
+    "id": 173,
+    "start": 779.84,
+    "end": 784.0,
+    "text": "Now listen and answer questions 17 to 20."
+  },
+  {
+    "id": 174,
+    "start": 787.7,
+    "end": 790.32,
+    "text": "Now a word about the layout of the building."
+  },
+  {
+    "id": 175,
+    "start": 791.52,
+    "end": 796.88,
+    "text": "The auditorium, stage and dressing rooms for the actors are all below ground level."
+  },
+  {
+    "id": 176,
+    "start": 797.9,
+    "end": 802.36,
+    "text": "Here on the ground floor we have most of the rooms that the public doesn't see."
+  },
+  {
+    "id": 177,
+    "start": 802.94,
+    "end": 808.14,
+    "text": "The majority are internal so they have windows in the roof to light them."
+  },
+  {
+    "id": 178,
+    "start": 810.08,
+    "end": 815.46,
+    "text": "Standing here in the foyer you're probably wondering why the box office isn't here where"
+  },
+  {
+    "id": 179,
+    "start": 815.46,
+    "end": 817.42,
+    "text": "the public would expect to find it."
+  },
+  {
+    "id": 180,
+    "start": 818.56,
+    "end": 821.34,
+    "text": "Well you might have noticed it on your way in."
+  },
+  {
+    "id": 181,
+    "start": 821.98,
+    "end": 826.8,
+    "text": "Although it's part of this building it's next door with a separate entrance from the"
+  },
+  {
+    "id": 182,
+    "start": 826.8,
+    "end": 827.16,
+    "text": "road."
+  },
+  {
+    "id": 183,
+    "start": 828.6,
+    "end": 834.28,
+    "text": "For the theatre manager's office you go across the foyer and through the double doors."
+  },
+  {
+    "id": 184,
+    "start": 835.32,
+    "end": 840.4,
+    "text": "Turn right and it's the room at the end of the corridor with the door on the left."
+  },
+  {
+    "id": 185,
+    "start": 842.5,
+    "end": 848.15,
+    "text": "The lighting box is where the computerised stage lighting is operated and it's at the"
+  },
+  {
+    "id": 186,
+    "start": 848.15,
+    "end": 849.18,
+    "text": "back of the building."
+  },
+  {
+    "id": 187,
+    "start": 850.5,
+    "end": 857.35,
+    "text": "When you're through the double doors turn left, turn right at the water cooler and right"
+  },
+  {
+    "id": 188,
+    "start": 857.35,
+    "end": 858.64,
+    "text": "again at the end."
+  },
+  {
+    "id": 189,
+    "start": 859.78,
+    "end": 861.94,
+    "text": "It's the second room along that corridor."
+  },
+  {
+    "id": 190,
+    "start": 863.52,
+    "end": 868.42,
+    "text": "The lighting box has a window into the auditorium which of course is below us."
+  },
+  {
+    "id": 191,
+    "start": 869.66,
+    "end": 876.66,
+    "text": "The artistic directors office is through the double doors, turn right and it's the first"
+  },
+  {
+    "id": 192,
+    "start": 876.66,
+    "end": 879.32,
+    "text": "room you come to on the right hand side."
+  },
+  {
+    "id": 193,
+    "start": 880.78,
+    "end": 886.4,
+    "text": "And finally for the moment the room where I'll take you next, the relaxation room."
+  },
+  {
+    "id": 194,
+    "start": 887.6,
+    "end": 889.34,
+    "text": "So if you'd like to come with me?"
+  },
+  {
+    "id": 195,
+    "start": 893.32,
+    "end": 895.3,
+    "text": "That is the end of section 2."
+  },
+  {
+    "id": 196,
+    "start": 896.46,
+    "end": 899.52,
+    "text": "You now have half a minute to check your answers."
+  },
+  {
+    "id": 197,
+    "start": 917.6,
+    "end": 932.4,
+    "text": "Now turn to section 3."
+  },
+  {
+    "id": 198,
+    "start": 936.74,
+    "end": 937.78,
+    "text": "Section 3."
+  },
+  {
+    "id": 199,
+    "start": 939.62,
+    "end": 945.94,
+    "text": "You will hear two biology students called Helen and Colin talking about the report they're"
+  },
+  {
+    "id": 200,
+    "start": 946.04,
+    "end": 951.44,
+    "text": "writing on their recent field trip to a seaside area called Rocky Bay."
+  },
+  {
+    "id": 201,
+    "start": 953.26,
+    "end": 958.68,
+    "text": "First, you have some time to look at questions 21 to 26."
+  },
+  {
+    "id": 202,
+    "start": 976.04,
+    "end": 995.26,
+    "text": "Now listen carefully and answer questions 21 to 26."
+  },
+  {
+    "id": 203,
+    "start": 999.0,
+    "end": 1004.54,
+    "text": "I've brought my notes on our biology field trip to Rocky Bay, Colin, so we can work on"
+  },
+  {
+    "id": 204,
+    "start": 1004.56,
+    "end": 1006.7,
+    "text": "our report on the research we did together."
+  },
+  {
+    "id": 205,
+    "start": 1007.08,
+    "end": 1008.82,
+    "text": "OK, I've got mine too."
+  },
+  {
+    "id": 206,
+    "start": 1009.0,
+    "end": 1011.1,
+    "text": "Let's look at the aims of the trip first."
+  },
+  {
+    "id": 207,
+    "start": 1011.58,
+    "end": 1013.22,
+    "text": "Right, what did you have?"
+  },
+  {
+    "id": 208,
+    "start": 1013.82,
+    "end": 1018.58,
+    "text": "I just put something about getting experience of the different sorts of procedures used"
+  },
+  {
+    "id": 209,
+    "start": 1018.66,
+    "end": 1019.5,
+    "text": "on a field trip."
+  },
+  {
+    "id": 210,
+    "start": 1020.14,
+    "end": 1025.24,
+    "text": "But we need something about what causes different organisms to choose particular habitats."
+  },
+  {
+    "id": 211,
+    "start": 1025.7,
+    "end": 1026.32,
+    "text": "I agree."
+  },
+  {
+    "id": 212,
+    "start": 1027.0,
+    "end": 1031.8,
+    "text": "And something about finding out how to protect organisms in danger of dying out."
+  },
+  {
+    "id": 213,
+    "start": 1032.44,
+    "end": 1035.4,
+    "text": "Now, we're looking at that."
+  },
+  {
+    "id": 214,
+    "start": 1035.94,
+    "end": 1036.82,
+    "text": "I suppose not."
+  },
+  {
+    "id": 215,
+    "start": 1037.66,
+    "end": 1042.16,
+    "text": "OK, now there's the list of equipment we all had to bring on the field trip."
+  },
+  {
+    "id": 216,
+    "start": 1042.92,
+    "end": 1045.04,
+    "text": "What did they tell us to bring a ruler for?"
+  },
+  {
+    "id": 217,
+    "start": 1045.44,
+    "end": 1048.04,
+    "text": "It was something about measuring the slope of the shore."
+  },
+  {
+    "id": 218,
+    "start": 1048.88,
+    "end": 1053.46,
+    "text": "But of course, we didn't need it because we were measuring wind direction and we'd brought"
+  },
+  {
+    "id": 219,
+    "start": 1053.46,
+    "end": 1054.34,
+    "text": "the compass for that."
+  },
+  {
+    "id": 220,
+    "start": 1054.68,
+    "end": 1057.4,
+    "text": "But not the piece of strings to hold up in the air."
+  },
+  {
+    "id": 221,
+    "start": 1058.5,
+    "end": 1061.8,
+    "text": "Didn't Mr Blake make a fuss about us leaving that behind?"
+  },
+  {
+    "id": 222,
+    "start": 1062.06,
+    "end": 1063.76,
+    "text": "Yeah, he does go on."
+  },
+  {
+    "id": 223,
+    "start": 1064.46,
+    "end": 1067.14,
+    "text": "Anyway, it was easy to get one from another of the students."
+  },
+  {
+    "id": 224,
+    "start": 1068.0,
+    "end": 1070.52,
+    "text": "Now, the next section's the procedure."
+  },
+  {
+    "id": 225,
+    "start": 1071.14,
+    "end": 1072.72,
+    "text": "I sent you the draft of that."
+  },
+  {
+    "id": 226,
+    "start": 1073.18,
+    "end": 1079.69,
+    "text": "Yeah, it was clear, but I don't think we need all these details of what time you left"
+  },
+  {
+    "id": 227,
+    "start": 1079.69,
+    "end": 1084.56,
+    "text": "and what time we got back and how we divided up the different research tasks."
+  },
+  {
+    "id": 228,
+    "start": 1084.76,
+    "end": 1087.26,
+    "text": "OK, I'll look at that again."
+  },
+  {
+    "id": 229,
+    "start": 1088.3,
+    "end": 1092.08,
+    "text": "Then we have to describe our method of investigation in detail."
+  },
+  {
+    "id": 230,
+    "start": 1093.18,
+    "end": 1095.96,
+    "text": "So let's begin with how we measured wave speed."
+  },
+  {
+    "id": 231,
+    "start": 1096.62,
+    "end": 1098.84,
+    "text": "I was surprised how straightforward that was."
+  },
+  {
+    "id": 232,
+    "start": 1099.34,
+    "end": 1102.6,
+    "text": "I'd expected us to have some sort of high-tech device,"
+  },
+  {
+    "id": 233,
+    "start": 1103.1,
+    "end": 1106.22,
+    "text": "not just stand there and count the number of waves per minute."
+  },
+  {
+    "id": 234,
+    "start": 1106.88,
+    "end": 1109.82,
+    "text": "Not very precise, but I suppose it was good enough."
+  },
+  {
+    "id": 235,
+    "start": 1110.58,
+    "end": 1113.48,
+    "text": "But the way we measured the amount of salt was interesting."
+  },
+  {
+    "id": 236,
+    "start": 1113.9,
+    "end": 1115.42,
+    "text": "In the water from the rock pools?"
+  },
+  {
+    "id": 237,
+    "start": 1115.68,
+    "end": 1116.04,
+    "text": "Yeah."
+  },
+  {
+    "id": 238,
+    "start": 1116.68,
+    "end": 1120.92,
+    "text": "Oh, I wanted to check the chemicals we used in the lab when we analysed those samples."
+  },
+  {
+    "id": 239,
+    "start": 1121.44,
+    "end": 1124.6,
+    "text": "Was it potassium chromate and silver nitrate?"
+  },
+  {
+    "id": 240,
+    "start": 1124.94,
+    "end": 1125.34,
+    "text": "That's right."
+  },
+  {
+    "id": 241,
+    "start": 1125.72,
+    "end": 1126.18,
+    "text": "OK."
+  },
+  {
+    "id": 242,
+    "start": 1126.92,
+    "end": 1129.02,
+    "text": "And we need the map of the seashore."
+  },
+  {
+    "id": 243,
+    "start": 1129.4,
+    "end": 1130.72,
+    "text": "You just left that to me."
+  },
+  {
+    "id": 244,
+    "start": 1131.62,
+    "end": 1134.3,
+    "text": "And I had to do it while the tide was low."
+  },
+  {
+    "id": 245,
+    "start": 1134.86,
+    "end": 1139.54,
+    "text": "Well, that was OK, but the place I started it from was down on the beach."
+  },
+  {
+    "id": 246,
+    "start": 1139.96,
+    "end": 1142.86,
+    "text": "Then I realised I should have gone up higher to get better visibility."
+  },
+  {
+    "id": 247,
+    "start": 1143.46,
+    "end": 1145.2,
+    "text": "So I had to start all over again."
+  },
+  {
+    "id": 248,
+    "start": 1145.7,
+    "end": 1147.96,
+    "text": "But at least I got the square paper,"
+  },
+  {
+    "id": 249,
+    "start": 1148.3,
+    "end": 1150.64,
+    "text": "or I'd have had problems drawing it all to scale."
+  },
+  {
+    "id": 250,
+    "start": 1150.96,
+    "end": 1152.48,
+    "text": "Yeah, it looks good."
+  },
+  {
+    "id": 251,
+    "start": 1153.4,
+    "end": 1155.58,
+    "text": "We could get a map of the region off the internet"
+  },
+  {
+    "id": 252,
+    "start": 1155.92,
+    "end": 1157.48,
+    "text": "and see if we need to make any changes."
+  },
+  {
+    "id": 253,
+    "start": 1157.88,
+    "end": 1160.94,
+    "text": "Hmm, I had a look, but I couldn't find anything."
+  },
+  {
+    "id": 254,
+    "start": 1161.58,
+    "end": 1163.32,
+    "text": "But you took some pictures, didn't you?"
+  },
+  {
+    "id": 255,
+    "start": 1163.92,
+    "end": 1166.02,
+    "text": "Yeah, I'll email you them if you want."
+  },
+  {
+    "id": 256,
+    "start": 1166.44,
+    "end": 1166.82,
+    "text": "OK."
+  },
+  {
+    "id": 257,
+    "start": 1167.48,
+    "end": 1169.4,
+    "text": "I'll make my amendments using those."
+  },
+  {
+    "id": 258,
+    "start": 1169.94,
+    "end": 1171.94,
+    "text": "Then I can scan it into our report."
+  },
+  {
+    "id": 259,
+    "start": 1172.44,
+    "end": 1172.68,
+    "text": "Great."
+  },
+  {
+    "id": 260,
+    "start": 1176.38,
+    "end": 1178.46,
+    "text": "Before you hear the rest of the discussion,"
+  },
+  {
+    "id": 261,
+    "start": 1179.28,
+    "end": 1183.24,
+    "text": "you have some time to look at questions 27 to 30."
+  },
+  {
+    "id": 262,
+    "start": 1183.48,
+    "end": 1208.4,
+    "text": "Now listen and answer questions 27 to 30."
+  },
+  {
+    "id": 263,
+    "start": 1212.22,
+    "end": 1214.22,
+    "text": "Now, when we get to our findings,"
+  },
+  {
+    "id": 264,
+    "start": 1214.8,
+    "end": 1217.34,
+    "text": "I thought we could divide them up into the different zones"
+  },
+  {
+    "id": 265,
+    "start": 1217.58,
+    "end": 1222.34,
+    "text": "we identified on the shore and the problems organisms face in each zone."
+  },
+  {
+    "id": 266,
+    "start": 1222.94,
+    "end": 1224.76,
+    "text": "So for the highest area..."
+  },
+  {
+    "id": 267,
+    "start": 1224.84,
+    "end": 1225.56,
+    "text": "Displash zone."
+  },
+  {
+    "id": 268,
+    "start": 1226.0,
+    "end": 1229.18,
+    "text": "Yeah, we found mostly those tiny shellfish"
+  },
+  {
+    "id": 269,
+    "start": 1229.34,
+    "end": 1231.84,
+    "text": "that have strong, hard shells that act as protection."
+  },
+  {
+    "id": 270,
+    "start": 1232.42,
+    "end": 1235.36,
+    "text": "But not from other organisms that might eat them, predators."
+  },
+  {
+    "id": 271,
+    "start": 1235.94,
+    "end": 1238.12,
+    "text": "No, that's not the main danger for them."
+  },
+  {
+    "id": 272,
+    "start": 1238.52,
+    "end": 1241.12,
+    "text": "But the shells prevent them from drying out"
+  },
+  {
+    "id": 273,
+    "start": 1241.4,
+    "end": 1243.44,
+    "text": "because they're in the open air for most of the time."
+  },
+  {
+    "id": 274,
+    "start": 1243.58,
+    "end": 1243.74,
+    "text": "Right."
+  },
+  {
+    "id": 275,
+    "start": 1244.62,
+    "end": 1248.44,
+    "text": "And since they're exposed, they need to be able to find some sort of shelter"
+  },
+  {
+    "id": 276,
+    "start": 1248.5,
+    "end": 1251.1,
+    "text": "or cover themselves up so they don't get too hot."
+  },
+  {
+    "id": 277,
+    "start": 1251.22,
+    "end": 1251.42,
+    "text": "Hmm."
+  },
+  {
+    "id": 278,
+    "start": 1252.2,
+    "end": 1255.12,
+    "text": "Then in the middle and lower zones near the sea,"
+  },
+  {
+    "id": 279,
+    "start": 1255.84,
+    "end": 1258.08,
+    "text": "we need to discuss the effects of wave action."
+  },
+  {
+    "id": 280,
+    "start": 1258.4,
+    "end": 1261.12,
+    "text": "Yes, and how organisms develop structures"
+  },
+  {
+    "id": 281,
+    "start": 1261.28,
+    "end": 1263.32,
+    "text": "to prevent themselves from being swept away"
+  },
+  {
+    "id": 282,
+    "start": 1263.76,
+    "end": 1266.3,
+    "text": "or even destroyed by being smashed against their rocks."
+  },
+  {
+    "id": 283,
+    "start": 1266.88,
+    "end": 1269.52,
+    "text": "I haven't done anything on the geological changes."
+  },
+  {
+    "id": 284,
+    "start": 1270.32,
+    "end": 1271.38,
+    "text": "I don't know what to put for that."
+  },
+  {
+    "id": 285,
+    "start": 1271.86,
+    "end": 1274.62,
+    "text": "No, we weren't concentrating on that."
+  },
+  {
+    "id": 286,
+    "start": 1275.44,
+    "end": 1277.18,
+    "text": "Maybe we need to find some websites."
+  },
+  {
+    "id": 287,
+    "start": 1278.04,
+    "end": 1278.5,
+    "text": "Good idea."
+  },
+  {
+    "id": 288,
+    "start": 1279.46,
+    "end": 1282.22,
+    "text": "I've got electro notes from Mr Blake's Geological course,"
+  },
+  {
+    "id": 289,
+    "start": 1282.82,
+    "end": 1284.04,
+    "text": "but they're too general."
+  },
+  {
+    "id": 290,
+    "start": 1285.3,
+    "end": 1288.64,
+    "text": "But we could ask him which books on our reading list might be most helpful."
+  },
+  {
+    "id": 291,
+    "start": 1289.18,
+    "end": 1289.42,
+    "text": "Right."
+  },
+  {
+    "id": 292,
+    "start": 1290.34,
+    "end": 1290.48,
+    "text": "Okay."
+  },
+  {
+    "id": 293,
+    "start": 1291.3,
+    "end": 1293.74,
+    "text": "Now, I did a draft of the section of sources"
+  },
+  {
+    "id": 294,
+    "start": 1294.04,
+    "end": 1296.08,
+    "text": "of possible error in our research,"
+  },
+  {
+    "id": 295,
+    "start": 1296.64,
+    "end": 1297.96,
+    "text": "but I don't know if you agree."
+  },
+  {
+    "id": 296,
+    "start": 1298.84,
+    "end": 1301.08,
+    "text": "For example, the size of the sample,"
+  },
+  {
+    "id": 297,
+    "start": 1301.42,
+    "end": 1304.24,
+    "text": "and whether it's big enough to make any general conclusions from,"
+  },
+  {
+    "id": 298,
+    "start": 1304.74,
+    "end": 1307.86,
+    "text": "but I thought, actually, we did have quite a big sample."
+  },
+  {
+    "id": 299,
+    "start": 1308.1,
+    "end": 1308.48,
+    "text": "We did."
+  },
+  {
+    "id": 300,
+    "start": 1309.28,
+    "end": 1312.04,
+    "text": "And our general method of observation seemed quite reliable."
+  },
+  {
+    "id": 301,
+    "start": 1313.2,
+    "end": 1317.06,
+    "text": "But we might not be all that accurate as far as the actual numbers go."
+  },
+  {
+    "id": 302,
+    "start": 1317.38,
+    "end": 1317.72,
+    "text": "Yeah."
+  },
+  {
+    "id": 303,
+    "start": 1317.96,
+    "end": 1319.76,
+    "text": "We might have missed some organisms"
+  },
+  {
+    "id": 304,
+    "start": 1320.48,
+    "end": 1322.46,
+    "text": "if they were hiding under a rock, for example."
+  },
+  {
+    "id": 305,
+    "start": 1323.4,
+    "end": 1326.42,
+    "text": "I wasn't sure about the way we described their habitats."
+  },
+  {
+    "id": 306,
+    "start": 1327.12,
+    "end": 1329.18,
+    "text": "I decided it was probably okay."
+  },
+  {
+    "id": 307,
+    "start": 1329.8,
+    "end": 1330.04,
+    "text": "Yeah."
+  },
+  {
+    "id": 308,
+    "start": 1330.62,
+    "end": 1333.22,
+    "text": "And the descriptions we gave of the smaller organisms,"
+  },
+  {
+    "id": 309,
+    "start": 1333.8,
+    "end": 1337.48,
+    "text": "they weren't very detailed, but they were adequate in this context."
+  },
+  {
+    "id": 310,
+    "start": 1338.42,
+    "end": 1341.48,
+    "text": "I'm not sure we identified all the species correctly, though."
+  },
+  {
+    "id": 311,
+    "start": 1341.88,
+    "end": 1342.26,
+    "text": "Okay."
+  },
+  {
+    "id": 312,
+    "start": 1342.84,
+    "end": 1343.96,
+    "text": "We better mention that."
+  },
+  {
+    "id": 313,
+    "start": 1344.86,
+    "end": 1346.26,
+    "text": "Now, how are we going?"
+  },
+  {
+    "id": 314,
+    "start": 1350.22,
+    "end": 1352.16,
+    "text": "That is the end of section 3."
+  },
+  {
+    "id": 315,
+    "start": 1353.5,
+    "end": 1356.7,
+    "text": "You now have half a minute to check your answers."
+  },
+  {
+    "id": 316,
+    "start": 1377.82,
+    "end": 1381.6,
+    "text": "Now, turn to section 4."
+  },
+  {
+    "id": 317,
+    "start": 1383.82,
+    "end": 1387.3,
+    "text": "Section 4."
+  },
+  {
+    "id": 318,
+    "start": 1387.64,
+    "end": 1392.14,
+    "text": "You will hear part of a lecture to students of architecture"
+  },
+  {
+    "id": 319,
+    "start": 1393.84,
+    "end": 1395.18,
+    "text": "about the design of a public building."
+  },
+  {
+    "id": 320,
+    "start": 1396.94,
+    "end": 1400.62,
+    "text": "First, you have to know that you have a lot of work to do."
+  },
+  {
+    "id": 321,
+    "start": 1401.44,
+    "end": 1403.64,
+    "text": "You will have to know that you have a lot of work to do."
+  },
+  {
+    "id": 322,
+    "start": 1405.74,
+    "end": 1411.06,
+    "text": "First, you have some time to look at questions 31 to 40."
+  },
+  {
+    "id": 323,
+    "start": 1435.12,
+    "end": 1435.9,
+    "text": "You"
+  },
+  {
+    "id": 324,
+    "start": 1464.82,
+    "end": 1470.86,
+    "text": "Now, listen carefully and answer questions 31 to 40."
+  },
+  {
+    "id": 325,
+    "start": 1476.66,
+    "end": 1479.97,
+    "text": "We've been discussing the factors the architect has to consider"
+  },
+  {
+    "id": 326,
+    "start": 1479.97,
+    "end": 1481.98,
+    "text": "when designing domestic buildings."
+  },
+  {
+    "id": 327,
+    "start": 1485.52,
+    "end": 1487.31,
+    "text": "I'm going to move on now to the next lecture."
+  },
+  {
+    "id": 328,
+    "start": 1487.31,
+    "end": 1491.86,
+    "text": "I'm going to move on now to the next lecture."
+  },
+  {
+    "id": 329,
+    "start": 1492.66,
+    "end": 1496.74,
+    "text": "I'm going to move on now to consider the design of public buildings."
+  },
+  {
+    "id": 330,
+    "start": 1497.54,
+    "end": 1502.12,
+    "text": "I'll illustrate this by referring to the new Taylor concert hall"
+  },
+  {
+    "id": 331,
+    "start": 1502.52,
+    "end": 1505.08,
+    "text": "that's recently been completed here in the city."
+  },
+  {
+    "id": 332,
+    "start": 1507.1,
+    "end": 1510.88,
+    "text": "As with a domestic building, when designing a public building,"
+  },
+  {
+    "id": 333,
+    "start": 1511.4,
+    "end": 1515.1,
+    "text": "an architect needs to consider the function of the building."
+  },
+  {
+    "id": 334,
+    "start": 1515.82,
+    "end": 1519.66,
+    "text": "For example, is it to be used primarily for entertainment"
+  },
+  {
+    "id": 335,
+    "start": 1520.44,
+    "end": 1523.34,
+    "text": "or for education or for administration."
+  },
+  {
+    "id": 336,
+    "start": 1524.86,
+    "end": 1529.78,
+    "text": "The second thing the architect needs to think about is the context of the building."
+  },
+  {
+    "id": 337,
+    "start": 1530.6,
+    "end": 1537.48,
+    "text": "This includes its physical location obviously, but it also includes the social meaning of the building."
+  },
+  {
+    "id": 338,
+    "start": 1538.1,
+    "end": 1540.44,
+    "text": "How it relates to the people it's built for."
+  },
+  {
+    "id": 339,
+    "start": 1541.46,
+    "end": 1544.08,
+    "text": "And finally, for important public buildings,"
+  },
+  {
+    "id": 340,
+    "start": 1544.64,
+    "end": 1549.16,
+    "text": "the architect may also be looking for a central symbolic idea"
+  },
+  {
+    "id": 341,
+    "start": 1549.5,
+    "end": 1550.94,
+    "text": "on which to base the design."
+  },
+  {
+    "id": 342,
+    "start": 1551.74,
+    "end": 1555.58,
+    "text": "A sort of metaphor for the building and the way in which it is used."
+  },
+  {
+    "id": 343,
+    "start": 1557.38,
+    "end": 1561.14,
+    "text": "Let's look at the new Taylor concert hall in relation to these ideas."
+  },
+  {
+    "id": 344,
+    "start": 1562.34,
+    "end": 1565.62,
+    "text": "The location chosen was a site in a rundown district"
+  },
+  {
+    "id": 345,
+    "start": 1566.1,
+    "end": 1568.88,
+    "text": "that has been ignored in previous redevelopment plans."
+  },
+  {
+    "id": 346,
+    "start": 1569.72,
+    "end": 1573.26,
+    "text": "It was occupied by a factory that has been empty for some years."
+  },
+  {
+    "id": 347,
+    "start": 1574.5,
+    "end": 1576.46,
+    "text": "The whole area was some distance"
+  },
+  {
+    "id": 348,
+    "start": 1576.58,
+    "end": 1581.26,
+    "text": "from the high-rise office blocks of the central business district and shopping centre,"
+  },
+  {
+    "id": 349,
+    "start": 1582.04,
+    "end": 1584.66,
+    "text": "but it was only one kilometre from the ring road."
+  },
+  {
+    "id": 350,
+    "start": 1585.68,
+    "end": 1588.5,
+    "text": "The site itself was bordered to the north by a canal,"
+  },
+  {
+    "id": 351,
+    "start": 1589.02,
+    "end": 1592.24,
+    "text": "which had once been used by boats springing in raw materials"
+  },
+  {
+    "id": 352,
+    "start": 1592.5,
+    "end": 1594.56,
+    "text": "when the area was used for manufacturing."
+  },
+  {
+    "id": 353,
+    "start": 1596.92,
+    "end": 1599.74,
+    "text": "The architect chosen for the project was Tom Harrison."
+  },
+  {
+    "id": 354,
+    "start": 1600.64,
+    "end": 1604.32,
+    "text": "He found the main design challenge was the location of the site"
+  },
+  {
+    "id": 355,
+    "start": 1604.78,
+    "end": 1608.44,
+    "text": "in an area that had no neighbouring buildings of any importance."
+  },
+  {
+    "id": 356,
+    "start": 1609.56,
+    "end": 1612.22,
+    "text": "To reflect the fact that the significance of the building"
+  },
+  {
+    "id": 357,
+    "start": 1612.58,
+    "end": 1616.34,
+    "text": "in this quite rundown location was as yet unknown,"
+  },
+  {
+    "id": 358,
+    "start": 1617.32,
+    "end": 1622.18,
+    "text": "he decided to create a building centered around the idea of a mystery,"
+  },
+  {
+    "id": 359,
+    "start": 1622.98,
+    "end": 1625.76,
+    "text": "something whose meaning still has to be discovered."
+  },
+  {
+    "id": 360,
+    "start": 1627.16,
+    "end": 1630.72,
+    "text": "So, how was this reflected in the design of the building?"
+  },
+  {
+    "id": 361,
+    "start": 1631.64,
+    "end": 1636.08,
+    "text": "Well, Harrison decided to create pedestrian access to the building"
+  },
+  {
+    "id": 362,
+    "start": 1636.72,
+    "end": 1639.74,
+    "text": "and to make use of the presence of water on the site."
+  },
+  {
+    "id": 363,
+    "start": 1640.78,
+    "end": 1645.1,
+    "text": "As people approached the entrance, they therefore have to cross over a bridge."
+  },
+  {
+    "id": 364,
+    "start": 1646.08,
+    "end": 1648.3,
+    "text": "He wanted to give people a feeling of suspense"
+  },
+  {
+    "id": 365,
+    "start": 1649.0,
+    "end": 1652.88,
+    "text": "as they see the building first from a distance and then close up."
+  },
+  {
+    "id": 366,
+    "start": 1653.56,
+    "end": 1657.74,
+    "text": "And the initial impression he wanted to create from the shape of the building as a whole"
+  },
+  {
+    "id": 367,
+    "start": 1657.86,
+    "end": 1659.4,
+    "text": "was that of a box."
+  },
+  {
+    "id": 368,
+    "start": 1660.64,
+    "end": 1663.44,
+    "text": "The first site that people see, the Southern Wall,"
+  },
+  {
+    "id": 369,
+    "start": 1663.94,
+    "end": 1667.98,
+    "text": "is just a high flat wall uninterrupted by any windows."
+  },
+  {
+    "id": 370,
+    "start": 1669.04,
+    "end": 1673.6,
+    "text": "This might sound off-putting, but it supports Harrison's concept of the building"
+  },
+  {
+    "id": 371,
+    "start": 1674.28,
+    "end": 1678.62,
+    "text": "that the person approaching is intrigued and wonders what will be inside."
+  },
+  {
+    "id": 372,
+    "start": 1679.9,
+    "end": 1682.68,
+    "text": "And this flat wall also has another purpose."
+  },
+  {
+    "id": 373,
+    "start": 1683.54,
+    "end": 1688.5,
+    "text": "At night time, projectors are switched on and it functions as a huge screen"
+  },
+  {
+    "id": 374,
+    "start": 1689.1,
+    "end": 1690.92,
+    "text": "onto which images are projected."
+  },
+  {
+    "id": 375,
+    "start": 1696.28,
+    "end": 1699.18,
+    "text": "The auditorium itself seats 1,500 people."
+  },
+  {
+    "id": 376,
+    "start": 1700.04,
+    "end": 1702.94,
+    "text": "The floors supported by ten massive pads."
+  },
+  {
+    "id": 377,
+    "start": 1703.8,
+    "end": 1708.96,
+    "text": "These are constructed from rubber and so are able to absorb any vibrations from outside"
+  },
+  {
+    "id": 378,
+    "start": 1709.58,
+    "end": 1712.0,
+    "text": "and prevent them from affecting the auditorium."
+  },
+  {
+    "id": 379,
+    "start": 1712.98,
+    "end": 1716.24,
+    "text": "The walls are made of several layers of honey-coloured wood"
+  },
+  {
+    "id": 380,
+    "start": 1716.82,
+    "end": 1718.82,
+    "text": "all sourced from local beach trees."
+  },
+  {
+    "id": 381,
+    "start": 1720.0,
+    "end": 1723.16,
+    "text": "In order to improve the acoustic properties of the auditorium"
+  },
+  {
+    "id": 382,
+    "start": 1723.56,
+    "end": 1727.8,
+    "text": "and to amplify the sound, they are not straight, they are curved."
+  },
+  {
+    "id": 383,
+    "start": 1729.08,
+    "end": 1732.86,
+    "text": "The acoustics are also adjustable according to the size of orchestra"
+  },
+  {
+    "id": 384,
+    "start": 1733.28,
+    "end": 1735.0,
+    "text": "and the type of music being played."
+  },
+  {
+    "id": 385,
+    "start": 1736.0,
+    "end": 1741.16,
+    "text": "In order to achieve this, there are nine movable panels in the ceiling above the orchestra"
+  },
+  {
+    "id": 386,
+    "start": 1741.6,
+    "end": 1743.88,
+    "text": "which are all individually motorised."
+  },
+  {
+    "id": 387,
+    "start": 1744.64,
+    "end": 1750.34,
+    "text": "And the walls also have curtains which can be opened or closed to change the acoustics."
+  },
+  {
+    "id": 388,
+    "start": 1752.48,
+    "end": 1755.96,
+    "text": "The reaction of the public to the new building has generally been positive."
+  },
+  {
+    "id": 389,
+    "start": 1756.82,
+    "end": 1761.34,
+    "text": "However, the evaluation of some critics has been less enthusiastic."
+  },
+  {
+    "id": 390,
+    "start": 1762.44,
+    "end": 1768.4,
+    "text": "In spite of Harrison's efforts to use local materials, they criticise the style of the design"
+  },
+  {
+    "id": 391,
+    "start": 1768.54,
+    "end": 1771.5,
+    "text": "as being international rather than local."
+  },
+  {
+    "id": 392,
+    "start": 1772.16,
+    "end": 1777.5,
+    "text": "And say, it doesn't reflect features of the landscape or society for which it is built."
+  },
+  {
+    "id": 393,
+    "start": 1781.2,
+    "end": 1783.1,
+    "text": "That is the end of section 4."
+  },
+  {
+    "id": 394,
+    "start": 1784.44,
+    "end": 1787.42,
+    "text": "You now have half a minute to check your answers."
+  },
+  {
+    "id": 395,
+    "start": 1801.82,
+    "end": 1803.36,
+    "text": "That is the end of the listening test."
+  },
+  {
+    "id": 396,
+    "start": 1804.82,
+    "end": 1811.76,
+    "text": "You now have ten minutes to transfer your answers to the answer sheet."
+  },
+  {
+    "id": 397,
+    "start": 1811.76,
+    "end": 1815.3,
+    "text": "Please do not forget to check the answers."
+  },
+  {
+    "id": 398,
+    "start": 1815.82,
+    "end": 1819.82,
+    "text": "The next step is to turn the music on."
+  },
+  {
+    "id": 399,
+    "start": 1819.82,
+    "end": 1820.58,
+    "text": "That is the end of the listening test."
+  },
+  {
+    "id": 400,
+    "start": 1822.66,
+    "end": 1827.0,
+    "text": "You now have ten minutes to transfer your answers to the answer sheet."
+  },
+  {
+    "id": 401,
+    "start": 1828.82,
+    "end": 1835.52,
+    "text": "Please stop writing and wait for your question booklet to be collected."
+  }
+]

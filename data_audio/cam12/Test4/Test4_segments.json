@@ -1,0 +1,2060 @@
+[
+  {
+    "id": 0,
+    "start": 0.08,
+    "end": 0.9,
+    "text": "Test 8"
+  },
+  {
+    "id": 1,
+    "start": 3.42,
+    "end": 5.86,
+    "text": "You will hear a number of different recordings"
+  },
+  {
+    "id": 2,
+    "start": 6.84,
+    "end": 9.96,
+    "text": "and you will have to answer questions on what you hear."
+  },
+  {
+    "id": 3,
+    "start": 12.2,
+    "end": 15.72,
+    "text": "There will be time for you to read the instructions and questions"
+  },
+  {
+    "id": 4,
+    "start": 16.7,
+    "end": 19.32,
+    "text": "and you will have a chance to check your work."
+  },
+  {
+    "id": 5,
+    "start": 20.98,
+    "end": 24.48,
+    "text": "All the recordings will be played once only."
+  },
+  {
+    "id": 6,
+    "start": 26.64,
+    "end": 29.02,
+    "text": "The test is in four sections."
+  },
+  {
+    "id": 7,
+    "start": 31.1,
+    "end": 34.72,
+    "text": "At the end of the test, you will be given ten minutes"
+  },
+  {
+    "id": 8,
+    "start": 35.16,
+    "end": 37.96,
+    "text": "to transfer your answers to an answer sheet."
+  },
+  {
+    "id": 9,
+    "start": 40.38,
+    "end": 42.38,
+    "text": "Now turn to section 1."
+  },
+  {
+    "id": 10,
+    "start": 47.8,
+    "end": 48.76,
+    "text": "Section 1"
+  },
+  {
+    "id": 11,
+    "start": 51.12,
+    "end": 55.7,
+    "text": "You will hear a telephone conversation between a woman who is looking for a job"
+  },
+  {
+    "id": 12,
+    "start": 56.5,
+    "end": 60.34,
+    "text": "and a man from a company that organises cycling holidays."
+  },
+  {
+    "id": 13,
+    "start": 62.54,
+    "end": 66.84,
+    "text": "First, you have some time to look at questions 1 to 6."
+  },
+  {
+    "id": 14,
+    "start": 86.44,
+    "end": 101.26,
+    "text": "You will see that there is an example that has been done for you."
+  },
+  {
+    "id": 15,
+    "start": 102.82,
+    "end": 109.06,
+    "text": "On this occasion only, the conversation relating to this will be played first."
+  },
+  {
+    "id": 16,
+    "start": 112.52,
+    "end": 115.72,
+    "text": "Hello, Pembroke Cycling Holidays, Bob speaking."
+  },
+  {
+    "id": 17,
+    "start": 116.38,
+    "end": 121.14,
+    "text": "Oh hello, I've seen your advert for people to lead cycle trips."
+  },
+  {
+    "id": 18,
+    "start": 121.84,
+    "end": 123.7,
+    "text": "Are you the right person to speak to?"
+  },
+  {
+    "id": 19,
+    "start": 124.0,
+    "end": 126.24,
+    "text": "Yes I am. Could I have your name please?"
+  },
+  {
+    "id": 20,
+    "start": 126.8,
+    "end": 128.12,
+    "text": "It's Margaret Smith."
+  },
+  {
+    "id": 21,
+    "start": 131.58,
+    "end": 133.86,
+    "text": "The woman's surname is Smith."
+  },
+  {
+    "id": 22,
+    "start": 135.3,
+    "end": 138.24,
+    "text": "So Smith has been written in the space."
+  },
+  {
+    "id": 23,
+    "start": 140.66,
+    "end": 141.68,
+    "text": "Now we shall begin."
+  },
+  {
+    "id": 24,
+    "start": 143.94,
+    "end": 146.42,
+    "text": "You should answer the questions as you listen"
+  },
+  {
+    "id": 25,
+    "start": 146.92,
+    "end": 150.2,
+    "text": "because you will not hear the recording a second time."
+  },
+  {
+    "id": 26,
+    "start": 152.92,
+    "end": 157.1,
+    "text": "Listen carefully and answer questions 1 to 6."
+  },
+  {
+    "id": 27,
+    "start": 160.52,
+    "end": 163.72,
+    "text": "Hello, Pembroke Cycling Holidays, Bob speaking."
+  },
+  {
+    "id": 28,
+    "start": 164.36,
+    "end": 169.2,
+    "text": "Oh hello, I've seen your advert for people to lead cycle trips."
+  },
+  {
+    "id": 29,
+    "start": 169.88,
+    "end": 171.7,
+    "text": "Are you the right person to speak to?"
+  },
+  {
+    "id": 30,
+    "start": 172.0,
+    "end": 174.22,
+    "text": "Yes I am. Could I have your name please?"
+  },
+  {
+    "id": 31,
+    "start": 174.78,
+    "end": 176.06,
+    "text": "It's Margaret Smith."
+  },
+  {
+    "id": 32,
+    "start": 176.72,
+    "end": 178.78,
+    "text": "Are you looking for a permanent job, Margaret?"
+  },
+  {
+    "id": 33,
+    "start": 179.36,
+    "end": 180.38,
+    "text": "No, temporary."
+  },
+  {
+    "id": 34,
+    "start": 180.92,
+    "end": 183.82,
+    "text": "I've got a permanent job starting in a few months time"
+  },
+  {
+    "id": 35,
+    "start": 184.34,
+    "end": 186.46,
+    "text": "and I want to do something else until then."
+  },
+  {
+    "id": 36,
+    "start": 186.88,
+    "end": 187.86,
+    "text": "What work do you do?"
+  },
+  {
+    "id": 37,
+    "start": 188.6,
+    "end": 190.2,
+    "text": "This will probably sound crazy."
+  },
+  {
+    "id": 38,
+    "start": 190.78,
+    "end": 194.74,
+    "text": "I used to be a lawyer and then I made a complete career change"
+  },
+  {
+    "id": 39,
+    "start": 195.06,
+    "end": 196.34,
+    "text": "and I'm going to be a doctor."
+  },
+  {
+    "id": 40,
+    "start": 196.88,
+    "end": 198.38,
+    "text": "I've just finished my training."
+  },
+  {
+    "id": 41,
+    "start": 198.9,
+    "end": 202.86,
+    "text": "Right. And have you had any experience of leading cycle trips?"
+  },
+  {
+    "id": 42,
+    "start": 203.5,
+    "end": 206.54,
+    "text": "Yes, I've led several bike tours in Africa."
+  },
+  {
+    "id": 43,
+    "start": 207.32,
+    "end": 210.5,
+    "text": "The trip to India that I had arranged to lead next month"
+  },
+  {
+    "id": 44,
+    "start": 210.64,
+    "end": 211.94,
+    "text": "has now been cancelled."
+  },
+  {
+    "id": 45,
+    "start": 212.7,
+    "end": 215.42,
+    "text": "So when I saw you were advertising for tour leaders,"
+  },
+  {
+    "id": 46,
+    "start": 215.44,
+    "end": 216.98,
+    "text": "I decided to apply."
+  },
+  {
+    "id": 47,
+    "start": 217.3,
+    "end": 221.4,
+    "text": "OK. Now we normally have two or three leaders on a trip,"
+  },
+  {
+    "id": 48,
+    "start": 221.6,
+    "end": 223.14,
+    "text": "depending on the size of the group."
+  },
+  {
+    "id": 49,
+    "start": 223.9,
+    "end": 227.02,
+    "text": "Some tours are for very experienced cyclists"
+  },
+  {
+    "id": 50,
+    "start": 227.5,
+    "end": 229.76,
+    "text": "but we've got a tour coming up soon in Spain"
+  },
+  {
+    "id": 51,
+    "start": 230.26,
+    "end": 233.18,
+    "text": "which is proving so popular we need an additional leader."
+  },
+  {
+    "id": 52,
+    "start": 233.86,
+    "end": 236.64,
+    "text": "It's a cycling holiday for families with that suit you."
+  },
+  {
+    "id": 53,
+    "start": 237.1,
+    "end": 237.98,
+    "text": "It certainly would."
+  },
+  {
+    "id": 54,
+    "start": 238.18,
+    "end": 240.26,
+    "text": "I enjoy working with children"
+  },
+  {
+    "id": 55,
+    "start": 240.9,
+    "end": 243.02,
+    "text": "and I probably need some more experience"
+  },
+  {
+    "id": 56,
+    "start": 243.16,
+    "end": 245.58,
+    "text": "before I go on a really challenging trip."
+  },
+  {
+    "id": 57,
+    "start": 246.06,
+    "end": 247.98,
+    "text": "That tour includes several teenagers."
+  },
+  {
+    "id": 58,
+    "start": 248.64,
+    "end": 250.36,
+    "text": "Have you worked with that age group before?"
+  },
+  {
+    "id": 59,
+    "start": 250.9,
+    "end": 253.84,
+    "text": "Yes, I'm a volunteer worker in a youth club"
+  },
+  {
+    "id": 60,
+    "start": 254.22,
+    "end": 256.88,
+    "text": "where I help people to improve their cycling skills."
+  },
+  {
+    "id": 61,
+    "start": 257.62,
+    "end": 260.12,
+    "text": "Before that, I helped out in a cycling club"
+  },
+  {
+    "id": 62,
+    "start": 260.12,
+    "end": 261.22,
+    "text": "where I taught beginners."
+  },
+  {
+    "id": 63,
+    "start": 261.74,
+    "end": 262.64,
+    "text": "Well, that's great."
+  },
+  {
+    "id": 64,
+    "start": 263.2,
+    "end": 266.12,
+    "text": "Now, the trip I mentioned is just for a fortnight"
+  },
+  {
+    "id": 65,
+    "start": 266.64,
+    "end": 269.56,
+    "text": "but there might be the possibility of leading other tours"
+  },
+  {
+    "id": 66,
+    "start": 269.56,
+    "end": 270.3,
+    "text": "after that."
+  },
+  {
+    "id": 67,
+    "start": 270.78,
+    "end": 272.14,
+    "text": "Would that fit in with your plans?"
+  },
+  {
+    "id": 68,
+    "start": 272.78,
+    "end": 273.58,
+    "text": "That would be fine."
+  },
+  {
+    "id": 69,
+    "start": 274.1,
+    "end": 275.72,
+    "text": "I'll be free for five months."
+  },
+  {
+    "id": 70,
+    "start": 276.3,
+    "end": 279.48,
+    "text": "My job is due to start on October the 2nd"
+  },
+  {
+    "id": 71,
+    "start": 279.88,
+    "end": 283.58,
+    "text": "and I'm available from May the 1st until late September."
+  },
+  {
+    "id": 72,
+    "start": 284.08,
+    "end": 284.38,
+    "text": "Good."
+  },
+  {
+    "id": 73,
+    "start": 285.26,
+    "end": 288.1,
+    "text": "Now, is there anything I need to know about the food you eat?"
+  },
+  {
+    "id": 74,
+    "start": 288.64,
+    "end": 290.52,
+    "text": "We usually have one or two people in the group"
+  },
+  {
+    "id": 75,
+    "start": 290.54,
+    "end": 293.78,
+    "text": "who don't eat meat or have some sort of food allergy"
+  },
+  {
+    "id": 76,
+    "start": 294.28,
+    "end": 296.18,
+    "text": "so we're always very careful about that."
+  },
+  {
+    "id": 77,
+    "start": 296.74,
+    "end": 298.98,
+    "text": "Yes, I'm allergic to cheese."
+  },
+  {
+    "id": 78,
+    "start": 299.62,
+    "end": 300.56,
+    "text": "Would that be a problem?"
+  },
+  {
+    "id": 79,
+    "start": 300.96,
+    "end": 301.24,
+    "text": "No."
+  },
+  {
+    "id": 80,
+    "start": 301.84,
+    "end": 304.26,
+    "text": "As long as we have enough notice, we can deal with that."
+  },
+  {
+    "id": 81,
+    "start": 304.66,
+    "end": 305.3,
+    "text": "That's great."
+  },
+  {
+    "id": 82,
+    "start": 306.38,
+    "end": 310.98,
+    "text": "Before you hear the rest of the conversation,"
+  },
+  {
+    "id": 83,
+    "start": 311.82,
+    "end": 314.95,
+    "text": "you have some time to look at questions 7 to 10."
+  },
+  {
+    "id": 84,
+    "start": 314.95,
+    "end": 338.84,
+    "text": "Now listen and answer questions 7 to 10."
+  },
+  {
+    "id": 85,
+    "start": 342.22,
+    "end": 343.9,
+    "text": "It sounds really interesting."
+  },
+  {
+    "id": 86,
+    "start": 344.58,
+    "end": 346.8,
+    "text": "Would you like me to fill in an application form?"
+  },
+  {
+    "id": 87,
+    "start": 347.38,
+    "end": 347.76,
+    "text": "Yes, please."
+  },
+  {
+    "id": 88,
+    "start": 348.68,
+    "end": 349.9,
+    "text": "Where should I post it to?"
+  },
+  {
+    "id": 89,
+    "start": 350.66,
+    "end": 354.3,
+    "text": "Could you send it to 27, our busknot place,"
+  },
+  {
+    "id": 90,
+    "start": 355.2,
+    "end": 360.22,
+    "text": "A-R-B-U-T-H-N-O-T,"
+  },
+  {
+    "id": 91,
+    "start": 360.74,
+    "end": 362.14,
+    "text": "place, dump freeze."
+  },
+  {
+    "id": 92,
+    "start": 362.92,
+    "end": 364.62,
+    "text": "And what's the post code, please?"
+  },
+  {
+    "id": 93,
+    "start": 365.52,
+    "end": 368.4,
+    "text": "D-G-7-4-P-H."
+  },
+  {
+    "id": 94,
+    "start": 368.84,
+    "end": 371.46,
+    "text": "Was that P-Pupper or B-Bravo?"
+  },
+  {
+    "id": 95,
+    "start": 372.04,
+    "end": 372.7,
+    "text": "P-Pupper."
+  },
+  {
+    "id": 96,
+    "start": 373.28,
+    "end": 373.68,
+    "text": "Got that."
+  },
+  {
+    "id": 97,
+    "start": 374.66,
+    "end": 377.86,
+    "text": "If you could return the application form by Friday this week,"
+  },
+  {
+    "id": 98,
+    "start": 378.04,
+    "end": 380.76,
+    "text": "we can interview you on Tuesday next week."
+  },
+  {
+    "id": 99,
+    "start": 381.26,
+    "end": 382.8,
+    "text": "Say half-possed to?"
+  },
+  {
+    "id": 100,
+    "start": 383.28,
+    "end": 384.5,
+    "text": "Would that be possible for you?"
+  },
+  {
+    "id": 101,
+    "start": 384.96,
+    "end": 385.72,
+    "text": "Yes, it's fine."
+  },
+  {
+    "id": 102,
+    "start": 386.3,
+    "end": 388.22,
+    "text": "You're quite a long way from where I live,"
+  },
+  {
+    "id": 103,
+    "start": 388.34,
+    "end": 389.9,
+    "text": "so I'll drive over on Monday."
+  },
+  {
+    "id": 104,
+    "start": 390.52,
+    "end": 392.3,
+    "text": "Should I bring anything to the interview?"
+  },
+  {
+    "id": 105,
+    "start": 392.96,
+    "end": 394.86,
+    "text": "We'll have your application form, of course,"
+  },
+  {
+    "id": 106,
+    "start": 395.54,
+    "end": 397.75,
+    "text": "but we'll need to see any certificates you've got"
+  },
+  {
+    "id": 107,
+    "start": 397.75,
+    "end": 400.86,
+    "text": "that are relevant in cycling, first aid or whatever."
+  },
+  {
+    "id": 108,
+    "start": 401.38,
+    "end": 401.64,
+    "text": "OK."
+  },
+  {
+    "id": 109,
+    "start": 402.52,
+    "end": 405.9,
+    "text": "And at the interview, we'd like to find out about your experience"
+  },
+  {
+    "id": 110,
+    "start": 406.32,
+    "end": 407.36,
+    "text": "of being a tour guide."
+  },
+  {
+    "id": 111,
+    "start": 407.98,
+    "end": 411.32,
+    "text": "So, could you prepare a 10-minute talk about that, please?"
+  },
+  {
+    "id": 112,
+    "start": 411.96,
+    "end": 414.96,
+    "text": "You don't need slides or any complicated equipment."
+  },
+  {
+    "id": 113,
+    "start": 415.56,
+    "end": 416.24,
+    "text": "Just some notes."
+  },
+  {
+    "id": 114,
+    "start": 417.02,
+    "end": 417.32,
+    "text": "Right."
+  },
+  {
+    "id": 115,
+    "start": 417.88,
+    "end": 419.7,
+    "text": "I'll start thinking about that straight away."
+  },
+  {
+    "id": 116,
+    "start": 420.16,
+    "end": 420.32,
+    "text": "Good."
+  },
+  {
+    "id": 117,
+    "start": 421.3,
+    "end": 423.88,
+    "text": "Well, we'll look forward to receiving your application form"
+  },
+  {
+    "id": 118,
+    "start": 423.9,
+    "end": 426.18,
+    "text": "and we'll contact you to confirm the interview."
+  },
+  {
+    "id": 119,
+    "start": 426.68,
+    "end": 427.56,
+    "text": "Thanks very much."
+  },
+  {
+    "id": 120,
+    "start": 427.9,
+    "end": 429.08,
+    "text": "Thank you, Margaret. Goodbye."
+  },
+  {
+    "id": 121,
+    "start": 429.72,
+    "end": 429.92,
+    "text": "Bye."
+  },
+  {
+    "id": 122,
+    "start": 433.48,
+    "end": 435.14,
+    "text": "That is the end of section one."
+  },
+  {
+    "id": 123,
+    "start": 437.02,
+    "end": 440.22,
+    "text": "You now have half a minute to check your answers."
+  },
+  {
+    "id": 124,
+    "start": 461.38,
+    "end": 470.84,
+    "text": "Now turn to section two."
+  },
+  {
+    "id": 125,
+    "start": 473.4,
+    "end": 479.48,
+    "text": "Section two."
+  },
+  {
+    "id": 126,
+    "start": 481.5,
+    "end": 485.72,
+    "text": "You will hear a podcast about an area called the Sheep Market"
+  },
+  {
+    "id": 127,
+    "start": 485.82,
+    "end": 487.3,
+    "text": "in a New Zealand city."
+  },
+  {
+    "id": 128,
+    "start": 489.24,
+    "end": 493.8,
+    "text": "First, you have some time to look at questions 11 to 14."
+  },
+  {
+    "id": 129,
+    "start": 519.38,
+    "end": 529.08,
+    "text": "Now listen carefully and answer questions 11 to 14."
+  },
+  {
+    "id": 130,
+    "start": 532.5,
+    "end": 534.38,
+    "text": "Welcome to this podcast about the Sheep Market,"
+  },
+  {
+    "id": 131,
+    "start": 534.98,
+    "end": 537.06,
+    "text": "which is one of the oldest parts of the city."
+  },
+  {
+    "id": 132,
+    "start": 537.96,
+    "end": 540.36,
+    "text": "As its name suggests, there was originally a market here"
+  },
+  {
+    "id": 133,
+    "start": 540.66,
+    "end": 542.02,
+    "text": "where farmers brought their sheep,"
+  },
+  {
+    "id": 134,
+    "start": 542.68,
+    "end": 544.64,
+    "text": "but now it's been redeveloped into a buzzing,"
+  },
+  {
+    "id": 135,
+    "start": 544.88,
+    "end": 546.24,
+    "text": "vibrant area of the city,"
+  },
+  {
+    "id": 136,
+    "start": 546.28,
+    "end": 549.6,
+    "text": "which is also home to one of the city's fastest growing communities."
+  },
+  {
+    "id": 137,
+    "start": 550.9,
+    "end": 553.22,
+    "text": "The nearby university has always meant the areas"
+  },
+  {
+    "id": 138,
+    "start": 553.32,
+    "end": 556.36,
+    "text": "popular with students who come in to enjoy the lively nightlife,"
+  },
+  {
+    "id": 139,
+    "start": 557.08,
+    "end": 560.9,
+    "text": "but now graduates embarking on careers in the world of fashion and design"
+  },
+  {
+    "id": 140,
+    "start": 561.46,
+    "end": 563.86,
+    "text": "are buying up the new apartments recently built here"
+  },
+  {
+    "id": 141,
+    "start": 564.16,
+    "end": 567.04,
+    "text": "to replace the small houses where the market workers used to live."
+  },
+  {
+    "id": 142,
+    "start": 568.48,
+    "end": 571.12,
+    "text": "The narrow old side streets are great places for finding"
+  },
+  {
+    "id": 143,
+    "start": 571.2,
+    "end": 574.8,
+    "text": "original pictures, jewelry and ceramics which won't break the bank,"
+  },
+  {
+    "id": 144,
+    "start": 575.52,
+    "end": 577.86,
+    "text": "as well as local produce like fruit and vegetables."
+  },
+  {
+    "id": 145,
+    "start": 579.04,
+    "end": 581.78,
+    "text": "There's also lots of pavement cafes where you can have a coffee"
+  },
+  {
+    "id": 146,
+    "start": 581.84,
+    "end": 584.08,
+    "text": "and watch tourists from all over the world go by."
+  },
+  {
+    "id": 147,
+    "start": 585.3,
+    "end": 587.66,
+    "text": "The oldest buildings in the area are on the main streets,"
+  },
+  {
+    "id": 148,
+    "start": 588.14,
+    "end": 590.2,
+    "text": "including the city's first department store,"
+  },
+  {
+    "id": 149,
+    "start": 590.68,
+    "end": 593.28,
+    "text": "built in the 1880s, which is still open today."
+  },
+  {
+    "id": 150,
+    "start": 593.38,
+    "end": 596.8,
+    "text": "The Sheep Market is a centre for fashion,"
+  },
+  {
+    "id": 151,
+    "start": 597.24,
+    "end": 599.84,
+    "text": "and there's a policy of encouraging new young designers."
+  },
+  {
+    "id": 152,
+    "start": 601.0,
+    "end": 603.92,
+    "text": "The young fashion competition is open to local young people"
+  },
+  {
+    "id": 153,
+    "start": 604.04,
+    "end": 605.4,
+    "text": "who are passionate about fashion."
+  },
+  {
+    "id": 154,
+    "start": 606.44,
+    "end": 609.14,
+    "text": "This year they've been asked to design an outfit based on ideas"
+  },
+  {
+    "id": 155,
+    "start": 609.14,
+    "end": 612.14,
+    "text": "from the music and technology that's part of their everyday life,"
+  },
+  {
+    "id": 156,
+    "start": 612.8,
+    "end": 615.1,
+    "text": "using both natural and man-made fibres."
+  },
+  {
+    "id": 157,
+    "start": 616.42,
+    "end": 619.28,
+    "text": "The garments will be judged by a panel of experts and fashion designers,"
+  },
+  {
+    "id": 158,
+    "start": 619.98,
+    "end": 622.84,
+    "text": "and the winning entries will be modelled at a special gala evening."
+  },
+  {
+    "id": 159,
+    "start": 624.18,
+    "end": 625.76,
+    "text": "Parking at the Sheep Market is easy."
+  },
+  {
+    "id": 160,
+    "start": 626.3,
+    "end": 629.36,
+    "text": "There are plenty of pay and display car parking spaces on the road sides,"
+  },
+  {
+    "id": 161,
+    "start": 629.9,
+    "end": 631.98,
+    "text": "which are fine if you just want to stay for an hour or two,"
+  },
+  {
+    "id": 162,
+    "start": 632.48,
+    "end": 633.88,
+    "text": "but if you want to spend the day there,"
+  },
+  {
+    "id": 163,
+    "start": 634.04,
+    "end": 636.7,
+    "text": "it's better to park in one of the four underground car parks."
+  },
+  {
+    "id": 164,
+    "start": 637.54,
+    "end": 639.99,
+    "text": "It's not expensive, and if you can present a receipt"
+  },
+  {
+    "id": 165,
+    "start": 639.99,
+    "end": 642.66,
+    "text": "from one of the local stores, you'll not be charged at all."
+  },
+  {
+    "id": 166,
+    "start": 644.04,
+    "end": 647.36,
+    "text": "After 6pm, many of the car parks have a flat rate which varies,"
+  },
+  {
+    "id": 167,
+    "start": 647.58,
+    "end": 649.24,
+    "text": "but it is usually very reasonable."
+  },
+  {
+    "id": 168,
+    "start": 652.7,
+    "end": 654.72,
+    "text": "Before you hear the rest of the podcast,"
+  },
+  {
+    "id": 169,
+    "start": 655.62,
+    "end": 659.38,
+    "text": "you have some time to look at questions 15 to 20."
+  },
+  {
+    "id": 170,
+    "start": 661.88,
+    "end": 668.42,
+    "text": "You can find out more about the park's design and the design of the park's"
+  },
+  {
+    "id": 171,
+    "start": 668.42,
+    "end": 668.44,
+    "text": "design."
+  },
+  {
+    "id": 172,
+    "start": 669.72,
+    "end": 675.1,
+    "text": "You can find out more about the park's design and the design of the park's"
+  },
+  {
+    "id": 173,
+    "start": 675.1,
+    "end": 675.52,
+    "text": "design."
+  },
+  {
+    "id": 174,
+    "start": 676.52,
+    "end": 681.36,
+    "text": "You can find out more about the park's design and the design of the park's"
+  },
+  {
+    "id": 175,
+    "start": 681.36,
+    "end": 681.38,
+    "text": "design."
+  },
+  {
+    "id": 176,
+    "start": 681.38,
+    "end": 687.42,
+    "text": "You can find out more about the park's design and the design of the park's"
+  },
+  {
+    "id": 177,
+    "start": 687.42,
+    "end": 687.44,
+    "text": "design."
+  },
+  {
+    "id": 178,
+    "start": 689.94,
+    "end": 694.02,
+    "text": "Now listen and answer questions 15 to 20."
+  },
+  {
+    "id": 179,
+    "start": 697.46,
+    "end": 701.09,
+    "text": "The sheet market is one of the main centres for art and history in the whole of the"
+  },
+  {
+    "id": 180,
+    "start": 701.09,
+    "end": 701.52,
+    "text": "country."
+  },
+  {
+    "id": 181,
+    "start": 702.3,
+    "end": 704.76,
+    "text": "If you look at our map, you'll see some of the main attractions there."
+  },
+  {
+    "id": 182,
+    "start": 704.76,
+    "end": 708.82,
+    "text": "Most visitors start from Crawley Road at the bottom of the map."
+  },
+  {
+    "id": 183,
+    "start": 709.68,
+    "end": 713.84,
+    "text": "The Reynolds House is one of the oldest houses in the city and is open to the public."
+  },
+  {
+    "id": 184,
+    "start": 714.72,
+    "end": 719.46,
+    "text": "It's on the north side of Crawley Road next to the footpath that leads to the public"
+  },
+  {
+    "id": 185,
+    "start": 719.54,
+    "end": 719.94,
+    "text": "gardens."
+  },
+  {
+    "id": 186,
+    "start": 721.3,
+    "end": 724.14,
+    "text": "The area is particularly interesting for its unusual sculptures."
+  },
+  {
+    "id": 187,
+    "start": 724.9,
+    "end": 729.02,
+    "text": "The thumb is just what its name suggests, but it's about 10 metres high."
+  },
+  {
+    "id": 188,
+    "start": 729.82,
+    "end": 733.14,
+    "text": "You'll see it on Hill Road across the road from the bank."
+  },
+  {
+    "id": 189,
+    "start": 733.38,
+    "end": 737.7,
+    "text": "The museum's got a particularly fine collection of New Zealand landscapes."
+  },
+  {
+    "id": 190,
+    "start": 738.64,
+    "end": 741.6,
+    "text": "It's on the east side of the sheet market on City Road."
+  },
+  {
+    "id": 191,
+    "start": 742.76,
+    "end": 746.71,
+    "text": "It's on the other side of the road from the public gardens, immediately facing the"
+  },
+  {
+    "id": 192,
+    "start": 746.71,
+    "end": 748.18,
+    "text": "junction with Hill Road."
+  },
+  {
+    "id": 193,
+    "start": 749.68,
+    "end": 754.22,
+    "text": "The contemporary art gallery is on a little road that leads off station square, not far from"
+  },
+  {
+    "id": 194,
+    "start": 754.22,
+    "end": 755.1,
+    "text": "the public gardens."
+  },
+  {
+    "id": 195,
+    "start": 756.42,
+    "end": 759.26,
+    "text": "The road ends at the gallery, it doesn't go anywhere else."
+  },
+  {
+    "id": 196,
+    "start": 759.86,
+    "end": 762.16,
+    "text": "That's open every day except Mondays."
+  },
+  {
+    "id": 197,
+    "start": 763.56,
+    "end": 767.0,
+    "text": "The Warner Gallery specialises in 19th century art."
+  },
+  {
+    "id": 198,
+    "start": 767.88,
+    "end": 772.78,
+    "text": "On City Road, near the junction with Crawley Road, on the same side of the road as the"
+  },
+  {
+    "id": 199,
+    "start": 772.78,
+    "end": 773.58,
+    "text": "public gardens."
+  },
+  {
+    "id": 200,
+    "start": 774.36,
+    "end": 777.72,
+    "text": "It's open on weekdays from 9 to 5 and entry is free."
+  },
+  {
+    "id": 201,
+    "start": 779.24,
+    "end": 784.48,
+    "text": "Finally, if you're interested in purchasing high quality artwork, the place to go is"
+  },
+  {
+    "id": 202,
+    "start": 784.58,
+    "end": 785.0,
+    "text": "nucleus."
+  },
+  {
+    "id": 203,
+    "start": 786.0,
+    "end": 791.38,
+    "text": "You need to go from Crawley Road up through station square and east along Hill Road until"
+  },
+  {
+    "id": 204,
+    "start": 791.42,
+    "end": 793.86,
+    "text": "you get to a small winding road turning off."
+  },
+  {
+    "id": 205,
+    "start": 794.88,
+    "end": 796.5,
+    "text": "Now up there and it's on your right."
+  },
+  {
+    "id": 206,
+    "start": 797.12,
+    "end": 799.82,
+    "text": "If you get to City Road, you've gone too far."
+  },
+  {
+    "id": 207,
+    "start": 801.38,
+    "end": 804.92,
+    "text": "That is the end of section 2."
+  },
+  {
+    "id": 208,
+    "start": 806.6,
+    "end": 809.64,
+    "text": "You now have half a minute to check your answers."
+  },
+  {
+    "id": 209,
+    "start": 824.88,
+    "end": 842.34,
+    "text": "Now turn to section 3."
+  },
+  {
+    "id": 210,
+    "start": 850.68,
+    "end": 856.9,
+    "text": "You will hear two students, Katie and Joe, discussing a presentation in their film studies"
+  },
+  {
+    "id": 211,
+    "start": 857.02,
+    "end": 857.34,
+    "text": "course."
+  },
+  {
+    "id": 212,
+    "start": 859.5,
+    "end": 864.56,
+    "text": "First, you have some time to look at questions 21 to 24."
+  },
+  {
+    "id": 213,
+    "start": 885.14,
+    "end": 890.16,
+    "text": "Now listen carefully and answer questions 21 to 24."
+  },
+  {
+    "id": 214,
+    "start": 893.48,
+    "end": 898.76,
+    "text": "Joe, you know I'm giving a presentation in our film studies class next week."
+  },
+  {
+    "id": 215,
+    "start": 899.04,
+    "end": 899.28,
+    "text": "Yes."
+  },
+  {
+    "id": 216,
+    "start": 900.12,
+    "end": 901.84,
+    "text": "Well, could we discuss it?"
+  },
+  {
+    "id": 217,
+    "start": 902.46,
+    "end": 904.9,
+    "text": "I could do with getting someone else's opinion."
+  },
+  {
+    "id": 218,
+    "start": 905.32,
+    "end": 906.16,
+    "text": "Of course, Katie."
+  },
+  {
+    "id": 219,
+    "start": 906.64,
+    "end": 908.0,
+    "text": "What are you going to talk about?"
+  },
+  {
+    "id": 220,
+    "start": 908.82,
+    "end": 912.5,
+    "text": "It's about film adaptations of Shakespeare's plays."
+  },
+  {
+    "id": 221,
+    "start": 913.46,
+    "end": 918.76,
+    "text": "I've got very interested in all the different approaches that film directors take."
+  },
+  {
+    "id": 222,
+    "start": 919.98,
+    "end": 925.8,
+    "text": "So I thought I'd start with Genetti, who's a professor of film and literature."
+  },
+  {
+    "id": 223,
+    "start": 926.88,
+    "end": 933.66,
+    "text": "And in one of his books, he came up with a straightforward classification of film adaptations"
+  },
+  {
+    "id": 224,
+    "start": 934.38,
+    "end": 938.59,
+    "text": "based on how faithful they are to the original plays and novels."
+  },
+  {
+    "id": 225,
+    "start": 938.59,
+    "end": 939.5,
+    "text": "Right."
+  },
+  {
+    "id": 226,
+    "start": 940.48,
+    "end": 942.74,
+    "text": "I've already made some notes on that."
+  },
+  {
+    "id": 227,
+    "start": 943.34,
+    "end": 947.38,
+    "text": "So I just need to sort those out before the presentation."
+  },
+  {
+    "id": 228,
+    "start": 948.38,
+    "end": 955.8,
+    "text": "I thought that next I'd ask the class to come up with the worst examples of Shakespeare adaptations"
+  },
+  {
+    "id": 229,
+    "start": 956.36,
+    "end": 959.1,
+    "text": "that they've seen and to say why."
+  },
+  {
+    "id": 230,
+    "start": 960.02,
+    "end": 963.46,
+    "text": "That should be more fun than having their favourite versions."
+  },
+  {
+    "id": 231,
+    "start": 963.92,
+    "end": 964.22,
+    "text": "Yes."
+  },
+  {
+    "id": 232,
+    "start": 964.38,
+    "end": 966.62,
+    "text": "I can certainly think of a couple."
+  },
+  {
+    "id": 233,
+    "start": 967.68,
+    "end": 968.08,
+    "text": "Right."
+  },
+  {
+    "id": 234,
+    "start": 968.72,
+    "end": 972.38,
+    "text": "Next, I want to talk about Rachel Malco."
+  },
+  {
+    "id": 235,
+    "start": 973.02,
+    "end": 978.32,
+    "text": "I came across something on the internet about her work on film adaptations."
+  },
+  {
+    "id": 236,
+    "start": 979.4,
+    "end": 984.16,
+    "text": "And I was thinking of showing some film clips to illustrate her ideas."
+  },
+  {
+    "id": 237,
+    "start": 984.94,
+    "end": 989.76,
+    "text": "Will you have enough time, though, both to prepare and during the presentation?"
+  },
+  {
+    "id": 238,
+    "start": 990.48,
+    "end": 994.38,
+    "text": "After all, I doubt if you'll be able to find all the clips you want."
+  },
+  {
+    "id": 239,
+    "start": 994.62,
+    "end": 996.46,
+    "text": "Perhaps you're right."
+  },
+  {
+    "id": 240,
+    "start": 997.66,
+    "end": 998.02,
+    "text": "Okay."
+  },
+  {
+    "id": 241,
+    "start": 998.36,
+    "end": 1006.28,
+    "text": "Well, I'd better do some slides instead, saying how various films relate to what she says."
+  },
+  {
+    "id": 242,
+    "start": 1007.06,
+    "end": 1008.78,
+    "text": "That should encourage discussion."
+  },
+  {
+    "id": 243,
+    "start": 1010.36,
+    "end": 1016.32,
+    "text": "Next, I want to say something about how plays may be chosen for adaptation"
+  },
+  {
+    "id": 244,
+    "start": 1017.1,
+    "end": 1022.1,
+    "text": "because they're concerned with issues of the time when the film is made."
+  },
+  {
+    "id": 245,
+    "start": 1022.62,
+    "end": 1025.94,
+    "text": "You mean things like patriotism or the role of government?"
+  },
+  {
+    "id": 246,
+    "start": 1026.48,
+    "end": 1027.02,
+    "text": "Exactly."
+  },
+  {
+    "id": 247,
+    "start": 1028.12,
+    "end": 1032.98,
+    "text": "It's quite tricky, but I've got a few ideas I'd like to discuss."
+  },
+  {
+    "id": 248,
+    "start": 1036.54,
+    "end": 1043.2,
+    "text": "Before you hear the rest of the discussion, you have some time to look at questions 25 to 30."
+  },
+  {
+    "id": 249,
+    "start": 1065.88,
+    "end": 1078.08,
+    "text": "Now listen and answer questions 25 to 30."
+  },
+  {
+    "id": 250,
+    "start": 1081.56,
+    "end": 1089.6,
+    "text": "And finally, I want to talk about a few adaptations that I think illustrate a range of approaches"
+  },
+  {
+    "id": 251,
+    "start": 1090.3,
+    "end": 1092.1,
+    "text": "and make some comments on them."
+  },
+  {
+    "id": 252,
+    "start": 1093.08,
+    "end": 1095.42,
+    "text": "Do you know the Japanese film, Ran?"
+  },
+  {
+    "id": 253,
+    "start": 1095.98,
+    "end": 1097.48,
+    "text": "I haven't seen it."
+  },
+  {
+    "id": 254,
+    "start": 1097.92,
+    "end": 1101.08,
+    "text": "It was based on Shakespeare's King Lear, wasn't it?"
+  },
+  {
+    "id": 255,
+    "start": 1101.42,
+    "end": 1102.02,
+    "text": "That's right."
+  },
+  {
+    "id": 256,
+    "start": 1102.86,
+    "end": 1108.78,
+    "text": "It was a very loose adaptation using the same situation and story,"
+  },
+  {
+    "id": 257,
+    "start": 1109.3,
+    "end": 1115.48,
+    "text": "but moving it to 16th century Japan instead of 16th century Britain."
+  },
+  {
+    "id": 258,
+    "start": 1116.24,
+    "end": 1126.54,
+    "text": "So, for example, the King's daughters become sons because in Japanese culture at that time women couldn't succeed to the throne."
+  },
+  {
+    "id": 259,
+    "start": 1126.96,
+    "end": 1127.32,
+    "text": "Okay."
+  },
+  {
+    "id": 260,
+    "start": 1128.04,
+    "end": 1133.06,
+    "text": "I hope you're going to talk about the 1993 film of much ado about nothing."
+  },
+  {
+    "id": 261,
+    "start": 1133.76,
+    "end": 1136.84,
+    "text": "I think that's one of the best Shakespeare films."
+  },
+  {
+    "id": 262,
+    "start": 1137.3,
+    "end": 1139.96,
+    "text": "It really brings the play to life, doesn't it?"
+  },
+  {
+    "id": 263,
+    "start": 1140.1,
+    "end": 1141.16,
+    "text": "Yes, I agree."
+  },
+  {
+    "id": 264,
+    "start": 1141.98,
+    "end": 1149.7,
+    "text": "And I think filming it in Italy where the play is set makes you see what life was like at the time of the play."
+  },
+  {
+    "id": 265,
+    "start": 1149.96,
+    "end": 1152.82,
+    "text": "Absolutely. Right. What's next?"
+  },
+  {
+    "id": 266,
+    "start": 1153.44,
+    "end": 1161.92,
+    "text": "Next, I thought Romeo and Juliet, the 1996 film which moves the action into the present day."
+  },
+  {
+    "id": 267,
+    "start": 1162.16,
+    "end": 1169.32,
+    "text": "Yes, it worked really well, I thought, changing the two feuding families in the original"
+  },
+  {
+    "id": 268,
+    "start": 1169.88,
+    "end": 1175.76,
+    "text": "two competing business empires even though they're speaking in the English of the original play."
+  },
+  {
+    "id": 269,
+    "start": 1176.44,
+    "end": 1182.54,
+    "text": "You'd expect it would sound really bizarre, but I found I soon got used to it."
+  },
+  {
+    "id": 270,
+    "start": 1182.68,
+    "end": 1183.32,
+    "text": "Me too."
+  },
+  {
+    "id": 271,
+    "start": 1184.16,
+    "end": 1192.88,
+    "text": "Then I thought I'd include a real Hollywood film, one that's intended to appeal to a mass commercial audience."
+  },
+  {
+    "id": 272,
+    "start": 1193.42,
+    "end": 1195.22,
+    "text": "There must be quite a number of those."
+  },
+  {
+    "id": 273,
+    "start": 1195.88,
+    "end": 1200.94,
+    "text": "Yes, but I've picked the 1996 film of Hamlet."
+  },
+  {
+    "id": 274,
+    "start": 1201.6,
+    "end": 1208.66,
+    "text": "It included every line of the text, but it's more like a typical action hero movie."
+  },
+  {
+    "id": 275,
+    "start": 1209.2,
+    "end": 1214.92,
+    "text": "There are loads of special effects, but no unifying interpretation of the play."
+  },
+  {
+    "id": 276,
+    "start": 1215.44,
+    "end": 1217.22,
+    "text": "Or show a no substance."
+  },
+  {
+    "id": 277,
+    "start": 1217.62,
+    "end": 1218.1,
+    "text": "Exactly."
+  },
+  {
+    "id": 278,
+    "start": 1219.1,
+    "end": 1223.46,
+    "text": "Then there's Prospero's books based on the tempest."
+  },
+  {
+    "id": 279,
+    "start": 1224.02,
+    "end": 1227.8,
+    "text": "That was really innovative from a stylistic point of view."
+  },
+  {
+    "id": 280,
+    "start": 1228.2,
+    "end": 1233.16,
+    "text": "Didn't it include dance and singing and animation as well as live actors?"
+  },
+  {
+    "id": 281,
+    "start": 1233.56,
+    "end": 1234.34,
+    "text": "Yes, it did."
+  },
+  {
+    "id": 282,
+    "start": 1235.28,
+    "end": 1239.94,
+    "text": "I also want to mention looking for Richard. Did you ever see it?"
+  },
+  {
+    "id": 283,
+    "start": 1240.52,
+    "end": 1242.68,
+    "text": "No, but I've read about it."
+  },
+  {
+    "id": 284,
+    "start": 1243.22,
+    "end": 1248.26,
+    "text": "It was a blend of a documentary with a few scenes from Richard III, wasn't it?"
+  },
+  {
+    "id": 285,
+    "start": 1248.6,
+    "end": 1254.96,
+    "text": "That's right. It's more a way of looking into how people nowadays connect with the playwright."
+  },
+  {
+    "id": 286,
+    "start": 1255.78,
+    "end": 1260.94,
+    "text": "The play is really just the starting point, and that'll be where I finish."
+  },
+  {
+    "id": 287,
+    "start": 1261.52,
+    "end": 1264.14,
+    "text": "Well, it sounds as though it'll be very interesting."
+  },
+  {
+    "id": 288,
+    "start": 1267.64,
+    "end": 1269.48,
+    "text": "That is the end of section three."
+  },
+  {
+    "id": 289,
+    "start": 1271.5,
+    "end": 1274.58,
+    "text": "You now have half a minute to check your answers."
+  },
+  {
+    "id": 290,
+    "start": 1277.88,
+    "end": 1283.94,
+    "text": "Now turn to section four."
+  },
+  {
+    "id": 291,
+    "start": 1284.38,
+    "end": 1289.9,
+    "text": "Now turn to section four."
+  },
+  {
+    "id": 292,
+    "start": 1305.32,
+    "end": 1307.48,
+    "text": "Now turn to section four."
+  },
+  {
+    "id": 293,
+    "start": 1316.0,
+    "end": 1319.82,
+    "text": "You will hear part of a lecture about noise in cities."
+  },
+  {
+    "id": 294,
+    "start": 1321.82,
+    "end": 1326.42,
+    "text": "First, you have some time to look at questions 31 to 40."
+  },
+  {
+    "id": 295,
+    "start": 1342.88,
+    "end": 1344.5,
+    "text": "Thank you."
+  },
+  {
+    "id": 296,
+    "start": 1376.94,
+    "end": 1381.6,
+    "text": "Now listen carefully and answer questions 31 to 40."
+  },
+  {
+    "id": 297,
+    "start": 1385.04,
+    "end": 1393.44,
+    "text": "This lecture will be about the science of acoustics, the study of sound, in relation to urban environments such as cities."
+  },
+  {
+    "id": 298,
+    "start": 1394.64,
+    "end": 1401.0,
+    "text": "As an acoustic engineer myself, I think this is an area where we're likely to see great changes."
+  },
+  {
+    "id": 299,
+    "start": 1401.98,
+    "end": 1414.44,
+    "text": "In the past, researching urban soundscapes was simple. We measured levels of sound in decibels, so I used to take my sound meter, and I measured the noise somewhere,"
+  },
+  {
+    "id": 300,
+    "start": 1415.08,
+    "end": 1420.62,
+    "text": "and then I might ask a sample of people to say at what level the sound became annoying."
+  },
+  {
+    "id": 301,
+    "start": 1422.18,
+    "end": 1430.62,
+    "text": "With data like this, acoustic engineers have been able to build up what we call noise maps, maps of the sound environment."
+  },
+  {
+    "id": 302,
+    "start": 1431.56,
+    "end": 1439.84,
+    "text": "But actually, these aren't a lot of use. What they do show is that the highest noise levels are generally on roads."
+  },
+  {
+    "id": 303,
+    "start": 1440.96,
+    "end": 1452.82,
+    "text": "Well, that's not really very surprising. But there's quite a lot going on that these maps don't show, because they can't capture the complex way that sound varies over time."
+  },
+  {
+    "id": 304,
+    "start": 1453.94,
+    "end": 1461.44,
+    "text": "So they ignore important issues such as the noise someone might hear from the open windows or gardens of their neighbors."
+  },
+  {
+    "id": 305,
+    "start": 1462.66,
+    "end": 1470.02,
+    "text": "And this sort of noise can be quite significant in summer. We don't have any databases on this sort of information."
+  },
+  {
+    "id": 306,
+    "start": 1471.12,
+    "end": 1479.14,
+    "text": "As well as that, these records of sound levels take no account of the fact that people vary in their perceptions of noise."
+  },
+  {
+    "id": 307,
+    "start": 1480.1,
+    "end": 1486.1,
+    "text": "So someone like me with years of working in acoustics might be very different from you in that regard."
+  },
+  {
+    "id": 308,
+    "start": 1487.34,
+    "end": 1501.06,
+    "text": "But anyway, even though these noise maps are fairly crude, they've been useful in providing information and raising awareness that noise matters, we need to deal with it, and so it's a political matter."
+  },
+  {
+    "id": 309,
+    "start": 1501.88,
+    "end": 1509.08,
+    "text": "And that's important. We need rules and regulations, because noise can cause all sorts of problems."
+  },
+  {
+    "id": 310,
+    "start": 1510.54,
+    "end": 1518.74,
+    "text": "Those of you who are city dwellers know that things go on 24 hours a day, so city dwellers often suffer from interrupted sleep."
+  },
+  {
+    "id": 311,
+    "start": 1519.76,
+    "end": 1528.26,
+    "text": "It's also known that noise can lead to a rise in levels of stress, due to physical changes in the body affecting the composition of the blood."
+  },
+  {
+    "id": 312,
+    "start": 1529.2,
+    "end": 1536.84,
+    "text": "And there are other problems as well. For instance, if school children don't have a quiet place to study, their work will suffer."
+  },
+  {
+    "id": 313,
+    "start": 1538.74,
+    "end": 1544.7,
+    "text": "Now one problem with decibel measurement is that it doesn't differentiate between different types of noise."
+  },
+  {
+    "id": 314,
+    "start": 1545.82,
+    "end": 1553.78,
+    "text": "Some types of sounds that most people would probably think of as nice and relaxing might well score quite highly in decibel levels."
+  },
+  {
+    "id": 315,
+    "start": 1554.68,
+    "end": 1562.86,
+    "text": "Think of the sound made by a fountain in a town square, for example. That's not necessarily something that we'd want to control or reduce."
+  },
+  {
+    "id": 316,
+    "start": 1564.24,
+    "end": 1568.5,
+    "text": "So maybe researchers should consider these sorts of sounds in urban design."
+  },
+  {
+    "id": 317,
+    "start": 1569.76,
+    "end": 1575.16,
+    "text": "This is going to be tricky, because just measuring decibel levels isn't going to help us here."
+  },
+  {
+    "id": 318,
+    "start": 1575.6,
+    "end": 1585.48,
+    "text": "Instead, many researchers are using social science techniques, studying people's emotional response to sound by using questionnaires and so on."
+  },
+  {
+    "id": 319,
+    "start": 1590.86,
+    "end": 1594.52,
+    "text": "So what exactly do people want to hear in an urban environment?"
+  },
+  {
+    "id": 320,
+    "start": 1595.5,
+    "end": 1601.4,
+    "text": "Some recent interdisciplinary research has come out with results that at first sight seem contradictory."
+  },
+  {
+    "id": 321,
+    "start": 1602.72,
+    "end": 1612.1,
+    "text": "A city needs to have a sense of activity so it needs to be lively, with sounds like the clack of high heels on a pavement or the hiss of a coffee machine."
+  },
+  {
+    "id": 322,
+    "start": 1613.0,
+    "end": 1618.82,
+    "text": "But these mustn't be too intrusive, because at the same time we need to be able to relax."
+  },
+  {
+    "id": 323,
+    "start": 1620.8,
+    "end": 1626.72,
+    "text": "One of the major problems in achieving this will be getting architects and town planners to use the research."
+  },
+  {
+    "id": 324,
+    "start": 1627.88,
+    "end": 1633.46,
+    "text": "Apart from studying the basics of acoustics, these people receive very little training in this area."
+  },
+  {
+    "id": 325,
+    "start": 1634.38,
+    "end": 1640.44,
+    "text": "But in fact, they should be regarding sound as an opportunity to add to the experience of urban living."
+  },
+  {
+    "id": 326,
+    "start": 1641.02,
+    "end": 1651.04,
+    "text": "Whereas at present, they tend to see it as something to be avoided or reduced as far as possible, or something that's just a job for engineers like the street drainage system."
+  },
+  {
+    "id": 327,
+    "start": 1652.46,
+    "end": 1660.28,
+    "text": "What's needed is the noise in cities to be regarded as an aesthetic quality, as something that has the qualities of an art form."
+  },
+  {
+    "id": 328,
+    "start": 1661.12,
+    "end": 1667.58,
+    "text": "If we acknowledge this, then we urgently need to know what governs it and how designers can work with it."
+  },
+  {
+    "id": 329,
+    "start": 1668.68,
+    "end": 1672.04,
+    "text": "We need to develop a complex understanding of many factors."
+  },
+  {
+    "id": 330,
+    "start": 1673.4,
+    "end": 1676.66,
+    "text": "What is the relationship between sound and culture?"
+  },
+  {
+    "id": 331,
+    "start": 1677.76,
+    "end": 1685.38,
+    "text": "What can we learn from disciplines such as psychology about the way that sound interacts with human development and social relationships?"
+  },
+  {
+    "id": 332,
+    "start": 1686.26,
+    "end": 1689.14,
+    "text": "And the way that sound affects our thoughts and feelings?"
+  },
+  {
+    "id": 333,
+    "start": 1690.3,
+    "end": 1694.2,
+    "text": "Can we learn anything from physics about the nature of sound itself?"
+  },
+  {
+    "id": 334,
+    "start": 1695.74,
+    "end": 1698.68,
+    "text": "Today's powerful technologies can also help us."
+  },
+  {
+    "id": 335,
+    "start": 1699.34,
+    "end": 1707.86,
+    "text": "To show us their ideas and help us to imagine the effect their buildings will have, architects and town planners already use virtual reality."
+  },
+  {
+    "id": 336,
+    "start": 1708.68,
+    "end": 1710.48,
+    "text": "But these programs are silent."
+  },
+  {
+    "id": 337,
+    "start": 1711.54,
+    "end": 1719.16,
+    "text": "In the future, such programs could use realistic sounds, meaning that sound scapes could be explored before being built."
+  },
+  {
+    "id": 338,
+    "start": 1720.02,
+    "end": 1729.12,
+    "text": "So hopefully, using the best technology we can lay our hands on, the city of the future will be a pleasure to the ears, as well as the eyes."
+  },
+  {
+    "id": 339,
+    "start": 1733.48,
+    "end": 1735.34,
+    "text": "That is the end of section 4."
+  },
+  {
+    "id": 340,
+    "start": 1737.04,
+    "end": 1740.18,
+    "text": "You now have half a minute to check your answers."
+  },
+  {
+    "id": 341,
+    "start": 1749.88,
+    "end": 1772.72,
+    "text": "That is the end of the listening test."
+  },
+  {
+    "id": 342,
+    "start": 1773.44,
+    "end": 1781.66,
+    "text": "In the IELTS test, you would now have 10 minutes to transfer your answers to the answer sheet."
+  }
+]

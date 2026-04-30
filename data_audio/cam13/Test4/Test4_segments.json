@@ -1,0 +1,1514 @@
+[
+  {
+    "id": 0,
+    "start": 0.2,
+    "end": 0.84,
+    "text": "Test 4"
+  },
+  {
+    "id": 1,
+    "start": 3.16,
+    "end": 5.32,
+    "text": "You will hear a number of different recordings"
+  },
+  {
+    "id": 2,
+    "start": 6.08,
+    "end": 9.1,
+    "text": "and you will have to answer questions on what you hear."
+  },
+  {
+    "id": 3,
+    "start": 10.86,
+    "end": 14.04,
+    "text": "There will be time for you to read the instructions and questions"
+  },
+  {
+    "id": 4,
+    "start": 15.0,
+    "end": 17.34,
+    "text": "and you will have a chance to check your work."
+  },
+  {
+    "id": 5,
+    "start": 18.96,
+    "end": 22.04,
+    "text": "All the recordings will be played once only."
+  },
+  {
+    "id": 6,
+    "start": 23.9,
+    "end": 25.92,
+    "text": "The test is in four sections."
+  },
+  {
+    "id": 7,
+    "start": 27.86,
+    "end": 33.72,
+    "text": "At the end of the test, you will be given ten minutes to transfer your answers to an answer sheet."
+  },
+  {
+    "id": 8,
+    "start": 36.16,
+    "end": 38.02,
+    "text": "Now turn to section 1."
+  },
+  {
+    "id": 9,
+    "start": 43.66,
+    "end": 44.4,
+    "text": "Section 1"
+  },
+  {
+    "id": 10,
+    "start": 46.18,
+    "end": 52.38,
+    "text": "You will hear a phone conversation between Alex, an employee at a company called JPNW"
+  },
+  {
+    "id": 11,
+    "start": 52.46,
+    "end": 56.5,
+    "text": "and Martha who wants to work as a trainee at the company."
+  },
+  {
+    "id": 12,
+    "start": 58.1,
+    "end": 62.12,
+    "text": "First, you have some time to look at questions 1 to 7."
+  },
+  {
+    "id": 13,
+    "start": 82.86,
+    "end": 86.16,
+    "text": "You will see that there is an example that has been done for you."
+  },
+  {
+    "id": 14,
+    "start": 88.5,
+    "end": 92.6,
+    "text": "On this occasion only, the conversation relating to this will be played first."
+  },
+  {
+    "id": 15,
+    "start": 100.48,
+    "end": 100.52,
+    "text": "Hi, Alex."
+  },
+  {
+    "id": 16,
+    "start": 101.5,
+    "end": 106.56,
+    "text": "You will see that there is an example that has been done for you."
+  },
+  {
+    "id": 17,
+    "start": 106.56,
+    "end": 107.44,
+    "text": "This will be played first."
+  },
+  {
+    "id": 18,
+    "start": 111.08,
+    "end": 116.58,
+    "text": "Hi, Alex. It's Martha Klein's here. James White gave me your number."
+  },
+  {
+    "id": 19,
+    "start": 117.08,
+    "end": 118.8,
+    "text": "I hope you don't mind me calling you."
+  },
+  {
+    "id": 20,
+    "start": 119.34,
+    "end": 121.18,
+    "text": "Of course not. How are you, Martha?"
+  },
+  {
+    "id": 21,
+    "start": 121.9,
+    "end": 125.82,
+    "text": "Good, thanks. I'm rigging because I need a bit of advice."
+  },
+  {
+    "id": 22,
+    "start": 126.6,
+    "end": 127.52,
+    "text": "Oh yeah, what about?"
+  },
+  {
+    "id": 23,
+    "start": 128.5,
+    "end": 133.68,
+    "text": "The training you did at JPNW a few years ago. I'm applying for the same thing."
+  },
+  {
+    "id": 24,
+    "start": 134.0,
+    "end": 139.76,
+    "text": "Oh right, yes, I did mine in 2014. Best thing I ever did, I'm still working there."
+  },
+  {
+    "id": 25,
+    "start": 143.28,
+    "end": 145.62,
+    "text": "Alex did his training in 2014."
+  },
+  {
+    "id": 26,
+    "start": 147.0,
+    "end": 150.38,
+    "text": "So 2014 has been written in the space."
+  },
+  {
+    "id": 27,
+    "start": 152.54,
+    "end": 153.46,
+    "text": "Now we shall begin."
+  },
+  {
+    "id": 28,
+    "start": 155.04,
+    "end": 160.88,
+    "text": "You should answer the questions as you listen because you will not hear the recording a second time."
+  },
+  {
+    "id": 29,
+    "start": 163.08,
+    "end": 166.64,
+    "text": "Listen carefully and answer questions one to seven."
+  },
+  {
+    "id": 30,
+    "start": 170.18,
+    "end": 175.72,
+    "text": "Hi, Alex. It's Martha Klein's here. James White gave me your number."
+  },
+  {
+    "id": 31,
+    "start": 176.18,
+    "end": 177.92,
+    "text": "I hope you don't mind me calling you."
+  },
+  {
+    "id": 32,
+    "start": 178.48,
+    "end": 180.26,
+    "text": "Of course not. How are you, Martha?"
+  },
+  {
+    "id": 33,
+    "start": 181.0,
+    "end": 184.94,
+    "text": "Good, thanks. I'm rigging because I need a bit of advice."
+  },
+  {
+    "id": 34,
+    "start": 185.7,
+    "end": 186.62,
+    "text": "Oh yeah, what about?"
+  },
+  {
+    "id": 35,
+    "start": 187.14,
+    "end": 192.76,
+    "text": "The training you did at JPNW a few years ago, I'm applying for the same thing."
+  },
+  {
+    "id": 36,
+    "start": 193.12,
+    "end": 198.9,
+    "text": "Oh right, yes, I did mine in 2014. Best thing I ever did, I'm still working there."
+  },
+  {
+    "id": 37,
+    "start": 199.08,
+    "end": 201.22,
+    "text": "Really? What are you doing?"
+  },
+  {
+    "id": 38,
+    "start": 201.8,
+    "end": 206.94,
+    "text": "Well, now I work in the customer services department, but I did my initial training in finance."
+  },
+  {
+    "id": 39,
+    "start": 207.6,
+    "end": 211.2,
+    "text": "I stayed there for the first two years and then moved to where I am now."
+  },
+  {
+    "id": 40,
+    "start": 211.52,
+    "end": 215.64,
+    "text": "That's the same department I'm applying for. Did you enjoy it?"
+  },
+  {
+    "id": 41,
+    "start": 216.1,
+    "end": 222.84,
+    "text": "I was pretty nervous to begin with. I didn't do well in my exams at school and I was really worried because I failed maths."
+  },
+  {
+    "id": 42,
+    "start": 223.38,
+    "end": 226.82,
+    "text": "But it didn't actually matter because I did lots of courses on the job."
+  },
+  {
+    "id": 43,
+    "start": 227.36,
+    "end": 230.38,
+    "text": "Did you get a diploma at the end of your trainee period?"
+  },
+  {
+    "id": 44,
+    "start": 231.1,
+    "end": 233.18,
+    "text": "I'm hoping to do the one in business skills."
+  },
+  {
+    "id": 45,
+    "start": 233.8,
+    "end": 238.98,
+    "text": "Yes, that sounds good. I took the one on IT skills, but I wish I'd done that one instead."
+  },
+  {
+    "id": 46,
+    "start": 239.52,
+    "end": 241.14,
+    "text": "Okay, that's good to know."
+  },
+  {
+    "id": 47,
+    "start": 242.16,
+    "end": 246.2,
+    "text": "What about the other trainees? How did you get on with them?"
+  },
+  {
+    "id": 48,
+    "start": 246.9,
+    "end": 252.18,
+    "text": "There were about 20 of us who started at the same time and we were all around the same age."
+  },
+  {
+    "id": 49,
+    "start": 252.62,
+    "end": 257.12,
+    "text": "I was 18 and there was only one person younger than me who was 17."
+  },
+  {
+    "id": 50,
+    "start": 257.9,
+    "end": 261.76,
+    "text": "The rest were between 18 and 20. I made some good friends."
+  },
+  {
+    "id": 51,
+    "start": 262.26,
+    "end": 265.68,
+    "text": "I've had lots of good things about the training at JPNW."
+  },
+  {
+    "id": 52,
+    "start": 266.54,
+    "end": 269.16,
+    "text": "It seems like there are a lot of opportunities there."
+  },
+  {
+    "id": 53,
+    "start": 269.64,
+    "end": 275.16,
+    "text": "Definitely. Because of its size, you can work in loads of different areas within the organisation."
+  },
+  {
+    "id": 54,
+    "start": 275.86,
+    "end": 281.02,
+    "text": "What about pay? I know you get a lower minimum wage than regular employees."
+  },
+  {
+    "id": 55,
+    "start": 281.64,
+    "end": 286.34,
+    "text": "That's right, which isn't great. But you get the same number of days holidays everyone else."
+  },
+  {
+    "id": 56,
+    "start": 286.96,
+    "end": 291.1,
+    "text": "And the pay goes up massively if they offer you a job at the end of the training period."
+  },
+  {
+    "id": 57,
+    "start": 291.54,
+    "end": 297.08,
+    "text": "Yeah, but I'm not doing it for the money. It's the experience I think will be really useful."
+  },
+  {
+    "id": 58,
+    "start": 297.94,
+    "end": 301.36,
+    "text": "Everyone says by the end of the year you gained so much confidence."
+  },
+  {
+    "id": 59,
+    "start": 302.1,
+    "end": 304.68,
+    "text": "You're right, that's the most useful part about it."
+  },
+  {
+    "id": 60,
+    "start": 305.38,
+    "end": 309.42,
+    "text": "There's a lot of variety too. You're given lots of different things to do."
+  },
+  {
+    "id": 61,
+    "start": 310.0,
+    "end": 312.68,
+    "text": "I enjoyed it all. I didn't even mind the studying."
+  },
+  {
+    "id": 62,
+    "start": 313.2,
+    "end": 315.02,
+    "text": "Do you have to spend any time in college?"
+  },
+  {
+    "id": 63,
+    "start": 315.62,
+    "end": 320.9,
+    "text": "Yes, one day each month. So you get lots of support from both your tutor and your manager."
+  },
+  {
+    "id": 64,
+    "start": 321.46,
+    "end": 326.02,
+    "text": "That's good. And the company is easy to get to, isn't it?"
+  },
+  {
+    "id": 65,
+    "start": 326.34,
+    "end": 330.78,
+    "text": "Yes, it's very close to the train station, so the locations are real advantage."
+  },
+  {
+    "id": 66,
+    "start": 332.5,
+    "end": 340.28,
+    "text": "Before you hear the rest of the phone conversation, you have some time to look at questions 8 to 10."
+  },
+  {
+    "id": 67,
+    "start": 341.0,
+    "end": 359.18,
+    "text": "Now listen and answer questions 8 to 10."
+  },
+  {
+    "id": 68,
+    "start": 362.74,
+    "end": 364.82,
+    "text": "Have you got a date for your interview yet?"
+  },
+  {
+    "id": 69,
+    "start": 365.14,
+    "end": 367.88,
+    "text": "Yes, it's on the 23rd of this month."
+  },
+  {
+    "id": 70,
+    "start": 368.36,
+    "end": 372.88,
+    "text": "So long as you're well prepared, there's nothing to worry about. Everyone's very friendly."
+  },
+  {
+    "id": 71,
+    "start": 373.4,
+    "end": 377.28,
+    "text": "I am not sure what I should wear. What do you think?"
+  },
+  {
+    "id": 72,
+    "start": 378.02,
+    "end": 385.14,
+    "text": "Nothing too casual, like jeans, for example. If you've got a nice jacket, wear that with a skirt or trousers."
+  },
+  {
+    "id": 73,
+    "start": 385.64,
+    "end": 388.66,
+    "text": "Okay, thanks. Any other tips?"
+  },
+  {
+    "id": 74,
+    "start": 389.4,
+    "end": 395.42,
+    "text": "Well, I know it's really obvious, but arrive in plenty of time. They hate people who are late."
+  },
+  {
+    "id": 75,
+    "start": 396.1,
+    "end": 405.54,
+    "text": "So make sure you know exactly where you have to get to. And one other useful piece of advice my manager told me before I had the interview for this job is to smile."
+  },
+  {
+    "id": 76,
+    "start": 406.18,
+    "end": 410.04,
+    "text": "Even if you feel terrified, it makes people respond better to you."
+  },
+  {
+    "id": 77,
+    "start": 410.16,
+    "end": 412.98,
+    "text": "I'll have to practice doing that in the mirror."
+  },
+  {
+    "id": 78,
+    "start": 413.7,
+    "end": 417.66,
+    "text": "Yeah, well, good luck. Let me know if you need any more information."
+  },
+  {
+    "id": 79,
+    "start": 417.98,
+    "end": 419.1,
+    "text": "Thanks very much."
+  },
+  {
+    "id": 80,
+    "start": 422.52,
+    "end": 424.22,
+    "text": "That is the end of section one."
+  },
+  {
+    "id": 81,
+    "start": 425.94,
+    "end": 428.9,
+    "text": "You now have half a minute to check your answers."
+  },
+  {
+    "id": 82,
+    "start": 452.0,
+    "end": 456.0,
+    "text": "Now turn to section two."
+  },
+  {
+    "id": 83,
+    "start": 460.76,
+    "end": 461.48,
+    "text": "Section two."
+  },
+  {
+    "id": 84,
+    "start": 469.52,
+    "end": 476.96,
+    "text": "You will hear a woman called Annie who works at the Snow Center in New Zealand welcoming a group of visitors to the center."
+  },
+  {
+    "id": 85,
+    "start": 478.74,
+    "end": 483.0,
+    "text": "First, you have some time to look at questions 11 to 16."
+  },
+  {
+    "id": 86,
+    "start": 508.0,
+    "end": 514.4,
+    "text": "Now listen carefully and answer questions 11 to 16."
+  },
+  {
+    "id": 87,
+    "start": 517.48,
+    "end": 521.08,
+    "text": "Hi everyone. Welcome to the Snow Center."
+  },
+  {
+    "id": 88,
+    "start": 528.0,
+    "end": 537.3,
+    "text": "My name is Annie. I hope you enjoyed the bus trip from the airport. We've certainly got plenty of snow today."
+  },
+  {
+    "id": 89,
+    "start": 541.5,
+    "end": 543.96,
+    "text": "Well, you've come to New Zealand's premier snow and ski centre. And we've a whole lot of fun."
+  },
+  {
+    "id": 90,
+    "start": 557.16,
+    "end": 560.28,
+    "text": "We've got a whole lot of activities for you during your week here."
+  },
+  {
+    "id": 91,
+    "start": 561.38,
+    "end": 569.92,
+    "text": "Most visitors come here for the cross country skiing where you're on fairly flat ground for most of the time rather than going down steep mountain sides."
+  },
+  {
+    "id": 92,
+    "start": 570.76,
+    "end": 577.66,
+    "text": "There are marked trails but you can also leave these and go off on your own and that's an experience not to be missed."
+  },
+  {
+    "id": 93,
+    "start": 578.48,
+    "end": 589.48,
+    "text": "You can go at your own speed. It's great aerobic exercise if you really push yourself or if you prefer you can just glide gently along and enjoy the beautiful scenery."
+  },
+  {
+    "id": 94,
+    "start": 591.66,
+    "end": 599.86,
+    "text": "This afternoon you'll be going on a dog sled trip. You may have seen our dogs on TV recently racing in the Winter Sled Festival."
+  },
+  {
+    "id": 95,
+    "start": 600.18,
+    "end": 607.92,
+    "text": "If you want you can have your own team for the afternoon and learn how to drive them following behind our leader on the trail."
+  },
+  {
+    "id": 96,
+    "start": 608.68,
+    "end": 613.22,
+    "text": "Or if you'd prefer you can just sit back in the sled and enjoy the ride as a passenger."
+  },
+  {
+    "id": 97,
+    "start": 614.74,
+    "end": 619.08,
+    "text": "At the weekend we have the team relay event and you're all welcome to join in."
+  },
+  {
+    "id": 98,
+    "start": 620.0,
+    "end": 624.54,
+    "text": "We have a local school coming along and a lot of the teachers are taking part too."
+  },
+  {
+    "id": 99,
+    "start": 625.58,
+    "end": 631.26,
+    "text": "Participation rather than winning is the main focus and there's a medal for everyone who takes part."
+  },
+  {
+    "id": 100,
+    "start": 632.4,
+    "end": 638.04,
+    "text": "Participants are in teams of 2-4 and each team must complete four laps of the course."
+  },
+  {
+    "id": 101,
+    "start": 639.38,
+    "end": 646.88,
+    "text": "For your final expedition you'll head off to Mount Frenner wearing a pair of special snow shoes which allow you to walk on top of the snow."
+  },
+  {
+    "id": 102,
+    "start": 647.98,
+    "end": 654.06,
+    "text": "This is an area where mine is once searched for gold though there are very few traces of their work left now."
+  },
+  {
+    "id": 103,
+    "start": 655.18,
+    "end": 659.36,
+    "text": "When the snow melts in summer the mountain slopes are carpeted in flowers and plants."
+  },
+  {
+    "id": 104,
+    "start": 660.32,
+    "end": 667.06,
+    "text": "It's a long ascent though not too steep and walkers generally take a couple of days to get to the summit and return."
+  },
+  {
+    "id": 105,
+    "start": 668.64,
+    "end": 674.0,
+    "text": "You'll spend the night in our hut halfway up the mountain that's included in your package for the stay."
+  },
+  {
+    "id": 106,
+    "start": 674.82,
+    "end": 678.18,
+    "text": "It's got cooking facilities, firewood and water for drinking."
+  },
+  {
+    "id": 107,
+    "start": 679.08,
+    "end": 683.5,
+    "text": "For washing we recommend you use melted snow though to conserve supplies."
+  },
+  {
+    "id": 108,
+    "start": 684.88,
+    "end": 689.42,
+    "text": "We can take your luggage up on our snowmobile for you for just $10 a person."
+  },
+  {
+    "id": 109,
+    "start": 690.24,
+    "end": 696.28,
+    "text": "The hut has cooking facilities so you can make a hot meal in the evening and morning but you need to take your own food."
+  },
+  {
+    "id": 110,
+    "start": 697.34,
+    "end": 704.42,
+    "text": "The weather on Mount Frenner can be very stormy. In that case stay in the hut. Generally the storms don't last long."
+  },
+  {
+    "id": 111,
+    "start": 705.22,
+    "end": 711.6,
+    "text": "Don't stress about getting back here to the centre in time to catch the airport bus. They'll probably not be running anyway."
+  },
+  {
+    "id": 112,
+    "start": 712.54,
+    "end": 720.1,
+    "text": "We do have an emergency locator beacon in the hut but only use that if it's a real emergency like if someone's ill or injured."
+  },
+  {
+    "id": 113,
+    "start": 720.1,
+    "end": 727.52,
+    "text": "Before you hear the rest of the talk you have some time to look at questions 17 to 20."
+  },
+  {
+    "id": 114,
+    "start": 727.52,
+    "end": 729.12,
+    "text": "Now listen and answer questions 17 to 20."
+  },
+  {
+    "id": 115,
+    "start": 757.0,
+    "end": 762.5,
+    "text": "Now let me tell you something about the different ski trails you can follow during your stay here."
+  },
+  {
+    "id": 116,
+    "start": 763.7,
+    "end": 777.46,
+    "text": "Highland trails directly accessible from where we are now. This trail has been designed to give first timers an experience they'll enjoy regardless of their age or skill but it's also ideal for experts to practice their technique."
+  },
+  {
+    "id": 117,
+    "start": 779.04,
+    "end": 793.44,
+    "text": "Then there's Pine Trail. If you're nervous about skiing leave this one to the experts. You follow a steep valley looking right down on the river below. Scary but if you fully master the techniques needed for hills it's great fun."
+  },
+  {
+    "id": 118,
+    "start": 795.2,
+    "end": 803.2,
+    "text": "Stoney Trail is a good choice once you've got a general idea of the basics. There are one or two tricky sections but nothing too challenging."
+  },
+  {
+    "id": 119,
+    "start": 804.14,
+    "end": 809.04,
+    "text": "There's a shelter halfway where you can sit and take a break and enjoy the afternoon sunshine."
+  },
+  {
+    "id": 120,
+    "start": 810.64,
+    "end": 820.62,
+    "text": "And finally, Loser's Trail. This starts off following a gentle river valley but the last part is quite exposed so the snow conditions can be challenging."
+  },
+  {
+    "id": 121,
+    "start": 821.34,
+    "end": 827.1,
+    "text": "Effort snowing or windy check with us before you sit out to make sure the trails open that day."
+  },
+  {
+    "id": 122,
+    "start": 828.74,
+    "end": 831.86,
+    "text": "Right so now if you'd like to follow me we'll get started."
+  },
+  {
+    "id": 123,
+    "start": 835.3,
+    "end": 841.46,
+    "text": "That is the end of section 2. You now have half a minute to check your answers."
+  },
+  {
+    "id": 124,
+    "start": 851.0,
+    "end": 874.14,
+    "text": "Now turn to section 3."
+  },
+  {
+    "id": 125,
+    "start": 882.18,
+    "end": 890.78,
+    "text": "You will hear two students called Jack and Alice discussing food labels that give information on the nutritional value of foods."
+  },
+  {
+    "id": 126,
+    "start": 892.86,
+    "end": 897.28,
+    "text": "First you have some time to look at questions 21 to 26."
+  },
+  {
+    "id": 127,
+    "start": 909.0,
+    "end": 910.4,
+    "text": "Thank you."
+  },
+  {
+    "id": 128,
+    "start": 942.94,
+    "end": 947.54,
+    "text": "Now listen carefully and answer questions 21 to 26."
+  },
+  {
+    "id": 129,
+    "start": 951.3,
+    "end": 955.36,
+    "text": "I still got loads to do for our report on nutritional food labels."
+  },
+  {
+    "id": 130,
+    "start": 956.26,
+    "end": 961.38,
+    "text": "Me too. What did you learn from doing the project about your own shopping habits?"
+  },
+  {
+    "id": 131,
+    "start": 962.62,
+    "end": 968.68,
+    "text": "Well I've always had to check labels for traces of peanuts and everything I eat because of my allergy."
+  },
+  {
+    "id": 132,
+    "start": 969.56,
+    "end": 975.0,
+    "text": "But beyond that I've never really been concerned enough to check how healthy a product is."
+  },
+  {
+    "id": 133,
+    "start": 976.04,
+    "end": 980.22,
+    "text": "This project has actually taught me to read the labels much more carefully."
+  },
+  {
+    "id": 134,
+    "start": 981.12,
+    "end": 985.56,
+    "text": "I tended to believe claims on packaging like low in fat."
+  },
+  {
+    "id": 135,
+    "start": 986.36,
+    "end": 995.26,
+    "text": "But I now realise that the healthy yogurt I've bought for years is full of sugar and that it's actually quite high in calories."
+  },
+  {
+    "id": 136,
+    "start": 996.34,
+    "end": 997.62,
+    "text": "Ready meals are the worst."
+  },
+  {
+    "id": 137,
+    "start": 998.4,
+    "end": 1002.7,
+    "text": "Comparing the labels on supermarket pizzas was a real eye opener."
+  },
+  {
+    "id": 138,
+    "start": 1003.66,
+    "end": 1007.82,
+    "text": "Did you have any idea how many calories they contain? I was amazed."
+  },
+  {
+    "id": 139,
+    "start": 1008.44,
+    "end": 1017.52,
+    "text": "Yes, because unless you read the label really carefully you wouldn't know that the nutritional values given are for half a pizza."
+  },
+  {
+    "id": 140,
+    "start": 1018.04,
+    "end": 1022.42,
+    "text": "When most people eat the whole pizza, not exactly transparent is it?"
+  },
+  {
+    "id": 141,
+    "start": 1022.68,
+    "end": 1027.92,
+    "text": "Not at all. But I expect it won't stop you from buying pizza."
+  },
+  {
+    "id": 142,
+    "start": 1028.18,
+    "end": 1029.08,
+    "text": "Probably not now."
+  },
+  {
+    "id": 143,
+    "start": 1030.06,
+    "end": 1035.46,
+    "text": "I thought comparing the different labeling systems used by food manufacturers was interesting."
+  },
+  {
+    "id": 144,
+    "start": 1036.5,
+    "end": 1040.04,
+    "text": "I think the kind of labeling system used makes a big difference."
+  },
+  {
+    "id": 145,
+    "start": 1040.9,
+    "end": 1042.12,
+    "text": "Which one did you prefer?"
+  },
+  {
+    "id": 146,
+    "start": 1042.78,
+    "end": 1053.86,
+    "text": "I like the traditional daily value system best, the one which tells you what proportion of your required daily intake of each ingredient the product contains."
+  },
+  {
+    "id": 147,
+    "start": 1055.22,
+    "end": 1059.76,
+    "text": "I'm not sure it's the easiest for people to use but at least you get the full story."
+  },
+  {
+    "id": 148,
+    "start": 1060.62,
+    "end": 1066.76,
+    "text": "I like to know all the ingredients in a product, not just how much fat, salt and sugar they contain."
+  },
+  {
+    "id": 149,
+    "start": 1067.82,
+    "end": 1074.02,
+    "text": "But it's good supermarkets have been making an effort to provide reliable information for customers."
+  },
+  {
+    "id": 150,
+    "start": 1074.38,
+    "end": 1083.16,
+    "text": "Yes, there just needs to be more consistency between labeling systems used by different supermarkets in terms of portion sizes etc."
+  },
+  {
+    "id": 151,
+    "start": 1085.28,
+    "end": 1090.8,
+    "text": "The labels on the different brands of chicken flavor crisps were quite revealing too, weren't they?"
+  },
+  {
+    "id": 152,
+    "start": 1091.5,
+    "end": 1099.56,
+    "text": "Yeah, I don't understand how they can get away with calling them chicken flavor when they only contain artificial additives."
+  },
+  {
+    "id": 153,
+    "start": 1100.06,
+    "end": 1106.14,
+    "text": "I know. I'd at least have expected them to contain a small percentage of real chicken."
+  },
+  {
+    "id": 154,
+    "start": 1106.4,
+    "end": 1107.0,
+    "text": "Absolutely."
+  },
+  {
+    "id": 155,
+    "start": 1108.0,
+    "end": 1111.92,
+    "text": "I think having nutritional food labeling has been a good idea, don't you?"
+  },
+  {
+    "id": 156,
+    "start": 1112.66,
+    "end": 1118.74,
+    "text": "I think it will change people's behaviour and stop mothers in particular buying the wrong things."
+  },
+  {
+    "id": 157,
+    "start": 1119.76,
+    "end": 1126.7,
+    "text": "But didn't that study kind of prove the opposite? People didn't necessarily stop buying unhealthy products."
+  },
+  {
+    "id": 158,
+    "start": 1127.64,
+    "end": 1135.6,
+    "text": "They only said that might be the case. Those findings weren't that conclusive and it was quite a small scale study."
+  },
+  {
+    "id": 159,
+    "start": 1136.32,
+    "end": 1138.48,
+    "text": "I think more research has to be done."
+  },
+  {
+    "id": 160,
+    "start": 1138.88,
+    "end": 1140.32,
+    "text": "Yes, I think you're probably right."
+  },
+  {
+    "id": 161,
+    "start": 1143.78,
+    "end": 1149.82,
+    "text": "Before you hear the rest of the discussion, you have some time to look at questions 27-30."
+  },
+  {
+    "id": 162,
+    "start": 1170.26,
+    "end": 1174.22,
+    "text": "Now listen and answer questions 27-30."
+  },
+  {
+    "id": 163,
+    "start": 1177.7,
+    "end": 1180.02,
+    "text": "What do you think of the traffic light system?"
+  },
+  {
+    "id": 164,
+    "start": 1181.22,
+    "end": 1190.96,
+    "text": "I think supermarkets like the idea of having a colour-coded system, red, orange or green for levels of fat, sugar and salt in a product."
+  },
+  {
+    "id": 165,
+    "start": 1191.14,
+    "end": 1197.18,
+    "text": "But it's not been adopted universally and not on all products. Why do you suppose that is?"
+  },
+  {
+    "id": 166,
+    "start": 1198.02,
+    "end": 1206.12,
+    "text": "Pressure from the food manufacturers, hardly surprising that some of them are opposed to flagging up how unhealthy their products are."
+  },
+  {
+    "id": 167,
+    "start": 1207.06,
+    "end": 1210.92,
+    "text": "I'd have thought it would have been compulsory. It seems ridiculous it isn't."
+  },
+  {
+    "id": 168,
+    "start": 1211.36,
+    "end": 1217.58,
+    "text": "I know. And what I couldn't get over is the fact that it was brought in without enough consultation."
+  },
+  {
+    "id": 169,
+    "start": 1218.38,
+    "end": 1221.4,
+    "text": "A lot of experts had deep reservations about it."
+  },
+  {
+    "id": 170,
+    "start": 1222.06,
+    "end": 1222.94,
+    "text": "That is a bit weird."
+  },
+  {
+    "id": 171,
+    "start": 1224.06,
+    "end": 1229.64,
+    "text": "I suppose there's an argument for doing the research now when consumers are familiar with this system."
+  },
+  {
+    "id": 172,
+    "start": 1230.42,
+    "end": 1231.26,
+    "text": "Yeah, maybe."
+  },
+  {
+    "id": 173,
+    "start": 1232.06,
+    "end": 1236.18,
+    "text": "The participants in the survey were quite positive about the traffic light system."
+  },
+  {
+    "id": 174,
+    "start": 1236.74,
+    "end": 1237.08,
+    "text": "Hmm."
+  },
+  {
+    "id": 175,
+    "start": 1238.04,
+    "end": 1240.76,
+    "text": "But I don't think they targeted the right people."
+  },
+  {
+    "id": 176,
+    "start": 1241.54,
+    "end": 1248.18,
+    "text": "They should have focused on people with low literacy levels because these labels are designed to be accessible to them."
+  },
+  {
+    "id": 177,
+    "start": 1248.36,
+    "end": 1255.82,
+    "text": "Yeah. But it's good to get feedback from all socio-economic groups. And there wasn't much variation in their responses."
+  },
+  {
+    "id": 178,
+    "start": 1256.54,
+    "end": 1263.78,
+    "text": "No. But if they hadn't interviewed participants face to face, they could have used a much bigger sample size."
+  },
+  {
+    "id": 179,
+    "start": 1264.58,
+    "end": 1266.3,
+    "text": "I wonder why they chose that method."
+  },
+  {
+    "id": 180,
+    "start": 1267.18,
+    "end": 1272.34,
+    "text": "Do know. How were they selected? Did they volunteer or were they approached?"
+  },
+  {
+    "id": 181,
+    "start": 1272.94,
+    "end": 1278.98,
+    "text": "I think they volunteered. The thing that wasn't stated was how often they bought packaged food."
+  },
+  {
+    "id": 182,
+    "start": 1279.62,
+    "end": 1282.58,
+    "text": "All we know is how frequently they use the supermarket."
+  },
+  {
+    "id": 183,
+    "start": 1285.96,
+    "end": 1287.8,
+    "text": "That is the end of section three."
+  },
+  {
+    "id": 184,
+    "start": 1289.42,
+    "end": 1292.38,
+    "text": "You now have half a minute to check your answers."
+  },
+  {
+    "id": 185,
+    "start": 1297.0,
+    "end": 1301.42,
+    "text": "Now turn to section four."
+  },
+  {
+    "id": 186,
+    "start": 1307.0,
+    "end": 1325.06,
+    "text": "Now turn to section four."
+  },
+  {
+    "id": 187,
+    "start": 1330.62,
+    "end": 1331.44,
+    "text": "Section four."
+  },
+  {
+    "id": 188,
+    "start": 1333.22,
+    "end": 1338.44,
+    "text": "You will hear part of a presentation by a history student about the history of coffee."
+  },
+  {
+    "id": 189,
+    "start": 1340.22,
+    "end": 1344.4,
+    "text": "First, you have some time to look at questions 31 to 40."
+  },
+  {
+    "id": 190,
+    "start": 1360.06,
+    "end": 1361.42,
+    "text": "Thank you."
+  },
+  {
+    "id": 191,
+    "start": 1390.0,
+    "end": 1399.14,
+    "text": "Now listen carefully and answer questions 31 to 40."
+  },
+  {
+    "id": 192,
+    "start": 1402.62,
+    "end": 1410.1,
+    "text": "In my presentation, I'm going to talk about coffee and its importance both in economic and social terms."
+  },
+  {
+    "id": 193,
+    "start": 1411.32,
+    "end": 1419.08,
+    "text": "We think it was first drunk in the Arab world, but there's hardly any documentary evidence of it before the 1500s,"
+  },
+  {
+    "id": 194,
+    "start": 1419.72,
+    "end": 1423.66,
+    "text": "although of course that doesn't mean that people didn't know about it before then."
+  },
+  {
+    "id": 195,
+    "start": 1424.92,
+    "end": 1433.4,
+    "text": "However, there is evidence that coffee was originally gathered from bushes growing wild in Ethiopia, in the northeast of Africa."
+  },
+  {
+    "id": 196,
+    "start": 1434.86,
+    "end": 1443.82,
+    "text": "In the early 16th century, it was being bought by traders, and gradually its use as a drink spread throughout the Middle East."
+  },
+  {
+    "id": 197,
+    "start": 1445.16,
+    "end": 1453.4,
+    "text": "It's also known that in 1522 in the Turkish city of Constantinople, which was the centre of the Ottoman Empire,"
+  },
+  {
+    "id": 198,
+    "start": 1454.08,
+    "end": 1457.04,
+    "text": "the court physician approved its use as a medicine."
+  },
+  {
+    "id": 199,
+    "start": 1459.14,
+    "end": 1465.98,
+    "text": "By the mid-1500s, coffee bushes were being cultivated in the Yemen, and for the next hundred years,"
+  },
+  {
+    "id": 200,
+    "start": 1466.64,
+    "end": 1471.56,
+    "text": "this region produced most of the coffee drunk in Africa and the Arab world."
+  },
+  {
+    "id": 201,
+    "start": 1473.0,
+    "end": 1477.7,
+    "text": "What's particularly interesting about coffee is its effect on social life."
+  },
+  {
+    "id": 202,
+    "start": 1478.78,
+    "end": 1484.34,
+    "text": "It was rarely drunk at home, but instead people went to coffee houses to drink it."
+  },
+  {
+    "id": 203,
+    "start": 1485.32,
+    "end": 1491.24,
+    "text": "These people, usually men, would meet to drink coffee and chat about issues of the day."
+  },
+  {
+    "id": 204,
+    "start": 1492.46,
+    "end": 1499.7,
+    "text": "But at the time, this chance to share ideas and opinions were seen as something that was potentially dangerous,"
+  },
+  {
+    "id": 205,
+    "start": 1500.9,
+    "end": 1508.76,
+    "text": "and in 1623 the ruler of Constantinople demanded the destruction of all the coffee houses in the city."
+  },
+  {
+    "id": 206,
+    "start": 1509.72,
+    "end": 1515.1,
+    "text": "Although after his death, many new ones opened, and coffee consumption continued."
+  },
+  {
+    "id": 207,
+    "start": 1516.56,
+    "end": 1524.78,
+    "text": "In the 17th century, coffee drinking spread to Europe, and here too, coffee shops became places where ordinary people,"
+  },
+  {
+    "id": 208,
+    "start": 1525.3,
+    "end": 1528.68,
+    "text": "nearly always men, could meet to exchange ideas."
+  },
+  {
+    "id": 209,
+    "start": 1529.86,
+    "end": 1536.12,
+    "text": "Because of this, some people said that these places performed a similar function to universities."
+  },
+  {
+    "id": 210,
+    "start": 1537.38,
+    "end": 1542.02,
+    "text": "The opportunity they provided for people to meet together outside their own homes,"
+  },
+  {
+    "id": 211,
+    "start": 1542.7,
+    "end": 1547.62,
+    "text": "and to discuss the topics of the day, had an enormous impact on social life,"
+  },
+  {
+    "id": 212,
+    "start": 1548.34,
+    "end": 1554.44,
+    "text": "and many social movements and political developments had their origins in coffee house discussions."
+  },
+  {
+    "id": 213,
+    "start": 1555.0,
+    "end": 1565.28,
+    "text": "In the late 1600s, the Yemeni monopoly on coffee production broke down,"
+  },
+  {
+    "id": 214,
+    "start": 1566.0,
+    "end": 1571.06,
+    "text": "and coffee production started to spread around the world, helped by European colonization."
+  },
+  {
+    "id": 215,
+    "start": 1572.04,
+    "end": 1580.68,
+    "text": "Europeans set up coffee plantations in Indonesia and the Caribbean, and production of coffee in the colonies skyrocketed."
+  },
+  {
+    "id": 216,
+    "start": 1582.14,
+    "end": 1589.08,
+    "text": "Different types of coffee were produced in different areas, and it's interesting that the names given to these different types,"
+  },
+  {
+    "id": 217,
+    "start": 1589.66,
+    "end": 1595.54,
+    "text": "like moccca, or Java coffee, were often taken from the port they were shipped to Europe from."
+  },
+  {
+    "id": 218,
+    "start": 1596.98,
+    "end": 1602.12,
+    "text": "But if you look at the labour system in the different colonies, there were some significant differences."
+  },
+  {
+    "id": 219,
+    "start": 1603.7,
+    "end": 1609.4,
+    "text": "In Brazil and the various Caribbean colonies, coffee was grown in huge plantations,"
+  },
+  {
+    "id": 220,
+    "start": 1610.12,
+    "end": 1613.0,
+    "text": "and the workers there were almost all slaves."
+  },
+  {
+    "id": 221,
+    "start": 1614.5,
+    "end": 1616.34,
+    "text": "But this wasn't the same in all colonies."
+  },
+  {
+    "id": 222,
+    "start": 1617.26,
+    "end": 1620.68,
+    "text": "For example, in Java, which had been colonized by the Dutch,"
+  },
+  {
+    "id": 223,
+    "start": 1621.36,
+    "end": 1625.5,
+    "text": "the peasants grew coffee and passed a proportion of this onto the Dutch,"
+  },
+  {
+    "id": 224,
+    "start": 1626.08,
+    "end": 1628.16,
+    "text": "so it was used as a means of taxation."
+  },
+  {
+    "id": 225,
+    "start": 1629.98,
+    "end": 1634.82,
+    "text": "But whatever system was used under the European powers of the 18th century,"
+  },
+  {
+    "id": 226,
+    "start": 1635.5,
+    "end": 1638.86,
+    "text": "coffee production was very closely linked to colonization."
+  },
+  {
+    "id": 227,
+    "start": 1640.68,
+    "end": 1645.98,
+    "text": "Coffee was grown in every increasing quantities to satisfy the growing demand from Europe,"
+  },
+  {
+    "id": 228,
+    "start": 1646.78,
+    "end": 1652.4,
+    "text": "and it became nearly as important as sugar production, which was grown under very similar conditions."
+  },
+  {
+    "id": 229,
+    "start": 1653.98,
+    "end": 1659.04,
+    "text": "However, coffee prices were not yet low enough for people to drink it regularly at home,"
+  },
+  {
+    "id": 230,
+    "start": 1659.88,
+    "end": 1663.72,
+    "text": "so most coffee consumption still took place in public coffee houses,"
+  },
+  {
+    "id": 231,
+    "start": 1664.4,
+    "end": 1666.92,
+    "text": "and it still remained something of a luxury item."
+  },
+  {
+    "id": 232,
+    "start": 1668.18,
+    "end": 1673.68,
+    "text": "In Britain, however, a new drink was introduced from China and started to become popular,"
+  },
+  {
+    "id": 233,
+    "start": 1674.18,
+    "end": 1681.1,
+    "text": "gradually taking over from coffee, although at first it was so expensive that only the upper classes could afford it."
+  },
+  {
+    "id": 234,
+    "start": 1682.04,
+    "end": 1687.72,
+    "text": "This was tea, and by the late 1700s it was being widely drunk."
+  },
+  {
+    "id": 235,
+    "start": 1688.82,
+    "end": 1693.76,
+    "text": "However, when the USA gained independence from Britain in 1776,"
+  },
+  {
+    "id": 236,
+    "start": 1694.54,
+    "end": 1701.42,
+    "text": "they identified this drink with Britain, and coffee remained the preferred drink in the USA as it still is today."
+  },
+  {
+    "id": 237,
+    "start": 1703.24,
+    "end": 1709.06,
+    "text": "So, by the early 19th century, coffee was already being widely produced and consumed,"
+  },
+  {
+    "id": 238,
+    "start": 1710.2,
+    "end": 1715.56,
+    "text": "but during this century production boomed and coffee prices started to fall."
+  },
+  {
+    "id": 239,
+    "start": 1716.5,
+    "end": 1722.48,
+    "text": "This was partly because new types of transportation had been developed, which were cheaper and more efficient."
+  },
+  {
+    "id": 240,
+    "start": 1723.56,
+    "end": 1726.54,
+    "text": "So now, working people could afford to buy coffee."
+  },
+  {
+    "id": 241,
+    "start": 1727.14,
+    "end": 1729.18,
+    "text": "It wasn't just a drink for the middle classes."
+  },
+  {
+    "id": 242,
+    "start": 1730.6,
+    "end": 1735.0,
+    "text": "And this was at a time when large parts of Europe were starting to work in industries,"
+  },
+  {
+    "id": 243,
+    "start": 1736.0,
+    "end": 1739.52,
+    "text": "and sometimes this meant their work didn't stop when it got dark."
+  },
+  {
+    "id": 244,
+    "start": 1740.2,
+    "end": 1742.64,
+    "text": "They might have to continue throughout the night."
+  },
+  {
+    "id": 245,
+    "start": 1743.62,
+    "end": 1746.72,
+    "text": "So the use of coffee as a stimulant became important."
+  },
+  {
+    "id": 246,
+    "start": 1747.7,
+    "end": 1750.56,
+    "text": "It wasn't just a drink people drank in the morning for breakfast."
+  },
+  {
+    "id": 247,
+    "start": 1752.16,
+    "end": 1753.92,
+    "text": "There were also changes in cultivation."
+  },
+  {
+    "id": 248,
+    "start": 1758.7,
+    "end": 1760.44,
+    "text": "That is the end of section 4."
+  },
+  {
+    "id": 249,
+    "start": 1762.28,
+    "end": 1765.12,
+    "text": "You now have half a minute to check your answers."
+  },
+  {
+    "id": 250,
+    "start": 1773.0,
+    "end": 1798.08,
+    "text": "That is the end of the listening test."
+  },
+  {
+    "id": 251,
+    "start": 1800.44,
+    "end": 1806.5,
+    "text": "In the IELTS test, you would now have 10 minutes to transfer your answers to the answer sheet."
+  }
+]

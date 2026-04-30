@@ -1,0 +1,1730 @@
+[
+  {
+    "id": 0,
+    "start": 0.22,
+    "end": 5.54,
+    "text": "IELTS-18, published by Cambridge University Press and Assessment 2023."
+  },
+  {
+    "id": 1,
+    "start": 6.76,
+    "end": 8.18,
+    "text": "This recording is copyright."
+  },
+  {
+    "id": 2,
+    "start": 10.1,
+    "end": 10.64,
+    "text": "Test 1."
+  },
+  {
+    "id": 3,
+    "start": 11.66,
+    "end": 13.66,
+    "text": "This is the IELTS listening test."
+  },
+  {
+    "id": 4,
+    "start": 14.56,
+    "end": 19.09,
+    "text": "You will hear a number of different recordings and you will have to answer questions on what"
+  },
+  {
+    "id": 5,
+    "start": 19.09,
+    "end": 19.6,
+    "text": "you hear."
+  },
+  {
+    "id": 6,
+    "start": 20.6,
+    "end": 25.11,
+    "text": "There will be time for you to read the instructions and questions and you will have a chance to"
+  },
+  {
+    "id": 7,
+    "start": 25.11,
+    "end": 25.98,
+    "text": "check your work."
+  },
+  {
+    "id": 8,
+    "start": 27.04,
+    "end": 29.44,
+    "text": "All the recordings will be played once only."
+  },
+  {
+    "id": 9,
+    "start": 30.38,
+    "end": 32.24,
+    "text": "The test is in four parts."
+  },
+  {
+    "id": 10,
+    "start": 33.22,
+    "end": 37.85,
+    "text": "At the end of the test, you will be given ten minutes to transfer your answers to an"
+  },
+  {
+    "id": 11,
+    "start": 37.85,
+    "end": 38.5,
+    "text": "answer sheet."
+  },
+  {
+    "id": 12,
+    "start": 40.66,
+    "end": 42.08,
+    "text": "Now turn to part 1."
+  },
+  {
+    "id": 13,
+    "start": 47.16,
+    "end": 47.94,
+    "text": "Part 1."
+  },
+  {
+    "id": 14,
+    "start": 49.08,
+    "end": 53.36,
+    "text": "You will hear an interview with a woman who is doing a survey on transport."
+  },
+  {
+    "id": 15,
+    "start": 54.86,
+    "end": 58.4,
+    "text": "First, you have some time to look at questions 1 to 5."
+  },
+  {
+    "id": 16,
+    "start": 83.8,
+    "end": 87.36,
+    "text": "Now listen carefully and answer questions 1 to 5."
+  },
+  {
+    "id": 17,
+    "start": 91.0,
+    "end": 91.88,
+    "text": "Excuse me."
+  },
+  {
+    "id": 18,
+    "start": 92.54,
+    "end": 94.42,
+    "text": "Would you mind if I asked you some questions?"
+  },
+  {
+    "id": 19,
+    "start": 95.32,
+    "end": 97.1,
+    "text": "We're doing a survey on transport."
+  },
+  {
+    "id": 20,
+    "start": 97.88,
+    "end": 99.24,
+    "text": "Yes, that's okay."
+  },
+  {
+    "id": 21,
+    "start": 99.98,
+    "end": 102.14,
+    "text": "First of all, can I take your name?"
+  },
+  {
+    "id": 22,
+    "start": 102.62,
+    "end": 105.16,
+    "text": "Yes, it's Sadie Jones."
+  },
+  {
+    "id": 23,
+    "start": 105.56,
+    "end": 106.52,
+    "text": "Thanks very much."
+  },
+  {
+    "id": 24,
+    "start": 107.34,
+    "end": 109.12,
+    "text": "And could I have your date of birth?"
+  },
+  {
+    "id": 25,
+    "start": 109.54,
+    "end": 110.94,
+    "text": "Just the year we'll do actually?"
+  },
+  {
+    "id": 26,
+    "start": 111.4,
+    "end": 112.22,
+    "text": "Is that all right?"
+  },
+  {
+    "id": 27,
+    "start": 113.08,
+    "end": 114.14,
+    "text": "Yes, that's fine."
+  },
+  {
+    "id": 28,
+    "start": 114.86,
+    "end": 116.96,
+    "text": "It's 1991."
+  },
+  {
+    "id": 29,
+    "start": 117.94,
+    "end": 120.6,
+    "text": "So next, your postcode, please."
+  },
+  {
+    "id": 30,
+    "start": 121.4,
+    "end": 126.88,
+    "text": "It's DW307YZ."
+  },
+  {
+    "id": 31,
+    "start": 127.7,
+    "end": 128.64,
+    "text": "Great, thanks."
+  },
+  {
+    "id": 32,
+    "start": 129.44,
+    "end": 130.42,
+    "text": "Is that in Wells?"
+  },
+  {
+    "id": 33,
+    "start": 131.22,
+    "end": 133.64,
+    "text": "No, it's actually in Harbourn."
+  },
+  {
+    "id": 34,
+    "start": 134.1,
+    "end": 135.98,
+    "text": "Wells isn't far from there though."
+  },
+  {
+    "id": 35,
+    "start": 136.36,
+    "end": 137.96,
+    "text": "I really like that area."
+  },
+  {
+    "id": 36,
+    "start": 138.4,
+    "end": 140.64,
+    "text": "My grandmother lived there when I was a kid."
+  },
+  {
+    "id": 37,
+    "start": 141.44,
+    "end": 142.88,
+    "text": "Yes, it is nice."
+  },
+  {
+    "id": 38,
+    "start": 143.72,
+    "end": 149.2,
+    "text": "Right, so now I want to ask you some questions about how you travelled here today."
+  },
+  {
+    "id": 39,
+    "start": 150.06,
+    "end": 151.78,
+    "text": "Did you use public transport?"
+  },
+  {
+    "id": 40,
+    "start": 152.46,
+    "end": 154.34,
+    "text": "Yes, I came by bus."
+  },
+  {
+    "id": 41,
+    "start": 154.72,
+    "end": 157.04,
+    "text": "Okay, and that was today."
+  },
+  {
+    "id": 42,
+    "start": 157.84,
+    "end": 160.4,
+    "text": "It's the 24th of April, isn't it?"
+  },
+  {
+    "id": 43,
+    "start": 160.8,
+    "end": 162.58,
+    "text": "Isn't it the 25th?"
+  },
+  {
+    "id": 44,
+    "start": 164.02,
+    "end": 165.8,
+    "text": "No, actually, you're right."
+  },
+  {
+    "id": 45,
+    "start": 167.66,
+    "end": 170.3,
+    "text": "And what was the reason for your trip today?"
+  },
+  {
+    "id": 46,
+    "start": 170.84,
+    "end": 172.98,
+    "text": "I can see you've got some shopping with you."
+  },
+  {
+    "id": 47,
+    "start": 173.38,
+    "end": 175.26,
+    "text": "Yes, I did some shopping."
+  },
+  {
+    "id": 48,
+    "start": 175.96,
+    "end": 180.06,
+    "text": "But the main reason I came here was to go to the dentist."
+  },
+  {
+    "id": 49,
+    "start": 180.9,
+    "end": 181.9,
+    "text": "That's not much fun."
+  },
+  {
+    "id": 50,
+    "start": 182.56,
+    "end": 183.86,
+    "text": "Hope it was nothing serious."
+  },
+  {
+    "id": 51,
+    "start": 184.44,
+    "end": 186.48,
+    "text": "No, it was just a check-up."
+  },
+  {
+    "id": 52,
+    "start": 186.8,
+    "end": 187.36,
+    "text": "It's fine."
+  },
+  {
+    "id": 53,
+    "start": 187.7,
+    "end": 187.92,
+    "text": "Good."
+  },
+  {
+    "id": 54,
+    "start": 188.96,
+    "end": 191.62,
+    "text": "Do you normally travel by bus into the city centre?"
+  },
+  {
+    "id": 55,
+    "start": 192.24,
+    "end": 195.46,
+    "text": "Yes, I stopped driving in ages ago"
+  },
+  {
+    "id": 56,
+    "start": 195.64,
+    "end": 198.78,
+    "text": "because parking was so difficult to find."
+  },
+  {
+    "id": 57,
+    "start": 199.6,
+    "end": 201.38,
+    "text": "And it costs so much."
+  },
+  {
+    "id": 58,
+    "start": 201.46,
+    "end": 201.94,
+    "text": "I see."
+  },
+  {
+    "id": 59,
+    "start": 202.48,
+    "end": 205.1,
+    "text": "The bus is much more convenient, too."
+  },
+  {
+    "id": 60,
+    "start": 205.7,
+    "end": 207.54,
+    "text": "It only takes about 30 minutes."
+  },
+  {
+    "id": 61,
+    "start": 207.98,
+    "end": 208.5,
+    "text": "That's good."
+  },
+  {
+    "id": 62,
+    "start": 209.42,
+    "end": 211.08,
+    "text": "So where did you start your journey?"
+  },
+  {
+    "id": 63,
+    "start": 211.78,
+    "end": 214.98,
+    "text": "At the bus stop on Klacksby Street."
+  },
+  {
+    "id": 64,
+    "start": 215.58,
+    "end": 219.52,
+    "text": "Is that C-L-A-X-B-Y?"
+  },
+  {
+    "id": 65,
+    "start": 220.06,
+    "end": 220.66,
+    "text": "That's right."
+  },
+  {
+    "id": 66,
+    "start": 224.24,
+    "end": 226.38,
+    "text": "Before you hear the rest of the conversation,"
+  },
+  {
+    "id": 67,
+    "start": 226.98,
+    "end": 230.04,
+    "text": "you have some time to look at questions 6 to 10."
+  },
+  {
+    "id": 68,
+    "start": 231.68,
+    "end": 258.4,
+    "text": "Now listen and answer questions 6 to 10."
+  },
+  {
+    "id": 69,
+    "start": 262.12,
+    "end": 264.42,
+    "text": "And how satisfied with the service are you?"
+  },
+  {
+    "id": 70,
+    "start": 264.84,
+    "end": 265.84,
+    "text": "Do you have any complaints?"
+  },
+  {
+    "id": 71,
+    "start": 266.78,
+    "end": 272.52,
+    "text": "Well, as I said, it's very convenient and quick when it's on time."
+  },
+  {
+    "id": 72,
+    "start": 273.16,
+    "end": 275.14,
+    "text": "But this morning it was late."
+  },
+  {
+    "id": 73,
+    "start": 275.7,
+    "end": 278.12,
+    "text": "Only about 10 minutes, but still."
+  },
+  {
+    "id": 74,
+    "start": 278.48,
+    "end": 280.2,
+    "text": "Yes, I understand that's annoying."
+  },
+  {
+    "id": 75,
+    "start": 281.08,
+    "end": 282.66,
+    "text": "And what about the timetable?"
+  },
+  {
+    "id": 76,
+    "start": 283.32,
+    "end": 284.72,
+    "text": "Do you have any comments about that?"
+  },
+  {
+    "id": 77,
+    "start": 285.38,
+    "end": 285.94,
+    "text": "Hmm."
+  },
+  {
+    "id": 78,
+    "start": 286.72,
+    "end": 290.12,
+    "text": "I suppose I mainly use the bus during the day."
+  },
+  {
+    "id": 79,
+    "start": 290.98,
+    "end": 297.06,
+    "text": "But any time I've been in town in the evening, for dinner or at the cinema,"
+  },
+  {
+    "id": 80,
+    "start": 297.7,
+    "end": 301.12,
+    "text": "I've noticed you have to wait a long time for a bus."
+  },
+  {
+    "id": 81,
+    "start": 301.66,
+    "end": 302.96,
+    "text": "There aren't that many."
+  },
+  {
+    "id": 82,
+    "start": 303.52,
+    "end": 304.5,
+    "text": "OK, thanks."
+  },
+  {
+    "id": 83,
+    "start": 305.2,
+    "end": 308.66,
+    "text": "So now I'd like to ask you about your car use."
+  },
+  {
+    "id": 84,
+    "start": 309.4,
+    "end": 313.18,
+    "text": "Well, I have got a car, but I don't use it that often."
+  },
+  {
+    "id": 85,
+    "start": 313.8,
+    "end": 316.26,
+    "text": "Mainly just to go to the supermarket."
+  },
+  {
+    "id": 86,
+    "start": 317.26,
+    "end": 318.84,
+    "text": "But that's about it, really."
+  },
+  {
+    "id": 87,
+    "start": 319.48,
+    "end": 323.42,
+    "text": "My husband uses it at the weekends to go to the golf club."
+  },
+  {
+    "id": 88,
+    "start": 323.92,
+    "end": 325.1,
+    "text": "And what about a bicycle?"
+  },
+  {
+    "id": 89,
+    "start": 325.72,
+    "end": 327.76,
+    "text": "I don't actually have one at the moment."
+  },
+  {
+    "id": 90,
+    "start": 328.46,
+    "end": 330.6,
+    "text": "What about the city bikes you can rent?"
+  },
+  {
+    "id": 91,
+    "start": 331.06,
+    "end": 331.88,
+    "text": "Do you ever use those?"
+  },
+  {
+    "id": 92,
+    "start": 332.4,
+    "end": 337.22,
+    "text": "No, I'm not keen on cycling there because of all the pollution."
+  },
+  {
+    "id": 93,
+    "start": 338.3,
+    "end": 340.08,
+    "text": "But I would like to get a bike."
+  },
+  {
+    "id": 94,
+    "start": 340.54,
+    "end": 342.6,
+    "text": "It would be good to use it to get to work."
+  },
+  {
+    "id": 95,
+    "start": 343.12,
+    "end": 344.9,
+    "text": "So why haven't you got one now?"
+  },
+  {
+    "id": 96,
+    "start": 345.6,
+    "end": 351.7,
+    "text": "Well, I live in a flat on the second floor, and it doesn't have any storage."
+  },
+  {
+    "id": 97,
+    "start": 352.4,
+    "end": 356.16,
+    "text": "So we'd have to leave it in the hall outside the flat."
+  },
+  {
+    "id": 98,
+    "start": 356.54,
+    "end": 356.96,
+    "text": "I see."
+  },
+  {
+    "id": 99,
+    "start": 357.86,
+    "end": 361.15,
+    "text": "OK, well, I think that's all we need from you today, say."
+  },
+  {
+    "id": 100,
+    "start": 361.15,
+    "end": 366.26,
+    "text": "That is the end of part one."
+  },
+  {
+    "id": 101,
+    "start": 367.18,
+    "end": 371.0,
+    "text": "You now have one minute to check your answers to part one."
+  },
+  {
+    "id": 102,
+    "start": 405.52,
+    "end": 432.08,
+    "text": "Part two."
+  },
+  {
+    "id": 103,
+    "start": 433.24,
+    "end": 438.2,
+    "text": "You will hear a woman speaking to a group of people who are interested in becoming volunteers"
+  },
+  {
+    "id": 104,
+    "start": 438.44,
+    "end": 441.08,
+    "text": "for an organization called ACE."
+  },
+  {
+    "id": 105,
+    "start": 442.24,
+    "end": 445.86,
+    "text": "First you have some time to look at questions 11 to 15."
+  },
+  {
+    "id": 106,
+    "start": 463.34,
+    "end": 484.86,
+    "text": "Now listen carefully and answer questions 11 to 15."
+  },
+  {
+    "id": 107,
+    "start": 488.68,
+    "end": 489.98,
+    "text": "Good evening, everyone."
+  },
+  {
+    "id": 108,
+    "start": 490.88,
+    "end": 496.1,
+    "text": "Let me start by welcoming you all to this talk and thanking you for taking the time to"
+  },
+  {
+    "id": 109,
+    "start": 496.1,
+    "end": 499.3,
+    "text": "consider joining ACE voluntary organization."
+  },
+  {
+    "id": 110,
+    "start": 500.3,
+    "end": 506.34,
+    "text": "ACE offers support to people and services in the local area, and we're now looking"
+  },
+  {
+    "id": 111,
+    "start": 506.4,
+    "end": 508.98,
+    "text": "for more volunteers to help us do this."
+  },
+  {
+    "id": 112,
+    "start": 509.86,
+    "end": 512.06,
+    "text": "By the way, I hope you're all comfortable."
+  },
+  {
+    "id": 113,
+    "start": 512.56,
+    "end": 517.92,
+    "text": "We have brought in extra seats so that no one has to stand, but it does mean that the"
+  },
+  {
+    "id": 114,
+    "start": 517.96,
+    "end": 520.66,
+    "text": "people at the back of the room may be a bit squashed."
+  },
+  {
+    "id": 115,
+    "start": 521.1,
+    "end": 525.48,
+    "text": "We'll only be here for about half an hour, so hopefully that's OK."
+  },
+  {
+    "id": 116,
+    "start": 526.48,
+    "end": 531.82,
+    "text": "One of the first questions we're often asked is how old you need to be to volunteer?"
+  },
+  {
+    "id": 117,
+    "start": 532.74,
+    "end": 537.56,
+    "text": "Well, you can be as young as 16 or you can be 60 or over."
+  },
+  {
+    "id": 118,
+    "start": 538.12,
+    "end": 541.66,
+    "text": "It all depends on what type of voluntary work you want to do."
+  },
+  {
+    "id": 119,
+    "start": 542.72,
+    "end": 549.02,
+    "text": "Other considerations such as reliability are crucial in voluntary work and age isn't"
+  },
+  {
+    "id": 120,
+    "start": 549.02,
+    "end": 551.3,
+    "text": "related to these in our experience."
+  },
+  {
+    "id": 121,
+    "start": 552.84,
+    "end": 555.9,
+    "text": "Another question we get asked relates to training."
+  },
+  {
+    "id": 122,
+    "start": 556.74,
+    "end": 560.98,
+    "text": "Well, there's plenty of that and it's all face to face."
+  },
+  {
+    "id": 123,
+    "start": 561.52,
+    "end": 565.4,
+    "text": "What's more, training doesn't end when you start working for us."
+  },
+  {
+    "id": 124,
+    "start": 565.78,
+    "end": 570.0,
+    "text": "It takes place before, during and after periods of work."
+  },
+  {
+    "id": 125,
+    "start": 570.94,
+    "end": 576.48,
+    "text": "Often it's run by other experienced volunteers as managers tend to prefer to get on with"
+  },
+  {
+    "id": 126,
+    "start": 576.48,
+    "end": 577.0,
+    "text": "other things."
+  },
+  {
+    "id": 127,
+    "start": 578.84,
+    "end": 584.74,
+    "text": "Now I would ask you to consider a couple of important issues before you decide to apply"
+  },
+  {
+    "id": 128,
+    "start": 584.76,
+    "end": 585.82,
+    "text": "for voluntary work."
+  },
+  {
+    "id": 129,
+    "start": 586.52,
+    "end": 589.78,
+    "text": "We don't worry about why you want to be a volunteer."
+  },
+  {
+    "id": 130,
+    "start": 590.38,
+    "end": 596.48,
+    "text": "People have many different reasons that range from getting work experience to just doing"
+  },
+  {
+    "id": 131,
+    "start": 596.48,
+    "end": 602.0,
+    "text": "something they've always wanted to do, but it is critical that you have enough hours"
+  },
+  {
+    "id": 132,
+    "start": 602.08,
+    "end": 605.88,
+    "text": "in the day for whatever role we agree is suitable for you."
+  },
+  {
+    "id": 133,
+    "start": 606.74,
+    "end": 611.66,
+    "text": "If being a volunteer becomes stressful, then it's best not to do it at all."
+  },
+  {
+    "id": 134,
+    "start": 612.5,
+    "end": 616.9,
+    "text": "You may think that your income is important, but we don't ask about that."
+  },
+  {
+    "id": 135,
+    "start": 617.6,
+    "end": 621.04,
+    "text": "It's up to you to decide if you can work without earning money."
+  },
+  {
+    "id": 136,
+    "start": 621.66,
+    "end": 623.78,
+    "text": "What we value is dedication."
+  },
+  {
+    "id": 137,
+    "start": 625.04,
+    "end": 630.3,
+    "text": "Some of our most loyal volunteers earn very little themselves, but still give their full"
+  },
+  {
+    "id": 138,
+    "start": 630.38,
+    "end": 632.46,
+    "text": "energy to the work they do with us."
+  },
+  {
+    "id": 139,
+    "start": 635.42,
+    "end": 641.5,
+    "text": "Before you hear the rest of the talk, you have some time to look at questions 16 to 20."
+  },
+  {
+    "id": 140,
+    "start": 669.98,
+    "end": 679.57,
+    "text": "OK, so let's take a look at some of the work areas that we need volunteers for and the"
+  },
+  {
+    "id": 141,
+    "start": 679.57,
+    "end": 681.44,
+    "text": "sort of things that would help you in those."
+  },
+  {
+    "id": 142,
+    "start": 682.72,
+    "end": 684.98,
+    "text": "You may wish simply to help us raise money."
+  },
+  {
+    "id": 143,
+    "start": 685.7,
+    "end": 691.24,
+    "text": "If you have the creativity to come up with an imaginative or novel way of fundraising,"
+  },
+  {
+    "id": 144,
+    "start": 691.7,
+    "end": 698.09,
+    "text": "we'd be delighted as standing in the local streets or shops with a collection box can"
+  },
+  {
+    "id": 145,
+    "start": 698.09,
+    "end": 699.08,
+    "text": "be rather boring."
+  },
+  {
+    "id": 146,
+    "start": 700.74,
+    "end": 705.16,
+    "text": "One outdoor activity that we need volunteers for is litter collection."
+  },
+  {
+    "id": 147,
+    "start": 706.12,
+    "end": 711.72,
+    "text": "And for this, it's useful if you can walk for long periods, sometimes uphill."
+  },
+  {
+    "id": 148,
+    "start": 712.54,
+    "end": 718.49,
+    "text": "Some of our regular collectors are quite elderly, but very active and keen to protect the"
+  },
+  {
+    "id": 149,
+    "start": 718.49,
+    "end": 719.1,
+    "text": "environment."
+  },
+  {
+    "id": 150,
+    "start": 720.38,
+    "end": 726.36,
+    "text": "If you enjoy working with children, we have three vacancies for what are called playmates."
+  },
+  {
+    "id": 151,
+    "start": 727.2,
+    "end": 732.92,
+    "text": "These volunteers help children learn about staying healthy through a range of out of school"
+  },
+  {
+    "id": 152,
+    "start": 732.92,
+    "end": 733.56,
+    "text": "activities."
+  },
+  {
+    "id": 153,
+    "start": 734.5,
+    "end": 739.3,
+    "text": "You don't need to have children yourself, but it's good if you know something about"
+  },
+  {
+    "id": 154,
+    "start": 739.3,
+    "end": 742.28,
+    "text": "nutrition and can give clear instructions."
+  },
+  {
+    "id": 155,
+    "start": 744.0,
+    "end": 749.42,
+    "text": "If that doesn't appeal to you, maybe you would be interested in helping out at our story"
+  },
+  {
+    "id": 156,
+    "start": 749.5,
+    "end": 753.9,
+    "text": "club for disabled children, especially if you have done some acting."
+  },
+  {
+    "id": 157,
+    "start": 754.76,
+    "end": 760.56,
+    "text": "We put on three performances a year based on books they have read and we're always looking"
+  },
+  {
+    "id": 158,
+    "start": 760.6,
+    "end": 763.24,
+    "text": "for support with the theatrical side of this."
+  },
+  {
+    "id": 159,
+    "start": 764.88,
+    "end": 768.34,
+    "text": "The last area I'll mention today is first aid."
+  },
+  {
+    "id": 160,
+    "start": 769.1,
+    "end": 774.17,
+    "text": "Volunteers who join this group can end up teaching others in vulnerable groups who may"
+  },
+  {
+    "id": 161,
+    "start": 774.17,
+    "end": 775.4,
+    "text": "be at risk of injury."
+  },
+  {
+    "id": 162,
+    "start": 776.22,
+    "end": 781.86,
+    "text": "Initially though, your priority will be to take in a lot of information and not forget"
+  },
+  {
+    "id": 163,
+    "start": 782.02,
+    "end": 784.18,
+    "text": "any important steps or details."
+  },
+  {
+    "id": 164,
+    "start": 786.04,
+    "end": 789.64,
+    "text": "Right, so does anyone have any questions for me about it?"
+  },
+  {
+    "id": 165,
+    "start": 793.04,
+    "end": 794.52,
+    "text": "That is the end of part two."
+  },
+  {
+    "id": 166,
+    "start": 795.26,
+    "end": 798.88,
+    "text": "You now have 30 seconds to check your answers to part two."
+  },
+  {
+    "id": 167,
+    "start": 815.28,
+    "end": 830.18,
+    "text": "Part three."
+  },
+  {
+    "id": 168,
+    "start": 831.2,
+    "end": 836.86,
+    "text": "You will hear two students called Hugo and Chantal discussing a talk they have just attended"
+  },
+  {
+    "id": 169,
+    "start": 836.94,
+    "end": 839.76,
+    "text": "at the start of their course in fashion design."
+  },
+  {
+    "id": 170,
+    "start": 840.96,
+    "end": 845.48,
+    "text": "First, you have some time to look at questions 21 to 26."
+  },
+  {
+    "id": 171,
+    "start": 870.52,
+    "end": 895.54,
+    "text": "Now listen carefully and answer questions 21 to 26."
+  },
+  {
+    "id": 172,
+    "start": 899.24,
+    "end": 901.74,
+    "text": "Hi Chantal, what did you think of the talk then?"
+  },
+  {
+    "id": 173,
+    "start": 902.2,
+    "end": 906.42,
+    "text": "Hi Hugo, I thought it was good when side moved seats."
+  },
+  {
+    "id": 174,
+    "start": 906.96,
+    "end": 909.54,
+    "text": "Oh, were the people beside you chatting or something?"
+  },
+  {
+    "id": 175,
+    "start": 909.98,
+    "end": 910.8,
+    "text": "It wasn't that."
+  },
+  {
+    "id": 176,
+    "start": 910.8,
+    "end": 917.13,
+    "text": "I went early so that I'd get a seat and not have to stand, but then this guy sat right"
+  },
+  {
+    "id": 177,
+    "start": 917.13,
+    "end": 919.76,
+    "text": "in front of me and he was so tall."
+  },
+  {
+    "id": 178,
+    "start": 920.3,
+    "end": 922.78,
+    "text": "It's hard to see through people's heads, isn't it?"
+  },
+  {
+    "id": 179,
+    "start": 923.24,
+    "end": 924.14,
+    "text": "Impossible."
+  },
+  {
+    "id": 180,
+    "start": 925.22,
+    "end": 930.97,
+    "text": "Anyway, to answer your question, I thought it was really interesting, especially what the"
+  },
+  {
+    "id": 181,
+    "start": 930.97,
+    "end": 932.76,
+    "text": "speakers said about the job market."
+  },
+  {
+    "id": 182,
+    "start": 933.12,
+    "end": 938.54,
+    "text": "Me too. I mean, we know we're going into a really competitive field so it's obvious"
+  },
+  {
+    "id": 183,
+    "start": 938.62,
+    "end": 940.18,
+    "text": "that we may struggle to get work."
+  },
+  {
+    "id": 184,
+    "start": 940.52,
+    "end": 945.2,
+    "text": "That's right. And we know we can't all have that dream job."
+  },
+  {
+    "id": 185,
+    "start": 945.58,
+    "end": 950.82,
+    "text": "Yeah, but it looks like there's a whole range of areas of work that we hadn't even thought"
+  },
+  {
+    "id": 186,
+    "start": 950.84,
+    "end": 953.64,
+    "text": "of, like fashion journalism, for instance."
+  },
+  {
+    "id": 187,
+    "start": 954.04,
+    "end": 957.42,
+    "text": "Yeah, I wasn't expecting so many career options."
+  },
+  {
+    "id": 188,
+    "start": 957.84,
+    "end": 961.72,
+    "text": "Hmm. Overall, she had quite a strong message, didn't she?"
+  },
+  {
+    "id": 189,
+    "start": 962.0,
+    "end": 968.5,
+    "text": "She did. She kept saying things like, I know you all think this, but… and then she'd"
+  },
+  {
+    "id": 190,
+    "start": 968.5,
+    "end": 969.68,
+    "text": "tell us how it really is."
+  },
+  {
+    "id": 191,
+    "start": 970.2,
+    "end": 973.48,
+    "text": "Perhaps she thinks students are a bit narrow-minded about the industry."
+  },
+  {
+    "id": 192,
+    "start": 974.1,
+    "end": 977.62,
+    "text": "It was a bit harsh, though. We know it's a tough industry."
+  },
+  {
+    "id": 193,
+    "start": 978.1,
+    "end": 982.2,
+    "text": "Yeah. And we're only first years after all. We've got a lot to learn."
+  },
+  {
+    "id": 194,
+    "start": 982.44,
+    "end": 982.82,
+    "text": "Exactly."
+  },
+  {
+    "id": 195,
+    "start": 984.34,
+    "end": 988.52,
+    "text": "Do you think our secondary school education should have been more career-focused?"
+  },
+  {
+    "id": 196,
+    "start": 989.32,
+    "end": 994.88,
+    "text": "Well, we had numerous talks on careers, which was good, but none of them were very inspiring."
+  },
+  {
+    "id": 197,
+    "start": 995.4,
+    "end": 998.36,
+    "text": "They could have asked more people like today's speaker to talk to us."
+  },
+  {
+    "id": 198,
+    "start": 998.66,
+    "end": 1005.68,
+    "text": "I agree. We were told about lots of different careers, just when we needed to be, but not"
+  },
+  {
+    "id": 199,
+    "start": 1005.84,
+    "end": 1008.04,
+    "text": "by the experts who really know stuff."
+  },
+  {
+    "id": 200,
+    "start": 1008.98,
+    "end": 1013.48,
+    "text": "So, did today's talk influence your thoughts on what career you'd like to take up in the future?"
+  },
+  {
+    "id": 201,
+    "start": 1013.96,
+    "end": 1018.84,
+    "text": "Well, I promised myself that I'd go through this course and keep an open mind till the end."
+  },
+  {
+    "id": 202,
+    "start": 1019.44,
+    "end": 1024.76,
+    "text": "But I think it's better to pick an area of the industry now and then aim to get better and better at it."
+  },
+  {
+    "id": 203,
+    "start": 1025.22,
+    "end": 1028.76,
+    "text": "Well, I think we'll just have to differ on that issue."
+  },
+  {
+    "id": 204,
+    "start": 1029.26,
+    "end": 1035.18,
+    "text": "One thing's for certain, though. From what she said, we'll be unpaid assistance in the industry for quite a long time."
+  },
+  {
+    "id": 205,
+    "start": 1035.46,
+    "end": 1038.54,
+    "text": "Hmm. I'm prepared for that. Aren't you?"
+  },
+  {
+    "id": 206,
+    "start": 1038.82,
+    "end": 1041.84,
+    "text": "Actually, I'm not going to accept that view."
+  },
+  {
+    "id": 207,
+    "start": 1042.24,
+    "end": 1047.02,
+    "text": "Really? But she knows it's the case, and everyone else is the same."
+  },
+  {
+    "id": 208,
+    "start": 1047.56,
+    "end": 1049.62,
+    "text": "That doesn't mean it has to be true for me."
+  },
+  {
+    "id": 209,
+    "start": 1050.34,
+    "end": 1052.8,
+    "text": "Okay. Well, I hope you're right."
+  },
+  {
+    "id": 210,
+    "start": 1064.84,
+    "end": 1067.14,
+    "text": "I'm going to accept that view."
+  },
+  {
+    "id": 211,
+    "start": 1067.38,
+    "end": 1070.2,
+    "text": "I'm going to accept that view."
+  },
+  {
+    "id": 212,
+    "start": 1070.34,
+    "end": 1072.5,
+    "text": "I'm going to accept that view."
+  },
+  {
+    "id": 213,
+    "start": 1073.34,
+    "end": 1075.42,
+    "text": "I'm going to accept that view."
+  },
+  {
+    "id": 214,
+    "start": 1076.76,
+    "end": 1078.86,
+    "text": "I'm going to accept that view."
+  },
+  {
+    "id": 215,
+    "start": 1079.34,
+    "end": 1081.64,
+    "text": "I'm going to accept that view."
+  },
+  {
+    "id": 216,
+    "start": 1082.74,
+    "end": 1086.18,
+    "text": "Now listen and answer questions 27 to 30."
+  },
+  {
+    "id": 217,
+    "start": 1089.7,
+    "end": 1093.2,
+    "text": "I thought the speakers account of her first job was fascinating."
+  },
+  {
+    "id": 218,
+    "start": 1094.0,
+    "end": 1098.54,
+    "text": "Yeah. She admitted she was lucky to get what being a personal dresser for a musician."
+  },
+  {
+    "id": 219,
+    "start": 1099.26,
+    "end": 1103.7,
+    "text": "She didn't even apply for the job, and there she was getting paid to choose all his clothes."
+  },
+  {
+    "id": 220,
+    "start": 1104.08,
+    "end": 1105.76,
+    "text": "It must have felt amazing."
+  },
+  {
+    "id": 221,
+    "start": 1106.76,
+    "end": 1112.16,
+    "text": "Though she said all she was looking for back then was experience, not financial reward."
+  },
+  {
+    "id": 222,
+    "start": 1112.8,
+    "end": 1118.1,
+    "text": "Hmm. And then he was so mean telling her she was more interested in her own appearance than his."
+  },
+  {
+    "id": 223,
+    "start": 1119.18,
+    "end": 1124.38,
+    "text": "But she did realise he was right about that, which really made me think."
+  },
+  {
+    "id": 224,
+    "start": 1125.36,
+    "end": 1130.76,
+    "text": "I'm always considering my own clothes, but now I can see you should be focusing on your client."
+  },
+  {
+    "id": 225,
+    "start": 1131.54,
+    "end": 1133.46,
+    "text": "She obviously regretted losing the job."
+  },
+  {
+    "id": 226,
+    "start": 1133.92,
+    "end": 1139.6,
+    "text": "Well, as she said, she should have hidden her negative feelings about him, but she didn't."
+  },
+  {
+    "id": 227,
+    "start": 1140.54,
+    "end": 1144.3,
+    "text": "It was really brave the way she picked herself up and took that job in retail."
+  },
+  {
+    "id": 228,
+    "start": 1145.12,
+    "end": 1146.72,
+    "text": "Fancy working in a shop after that?"
+  },
+  {
+    "id": 229,
+    "start": 1147.52,
+    "end": 1151.02,
+    "text": "Yeah. Well, she recommended we all do it at some point."
+  },
+  {
+    "id": 230,
+    "start": 1152.08,
+    "end": 1159.3,
+    "text": "I guess as a designer you'd get to find out some useful information, like how big or small the average shopper is."
+  },
+  {
+    "id": 231,
+    "start": 1160.04,
+    "end": 1162.72,
+    "text": "I think that's an issue for manufacturers, not designers."
+  },
+  {
+    "id": 232,
+    "start": 1163.62,
+    "end": 1171.14,
+    "text": "However, it would be useful to know if there's a gap in the market, you know, an item that no one's stocking, but that consumer's a looking for."
+  },
+  {
+    "id": 233,
+    "start": 1171.48,
+    "end": 1173.58,
+    "text": "Yeah. People don't give up searching."
+  },
+  {
+    "id": 234,
+    "start": 1174.84,
+    "end": 1177.7,
+    "text": "They also take things back to the store if they aren't right."
+  },
+  {
+    "id": 235,
+    "start": 1178.22,
+    "end": 1186.52,
+    "text": "Yeah. Imagine you worked in an expensive shop and you found out the garments sold there were being returned because they fell apart in the wash."
+  },
+  {
+    "id": 236,
+    "start": 1186.88,
+    "end": 1189.3,
+    "text": "Yeah. It would be good to know that kind of thing."
+  },
+  {
+    "id": 237,
+    "start": 1189.7,
+    "end": 1189.96,
+    "text": "Yeah."
+  },
+  {
+    "id": 238,
+    "start": 1193.56,
+    "end": 1199.72,
+    "text": "That is the end of Part 3. You now have 30 seconds to check your answers to Part 3."
+  },
+  {
+    "id": 239,
+    "start": 1204.84,
+    "end": 1211.78,
+    "text": "Part 4. You will hear a zoology student giving a present to you."
+  },
+  {
+    "id": 240,
+    "start": 1211.78,
+    "end": 1219.38,
+    "text": "Part 4. You will hear a zoology student giving a present to you."
+  },
+  {
+    "id": 241,
+    "start": 1219.38,
+    "end": 1226.36,
+    "text": "Part 4. You will hear a zoology student giving a present to you."
+  },
+  {
+    "id": 242,
+    "start": 1230.44,
+    "end": 1232.48,
+    "text": "Part 4. You will hear a zoology student giving a present to you."
+  },
+  {
+    "id": 243,
+    "start": 1232.48,
+    "end": 1241.02,
+    "text": "You will hear a zoology student giving a present on the process of moving wild elephants to a new reserve known as Translocation."
+  },
+  {
+    "id": 244,
+    "start": 1242.12,
+    "end": 1246.24,
+    "text": "First, you have some time to look at questions 31 to 40."
+  },
+  {
+    "id": 245,
+    "start": 1261.92,
+    "end": 1262.62,
+    "text": "Thank you."
+  },
+  {
+    "id": 246,
+    "start": 1291.84,
+    "end": 1301.08,
+    "text": "Now listen carefully and answer questions 31 to 40."
+  },
+  {
+    "id": 247,
+    "start": 1304.78,
+    "end": 1313.4,
+    "text": "For my presentation today, I want to tell you about how groups of elephants have been moved and settled in new reserves."
+  },
+  {
+    "id": 248,
+    "start": 1314.64,
+    "end": 1321.48,
+    "text": "This is known as Translocation and has been carried out in Malawi in Africa in recent years."
+  },
+  {
+    "id": 249,
+    "start": 1322.66,
+    "end": 1328.44,
+    "text": "The reason this is being done is because of overpopulation of elephants in some areas."
+  },
+  {
+    "id": 250,
+    "start": 1330.28,
+    "end": 1336.76,
+    "text": "Overpopulation is a good problem to have and not one we tend to hear about very often."
+  },
+  {
+    "id": 251,
+    "start": 1337.92,
+    "end": 1347.32,
+    "text": "In Malawi's Majeti National Park, the elephant population had been wiped out by poachers who killed the elephants for their ivory."
+  },
+  {
+    "id": 252,
+    "start": 1348.32,
+    "end": 1355.54,
+    "text": "But in 2003 the park was restocked and effective law enforcement was introduced."
+  },
+  {
+    "id": 253,
+    "start": 1356.84,
+    "end": 1360.5,
+    "text": "Since then not a single elephant has been poached."
+  },
+  {
+    "id": 254,
+    "start": 1361.84,
+    "end": 1366.34,
+    "text": "In this safe environment the elephant population boomed."
+  },
+  {
+    "id": 255,
+    "start": 1367.28,
+    "end": 1372.98,
+    "text": "Breeding went so well that there were more elephants than the park could support."
+  },
+  {
+    "id": 256,
+    "start": 1374.54,
+    "end": 1385.26,
+    "text": "This led to a number of problems. Firstly there was more competition for food which meant that some elephants were suffering from hunger."
+  },
+  {
+    "id": 257,
+    "start": 1387.26,
+    "end": 1394.72,
+    "text": "As there was a limit to the amount of food in the national park some elephants began looking further afield."
+  },
+  {
+    "id": 258,
+    "start": 1395.82,
+    "end": 1405.94,
+    "text": "Elephants were routinely knocking down fences around the park which then had to be repaired at a significant cost."
+  },
+  {
+    "id": 259,
+    "start": 1407.32,
+    "end": 1419.44,
+    "text": "To solve this problem the decision was made to move dozens of elephants from Majeti National Park to Inkota Kota Wildlife Park where there were no elephants."
+  },
+  {
+    "id": 260,
+    "start": 1420.48,
+    "end": 1429.98,
+    "text": "But obviously attempting to move significant numbers of elephants to a new home 300 kilometers away is quite a challenge."
+  },
+  {
+    "id": 261,
+    "start": 1430.28,
+    "end": 1440.32,
+    "text": "So how did this translocation process work in practice?"
+  },
+  {
+    "id": 262,
+    "start": 1441.88,
+    "end": 1449.1,
+    "text": "Elephants were moved in groups of between 8 and 20 all belonging to one family."
+  },
+  {
+    "id": 263,
+    "start": 1450.84,
+    "end": 1457.56,
+    "text": "Because relationships are very important to elephants they all had to be moved at the same time."
+  },
+  {
+    "id": 264,
+    "start": 1458.64,
+    "end": 1471.72,
+    "text": "A team of vets and park rangers flew over the park in helicopters and targeted a group which were rounded up and directed to a designated open plane."
+  },
+  {
+    "id": 265,
+    "start": 1473.46,
+    "end": 1492.06,
+    "text": "The vets then used darts to immobilise the elephants. This was a tricky maneuver as they not only had to select the right dose of tranquilizer for different sized elephants but they had to dart the elephants as they were running around."
+  },
+  {
+    "id": 266,
+    "start": 1493.62,
+    "end": 1500.38,
+    "text": "This also had to be done as quickly as possible so as to minimise the stress caused."
+  },
+  {
+    "id": 267,
+    "start": 1502.14,
+    "end": 1508.4,
+    "text": "As soon as the elephants began to flop onto the ground the team moved in to take care of them."
+  },
+  {
+    "id": 268,
+    "start": 1509.76,
+    "end": 1521.4,
+    "text": "To avoid the risk of suffocation the team had to make sure none of the elephants were lying on their chests because their lungs could be crushed in this position."
+  },
+  {
+    "id": 269,
+    "start": 1522.28,
+    "end": 1526.64,
+    "text": "So all the elephants had to be placed on their sides."
+  },
+  {
+    "id": 270,
+    "start": 1528.56,
+    "end": 1534.0,
+    "text": "One person stayed with each elephant while they waited for the vets to do checks."
+  },
+  {
+    "id": 271,
+    "start": 1535.38,
+    "end": 1538.88,
+    "text": "It was very important to keep an eye on their breathing."
+  },
+  {
+    "id": 272,
+    "start": 1540.38,
+    "end": 1547.46,
+    "text": "If there were fewer than six breaths per minute the elephant would need urgent medical attention."
+  },
+  {
+    "id": 273,
+    "start": 1548.96,
+    "end": 1555.98,
+    "text": "Colors were fitted to the matriarch in each group so their movements could be tracked in their new home."
+  },
+  {
+    "id": 274,
+    "start": 1557.22,
+    "end": 1569.14,
+    "text": "Measurements were taken of each elephant's tusks. Elephants with large tusks would be at greater risk from poachers and also of their feet."
+  },
+  {
+    "id": 275,
+    "start": 1571.02,
+    "end": 1579.72,
+    "text": "The elephants were then taken to a recovery area before being loaded onto trucks and transported to their new home."
+  },
+  {
+    "id": 276,
+    "start": 1580.84,
+    "end": 1594.3,
+    "text": "The elephants translocated to Enkota Kota settled in very well and the project has generally been accepted to have been a huge success and not just for the elephants."
+  },
+  {
+    "id": 277,
+    "start": 1595.92,
+    "end": 1604.6,
+    "text": "Employment prospects have improved enormously, contributing to rising living standards for the whole community."
+  },
+  {
+    "id": 278,
+    "start": 1605.68,
+    "end": 1613.72,
+    "text": "Poaching is no longer an issue as former poachers are able to find more reliable sources of income."
+  },
+  {
+    "id": 279,
+    "start": 1614.74,
+    "end": 1621.8,
+    "text": "In fact many of them volunteered to give up their weapons as they were no longer of any use to them."
+  },
+  {
+    "id": 280,
+    "start": 1623.22,
+    "end": 1629.26,
+    "text": "More than two dozen elephants have been born at Enkota Kota since relocation."
+  },
+  {
+    "id": 281,
+    "start": 1630.12,
+    "end": 1638.86,
+    "text": "With an area of more than 1800 square kilometres there's plenty of space for the elephant population to continue to grow."
+  },
+  {
+    "id": 282,
+    "start": 1639.94,
+    "end": 1652.42,
+    "text": "Their presence is also helping to rebalance Enkota Kota's damaged ecosystem and providing a sustainable conservation model which could be replicated in other parts of the world."
+  },
+  {
+    "id": 283,
+    "start": 1652.78,
+    "end": 1664.12,
+    "text": "All this has been a big draw for tourism which contributes five times more than the illegal wildlife trade to GDP."
+  },
+  {
+    "id": 284,
+    "start": 1665.26,
+    "end": 1673.12,
+    "text": "And this is mainly because of the elephants. There's also been a dramatic rise in interest from..."
+  },
+  {
+    "id": 285,
+    "start": 1673.34,
+    "end": 1682.2,
+    "text": "That is the end of part four. You now have one minute to check your answers to part four."
+  },
+  {
+    "id": 286,
+    "start": 1703.68,
+    "end": 1704.56,
+    "text": "You"
+  },
+  {
+    "id": 287,
+    "start": 1733.34,
+    "end": 1752.54,
+    "text": "That is the end of the listening test. In the IELTS test you would now have ten minutes to transfer your answers to the listening answer sheet."
+  }
+]

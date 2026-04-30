@@ -1,0 +1,2066 @@
+[
+  {
+    "id": 0,
+    "start": 0.34,
+    "end": 0.96,
+    "text": "Test 4."
+  },
+  {
+    "id": 1,
+    "start": 2.56,
+    "end": 4.68,
+    "text": "This is the IELTS listening test."
+  },
+  {
+    "id": 2,
+    "start": 5.82,
+    "end": 10.9,
+    "text": "You will hear a number of different recordings and you will have to answer questions on what"
+  },
+  {
+    "id": 3,
+    "start": 10.9,
+    "end": 11.42,
+    "text": "you hear."
+  },
+  {
+    "id": 4,
+    "start": 12.48,
+    "end": 17.97,
+    "text": "There will be time for you to read the instructions and questions and you will have a chance to check"
+  },
+  {
+    "id": 5,
+    "start": 17.97,
+    "end": 18.62,
+    "text": "your work."
+  },
+  {
+    "id": 6,
+    "start": 19.72,
+    "end": 22.58,
+    "text": "All the recordings will be played once only."
+  },
+  {
+    "id": 7,
+    "start": 23.9,
+    "end": 25.98,
+    "text": "The test is in four parts."
+  },
+  {
+    "id": 8,
+    "start": 27.0,
+    "end": 32.15,
+    "text": "At the end of the test, you will be given ten minutes to transfer your answers to the"
+  },
+  {
+    "id": 9,
+    "start": 32.15,
+    "end": 32.82,
+    "text": "answer sheet."
+  },
+  {
+    "id": 10,
+    "start": 34.52,
+    "end": 36.02,
+    "text": "Now turn to Part 1."
+  },
+  {
+    "id": 11,
+    "start": 41.24,
+    "end": 42.0,
+    "text": "Part 1."
+  },
+  {
+    "id": 12,
+    "start": 43.44,
+    "end": 46.52,
+    "text": "You will hear a man phoning the owner of a holiday cottage."
+  },
+  {
+    "id": 13,
+    "start": 47.56,
+    "end": 50.76,
+    "text": "First you have some time to look at questions 1 to 6."
+  },
+  {
+    "id": 14,
+    "start": 81.4,
+    "end": 85.04,
+    "text": "Now listen carefully and answer questions 1 to 6."
+  },
+  {
+    "id": 15,
+    "start": 85.94,
+    "end": 86.72,
+    "text": "Hello."
+  },
+  {
+    "id": 16,
+    "start": 89.94,
+    "end": 90.56,
+    "text": "Oh, hello."
+  },
+  {
+    "id": 17,
+    "start": 90.8,
+    "end": 94.96,
+    "text": "I was hoping to speak to Jack Fitzgerald about renting a cottage."
+  },
+  {
+    "id": 18,
+    "start": 95.62,
+    "end": 100.64,
+    "text": "I'm his wife Shirley and we own the cottages together so I'm sure I can help you."
+  },
+  {
+    "id": 19,
+    "start": 101.16,
+    "end": 101.54,
+    "text": "Great."
+  },
+  {
+    "id": 20,
+    "start": 102.28,
+    "end": 103.04,
+    "text": "My name's Tom."
+  },
+  {
+    "id": 21,
+    "start": 103.5,
+    "end": 108.5,
+    "text": "Some friends of ours rented granary cottage from you last year and they thought it was great."
+  },
+  {
+    "id": 22,
+    "start": 109.0,
+    "end": 112.4,
+    "text": "So my wife and I are hoping to come in May for a week."
+  },
+  {
+    "id": 23,
+    "start": 113.22,
+    "end": 115.04,
+    "text": "What date did you have in mind?"
+  },
+  {
+    "id": 24,
+    "start": 115.6,
+    "end": 118.34,
+    "text": "The week beginning the 14th if possible."
+  },
+  {
+    "id": 25,
+    "start": 118.96,
+    "end": 120.22,
+    "text": "I'll just check."
+  },
+  {
+    "id": 26,
+    "start": 121.84,
+    "end": 123.08,
+    "text": "I'm sorry Tom."
+  },
+  {
+    "id": 27,
+    "start": 123.18,
+    "end": 124.78,
+    "text": "It's already booked that week."
+  },
+  {
+    "id": 28,
+    "start": 125.54,
+    "end": 129.72,
+    "text": "It's re the week beginning the 28th though for seven nights."
+  },
+  {
+    "id": 29,
+    "start": 131.12,
+    "end": 133.64,
+    "text": "In fact that's the only time you could have it in May."
+  },
+  {
+    "id": 30,
+    "start": 134.1,
+    "end": 137.56,
+    "text": "Oh well we could manage that I think."
+  },
+  {
+    "id": 31,
+    "start": 138.42,
+    "end": 140.88,
+    "text": "We just need to change a couple of things."
+  },
+  {
+    "id": 32,
+    "start": 141.46,
+    "end": 142.84,
+    "text": "How much would it cost?"
+  },
+  {
+    "id": 33,
+    "start": 143.6,
+    "end": 149.34,
+    "text": "That's the beginning of high season so it would be £550 for the week."
+  },
+  {
+    "id": 34,
+    "start": 149.86,
+    "end": 153.9,
+    "text": "Ah, that's a bit more than we wanted to pay I'm afraid."
+  },
+  {
+    "id": 35,
+    "start": 154.62,
+    "end": 158.1,
+    "text": "We've budgeted up to £500 for accommodation."
+  },
+  {
+    "id": 36,
+    "start": 159.28,
+    "end": 163.3,
+    "text": "Well we've just finished converting another building into a cottage"
+  },
+  {
+    "id": 37,
+    "start": 163.9,
+    "end": 166.36,
+    "text": "which we're calling Cherville Cottage."
+  },
+  {
+    "id": 38,
+    "start": 166.74,
+    "end": 168.34,
+    "text": "Sorry, what was that again?"
+  },
+  {
+    "id": 39,
+    "start": 168.98,
+    "end": 169.66,
+    "text": "Cherville."
+  },
+  {
+    "id": 40,
+    "start": 170.5,
+    "end": 176.84,
+    "text": "C-H-E-R-V for Victor-I-L."
+  },
+  {
+    "id": 41,
+    "start": 177.68,
+    "end": 179.2,
+    "text": "Oh that's a herb isn't it?"
+  },
+  {
+    "id": 42,
+    "start": 179.42,
+    "end": 180.18,
+    "text": "That's right."
+  },
+  {
+    "id": 43,
+    "start": 180.8,
+    "end": 182.94,
+    "text": "It grows fairly wild around here."
+  },
+  {
+    "id": 44,
+    "start": 183.8,
+    "end": 187.32,
+    "text": "You could have that for the week you want for £480."
+  },
+  {
+    "id": 45,
+    "start": 188.38,
+    "end": 191.72,
+    "text": "OK, so could you tell me something about it please?"
+  },
+  {
+    "id": 46,
+    "start": 192.08,
+    "end": 192.54,
+    "text": "Of course."
+  },
+  {
+    "id": 47,
+    "start": 193.52,
+    "end": 196.26,
+    "text": "The building was built as a garage."
+  },
+  {
+    "id": 48,
+    "start": 197.1,
+    "end": 199.32,
+    "text": "It's a little smaller than granary cottage."
+  },
+  {
+    "id": 49,
+    "start": 199.82,
+    "end": 201.98,
+    "text": "So that must sleep two people as well."
+  },
+  {
+    "id": 50,
+    "start": 202.46,
+    "end": 204.64,
+    "text": "That's right. There's a double bedroom."
+  },
+  {
+    "id": 51,
+    "start": 205.26,
+    "end": 206.22,
+    "text": "Does it have a garden?"
+  },
+  {
+    "id": 52,
+    "start": 206.94,
+    "end": 210.64,
+    "text": "Yes, you get to it from the living room through French doors"
+  },
+  {
+    "id": 53,
+    "start": 211.32,
+    "end": 213.18,
+    "text": "and we provide two deck chairs."
+  },
+  {
+    "id": 54,
+    "start": 214.04,
+    "end": 216.6,
+    "text": "We hope to build a patio in the near future"
+  },
+  {
+    "id": 55,
+    "start": 217.26,
+    "end": 219.98,
+    "text": "but I wouldn't like to guarantee it'll be finished by May."
+  },
+  {
+    "id": 56,
+    "start": 220.24,
+    "end": 220.6,
+    "text": "OK."
+  },
+  {
+    "id": 57,
+    "start": 221.8,
+    "end": 224.56,
+    "text": "The front door opens onto the old farm yard"
+  },
+  {
+    "id": 58,
+    "start": 225.22,
+    "end": 227.06,
+    "text": "and parking isn't a problem."
+  },
+  {
+    "id": 59,
+    "start": 227.64,
+    "end": 229.62,
+    "text": "There's plenty of room at the front for that."
+  },
+  {
+    "id": 60,
+    "start": 230.52,
+    "end": 232.96,
+    "text": "There are some trees and potted plants there."
+  },
+  {
+    "id": 61,
+    "start": 236.56,
+    "end": 238.56,
+    "text": "Before you hear the rest of the conversation"
+  },
+  {
+    "id": 62,
+    "start": 239.08,
+    "end": 242.08,
+    "text": "you have some time to look at questions 7 to 10."
+  },
+  {
+    "id": 63,
+    "start": 247.12,
+    "end": 265.32,
+    "text": "Now listen and answer questions 7 to 10."
+  },
+  {
+    "id": 64,
+    "start": 269.0,
+    "end": 271.12,
+    "text": "What about facilities in the cottage?"
+  },
+  {
+    "id": 65,
+    "start": 271.7,
+    "end": 275.46,
+    "text": "It has standard things like a cooker and fridge I presume."
+  },
+  {
+    "id": 66,
+    "start": 276.64,
+    "end": 279.32,
+    "text": "In the kitchen area there's a fridge freezer"
+  },
+  {
+    "id": 67,
+    "start": 280.02,
+    "end": 282.52,
+    "text": "and we've just put in an electric cooker."
+  },
+  {
+    "id": 68,
+    "start": 283.58,
+    "end": 284.72,
+    "text": "Is there a washing machine?"
+  },
+  {
+    "id": 69,
+    "start": 285.28,
+    "end": 288.88,
+    "text": "Yes, there's also a TV in the living room"
+  },
+  {
+    "id": 70,
+    "start": 289.12,
+    "end": 290.7,
+    "text": "which plays DVDs too."
+  },
+  {
+    "id": 71,
+    "start": 291.8,
+    "end": 294.04,
+    "text": "The bathroom is too small for a bath"
+  },
+  {
+    "id": 72,
+    "start": 294.54,
+    "end": 296.12,
+    "text": "so there's a shower instead."
+  },
+  {
+    "id": 73,
+    "start": 296.96,
+    "end": 299.66,
+    "text": "I think a lot of people prefer that nowadays anyway."
+  },
+  {
+    "id": 74,
+    "start": 300.24,
+    "end": 302.54,
+    "text": "It's more environmentally friendly isn't it?"
+  },
+  {
+    "id": 75,
+    "start": 302.92,
+    "end": 304.76,
+    "text": "Unless you spend half the day in it."
+  },
+  {
+    "id": 76,
+    "start": 305.16,
+    "end": 305.42,
+    "text": "Exactly."
+  },
+  {
+    "id": 77,
+    "start": 306.02,
+    "end": 307.14,
+    "text": "What about heating?"
+  },
+  {
+    "id": 78,
+    "start": 307.74,
+    "end": 310.54,
+    "text": "It sometimes gets quite cool at that time of year."
+  },
+  {
+    "id": 79,
+    "start": 311.24,
+    "end": 314.5,
+    "text": "There's central heating and if you want a light of fire"
+  },
+  {
+    "id": 80,
+    "start": 314.82,
+    "end": 315.68,
+    "text": "there's a stove."
+  },
+  {
+    "id": 81,
+    "start": 316.3,
+    "end": 319.06,
+    "text": "We can provide all the wood you need for it."
+  },
+  {
+    "id": 82,
+    "start": 319.8,
+    "end": 321.76,
+    "text": "It smells so much nicer than coal"
+  },
+  {
+    "id": 83,
+    "start": 322.3,
+    "end": 323.98,
+    "text": "and it makes the room very cozy."
+  },
+  {
+    "id": 84,
+    "start": 324.7,
+    "end": 326.08,
+    "text": "We've got one in our own house."
+  },
+  {
+    "id": 85,
+    "start": 326.74,
+    "end": 328.04,
+    "text": "That sounds very pleasant."
+  },
+  {
+    "id": 86,
+    "start": 328.8,
+    "end": 331.6,
+    "text": "Perhaps we should come in the wind set to make the most of it."
+  },
+  {
+    "id": 87,
+    "start": 331.86,
+    "end": 332.18,
+    "text": "Yes."
+  },
+  {
+    "id": 88,
+    "start": 333.0,
+    "end": 335.74,
+    "text": "We find we don't want to go out when we've got the fire burning."
+  },
+  {
+    "id": 89,
+    "start": 336.74,
+    "end": 339.06,
+    "text": "There are some attractive views from the cottage"
+  },
+  {
+    "id": 90,
+    "start": 339.2,
+    "end": 340.58,
+    "text": "which I haven't mentioned."
+  },
+  {
+    "id": 91,
+    "start": 341.46,
+    "end": 343.48,
+    "text": "There's a famous stone bridge."
+  },
+  {
+    "id": 92,
+    "start": 344.12,
+    "end": 346.0,
+    "text": "It's one of the oldest in the region"
+  },
+  {
+    "id": 93,
+    "start": 346.44,
+    "end": 348.34,
+    "text": "and you can see it from the living room."
+  },
+  {
+    "id": 94,
+    "start": 348.98,
+    "end": 350.08,
+    "text": "It isn't far away."
+  },
+  {
+    "id": 95,
+    "start": 351.16,
+    "end": 353.64,
+    "text": "The bedroom window looks in the opposite direction"
+  },
+  {
+    "id": 96,
+    "start": 354.22,
+    "end": 356.28,
+    "text": "and has a lovely view of the hills"
+  },
+  {
+    "id": 97,
+    "start": 356.7,
+    "end": 358.1,
+    "text": "and the monument at the top."
+  },
+  {
+    "id": 98,
+    "start": 358.68,
+    "end": 360.84,
+    "text": "Well, that all sounds perfect."
+  },
+  {
+    "id": 99,
+    "start": 361.36,
+    "end": 362.5,
+    "text": "I'd like to book it please."
+  },
+  {
+    "id": 100,
+    "start": 363.02,
+    "end": 364.08,
+    "text": "Would you want to deposit?"
+  },
+  {
+    "id": 101,
+    "start": 364.84,
+    "end": 368.6,
+    "text": "Yes. We ask for 30% to secure your booking."
+  },
+  {
+    "id": 102,
+    "start": 369.26,
+    "end": 373.16,
+    "text": "So that'll be 144 pounds."
+  },
+  {
+    "id": 103,
+    "start": 373.8,
+    "end": 375.84,
+    "text": "And when would you like the rest of the money?"
+  },
+  {
+    "id": 104,
+    "start": 376.62,
+    "end": 377.76,
+    "text": "You're coming in May."
+  },
+  {
+    "id": 105,
+    "start": 378.4,
+    "end": 380.64,
+    "text": "So the last day of March please."
+  },
+  {
+    "id": 106,
+    "start": 381.4,
+    "end": 381.74,
+    "text": "Fine."
+  },
+  {
+    "id": 107,
+    "start": 382.42,
+    "end": 382.9,
+    "text": "Excellent."
+  },
+  {
+    "id": 108,
+    "start": 383.88,
+    "end": 386.42,
+    "text": "Could I just take your details so that I can..."
+  },
+  {
+    "id": 109,
+    "start": 387.26,
+    "end": 391.2,
+    "text": "That is the end of Part 1."
+  },
+  {
+    "id": 110,
+    "start": 392.18,
+    "end": 395.22,
+    "text": "You now have half a minute to check your answers to Part 1."
+  },
+  {
+    "id": 111,
+    "start": 416.92,
+    "end": 427.1,
+    "text": "Part 2."
+  },
+  {
+    "id": 112,
+    "start": 428.04,
+    "end": 431.94,
+    "text": "You will hear a town counsellor reporting on the local transport network"
+  },
+  {
+    "id": 113,
+    "start": 432.16,
+    "end": 433.56,
+    "text": "and a recreation facility."
+  },
+  {
+    "id": 114,
+    "start": 434.86,
+    "end": 438.56,
+    "text": "First you have some time to look at questions 11 to 14."
+  },
+  {
+    "id": 115,
+    "start": 446.92,
+    "end": 473.12,
+    "text": "Now listen carefully and answer questions 11 to 14."
+  },
+  {
+    "id": 116,
+    "start": 476.88,
+    "end": 480.42,
+    "text": "Right. Next on the agenda we have traffic and highways."
+  },
+  {
+    "id": 117,
+    "start": 481.1,
+    "end": 482.02,
+    "text": "Councillor Thornton."
+  },
+  {
+    "id": 118,
+    "start": 482.62,
+    "end": 483.12,
+    "text": "Thank you."
+  },
+  {
+    "id": 119,
+    "start": 484.2,
+    "end": 486.56,
+    "text": "Well, we now have the results of the survey"
+  },
+  {
+    "id": 120,
+    "start": 486.74,
+    "end": 490.6,
+    "text": "carried out last month about traffic and road transport in the town."
+  },
+  {
+    "id": 121,
+    "start": 491.34,
+    "end": 494.24,
+    "text": "People were generally satisfied with the state of the roads."
+  },
+  {
+    "id": 122,
+    "start": 494.86,
+    "end": 498.52,
+    "text": "There were one or two complaints about potholes, which will be addressed,"
+  },
+  {
+    "id": 123,
+    "start": 499.2,
+    "end": 503.8,
+    "text": "but a significant number of people complained about the increasing number of heavy vehicles"
+  },
+  {
+    "id": 124,
+    "start": 504.34,
+    "end": 507.1,
+    "text": "using our local roads to avoid traffic elsewhere."
+  },
+  {
+    "id": 125,
+    "start": 507.82,
+    "end": 512.96,
+    "text": "We'd expected more complaints by commuters about the reduction in the train service,"
+  },
+  {
+    "id": 126,
+    "start": 513.38,
+    "end": 516.2,
+    "text": "but it doesn't seem to have affected people too much."
+  },
+  {
+    "id": 127,
+    "start": 517.4,
+    "end": 522.7,
+    "text": "The cycle path that runs alongside the river is very well used by both cyclists"
+  },
+  {
+    "id": 128,
+    "start": 522.7,
+    "end": 526.4,
+    "text": "and pedestrians since the surface was improved last year,"
+  },
+  {
+    "id": 129,
+    "start": 527.04,
+    "end": 532.16,
+    "text": "but overtaking can be a problem, so we're going to add a bit on the side to make it wider."
+  },
+  {
+    "id": 130,
+    "start": 533.16,
+    "end": 538.38,
+    "text": "At some stage we'd like to extend the path so that it goes all the way through the town,"
+  },
+  {
+    "id": 131,
+    "start": 538.9,
+    "end": 541.32,
+    "text": "but that won't be happening in the immediate future."
+  },
+  {
+    "id": 132,
+    "start": 543.28,
+    "end": 548.49,
+    "text": "The plans to have a pedestrian crossing next to the post office have unfortunately had to"
+  },
+  {
+    "id": 133,
+    "start": 548.49,
+    "end": 550.28,
+    "text": "be put on hold for the time being."
+  },
+  {
+    "id": 134,
+    "start": 550.96,
+    "end": 556.44,
+    "text": "We'd budgeted for this to be done this financial year, but then there were rumors that the post office"
+  },
+  {
+    "id": 135,
+    "start": 556.46,
+    "end": 560.58,
+    "text": "was going to move, which would have meant there wasn't really a need for a crossing."
+  },
+  {
+    "id": 136,
+    "start": 561.68,
+    "end": 565.5,
+    "text": "Now they've confirmed that they're staying where they are, but the highways department"
+  },
+  {
+    "id": 137,
+    "start": 565.58,
+    "end": 570.33,
+    "text": "have told us that it would be dangerous to have a pedestrian crossing where we'd originally"
+  },
+  {
+    "id": 138,
+    "start": 570.33,
+    "end": 575.08,
+    "text": "planned it as they're subbending the road there, so that'll need some more thought."
+  },
+  {
+    "id": 139,
+    "start": 576.22,
+    "end": 581.74,
+    "text": "On station road near the station and level crossing, drivers can face quite long waits"
+  },
+  {
+    "id": 140,
+    "start": 581.86,
+    "end": 587.13,
+    "text": "if the level crossing's closed, and we've now got signs up requesting them not to leave"
+  },
+  {
+    "id": 141,
+    "start": 587.13,
+    "end": 588.92,
+    "text": "their engines running at that time."
+  },
+  {
+    "id": 142,
+    "start": 589.84,
+    "end": 594.56,
+    "text": "This means pedestrians waiting on the pavement across the railway line don't have to breathe"
+  },
+  {
+    "id": 143,
+    "start": 594.62,
+    "end": 595.62,
+    "text": "in car fumes."
+  },
+  {
+    "id": 144,
+    "start": 596.72,
+    "end": 601.46,
+    "text": "We've had some problems with cyclists leaving their bikes chain to the railings outside"
+  },
+  {
+    "id": 145,
+    "start": 601.52,
+    "end": 605.58,
+    "text": "the ticket office, but the station has agreed to provide bike racks there."
+  },
+  {
+    "id": 146,
+    "start": 609.14,
+    "end": 615.16,
+    "text": "Before you hear the rest of the talk, you have some time to look at questions 15 to 20."
+  },
+  {
+    "id": 147,
+    "start": 619.84,
+    "end": 649.1,
+    "text": "Now listen and answer questions 15 to 20."
+  },
+  {
+    "id": 148,
+    "start": 652.74,
+    "end": 657.92,
+    "text": "So next on the agenda is proposals for improvements to the recreation ground."
+  },
+  {
+    "id": 149,
+    "start": 658.62,
+    "end": 659.86,
+    "text": "Councillor Thornton again."
+  },
+  {
+    "id": 150,
+    "start": 660.9,
+    "end": 666.24,
+    "text": "Well, since we managed to extend the recreation ground, we've spent some time talking to local"
+  },
+  {
+    "id": 151,
+    "start": 666.32,
+    "end": 670.36,
+    "text": "people about how it could be made a more attractive and useful space."
+  },
+  {
+    "id": 152,
+    "start": 671.16,
+    "end": 676.44,
+    "text": "If you have a look at the map up on the screen, you can see the river up in the north and"
+  },
+  {
+    "id": 153,
+    "start": 676.52,
+    "end": 678.96,
+    "text": "the community hall near the entrance from the road."
+  },
+  {
+    "id": 154,
+    "start": 679.82,
+    "end": 685.89,
+    "text": "At present, cars can park between the community hall and that line of trees to the east, but"
+  },
+  {
+    "id": 155,
+    "start": 685.89,
+    "end": 691.52,
+    "text": "this is quite dangerous for pedestrians, so we're suggesting a new car park on the opposite"
+  },
+  {
+    "id": 156,
+    "start": 691.56,
+    "end": 694.14,
+    "text": "side of the community hall right next to it."
+  },
+  {
+    "id": 157,
+    "start": 695.28,
+    "end": 698.2,
+    "text": "We also have a new location for the cricket pitch."
+  },
+  {
+    "id": 158,
+    "start": 698.88,
+    "end": 703.78,
+    "text": "As we've now purchased additional space to the east of the recreation ground beyond the"
+  },
+  {
+    "id": 159,
+    "start": 704.34,
+    "end": 709.54,
+    "text": "trees, we plan to move it away from its current location which is rather near the road"
+  },
+  {
+    "id": 160,
+    "start": 709.88,
+    "end": 712.48,
+    "text": "into this new area beyond the line of trees."
+  },
+  {
+    "id": 161,
+    "start": 713.36,
+    "end": 717.4,
+    "text": "This means there's less danger of stray balls hitting cars or pedestrians."
+  },
+  {
+    "id": 162,
+    "start": 718.78,
+    "end": 723.4,
+    "text": "We've got plans for a children's playground which will be accessible by a footpath from"
+  },
+  {
+    "id": 163,
+    "start": 723.4,
+    "end": 726.24,
+    "text": "the community hall and will be alongside the river."
+  },
+  {
+    "id": 164,
+    "start": 726.98,
+    "end": 731.22,
+    "text": "We'd originally thought of having it close to the road, but we think this will be a more"
+  },
+  {
+    "id": 165,
+    "start": 731.38,
+    "end": 732.36,
+    "text": "attractive location."
+  },
+  {
+    "id": 166,
+    "start": 734.02,
+    "end": 738.58,
+    "text": "The skateboard ramp is very popular with both younger and older children."
+  },
+  {
+    "id": 167,
+    "start": 739.28,
+    "end": 744.12,
+    "text": "We had considered moving this up towards the river, but in the end we decided to have"
+  },
+  {
+    "id": 168,
+    "start": 744.12,
+    "end": 746.18,
+    "text": "it in the southeast corner near the road."
+  },
+  {
+    "id": 169,
+    "start": 747.48,
+    "end": 752.02,
+    "text": "The pavilion is very well used at present by both football players and cricketers."
+  },
+  {
+    "id": 170,
+    "start": 752.7,
+    "end": 757.98,
+    "text": "It will stay where it is now to the left of the line of trees and near to the river, handy"
+  },
+  {
+    "id": 171,
+    "start": 758.0,
+    "end": 760.0,
+    "text": "for both the football and cricket pitches."
+  },
+  {
+    "id": 172,
+    "start": 761.28,
+    "end": 766.14,
+    "text": "And finally we'll be getting a new notice board for local information and that will be"
+  },
+  {
+    "id": 173,
+    "start": 766.14,
+    "end": 770.72,
+    "text": "directly on people's right as they go from the road into the recreation ground."
+  },
+  {
+    "id": 174,
+    "start": 774.28,
+    "end": 776.12,
+    "text": "That is the end of part two."
+  },
+  {
+    "id": 175,
+    "start": 777.06,
+    "end": 780.72,
+    "text": "You now have half a minute to check your answers to part two."
+  },
+  {
+    "id": 176,
+    "start": 788.0,
+    "end": 812.22,
+    "text": "Part three."
+  },
+  {
+    "id": 177,
+    "start": 813.32,
+    "end": 818.52,
+    "text": "You will hear two urban planning students discussing bike sharing schemes in different cities."
+  },
+  {
+    "id": 178,
+    "start": 819.64,
+    "end": 823.92,
+    "text": "First you have some time to look at questions 21 to 24."
+  },
+  {
+    "id": 179,
+    "start": 844.28,
+    "end": 848.68,
+    "text": "Now listen carefully and answer questions 21 to 24."
+  },
+  {
+    "id": 180,
+    "start": 852.3,
+    "end": 856.62,
+    "text": "Now that we've done all the research into bike sharing schemes in cities around the world,"
+  },
+  {
+    "id": 181,
+    "start": 857.24,
+    "end": 860.12,
+    "text": "we need to think about how we're going to organise our report."
+  },
+  {
+    "id": 182,
+    "start": 860.64,
+    "end": 860.9,
+    "text": "Right."
+  },
+  {
+    "id": 183,
+    "start": 861.72,
+    "end": 864.66,
+    "text": "I think we should start by talking about the benefits."
+  },
+  {
+    "id": 184,
+    "start": 865.44,
+    "end": 870.4,
+    "text": "I mean, it's great that so many cities have introduced these schemes where anyone can"
+  },
+  {
+    "id": 185,
+    "start": 870.4,
+    "end": 875.1,
+    "text": "pick up a bike from dozens of different locations and hire it for a few hours."
+  },
+  {
+    "id": 186,
+    "start": 875.38,
+    "end": 878.4,
+    "text": "It makes riding a bike very convenient for people."
+  },
+  {
+    "id": 187,
+    "start": 878.76,
+    "end": 884.32,
+    "text": "Yes, but the costs can add up and that puts people on low incomes off in some places."
+  },
+  {
+    "id": 188,
+    "start": 884.74,
+    "end": 886.32,
+    "text": "Hmm, I suppose so."
+  },
+  {
+    "id": 189,
+    "start": 886.94,
+    "end": 892.67,
+    "text": "But if it means more people in general are cycling rather than driving, then because they're"
+  },
+  {
+    "id": 190,
+    "start": 892.67,
+    "end": 896.74,
+    "text": "increasing the amount of physical activity they do, it's good for their health."
+  },
+  {
+    "id": 191,
+    "start": 897.2,
+    "end": 900.04,
+    "text": "OK, but isn't that of less importance?"
+  },
+  {
+    "id": 192,
+    "start": 900.92,
+    "end": 906.44,
+    "text": "I mean, doesn't the impact of reduced emissions on air pollution have a more significant effect"
+  },
+  {
+    "id": 193,
+    "start": 906.46,
+    "end": 907.5,
+    "text": "on people's health?"
+  },
+  {
+    "id": 194,
+    "start": 907.92,
+    "end": 914.22,
+    "text": "Certainly in some cities, bike sharing has made a big contribution to that and also helped"
+  },
+  {
+    "id": 195,
+    "start": 914.22,
+    "end": 916.78,
+    "text": "to cut the number of cars on the road significantly."
+  },
+  {
+    "id": 196,
+    "start": 917.12,
+    "end": 918.18,
+    "text": "Which is the main point?"
+  },
+  {
+    "id": 197,
+    "start": 918.3,
+    "end": 918.78,
+    "text": "Exactly."
+  },
+  {
+    "id": 198,
+    "start": 919.6,
+    "end": 924.66,
+    "text": "But I'd say it's had less of an impact on noise pollution because there are still loads"
+  },
+  {
+    "id": 199,
+    "start": 924.74,
+    "end": 926.44,
+    "text": "of buses and lorries around."
+  },
+  {
+    "id": 200,
+    "start": 926.94,
+    "end": 927.26,
+    "text": "Right."
+  },
+  {
+    "id": 201,
+    "start": 928.18,
+    "end": 931.26,
+    "text": "Shall we quickly discuss the recommendations we're going to make?"
+  },
+  {
+    "id": 202,
+    "start": 931.76,
+    "end": 934.22,
+    "text": "In order to ensure bike sharing schemes are successful?"
+  },
+  {
+    "id": 203,
+    "start": 934.56,
+    "end": 934.76,
+    "text": "Yes."
+  },
+  {
+    "id": 204,
+    "start": 935.14,
+    "end": 935.5,
+    "text": "OK."
+  },
+  {
+    "id": 205,
+    "start": 936.76,
+    "end": 941.68,
+    "text": "Well, while I think it's nice to have really state-of-the-art bikes with things like GPS,"
+  },
+  {
+    "id": 206,
+    "start": 942.52,
+    "end": 944.48,
+    "text": "I wouldn't say they're absolutely necessary."
+  },
+  {
+    "id": 207,
+    "start": 945.08,
+    "end": 951.56,
+    "text": "But some technical things are really important, like a fully functional app so people can"
+  },
+  {
+    "id": 208,
+    "start": 951.6,
+    "end": 954.12,
+    "text": "make payments and book bikes easily."
+  },
+  {
+    "id": 209,
+    "start": 954.78,
+    "end": 957.74,
+    "text": "Places which haven't invested in that have really struggled."
+  },
+  {
+    "id": 210,
+    "start": 957.8,
+    "end": 958.5,
+    "text": "Good point."
+  },
+  {
+    "id": 211,
+    "start": 959.54,
+    "end": 964.12,
+    "text": "Some people say there shouldn't be competing companies offering separate bike sharing schemes,"
+  },
+  {
+    "id": 212,
+    "start": 964.7,
+    "end": 967.6,
+    "text": "but in some really big cities, competition's beneficial."
+  },
+  {
+    "id": 213,
+    "start": 968.26,
+    "end": 971.66,
+    "text": "And anyway, one company might not be able to manage the whole thing."
+  },
+  {
+    "id": 214,
+    "start": 971.9,
+    "end": 972.22,
+    "text": "Right."
+  },
+  {
+    "id": 215,
+    "start": 973.06,
+    "end": 976.06,
+    "text": "Deciding how much to invest is a big question."
+  },
+  {
+    "id": 216,
+    "start": 976.84,
+    "end": 981.9,
+    "text": "Cities which have opened loads of new bike lanes at the same time as introducing bike sharing"
+  },
+  {
+    "id": 217,
+    "start": 981.96,
+    "end": 984.68,
+    "text": "schemes have generally been more successful."
+  },
+  {
+    "id": 218,
+    "start": 985.4,
+    "end": 989.36,
+    "text": "But there are examples of successful schemes where this hasn't happened."
+  },
+  {
+    "id": 219,
+    "start": 990.1,
+    "end": 993.7,
+    "text": "What does matter, though, is having a big publicity campaign."
+  },
+  {
+    "id": 220,
+    "start": 994.06,
+    "end": 994.5,
+    "text": "Definitely."
+  },
+  {
+    "id": 221,
+    "start": 995.12,
+    "end": 999.46,
+    "text": "If people don't know how to use the scheme or don't understand its benefits, they won't"
+  },
+  {
+    "id": 222,
+    "start": 999.46,
+    "end": 999.96,
+    "text": "use it."
+  },
+  {
+    "id": 223,
+    "start": 1000.76,
+    "end": 1003.54,
+    "text": "People need a lot of persuasion to stop using their cars."
+  },
+  {
+    "id": 224,
+    "start": 1007.18,
+    "end": 1013.36,
+    "text": "Before you hear the rest of the discussion, you have some time to look at questions 25 to 30."
+  },
+  {
+    "id": 225,
+    "start": 1036.76,
+    "end": 1047.52,
+    "text": "Now listen and answer questions 25 to 30."
+  },
+  {
+    "id": 226,
+    "start": 1051.2,
+    "end": 1056.52,
+    "text": "Shall we look at some examples now and say what we think is good or bad about them?"
+  },
+  {
+    "id": 227,
+    "start": 1056.86,
+    "end": 1061.08,
+    "text": "I suppose we should start with Amsterdam, as this was one of the first cities to have"
+  },
+  {
+    "id": 228,
+    "start": 1061.08,
+    "end": 1062.06,
+    "text": "a bike sharing scheme."
+  },
+  {
+    "id": 229,
+    "start": 1062.48,
+    "end": 1066.16,
+    "text": "Yes, there was already a strong culture of cycling here."
+  },
+  {
+    "id": 230,
+    "start": 1066.84,
+    "end": 1071.7,
+    "text": "In a way, it's strange that there was such a demand for bike sharing because you'd"
+  },
+  {
+    "id": 231,
+    "start": 1071.7,
+    "end": 1074.36,
+    "text": "have thought most people would have used their own bikes."
+  },
+  {
+    "id": 232,
+    "start": 1074.62,
+    "end": 1076.68,
+    "text": "And yet it's one of the best used schemes."
+  },
+  {
+    "id": 233,
+    "start": 1077.76,
+    "end": 1080.3,
+    "text": "Dublin's an interesting example of a success story."
+  },
+  {
+    "id": 234,
+    "start": 1080.7,
+    "end": 1083.98,
+    "text": "It must be because the public transport system's quite limited."
+  },
+  {
+    "id": 235,
+    "start": 1084.4,
+    "end": 1085.14,
+    "text": "Not really."
+  },
+  {
+    "id": 236,
+    "start": 1085.54,
+    "end": 1088.86,
+    "text": "There's no underground, but there are trams and a good bus network."
+  },
+  {
+    "id": 237,
+    "start": 1089.84,
+    "end": 1092.04,
+    "text": "I'd say price has a lot to do with it."
+  },
+  {
+    "id": 238,
+    "start": 1092.48,
+    "end": 1094.82,
+    "text": "It's one of the cheapest schemes in Europe to join."
+  },
+  {
+    "id": 239,
+    "start": 1095.36,
+    "end": 1097.42,
+    "text": "But the buses are really slow."
+  },
+  {
+    "id": 240,
+    "start": 1098.24,
+    "end": 1100.98,
+    "text": "Anyway, the weather certainly can't be a factor."
+  },
+  {
+    "id": 241,
+    "start": 1101.26,
+    "end": 1102.32,
+    "text": "No, definitely not."
+  },
+  {
+    "id": 242,
+    "start": 1103.3,
+    "end": 1105.2,
+    "text": "The London scheme's been quite successful."
+  },
+  {
+    "id": 243,
+    "start": 1105.52,
+    "end": 1108.32,
+    "text": "Yes, it's been a really good thing for the city."
+  },
+  {
+    "id": 244,
+    "start": 1108.54,
+    "end": 1113.94,
+    "text": "The bikes are popular and the whole system is well maintained, but it isn't expanding"
+  },
+  {
+    "id": 245,
+    "start": 1114.02,
+    "end": 1114.78,
+    "text": "quickly enough."
+  },
+  {
+    "id": 246,
+    "start": 1115.2,
+    "end": 1118.74,
+    "text": "Basically, not enough's been spent on increasing the number of cycle lanes."
+  },
+  {
+    "id": 247,
+    "start": 1119.4,
+    "end": 1120.46,
+    "text": "Hopefully that'll change."
+  },
+  {
+    "id": 248,
+    "start": 1120.68,
+    "end": 1121.04,
+    "text": "Yes."
+  },
+  {
+    "id": 249,
+    "start": 1122.02,
+    "end": 1124.32,
+    "text": "Now, what about outside Europe?"
+  },
+  {
+    "id": 250,
+    "start": 1125.32,
+    "end": 1128.7,
+    "text": "Well, bike sharing schemes have taken off in places like Buenos Aires."
+  },
+  {
+    "id": 251,
+    "start": 1129.12,
+    "end": 1129.48,
+    "text": "Hmm."
+  },
+  {
+    "id": 252,
+    "start": 1130.08,
+    "end": 1134.11,
+    "text": "They built a huge network of cycle lanes to support the introduction of the scheme there,"
+  },
+  {
+    "id": 253,
+    "start": 1134.11,
+    "end": 1134.64,
+    "text": "didn't they?"
+  },
+  {
+    "id": 254,
+    "start": 1135.18,
+    "end": 1139.68,
+    "text": "It attracted huge numbers of cyclists where previously there were hardly any."
+  },
+  {
+    "id": 255,
+    "start": 1140.0,
+    "end": 1141.46,
+    "text": "An example of good planning."
+  },
+  {
+    "id": 256,
+    "start": 1141.74,
+    "end": 1142.34,
+    "text": "Absolutely."
+  },
+  {
+    "id": 257,
+    "start": 1143.26,
+    "end": 1146.74,
+    "text": "New York is a good example of how not to introduce a scheme."
+  },
+  {
+    "id": 258,
+    "start": 1147.32,
+    "end": 1152.14,
+    "text": "When they launched it, it was more than ten times the price of most other schemes."
+  },
+  {
+    "id": 259,
+    "start": 1152.62,
+    "end": 1154.46,
+    "text": "More than it costs to take a taxi."
+  },
+  {
+    "id": 260,
+    "start": 1154.74,
+    "end": 1155.26,
+    "text": "Crazy."
+  },
+  {
+    "id": 261,
+    "start": 1156.14,
+    "end": 1159.12,
+    "text": "I think the organisers lacked vision and ambition there."
+  },
+  {
+    "id": 262,
+    "start": 1159.54,
+    "end": 1160.48,
+    "text": "I think so too."
+  },
+  {
+    "id": 263,
+    "start": 1161.06,
+    "end": 1163.5,
+    "text": "Sydney would be a good example to use."
+  },
+  {
+    "id": 264,
+    "start": 1164.14,
+    "end": 1167.04,
+    "text": "I would have expected it to have grown pretty quickly here."
+  },
+  {
+    "id": 265,
+    "start": 1167.24,
+    "end": 1167.54,
+    "text": "Yes."
+  },
+  {
+    "id": 266,
+    "start": 1168.52,
+    "end": 1172.96,
+    "text": "I can't quite work out why it hasn't been an instant success like some of the others."
+  },
+  {
+    "id": 267,
+    "start": 1173.88,
+    "end": 1174.78,
+    "text": "It's a shame really."
+  },
+  {
+    "id": 268,
+    "start": 1175.0,
+    "end": 1175.46,
+    "text": "I know."
+  },
+  {
+    "id": 269,
+    "start": 1176.58,
+    "end": 1179.32,
+    "text": "OK, so now we've thought about all the..."
+  },
+  {
+    "id": 270,
+    "start": 1182.68,
+    "end": 1184.42,
+    "text": "That is the end of part three."
+  },
+  {
+    "id": 271,
+    "start": 1185.38,
+    "end": 1189.08,
+    "text": "You now have half a minute to check your answers to part three."
+  },
+  {
+    "id": 272,
+    "start": 1198.36,
+    "end": 1220.64,
+    "text": "Part four."
+  },
+  {
+    "id": 273,
+    "start": 1221.72,
+    "end": 1227.02,
+    "text": "You will hear part of an environmental science lecture about a large bird called the dodo,"
+  },
+  {
+    "id": 274,
+    "start": 1227.48,
+    "end": 1228.44,
+    "text": "which is now extinct."
+  },
+  {
+    "id": 275,
+    "start": 1229.36,
+    "end": 1233.5,
+    "text": "First, you have some time to look at questions 31 to 40."
+  },
+  {
+    "id": 276,
+    "start": 1257.48,
+    "end": 1287.24,
+    "text": "Now listen carefully and answer questions 31."
+  },
+  {
+    "id": 277,
+    "start": 1288.8,
+    "end": 1297.32,
+    "text": "One of the most famous cases of extinction is that of a bird known as the dodo."
+  },
+  {
+    "id": 278,
+    "start": 1297.82,
+    "end": 1304.7,
+    "text": "In fact, there's even a saying in English as dead as the dodo used to refer to something"
+  },
+  {
+    "id": 279,
+    "start": 1304.72,
+    "end": 1306.3,
+    "text": "which no longer exists."
+  },
+  {
+    "id": 280,
+    "start": 1307.46,
+    "end": 1313.08,
+    "text": "But for many centuries, the dodo was alive and well, although it could only be found in"
+  },
+  {
+    "id": 281,
+    "start": 1313.12,
+    "end": 1317.06,
+    "text": "one place, the island of Mauritius in the Indian Ocean."
+  },
+  {
+    "id": 282,
+    "start": 1318.32,
+    "end": 1324.56,
+    "text": "It was a very large bird, about one metre tall, and over the centuries it had lost the"
+  },
+  {
+    "id": 283,
+    "start": 1324.56,
+    "end": 1330.2,
+    "text": "ability to fly, but it survived happily under the trees that covered the island."
+  },
+  {
+    "id": 284,
+    "start": 1331.78,
+    "end": 1338.42,
+    "text": "Then, in the year 1507, the first Portuguese ships stopped at the island."
+  },
+  {
+    "id": 285,
+    "start": 1339.6,
+    "end": 1346.38,
+    "text": "The sailors were carrying spices back to Europe and found the island a convenient stopping"
+  },
+  {
+    "id": 286,
+    "start": 1346.5,
+    "end": 1352.38,
+    "text": "place where they could stock up with food and water for the rest of the voyage, but they"
+  },
+  {
+    "id": 287,
+    "start": 1352.38,
+    "end": 1354.12,
+    "text": "didn't settle on Mauritius."
+  },
+  {
+    "id": 288,
+    "start": 1356.02,
+    "end": 1362.78,
+    "text": "However, in 1638, the Dutch arrived and set up a colony there."
+  },
+  {
+    "id": 289,
+    "start": 1364.84,
+    "end": 1371.32,
+    "text": "This first human inhabitants of the island found the dodo birds a convenient source of meat,"
+  },
+  {
+    "id": 290,
+    "start": 1371.66,
+    "end": 1374.4,
+    "text": "although not everyone liked the taste."
+  },
+  {
+    "id": 291,
+    "start": 1375.8,
+    "end": 1380.78,
+    "text": "It's hard to get an accurate description of what the dodo actually looked like."
+  },
+  {
+    "id": 292,
+    "start": 1381.82,
+    "end": 1388.25,
+    "text": "We do have some written records from sailors and a few pictures, but we don't know how"
+  },
+  {
+    "id": 293,
+    "start": 1388.25,
+    "end": 1389.66,
+    "text": "reliable these are."
+  },
+  {
+    "id": 294,
+    "start": 1391.44,
+    "end": 1397.28,
+    "text": "The best known picture is a Dutch painting in which the bird appears to be extremely fat,"
+  },
+  {
+    "id": 295,
+    "start": 1397.9,
+    "end": 1399.76,
+    "text": "but this may not be accurate."
+  },
+  {
+    "id": 296,
+    "start": 1400.78,
+    "end": 1405.2,
+    "text": "An Indian painting done at the same time shows a much thinner bird."
+  },
+  {
+    "id": 297,
+    "start": 1407.22,
+    "end": 1413.12,
+    "text": "Although attempts were made to preserve the bodies of some of the birds, no complete"
+  },
+  {
+    "id": 298,
+    "start": 1413.26,
+    "end": 1414.56,
+    "text": "specimen survives."
+  },
+  {
+    "id": 299,
+    "start": 1416.34,
+    "end": 1422.04,
+    "text": "In the early 17th century, four dried parts of a bird were known to exist."
+  },
+  {
+    "id": 300,
+    "start": 1423.04,
+    "end": 1430.42,
+    "text": "Of these, three have disappeared, so only one example of soft tissue from the dodo survives"
+  },
+  {
+    "id": 301,
+    "start": 1431.36,
+    "end": 1432.4,
+    "text": "a dodo head."
+  },
+  {
+    "id": 302,
+    "start": 1434.08,
+    "end": 1440.1,
+    "text": "Bones have also been found, but there's only one complete skeleton in existence."
+  },
+  {
+    "id": 303,
+    "start": 1442.6,
+    "end": 1449.98,
+    "text": "This single dodo skeleton has recently been the subject of scientific research, which"
+  },
+  {
+    "id": 304,
+    "start": 1450.06,
+    "end": 1456.24,
+    "text": "suggests that many of the earlier beliefs about dodo's may have been incorrect."
+  },
+  {
+    "id": 305,
+    "start": 1457.72,
+    "end": 1466.64,
+    "text": "For example, early accounts of the birds mentioned how slow and clumsy it was, but scientists"
+  },
+  {
+    "id": 306,
+    "start": 1467.04,
+    "end": 1473.38,
+    "text": "now believe the bird's strong knee joints would have made it capable of movement, which"
+  },
+  {
+    "id": 307,
+    "start": 1473.38,
+    "end": 1476.46,
+    "text": "was not slow, but actually quite fast."
+  },
+  {
+    "id": 308,
+    "start": 1477.66,
+    "end": 1484.78,
+    "text": "In fact, one 17th century sailor wrote that he found the birds hard to catch."
+  },
+  {
+    "id": 309,
+    "start": 1486.56,
+    "end": 1493.44,
+    "text": "It's true that the dodo's small wings wouldn't have allowed it to leave the ground, but"
+  },
+  {
+    "id": 310,
+    "start": 1493.52,
+    "end": 1500.42,
+    "text": "the scientists suggest that these were probably employed for balance while going over uneven"
+  },
+  {
+    "id": 311,
+    "start": 1500.6,
+    "end": 1501.16,
+    "text": "ground."
+  },
+  {
+    "id": 312,
+    "start": 1502.0,
+    "end": 1507.06,
+    "text": "Another group of scientists carried out analysis of the dodo's skull."
+  },
+  {
+    "id": 313,
+    "start": 1508.74,
+    "end": 1515.0,
+    "text": "They found that the reports of the lack of intelligence of the dodo were not born out"
+  },
+  {
+    "id": 314,
+    "start": 1515.04,
+    "end": 1522.76,
+    "text": "by their research, which suggested the bird's brain was not small, but average in size."
+  },
+  {
+    "id": 315,
+    "start": 1524.0,
+    "end": 1531.0,
+    "text": "In fact, in relation to its body size, it was similar to that of the pigeon, which is"
+  },
+  {
+    "id": 316,
+    "start": 1531.0,
+    "end": 1533.38,
+    "text": "known to be a highly intelligent bird."
+  },
+  {
+    "id": 317,
+    "start": 1534.38,
+    "end": 1541.18,
+    "text": "The researchers also found that the structure of the bird's skull suggested that one sense"
+  },
+  {
+    "id": 318,
+    "start": 1541.28,
+    "end": 1545.16,
+    "text": "which was particularly well developed was that of smell."
+  },
+  {
+    "id": 319,
+    "start": 1546.06,
+    "end": 1552.94,
+    "text": "So the dodo may also have been particularly good at locating ripe fruit and other food"
+  },
+  {
+    "id": 320,
+    "start": 1553.12,
+    "end": 1555.22,
+    "text": "in the island's thick vegetation."
+  },
+  {
+    "id": 321,
+    "start": 1560.86,
+    "end": 1566.66,
+    "text": "So it looks as if the dodo was better able to survive and defend itself than was originally"
+  },
+  {
+    "id": 322,
+    "start": 1566.84,
+    "end": 1567.28,
+    "text": "believed."
+  },
+  {
+    "id": 323,
+    "start": 1568.76,
+    "end": 1576.78,
+    "text": "Yet, less than 200 years after Europeans first arrived on the island, they had become extinct."
+  },
+  {
+    "id": 324,
+    "start": 1576.94,
+    "end": 1580.08,
+    "text": "So what was the reason for this?"
+  },
+  {
+    "id": 325,
+    "start": 1581.6,
+    "end": 1585.64,
+    "text": "For a long time it was believed that the dodo's were hunted to extinction."
+  },
+  {
+    "id": 326,
+    "start": 1586.74,
+    "end": 1591.82,
+    "text": "But scientists now believe the situation was more complicated than this."
+  },
+  {
+    "id": 327,
+    "start": 1593.06,
+    "end": 1598.8,
+    "text": "Another factor may have been the new species brought to the island by the sailors."
+  },
+  {
+    "id": 328,
+    "start": 1600.22,
+    "end": 1605.94,
+    "text": "These included dogs, which would have been a threat to the dodo's, and also monkeys,"
+  },
+  {
+    "id": 329,
+    "start": 1607.0,
+    "end": 1610.82,
+    "text": "which ate the fruit that was the main part of the dodo's diet."
+  },
+  {
+    "id": 330,
+    "start": 1612.22,
+    "end": 1618.57,
+    "text": "These were brought to the island deliberately, but the ships also brought another type of"
+  },
+  {
+    "id": 331,
+    "start": 1618.57,
+    "end": 1625.7,
+    "text": "creature, rats, which came to land from the ships and rapidly overrun the island."
+  },
+  {
+    "id": 332,
+    "start": 1627.04,
+    "end": 1633.62,
+    "text": "These upset the ecology of the island, not just the dodo's, but other species too."
+  },
+  {
+    "id": 333,
+    "start": 1635.18,
+    "end": 1641.78,
+    "text": "However, they were a particular danger to the dodo's because they consumed their eggs."
+  },
+  {
+    "id": 334,
+    "start": 1643.04,
+    "end": 1650.78,
+    "text": "And since each dodo only laid one at a time, this probably had a devastating effect on populations."
+  },
+  {
+    "id": 335,
+    "start": 1652.9,
+    "end": 1660.06,
+    "text": "However, we now think that probably the main cause of the bird's extinction was not the"
+  },
+  {
+    "id": 336,
+    "start": 1660.12,
+    "end": 1665.42,
+    "text": "introduction of non-native species, but the introduction of agriculture."
+  },
+  {
+    "id": 337,
+    "start": 1667.1,
+    "end": 1674.62,
+    "text": "This meant that the forest that had once covered all the island and that had provided a perfect"
+  },
+  {
+    "id": 338,
+    "start": 1674.74,
+    "end": 1680.32,
+    "text": "home for the dodo was cut down so that crops such as sugar could be grown."
+  },
+  {
+    "id": 339,
+    "start": 1681.62,
+    "end": 1688.76,
+    "text": "So although the dodo had survived for thousands of years, suddenly it was gone."
+  },
+  {
+    "id": 340,
+    "start": 1692.68,
+    "end": 1694.34,
+    "text": "That is the end of part four."
+  },
+  {
+    "id": 341,
+    "start": 1695.32,
+    "end": 1698.88,
+    "text": "You now have one minute to check your answers to part four."
+  },
+  {
+    "id": 342,
+    "start": 1750.0,
+    "end": 1760.98,
+    "text": "That is the end of the listening test."
+  },
+  {
+    "id": 343,
+    "start": 1762.02,
+    "end": 1768.28,
+    "text": "In the IELTS test, you would now have ten minutes to transfer your answers to the answer sheet."
+  }
+]

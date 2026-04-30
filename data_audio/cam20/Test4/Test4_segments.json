@@ -1,0 +1,2096 @@
+[
+  {
+    "id": 0,
+    "start": 8.6,
+    "end": 9.26,
+    "text": "Test 4"
+  },
+  {
+    "id": 1,
+    "start": 10.82,
+    "end": 13.02,
+    "text": "This is the IELTS listening test."
+  },
+  {
+    "id": 2,
+    "start": 14.2,
+    "end": 19.46,
+    "text": "You will hear a number of different recordings and you will have to answer questions on what"
+  },
+  {
+    "id": 3,
+    "start": 19.46,
+    "end": 20.06,
+    "text": "you hear."
+  },
+  {
+    "id": 4,
+    "start": 21.0,
+    "end": 27.0,
+    "text": "There will be time for you to read the instructions and questions and you will have a chance to"
+  },
+  {
+    "id": 5,
+    "start": 27.02,
+    "end": 28.0,
+    "text": "check your work."
+  },
+  {
+    "id": 6,
+    "start": 29.32,
+    "end": 32.06,
+    "text": "All the recordings will be played once only."
+  },
+  {
+    "id": 7,
+    "start": 33.22,
+    "end": 35.12,
+    "text": "The test is in four parts."
+  },
+  {
+    "id": 8,
+    "start": 36.06,
+    "end": 41.77,
+    "text": "At the end of the test, you will be given ten minutes to transfer your answers to an"
+  },
+  {
+    "id": 9,
+    "start": 41.77,
+    "end": 42.48,
+    "text": "answer sheet."
+  },
+  {
+    "id": 10,
+    "start": 44.66,
+    "end": 46.24,
+    "text": "Now turn to part one."
+  },
+  {
+    "id": 11,
+    "start": 51.34,
+    "end": 52.1,
+    "text": "Part one"
+  },
+  {
+    "id": 12,
+    "start": 53.66,
+    "end": 59.08,
+    "text": "You will hear a man asking a friend for advice on things to do in the city with a family"
+  },
+  {
+    "id": 13,
+    "start": 59.16,
+    "end": 59.68,
+    "text": "of visitors."
+  },
+  {
+    "id": 14,
+    "start": 60.78,
+    "end": 64.58,
+    "text": "First, you have some time to look at questions one to six."
+  },
+  {
+    "id": 15,
+    "start": 95.08,
+    "end": 98.76,
+    "text": "Now listen carefully and answer questions one to six."
+  },
+  {
+    "id": 16,
+    "start": 102.48,
+    "end": 107.68,
+    "text": "Sandra, I seem to remember you had some family visitors staying with you recently."
+  },
+  {
+    "id": 17,
+    "start": 108.0,
+    "end": 108.98,
+    "text": "Yeah, that's right."
+  },
+  {
+    "id": 18,
+    "start": 109.5,
+    "end": 112.36,
+    "text": "My brother and his family were here a couple of months ago."
+  },
+  {
+    "id": 19,
+    "start": 112.68,
+    "end": 113.58,
+    "text": "Oh, okay, good."
+  },
+  {
+    "id": 20,
+    "start": 113.98,
+    "end": 115.96,
+    "text": "Well, I wanted to ask your advice."
+  },
+  {
+    "id": 21,
+    "start": 116.54,
+    "end": 122.92,
+    "text": "I've got my cousin and her family visiting next month and as I don't have kids, I've"
+  },
+  {
+    "id": 22,
+    "start": 122.92,
+    "end": 124.66,
+    "text": "no idea where to take them."
+  },
+  {
+    "id": 23,
+    "start": 125.0,
+    "end": 126.82,
+    "text": "Right, what about accommodation?"
+  },
+  {
+    "id": 24,
+    "start": 127.38,
+    "end": 129.2,
+    "text": "Are they going to stay with you in your flat?"
+  },
+  {
+    "id": 25,
+    "start": 129.54,
+    "end": 130.52,
+    "text": "No, thankfully."
+  },
+  {
+    "id": 26,
+    "start": 130.84,
+    "end": 131.76,
+    "text": "There wouldn't be room."
+  },
+  {
+    "id": 27,
+    "start": 132.3,
+    "end": 134.82,
+    "text": "My cousin wants me to recommend a hotel."
+  },
+  {
+    "id": 28,
+    "start": 135.38,
+    "end": 136.34,
+    "text": "Do you know anywhere?"
+  },
+  {
+    "id": 29,
+    "start": 136.6,
+    "end": 137.88,
+    "text": "Yes, I do actually."
+  },
+  {
+    "id": 30,
+    "start": 138.36,
+    "end": 141.5,
+    "text": "I always recommend people stay at the King's Hotel."
+  },
+  {
+    "id": 31,
+    "start": 141.9,
+    "end": 142.78,
+    "text": "Where's that near?"
+  },
+  {
+    "id": 32,
+    "start": 143.32,
+    "end": 147.26,
+    "text": "It's about five minutes walk from Murray station, so nice and central."
+  },
+  {
+    "id": 33,
+    "start": 147.8,
+    "end": 149.46,
+    "text": "It's actually on George Street."
+  },
+  {
+    "id": 34,
+    "start": 149.76,
+    "end": 151.1,
+    "text": "Oh, yes, I know."
+  },
+  {
+    "id": 35,
+    "start": 151.78,
+    "end": 157.32,
+    "text": "I think they're on quite a tight budget, so how much roughly is it to stay there?"
+  },
+  {
+    "id": 36,
+    "start": 157.7,
+    "end": 162.2,
+    "text": "If you book a family room, it's about £125 per night."
+  },
+  {
+    "id": 37,
+    "start": 163.02,
+    "end": 168.84,
+    "text": "My brother paid for two double rooms in the end and I think that was around £95 for each"
+  },
+  {
+    "id": 38,
+    "start": 168.86,
+    "end": 169.16,
+    "text": "room."
+  },
+  {
+    "id": 39,
+    "start": 169.56,
+    "end": 170.7,
+    "text": "Oh, that's not too bad."
+  },
+  {
+    "id": 40,
+    "start": 171.52,
+    "end": 173.26,
+    "text": "So how old are your cousins' kids?"
+  },
+  {
+    "id": 41,
+    "start": 173.5,
+    "end": 174.5,
+    "text": "12 and 9."
+  },
+  {
+    "id": 42,
+    "start": 175.1,
+    "end": 177.98,
+    "text": "So I want to organise some trips while they're here."
+  },
+  {
+    "id": 43,
+    "start": 178.66,
+    "end": 184.14,
+    "text": "I was thinking of doing a bus tour of the city centre as none of them have been here"
+  },
+  {
+    "id": 44,
+    "start": 184.14,
+    "end": 184.52,
+    "text": "before."
+  },
+  {
+    "id": 45,
+    "start": 185.12,
+    "end": 186.96,
+    "text": "Those bus tours are quite expensive."
+  },
+  {
+    "id": 46,
+    "start": 187.66,
+    "end": 190.13,
+    "text": "I think it's better to do a walking tour."
+  },
+  {
+    "id": 47,
+    "start": 190.13,
+    "end": 192.44,
+    "text": "It gives you a much better feel for the city."
+  },
+  {
+    "id": 48,
+    "start": 193.38,
+    "end": 195.34,
+    "text": "There's one that starts from Colton Square."
+  },
+  {
+    "id": 49,
+    "start": 195.46,
+    "end": 198.28,
+    "text": "It takes a couple of hours and doesn't cost that much."
+  },
+  {
+    "id": 50,
+    "start": 198.76,
+    "end": 199.45,
+    "text": "Sounds good."
+  },
+  {
+    "id": 51,
+    "start": 199.45,
+    "end": 200.54,
+    "text": "I'll look that up."
+  },
+  {
+    "id": 52,
+    "start": 200.92,
+    "end": 201.1,
+    "text": "Thanks."
+  },
+  {
+    "id": 53,
+    "start": 201.42,
+    "end": 204.98,
+    "text": "If the weather's nice, one thing you could do is visit the old fort."
+  },
+  {
+    "id": 54,
+    "start": 205.7,
+    "end": 206.92,
+    "text": "You could get there by boat."
+  },
+  {
+    "id": 55,
+    "start": 207.38,
+    "end": 208.78,
+    "text": "The whole trip takes half a day."
+  },
+  {
+    "id": 56,
+    "start": 209.1,
+    "end": 210.82,
+    "text": "That's a really good idea."
+  },
+  {
+    "id": 57,
+    "start": 210.82,
+    "end": 212.56,
+    "text": "I'd like to do that myself."
+  },
+  {
+    "id": 58,
+    "start": 213.22,
+    "end": 217.92,
+    "text": "And if the weather's bad, I was thinking they could go to the Science Museum."
+  },
+  {
+    "id": 59,
+    "start": 218.54,
+    "end": 221.28,
+    "text": "But maybe they could do that when I'm at work."
+  },
+  {
+    "id": 60,
+    "start": 221.64,
+    "end": 224.22,
+    "text": "Yeah, don't forget it's closed on Mondays."
+  },
+  {
+    "id": 61,
+    "start": 224.6,
+    "end": 229.92,
+    "text": "They're here from Saturday for four nights, so Tuesday would be best, I think."
+  },
+  {
+    "id": 62,
+    "start": 230.16,
+    "end": 231.94,
+    "text": "Hmm, and it won't be so crowded then."
+  },
+  {
+    "id": 63,
+    "start": 232.46,
+    "end": 233.48,
+    "text": "Saturday's a terrible."
+  },
+  {
+    "id": 64,
+    "start": 234.14,
+    "end": 238.48,
+    "text": "I took my kids to the exhibition on old computers there, and it was far too crowded."
+  },
+  {
+    "id": 65,
+    "start": 238.92,
+    "end": 241.08,
+    "text": "I wanted to go back, but it's finished now."
+  },
+  {
+    "id": 66,
+    "start": 241.28,
+    "end": 242.14,
+    "text": "That's a shame."
+  },
+  {
+    "id": 67,
+    "start": 242.68,
+    "end": 244.8,
+    "text": "My cousin's kids would have enjoyed that."
+  },
+  {
+    "id": 68,
+    "start": 245.24,
+    "end": 249.12,
+    "text": "There's another one starting soon on space, which looks really good too."
+  },
+  {
+    "id": 69,
+    "start": 249.48,
+    "end": 249.96,
+    "text": "Oh, okay."
+  },
+  {
+    "id": 70,
+    "start": 249.96,
+    "end": 251.86,
+    "text": "Well, I'll mention that to my cousin."
+  },
+  {
+    "id": 71,
+    "start": 255.76,
+    "end": 261.06,
+    "text": "Before you hear the rest of the conversation, you have some time to look at questions 7-10."
+  },
+  {
+    "id": 72,
+    "start": 288.16,
+    "end": 290.46,
+    "text": "Have you thought about where to take them to eat?"
+  },
+  {
+    "id": 73,
+    "start": 291.26,
+    "end": 295.18,
+    "text": "Well I really like all the food stalls at Clackton Market."
+  },
+  {
+    "id": 74,
+    "start": 295.82,
+    "end": 297.46,
+    "text": "My cousin's vegetarian."
+  },
+  {
+    "id": 75,
+    "start": 297.94,
+    "end": 300.9,
+    "text": "I know it's one of the best places for that kind of food."
+  },
+  {
+    "id": 76,
+    "start": 301.1,
+    "end": 304.32,
+    "text": "Definitely, and there'll be loads of choice for the kids too."
+  },
+  {
+    "id": 77,
+    "start": 305.04,
+    "end": 309.36,
+    "text": "You need to get there quite early though, but the weekend most of the stores stop serving"
+  },
+  {
+    "id": 78,
+    "start": 309.44,
+    "end": 310.8,
+    "text": "lunch at 2.30."
+  },
+  {
+    "id": 79,
+    "start": 311.32,
+    "end": 311.72,
+    "text": "That's a good point."
+  },
+  {
+    "id": 80,
+    "start": 312.24,
+    "end": 314.22,
+    "text": "It's all going to need careful planning."
+  },
+  {
+    "id": 81,
+    "start": 314.84,
+    "end": 320.32,
+    "text": "My cousin said she'd love to take the kids to a show at the theatre, but tickets are so"
+  },
+  {
+    "id": 82,
+    "start": 320.32,
+    "end": 321.14,
+    "text": "expensive."
+  },
+  {
+    "id": 83,
+    "start": 321.4,
+    "end": 327.32,
+    "text": "I know, but you can get some good deals if you book online with bargaintickets.com for the"
+  },
+  {
+    "id": 84,
+    "start": 327.32,
+    "end": 328.06,
+    "text": "following day."
+  },
+  {
+    "id": 85,
+    "start": 328.76,
+    "end": 331.58,
+    "text": "On some seats there's a 75% discount."
+  },
+  {
+    "id": 86,
+    "start": 331.76,
+    "end": 332.34,
+    "text": "Really?"
+  },
+  {
+    "id": 87,
+    "start": 332.58,
+    "end": 334.46,
+    "text": "I must try and get some."
+  },
+  {
+    "id": 88,
+    "start": 334.58,
+    "end": 337.72,
+    "text": "Yeah, there are lots of things you can do for free as well."
+  },
+  {
+    "id": 89,
+    "start": 338.12,
+    "end": 339.4,
+    "text": "No need to spend a fortune."
+  },
+  {
+    "id": 90,
+    "start": 339.74,
+    "end": 340.3,
+    "text": "Like what?"
+  },
+  {
+    "id": 91,
+    "start": 341.12,
+    "end": 342.4,
+    "text": "They're coming next month, right?"
+  },
+  {
+    "id": 92,
+    "start": 343.34,
+    "end": 348.46,
+    "text": "Well, check and see if it's the same weekend as the Roots Music Festival in Blakewell Gardens."
+  },
+  {
+    "id": 93,
+    "start": 349.34,
+    "end": 351.64,
+    "text": "R. Double O. T. S."
+  },
+  {
+    "id": 94,
+    "start": 352.22,
+    "end": 353.6,
+    "text": "Yeah, check it out online."
+  },
+  {
+    "id": 95,
+    "start": 354.24,
+    "end": 357.36,
+    "text": "It's always a family-friendly event, and there's no entry charge."
+  },
+  {
+    "id": 96,
+    "start": 357.7,
+    "end": 358.56,
+    "text": "That sounds perfect."
+  },
+  {
+    "id": 97,
+    "start": 359.18,
+    "end": 364.68,
+    "text": "And if you in Blakewell Gardens climb Telegraph Hill, you'll be able to look right down on"
+  },
+  {
+    "id": 98,
+    "start": 364.68,
+    "end": 365.28,
+    "text": "the port."
+  },
+  {
+    "id": 99,
+    "start": 366.06,
+    "end": 368.58,
+    "text": "Everyone's always really impressed because it's so huge."
+  },
+  {
+    "id": 100,
+    "start": 368.76,
+    "end": 371.68,
+    "text": "Oh yeah, I've been meaning to do that for ages."
+  },
+  {
+    "id": 101,
+    "start": 372.36,
+    "end": 373.9,
+    "text": "I've heard the views amazing."
+  },
+  {
+    "id": 102,
+    "start": 374.3,
+    "end": 375.92,
+    "text": "Yeah, it's really worth the effort."
+  },
+  {
+    "id": 103,
+    "start": 376.42,
+    "end": 376.84,
+    "text": "Hmm."
+  },
+  {
+    "id": 104,
+    "start": 377.22,
+    "end": 379.2,
+    "text": "Well, that's given me loads of ideas."
+  },
+  {
+    "id": 105,
+    "start": 379.48,
+    "end": 380.96,
+    "text": "Thanks so much for..."
+  },
+  {
+    "id": 106,
+    "start": 384.18,
+    "end": 385.94,
+    "text": "That is the end of Part 1."
+  },
+  {
+    "id": 107,
+    "start": 386.74,
+    "end": 390.74,
+    "text": "You now have one minute to check your answers to Part 1."
+  },
+  {
+    "id": 108,
+    "start": 428.76,
+    "end": 447.76,
+    "text": "Part 2."
+  },
+  {
+    "id": 109,
+    "start": 448.76,
+    "end": 453.7,
+    "text": "You will hear a guide talking to members of the public who are visiting a football stadium"
+  },
+  {
+    "id": 110,
+    "start": 453.82,
+    "end": 454.5,
+    "text": "in the UK."
+  },
+  {
+    "id": 111,
+    "start": 456.04,
+    "end": 460.12,
+    "text": "First, you have some time to look at questions 11 to 14."
+  },
+  {
+    "id": 112,
+    "start": 490.7,
+    "end": 494.78,
+    "text": "Now listen carefully and answer questions 11 to 14."
+  },
+  {
+    "id": 113,
+    "start": 498.26,
+    "end": 502.08,
+    "text": "Good morning and welcome to City Football Club."
+  },
+  {
+    "id": 114,
+    "start": 502.42,
+    "end": 509.03,
+    "text": "I'd like to give you some useful information about your visit to the stadium today, and"
+  },
+  {
+    "id": 115,
+    "start": 509.03,
+    "end": 513.48,
+    "text": "then we'll start the tour of the areas of the stadium that are open to visitors."
+  },
+  {
+    "id": 116,
+    "start": 514.72,
+    "end": 520.5,
+    "text": "I can see lots of children here today, so just to let mums and dads know a few things"
+  },
+  {
+    "id": 117,
+    "start": 520.64,
+    "end": 521.62,
+    "text": "before we start."
+  },
+  {
+    "id": 118,
+    "start": 522.38,
+    "end": 527.06,
+    "text": "The stadium has lots of stairs and the players tunnel is very dark."
+  },
+  {
+    "id": 119,
+    "start": 527.48,
+    "end": 530.92,
+    "text": "Please don't let your children wander off on their own."
+  },
+  {
+    "id": 120,
+    "start": 531.26,
+    "end": 536.26,
+    "text": "Even for a minute, we don't want any accidents or anyone getting frightened."
+  },
+  {
+    "id": 121,
+    "start": 537.92,
+    "end": 543.74,
+    "text": "Things are permitted everywhere and you can take pictures of your child shooting a penalty."
+  },
+  {
+    "id": 122,
+    "start": 545.1,
+    "end": 550.6,
+    "text": "Assistance are helping to organise this and hopefully the queue won't be too long."
+  },
+  {
+    "id": 123,
+    "start": 551.08,
+    "end": 554.04,
+    "text": "It's very hot and sunny out on the pitch today."
+  },
+  {
+    "id": 124,
+    "start": 554.96,
+    "end": 561.4,
+    "text": "You can get food and drink at the cafe and I really recommend the healthy lunch boxes"
+  },
+  {
+    "id": 125,
+    "start": 561.54,
+    "end": 562.22,
+    "text": "for children."
+  },
+  {
+    "id": 126,
+    "start": 563.88,
+    "end": 569.24,
+    "text": "Also in the cafe, children are invited to do a football themed drawing."
+  },
+  {
+    "id": 127,
+    "start": 570.16,
+    "end": 576.18,
+    "text": "We'll pick the best one at the end of the afternoon, so don't forget to put your name"
+  },
+  {
+    "id": 128,
+    "start": 576.18,
+    "end": 579.04,
+    "text": "and contact details on the back."
+  },
+  {
+    "id": 129,
+    "start": 579.66,
+    "end": 585.99,
+    "text": "That way if you've left the stadium before then, we'll send your prize, but sadly we"
+  },
+  {
+    "id": 130,
+    "start": 585.99,
+    "end": 587.34,
+    "text": "can't return drawings."
+  },
+  {
+    "id": 131,
+    "start": 587.86,
+    "end": 592.12,
+    "text": "I'd like to mention some features of the tour."
+  },
+  {
+    "id": 132,
+    "start": 593.08,
+    "end": 599.66,
+    "text": "We'll start with the 360 Cinema Experience, which has been very popular over the years."
+  },
+  {
+    "id": 133,
+    "start": 600.44,
+    "end": 606.56,
+    "text": "And then I'll take you to the players dressing rooms before going outside to the seating"
+  },
+  {
+    "id": 134,
+    "start": 606.66,
+    "end": 608.3,
+    "text": "area and the pitch."
+  },
+  {
+    "id": 135,
+    "start": 609.7,
+    "end": 615.74,
+    "text": "I should say if you'd prefer your visit to be self-guided, please collect headphones"
+  },
+  {
+    "id": 136,
+    "start": 616.02,
+    "end": 622.24,
+    "text": "from the reception and then you can listen to the pre-recorded information at your own"
+  },
+  {
+    "id": 137,
+    "start": 622.5,
+    "end": 622.78,
+    "text": "speed."
+  },
+  {
+    "id": 138,
+    "start": 623.64,
+    "end": 628.8,
+    "text": "We've only just introduced this feature and would appreciate your feedback."
+  },
+  {
+    "id": 139,
+    "start": 630.02,
+    "end": 636.08,
+    "text": "We're thinking of offering tours in other languages in future, so if you have any thoughts"
+  },
+  {
+    "id": 140,
+    "start": 636.2,
+    "end": 638.66,
+    "text": "on that we'd welcome those too."
+  },
+  {
+    "id": 141,
+    "start": 639.8,
+    "end": 646.08,
+    "text": "If you plan to return another time, you might like to book one of our VIP tours."
+  },
+  {
+    "id": 142,
+    "start": 646.88,
+    "end": 651.76,
+    "text": "We've only just started offering these and they can be booked online."
+  },
+  {
+    "id": 143,
+    "start": 655.42,
+    "end": 661.4,
+    "text": "Before you hear the rest of the talk, you have some time to look at questions 15 to 20."
+  },
+  {
+    "id": 144,
+    "start": 676.88,
+    "end": 700.18,
+    "text": "Now listen and answer questions 15 to 20."
+  },
+  {
+    "id": 145,
+    "start": 703.96,
+    "end": 711.58,
+    "text": "Now the stadium you see today was built in 1989 as part of a three year redevelopment"
+  },
+  {
+    "id": 146,
+    "start": 711.6,
+    "end": 712.06,
+    "text": "project."
+  },
+  {
+    "id": 147,
+    "start": 712.54,
+    "end": 719.02,
+    "text": "While that project was going on, the team had to play its matches at the ground of another"
+  },
+  {
+    "id": 148,
+    "start": 719.02,
+    "end": 719.52,
+    "text": "club."
+  },
+  {
+    "id": 149,
+    "start": 720.28,
+    "end": 725.94,
+    "text": "Apart from that, the club has been here on this site since 1870."
+  },
+  {
+    "id": 150,
+    "start": 726.78,
+    "end": 733.18,
+    "text": "As some of you may know, that was the start of a really important decade in the history"
+  },
+  {
+    "id": 151,
+    "start": 733.36,
+    "end": 734.92,
+    "text": "of football in this country."
+  },
+  {
+    "id": 152,
+    "start": 735.9,
+    "end": 743.98,
+    "text": "For example, 1870 was also the year that football teams started to include a player whose role"
+  },
+  {
+    "id": 153,
+    "start": 743.98,
+    "end": 745.92,
+    "text": "it was to guard the goal."
+  },
+  {
+    "id": 154,
+    "start": 746.72,
+    "end": 752.18,
+    "text": "It's hard to imagine what the game must have been like without someone in that position,"
+  },
+  {
+    "id": 155,
+    "start": 752.54,
+    "end": 753.12,
+    "text": "isn't it?"
+  },
+  {
+    "id": 156,
+    "start": 754.84,
+    "end": 762.02,
+    "text": "In 1872 and 1973, many other clubs were established, both here and abroad."
+  },
+  {
+    "id": 157,
+    "start": 762.76,
+    "end": 770.3,
+    "text": "And the following year, in 1874, referees were allowed to send players off if they committed"
+  },
+  {
+    "id": 158,
+    "start": 770.38,
+    "end": 771.5,
+    "text": "certain offences."
+  },
+  {
+    "id": 159,
+    "start": 772.42,
+    "end": 777.78,
+    "text": "And also in that year, teams started having to swap ends at half time."
+  },
+  {
+    "id": 160,
+    "start": 779.64,
+    "end": 786.1,
+    "text": "In fact, I was interested to discover was that in early football games the aim was for"
+  },
+  {
+    "id": 161,
+    "start": 786.1,
+    "end": 790.02,
+    "text": "the scorer to get the ball between two flag posts."
+  },
+  {
+    "id": 162,
+    "start": 790.86,
+    "end": 795.38,
+    "text": "And later, between sticks joined at the top with a piece of tape."
+  },
+  {
+    "id": 163,
+    "start": 796.14,
+    "end": 803.4,
+    "text": "In 1875, that tape was replaced with the solid crossbar that we're familiar with today."
+  },
+  {
+    "id": 164,
+    "start": 805.24,
+    "end": 812.47,
+    "text": "In 1877 saw the founding of further new clubs, and the history books tell us that in the"
+  },
+  {
+    "id": 165,
+    "start": 812.47,
+    "end": 819.1,
+    "text": "same year all the clubs decided to set a limit of 90 minutes for each match."
+  },
+  {
+    "id": 166,
+    "start": 819.74,
+    "end": 823.02,
+    "text": "Before that, it was a more casual arrangement."
+  },
+  {
+    "id": 167,
+    "start": 823.5,
+    "end": 831.02,
+    "text": "And this sometimes caused huge arguments, and sometimes fights during matches when one"
+  },
+  {
+    "id": 168,
+    "start": 831.12,
+    "end": 837.04,
+    "text": "team called the end of the game, and the other team wanted to play on to try and score"
+  },
+  {
+    "id": 169,
+    "start": 837.08,
+    "end": 838.0,
+    "text": "a winning goal."
+  },
+  {
+    "id": 170,
+    "start": 839.56,
+    "end": 845.3,
+    "text": "By 1878, the number of teams in the football league increased again."
+  },
+  {
+    "id": 171,
+    "start": 846.12,
+    "end": 853.08,
+    "text": "In addition, referees started using whistles, and electric lamps were installed on certain"
+  },
+  {
+    "id": 172,
+    "start": 853.18,
+    "end": 853.6,
+    "text": "pitches."
+  },
+  {
+    "id": 173,
+    "start": 854.96,
+    "end": 861.5,
+    "text": "This was a significant change, as games could then be played in the evenings all year round."
+  },
+  {
+    "id": 174,
+    "start": 863.18,
+    "end": 871.14,
+    "text": "In 1880, clubs began to charge fans for admission to games, even though players were still amateurs,"
+  },
+  {
+    "id": 175,
+    "start": 871.52,
+    "end": 873.54,
+    "text": "and had other proper jobs."
+  },
+  {
+    "id": 176,
+    "start": 874.56,
+    "end": 880.54,
+    "text": "That's hard to imagine in the modern professional game, where top players earned significant sums"
+  },
+  {
+    "id": 177,
+    "start": 880.64,
+    "end": 884.32,
+    "text": "of money from both playing and commercial activities."
+  },
+  {
+    "id": 178,
+    "start": 888.06,
+    "end": 889.88,
+    "text": "That is the end of part two."
+  },
+  {
+    "id": 179,
+    "start": 890.78,
+    "end": 895.2,
+    "text": "You now have 30 seconds to check your answers to part two."
+  },
+  {
+    "id": 180,
+    "start": 940.64,
+    "end": 954.98,
+    "text": "Part three."
+  },
+  {
+    "id": 181,
+    "start": 956.02,
+    "end": 962.06,
+    "text": "You will hear two education students discussing an assignment on teaching handwriting to children."
+  },
+  {
+    "id": 182,
+    "start": 963.24,
+    "end": 967.8,
+    "text": "First, you have some time to look at questions 21 to 24."
+  },
+  {
+    "id": 183,
+    "start": 992.8,
+    "end": 997.66,
+    "text": "Now listen carefully, and answer questions 21 to 24."
+  },
+  {
+    "id": 184,
+    "start": 1001.4,
+    "end": 1003.94,
+    "text": "How are you getting on with the assignment on handwriting?"
+  },
+  {
+    "id": 185,
+    "start": 1004.68,
+    "end": 1005.76,
+    "text": "Not too bad."
+  },
+  {
+    "id": 186,
+    "start": 1006.34,
+    "end": 1011.88,
+    "text": "You know, I hadn't realised that children benefit in so many ways from learning to write."
+  },
+  {
+    "id": 187,
+    "start": 1012.64,
+    "end": 1018.28,
+    "text": "It's such an important skill, and yet most people think handwriting is less important than"
+  },
+  {
+    "id": 188,
+    "start": 1018.48,
+    "end": 1022.72,
+    "text": "in the past, because people hardly ever write by hand these days."
+  },
+  {
+    "id": 189,
+    "start": 1023.0,
+    "end": 1028.48,
+    "text": "Yes, and all the evidence suggests children should learn to write by hand, before they"
+  },
+  {
+    "id": 190,
+    "start": 1028.48,
+    "end": 1031.6,
+    "text": "learn to type, not least because it helps their memory."
+  },
+  {
+    "id": 191,
+    "start": 1031.88,
+    "end": 1032.46,
+    "text": "That's right."
+  },
+  {
+    "id": 192,
+    "start": 1033.04,
+    "end": 1036.98,
+    "text": "The physical act of writing helps children to remember letters."
+  },
+  {
+    "id": 193,
+    "start": 1037.98,
+    "end": 1040.5,
+    "text": "That seems pretty obvious when you think about it."
+  },
+  {
+    "id": 194,
+    "start": 1041.34,
+    "end": 1044.84,
+    "text": "What's less obvious is how it helps develop their concentration."
+  },
+  {
+    "id": 195,
+    "start": 1045.6,
+    "end": 1048.24,
+    "text": "They have to sit still and focus on one thing."
+  },
+  {
+    "id": 196,
+    "start": 1048.5,
+    "end": 1052.56,
+    "text": "Yeah, that aspect of handwriting had never occurred to me before."
+  },
+  {
+    "id": 197,
+    "start": 1052.78,
+    "end": 1053.78,
+    "text": "Same here."
+  },
+  {
+    "id": 198,
+    "start": 1054.6,
+    "end": 1058.7,
+    "text": "I'm not sure I understand how it improves children's imagination, though."
+  },
+  {
+    "id": 199,
+    "start": 1059.02,
+    "end": 1065.1,
+    "text": "Well, there was that study which showed that primary age children generated more ideas"
+  },
+  {
+    "id": 200,
+    "start": 1065.12,
+    "end": 1068.1,
+    "text": "when they were writing by hand than using a keyboard."
+  },
+  {
+    "id": 201,
+    "start": 1068.92,
+    "end": 1070.66,
+    "text": "I would have guessed that would be the case."
+  },
+  {
+    "id": 202,
+    "start": 1071.76,
+    "end": 1076.8,
+    "text": "Yeah, I'd never associated spatial awareness with handwriting either."
+  },
+  {
+    "id": 203,
+    "start": 1077.52,
+    "end": 1082.64,
+    "text": "I thought spatial awareness was more to do with knowing where you are in relation to objects"
+  },
+  {
+    "id": 204,
+    "start": 1083.08,
+    "end": 1083.82,
+    "text": "or other people."
+  },
+  {
+    "id": 205,
+    "start": 1084.06,
+    "end": 1085.44,
+    "text": "Hmm, I thought that too."
+  },
+  {
+    "id": 206,
+    "start": 1086.06,
+    "end": 1092.12,
+    "text": "But good spatial awareness is essential for writing because you have to space words correctly."
+  },
+  {
+    "id": 207,
+    "start": 1092.9,
+    "end": 1097.88,
+    "text": "It's not just fine motor skills that improve through writing as I'd always assumed."
+  },
+  {
+    "id": 208,
+    "start": 1099.48,
+    "end": 1104.4,
+    "text": "handwriting is so much harder for children with dyspraxia who have problems coordinating"
+  },
+  {
+    "id": 209,
+    "start": 1104.54,
+    "end": 1105.08,
+    "text": "movement."
+  },
+  {
+    "id": 210,
+    "start": 1105.86,
+    "end": 1108.96,
+    "text": "It's good there are lots of things you can do in the classroom to help them."
+  },
+  {
+    "id": 211,
+    "start": 1109.48,
+    "end": 1112.3,
+    "text": "They need so much more support with letter formation."
+  },
+  {
+    "id": 212,
+    "start": 1112.84,
+    "end": 1116.18,
+    "text": "You need to play lots of games to help them distinguish letter shapes."
+  },
+  {
+    "id": 213,
+    "start": 1116.8,
+    "end": 1118.3,
+    "text": "It takes a lot of patience."
+  },
+  {
+    "id": 214,
+    "start": 1118.66,
+    "end": 1124.58,
+    "text": "Yeah, I like the idea of using one of those pens that lights up if you press too hard."
+  },
+  {
+    "id": 215,
+    "start": 1125.14,
+    "end": 1127.28,
+    "text": "That seems like a really simple solution."
+  },
+  {
+    "id": 216,
+    "start": 1127.56,
+    "end": 1128.6,
+    "text": "Yes, absolutely."
+  },
+  {
+    "id": 217,
+    "start": 1129.46,
+    "end": 1134.46,
+    "text": "I'm not sure there's much you can do about children with dyspraxia writing very slowly."
+  },
+  {
+    "id": 218,
+    "start": 1135.2,
+    "end": 1141.28,
+    "text": "It's more important to focus on accuracy and as they get more confident, I think they"
+  },
+  {
+    "id": 219,
+    "start": 1141.28,
+    "end": 1142.46,
+    "text": "eventually speed up."
+  },
+  {
+    "id": 220,
+    "start": 1142.98,
+    "end": 1146.92,
+    "text": "One quite simple thing you can do is to use grid paper."
+  },
+  {
+    "id": 221,
+    "start": 1147.46,
+    "end": 1152.84,
+    "text": "So they write each letter in a box and that trains them to space the letters correctly."
+  },
+  {
+    "id": 222,
+    "start": 1153.24,
+    "end": 1157.9,
+    "text": "Indeed, that's more important for legibility than trying to get them to write in a straight"
+  },
+  {
+    "id": 223,
+    "start": 1157.94,
+    "end": 1158.28,
+    "text": "line."
+  },
+  {
+    "id": 224,
+    "start": 1161.7,
+    "end": 1167.16,
+    "text": "Before you hear the rest of the discussion, you have some time to look at questions 25"
+  },
+  {
+    "id": 225,
+    "start": 1167.48,
+    "end": 1168.14,
+    "text": "to 30."
+  },
+  {
+    "id": 226,
+    "start": 1218.86,
+    "end": 1222.46,
+    "text": "Now listen and answer questions 25 to 30."
+  },
+  {
+    "id": 227,
+    "start": 1226.5,
+    "end": 1231.87,
+    "text": "For some children, it might be better to teach them to write on a laptop rather than by"
+  },
+  {
+    "id": 228,
+    "start": 1231.87,
+    "end": 1234.74,
+    "text": "hand, like children with dyslexia."
+  },
+  {
+    "id": 229,
+    "start": 1235.22,
+    "end": 1239.2,
+    "text": "They often really struggle with handwriting and some just give up."
+  },
+  {
+    "id": 230,
+    "start": 1239.68,
+    "end": 1243.5,
+    "text": "Yeah, it's not as frustrating for them if they get things wrong."
+  },
+  {
+    "id": 231,
+    "start": 1244.16,
+    "end": 1246.94,
+    "text": "On a keyboard they can be more willing to have a go."
+  },
+  {
+    "id": 232,
+    "start": 1247.82,
+    "end": 1251.48,
+    "text": "But I read that developing fluency isn't any faster."
+  },
+  {
+    "id": 233,
+    "start": 1251.8,
+    "end": 1252.42,
+    "text": "That's right."
+  },
+  {
+    "id": 234,
+    "start": 1253.14,
+    "end": 1258.64,
+    "text": "Did you read that article on the benefits of teaching print rather than cursive handwriting"
+  },
+  {
+    "id": 235,
+    "start": 1259.16,
+    "end": 1260.4,
+    "text": "where the letters are joined up?"
+  },
+  {
+    "id": 236,
+    "start": 1260.56,
+    "end": 1260.9,
+    "text": "Yes."
+  },
+  {
+    "id": 237,
+    "start": 1261.74,
+    "end": 1268.04,
+    "text": "Well, in the past cursive writing was certainly considered more stylish and educated, but"
+  },
+  {
+    "id": 238,
+    "start": 1268.24,
+    "end": 1268.96,
+    "text": "not anymore."
+  },
+  {
+    "id": 239,
+    "start": 1269.6,
+    "end": 1275.2,
+    "text": "Teachers' attitudes have changed because it's been proved that cursive is more difficult"
+  },
+  {
+    "id": 240,
+    "start": 1275.28,
+    "end": 1280.56,
+    "text": "to learn, especially for children with learning difficulties who find joining up letters"
+  },
+  {
+    "id": 241,
+    "start": 1280.68,
+    "end": 1281.56,
+    "text": "really challenging."
+  },
+  {
+    "id": 242,
+    "start": 1281.98,
+    "end": 1282.6,
+    "text": "I agree."
+  },
+  {
+    "id": 243,
+    "start": 1283.38,
+    "end": 1287.68,
+    "text": "I was always worried that my poor handwriting affected my exam results."
+  },
+  {
+    "id": 244,
+    "start": 1288.26,
+    "end": 1291.64,
+    "text": "And now research shows that I was right to worry."
+  },
+  {
+    "id": 245,
+    "start": 1292.36,
+    "end": 1296.9,
+    "text": "I'm sure a lot of students think it's unfair that they're being judged on their handwriting,"
+  },
+  {
+    "id": 246,
+    "start": 1297.72,
+    "end": 1298.52,
+    "text": "not just their knowledge."
+  },
+  {
+    "id": 247,
+    "start": 1298.96,
+    "end": 1302.72,
+    "text": "Marx had definitely affected if examiners can't read the script."
+  },
+  {
+    "id": 248,
+    "start": 1303.4,
+    "end": 1307.52,
+    "text": "That's why it's always been so important to teach children to write legibly."
+  },
+  {
+    "id": 249,
+    "start": 1308.64,
+    "end": 1311.8,
+    "text": "Do you think the role of handwriting will change in the future?"
+  },
+  {
+    "id": 250,
+    "start": 1312.18,
+    "end": 1315.0,
+    "text": "Hmm, I can't see that changing much."
+  },
+  {
+    "id": 251,
+    "start": 1315.64,
+    "end": 1319.56,
+    "text": "Touch typing still isn't taught in most schools, which is a shame."
+  },
+  {
+    "id": 252,
+    "start": 1320.14,
+    "end": 1325.18,
+    "text": "But maybe that won't be necessary in the future, because people will also be able to write"
+  },
+  {
+    "id": 253,
+    "start": 1325.24,
+    "end": 1327.1,
+    "text": "by hand on digital devices."
+  },
+  {
+    "id": 254,
+    "start": 1327.94,
+    "end": 1331.54,
+    "text": "Anyway, teachers understand the value of handwriting."
+  },
+  {
+    "id": 255,
+    "start": 1332.12,
+    "end": 1333.7,
+    "text": "It's a basic life skill."
+  },
+  {
+    "id": 256,
+    "start": 1334.08,
+    "end": 1334.46,
+    "text": "True."
+  },
+  {
+    "id": 257,
+    "start": 1335.3,
+    "end": 1341.48,
+    "text": "However, the fact is that people are writing by hand less and less and relying on digital"
+  },
+  {
+    "id": 258,
+    "start": 1342.2,
+    "end": 1342.22,
+    "text": "devices."
+  },
+  {
+    "id": 259,
+    "start": 1342.92,
+    "end": 1344.28,
+    "text": "That does cause some problems."
+  },
+  {
+    "id": 260,
+    "start": 1344.64,
+    "end": 1346.82,
+    "text": "Hmm, you mean like note-taking."
+  },
+  {
+    "id": 261,
+    "start": 1347.44,
+    "end": 1349.0,
+    "text": "There are lots of apps for that."
+  },
+  {
+    "id": 262,
+    "start": 1349.5,
+    "end": 1352.28,
+    "text": "And for reading historical documents, apparently."
+  },
+  {
+    "id": 263,
+    "start": 1353.22,
+    "end": 1358.42,
+    "text": "But my mum is shocked by my awful spelling and the fact that my punctuation is really"
+  },
+  {
+    "id": 264,
+    "start": 1359.26,
+    "end": 1359.28,
+    "text": "inconsistent."
+  },
+  {
+    "id": 265,
+    "start": 1360.1,
+    "end": 1362.24,
+    "text": "I think you can put that down to lack of practice."
+  },
+  {
+    "id": 266,
+    "start": 1362.44,
+    "end": 1364.04,
+    "text": "I expect so."
+  },
+  {
+    "id": 267,
+    "start": 1364.74,
+    "end": 1367.34,
+    "text": "Personally, I'm misswriting by hand."
+  },
+  {
+    "id": 268,
+    "start": 1367.86,
+    "end": 1369.66,
+    "text": "I hardly ever write anything now."
+  },
+  {
+    "id": 269,
+    "start": 1370.28,
+    "end": 1375.54,
+    "text": "I remember my grandparents had such beautiful handwriting and it was so individual."
+  },
+  {
+    "id": 270,
+    "start": 1376.3,
+    "end": 1379.88,
+    "text": "Nobody I know would be able to identify my handwriting now."
+  },
+  {
+    "id": 271,
+    "start": 1380.4,
+    "end": 1381.0,
+    "text": "It's a shame."
+  },
+  {
+    "id": 272,
+    "start": 1381.36,
+    "end": 1381.8,
+    "text": "I know."
+  },
+  {
+    "id": 273,
+    "start": 1382.6,
+    "end": 1383.42,
+    "text": "I feel the same way."
+  },
+  {
+    "id": 274,
+    "start": 1384.22,
+    "end": 1388.58,
+    "text": "I used to write a diary by hand and now I do that digitally."
+  },
+  {
+    "id": 275,
+    "start": 1389.3,
+    "end": 1391.94,
+    "text": "It just seems less effort to do it that way."
+  },
+  {
+    "id": 276,
+    "start": 1392.22,
+    "end": 1394.82,
+    "text": "So it's not just a problem."
+  },
+  {
+    "id": 277,
+    "start": 1398.7,
+    "end": 1400.38,
+    "text": "That is the end of part three."
+  },
+  {
+    "id": 278,
+    "start": 1401.28,
+    "end": 1405.24,
+    "text": "You now have 30 seconds to check your answers to part three."
+  },
+  {
+    "id": 279,
+    "start": 1412.88,
+    "end": 1425.24,
+    "text": "Part four."
+  },
+  {
+    "id": 280,
+    "start": 1426.02,
+    "end": 1431.66,
+    "text": "You will hear part of an environmental science lecture about the impact of birds of prey"
+  },
+  {
+    "id": 281,
+    "start": 1431.78,
+    "end": 1433.76,
+    "text": "on a farming community in Africa."
+  },
+  {
+    "id": 282,
+    "start": 1435.12,
+    "end": 1439.38,
+    "text": "First, you have some time to look at questions 31 to 40."
+  },
+  {
+    "id": 283,
+    "start": 1504.76,
+    "end": 1509.02,
+    "text": "Now listen carefully and answer questions 31 to 40."
+  },
+  {
+    "id": 284,
+    "start": 1512.72,
+    "end": 1518.44,
+    "text": "We've been looking at different types of conflicts that may arise between wildlife and"
+  },
+  {
+    "id": 285,
+    "start": 1518.52,
+    "end": 1524.26,
+    "text": "humans at the boundaries of protected areas such as national parks and animal sanctuaries."
+  },
+  {
+    "id": 286,
+    "start": 1525.06,
+    "end": 1529.28,
+    "text": "I'd like to illustrate this by telling you about some research that I've been involved"
+  },
+  {
+    "id": 287,
+    "start": 1529.42,
+    "end": 1535.25,
+    "text": "in recently in the Central African country of Zambia in the area around the Champey"
+  },
+  {
+    "id": 288,
+    "start": 1535.25,
+    "end": 1540.48,
+    "text": "Birds' Sanctuary, which contains over 300 of the listed birds of Zambia."
+  },
+  {
+    "id": 289,
+    "start": 1541.16,
+    "end": 1548.18,
+    "text": "These include a number of birds of prey such as eagles, hawks and owls that live by hunting"
+  },
+  {
+    "id": 290,
+    "start": 1548.4,
+    "end": 1550.3,
+    "text": "and killing other birds and animals."
+  },
+  {
+    "id": 291,
+    "start": 1551.26,
+    "end": 1556.55,
+    "text": "Now most of the people living in the local communities near to the birds' sanctuary are"
+  },
+  {
+    "id": 292,
+    "start": 1556.55,
+    "end": 1562.92,
+    "text": "small-scale farmers, and these birds of prey provide important social and ecological"
+  },
+  {
+    "id": 293,
+    "start": 1563.04,
+    "end": 1564.2,
+    "text": "benefits to them."
+  },
+  {
+    "id": 294,
+    "start": 1564.84,
+    "end": 1570.8,
+    "text": "For example, a lot of damage can be caused to farmers crops by rodents such as rats,"
+  },
+  {
+    "id": 295,
+    "start": 1571.12,
+    "end": 1576.4,
+    "text": "which would consume the crops as they grow in the fields, as well as after harvesting if"
+  },
+  {
+    "id": 296,
+    "start": 1576.48,
+    "end": 1578.44,
+    "text": "they weren't hunted and killed by the birds."
+  },
+  {
+    "id": 297,
+    "start": 1579.42,
+    "end": 1584.24,
+    "text": "And the predatory habits of these birds also protect farmers in other ways."
+  },
+  {
+    "id": 298,
+    "start": 1584.96,
+    "end": 1592.16,
+    "text": "For example, a major danger to rural workers is snakes, whose bite may be dangerous or even"
+  },
+  {
+    "id": 299,
+    "start": 1592.24,
+    "end": 1598.06,
+    "text": "fatal, and birds of prey have a major role in keeping their populations under control."
+  },
+  {
+    "id": 300,
+    "start": 1599.02,
+    "end": 1605.14,
+    "text": "Local people have always been aware of these benefits, and for years, even before the sanctuary"
+  },
+  {
+    "id": 301,
+    "start": 1605.24,
+    "end": 1611.28,
+    "text": "was opened in 1973, the birds played a key role in the culture of the region."
+  },
+  {
+    "id": 302,
+    "start": 1612.12,
+    "end": 1618.9,
+    "text": "However, more recently, the sanctuary and its birds have also become increasingly important"
+  },
+  {
+    "id": 303,
+    "start": 1618.98,
+    "end": 1621.56,
+    "text": "to the community in economic terms."
+  },
+  {
+    "id": 304,
+    "start": 1622.04,
+    "end": 1628.62,
+    "text": "Because at present, after a relatively slow start, tourism has become an important source"
+  },
+  {
+    "id": 305,
+    "start": 1628.62,
+    "end": 1629.94,
+    "text": "of revenue for them."
+  },
+  {
+    "id": 306,
+    "start": 1631.26,
+    "end": 1636.64,
+    "text": "However, although these birds of prey are protected by the government, their numbers"
+  },
+  {
+    "id": 307,
+    "start": 1636.76,
+    "end": 1637.38,
+    "text": "are falling."
+  },
+  {
+    "id": 308,
+    "start": 1638.2,
+    "end": 1640.0,
+    "text": "Some of these deaths are accidental."
+  },
+  {
+    "id": 309,
+    "start": 1640.86,
+    "end": 1646.1,
+    "text": "Fatalities occur when birds are light on roads to catch and eat their prey and are hit"
+  },
+  {
+    "id": 310,
+    "start": 1646.12,
+    "end": 1647.7,
+    "text": "by fast-moving traffic."
+  },
+  {
+    "id": 311,
+    "start": 1648.52,
+    "end": 1654.24,
+    "text": "Drivers in Zambia have to take special care at night, as birds may regard the quieter"
+  },
+  {
+    "id": 312,
+    "start": 1654.32,
+    "end": 1656.36,
+    "text": "roads as safe places to sleep."
+  },
+  {
+    "id": 313,
+    "start": 1658.12,
+    "end": 1663.86,
+    "text": "Local deaths may also occur if these birds fly close to high-voltage power lines, as"
+  },
+  {
+    "id": 314,
+    "start": 1663.88,
+    "end": 1665.26,
+    "text": "they may be electrocuted."
+  },
+  {
+    "id": 315,
+    "start": 1666.1,
+    "end": 1671.3,
+    "text": "This is a particular danger in the heavy rain, which can occur in the region in the months"
+  },
+  {
+    "id": 316,
+    "start": 1671.42,
+    "end": 1673.06,
+    "text": "from December to April."
+  },
+  {
+    "id": 317,
+    "start": 1674.42,
+    "end": 1677.82,
+    "text": "And local farmers also pose a threat to these birds."
+  },
+  {
+    "id": 318,
+    "start": 1678.84,
+    "end": 1683.82,
+    "text": "As well as growing crops, small-scale farmers in the area also rear chickens."
+  },
+  {
+    "id": 319,
+    "start": 1684.96,
+    "end": 1690.22,
+    "text": "These provide food for the farmers' families, as well as being an important source of income."
+  },
+  {
+    "id": 320,
+    "start": 1691.12,
+    "end": 1694.82,
+    "text": "But they're also an easy target for birds of prey."
+  },
+  {
+    "id": 321,
+    "start": 1695.36,
+    "end": 1702.04,
+    "text": "And so farmers may shoot these birds, which is illegal but understandable, or they may poison"
+  },
+  {
+    "id": 322,
+    "start": 1702.1,
+    "end": 1707.1,
+    "text": "the birds, which again is illegal and can have negative effects on the ecosystem."
+  },
+  {
+    "id": 323,
+    "start": 1712.68,
+    "end": 1717.16,
+    "text": "So how else can farmers protect their chickens from birds of prey?"
+  },
+  {
+    "id": 324,
+    "start": 1718.02,
+    "end": 1723.12,
+    "text": "Some people believe that to prevent the predators from settling near the area where the chickens"
+  },
+  {
+    "id": 325,
+    "start": 1723.14,
+    "end": 1727.1,
+    "text": "are kept, it's best to keep this area free from vegetation."
+  },
+  {
+    "id": 326,
+    "start": 1728.08,
+    "end": 1733.82,
+    "text": "But in fact, this is counterproductive, as it means the chickens have no cover to hide"
+  },
+  {
+    "id": 327,
+    "start": 1733.84,
+    "end": 1736.56,
+    "text": "in, and they'll be easier for the birds to see."
+  },
+  {
+    "id": 328,
+    "start": 1737.82,
+    "end": 1742.91,
+    "text": "Another possibility would be to prevent the chickens from going outside at all, and to"
+  },
+  {
+    "id": 329,
+    "start": 1742.91,
+    "end": 1745.78,
+    "text": "keep them safe from predators inside of building."
+  },
+  {
+    "id": 330,
+    "start": 1746.52,
+    "end": 1750.26,
+    "text": "But this would cost far too much to be a practical solution."
+  },
+  {
+    "id": 331,
+    "start": 1751.82,
+    "end": 1758.0,
+    "text": "Nearly all the farmers reported that they spent a lot of time and effort trying to frighten"
+  },
+  {
+    "id": 332,
+    "start": 1758.0,
+    "end": 1761.16,
+    "text": "off the birds of prey, without actually harming them."
+  },
+  {
+    "id": 333,
+    "start": 1762.4,
+    "end": 1767.78,
+    "text": "Most of the farmers had at least one dog, and said this was a big help at scaring away"
+  },
+  {
+    "id": 334,
+    "start": 1767.8,
+    "end": 1768.44,
+    "text": "the predators."
+  },
+  {
+    "id": 335,
+    "start": 1769.58,
+    "end": 1774.98,
+    "text": "Some of the farmers also reported that during the breeding season, when the chickens were"
+  },
+  {
+    "id": 336,
+    "start": 1775.0,
+    "end": 1780.34,
+    "text": "particularly vulnerable, they encouraged their children to watch over the chickens and"
+  },
+  {
+    "id": 337,
+    "start": 1780.34,
+    "end": 1786.21,
+    "text": "to hit pans with a metal spoon, so that the resulting noise would succeed in driving away"
+  },
+  {
+    "id": 338,
+    "start": 1786.21,
+    "end": 1789.06,
+    "text": "birds that were trying to seize the young chicks."
+  },
+  {
+    "id": 339,
+    "start": 1790.36,
+    "end": 1796.52,
+    "text": "One of these methods was 100% effective, so as a result, the village people told us"
+  },
+  {
+    "id": 340,
+    "start": 1796.52,
+    "end": 1802.47,
+    "text": "that rather than just using one method, they were forced to use a combination for them to"
+  },
+  {
+    "id": 341,
+    "start": 1802.47,
+    "end": 1803.42,
+    "text": "have any effect."
+  },
+  {
+    "id": 342,
+    "start": 1804.4,
+    "end": 1810.8,
+    "text": "And even so, these birds of prey remain a major threat to the chicken's survival, and cause"
+  },
+  {
+    "id": 343,
+    "start": 1810.88,
+    "end": 1813.44,
+    "text": "considerable economic loss to farmers."
+  },
+  {
+    "id": 344,
+    "start": 1814.6,
+    "end": 1822.66,
+    "text": "So we looked at the possibility of a longer term solution to..."
+  },
+  {
+    "id": 345,
+    "start": 1823.22,
+    "end": 1824.92,
+    "text": "That is the end of Part 4."
+  },
+  {
+    "id": 346,
+    "start": 1825.78,
+    "end": 1829.42,
+    "text": "You now have one minute to check your answers to Part 4."
+  },
+  {
+    "id": 347,
+    "start": 1874.6,
+    "end": 1891.46,
+    "text": "That is the end of the listening test."
+  },
+  {
+    "id": 348,
+    "start": 1892.66,
+    "end": 1899.02,
+    "text": "In the IELTS test, you would now have 10 minutes to transfer your answers to the listening"
+  }
+]

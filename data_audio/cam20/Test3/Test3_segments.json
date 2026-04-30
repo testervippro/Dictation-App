@@ -1,0 +1,1952 @@
+[
+  {
+    "id": 0,
+    "start": 4.78,
+    "end": 5.4,
+    "text": "Test 3."
+  },
+  {
+    "id": 1,
+    "start": 7.06,
+    "end": 9.26,
+    "text": "This is the IELTS listening test."
+  },
+  {
+    "id": 2,
+    "start": 10.46,
+    "end": 15.7,
+    "text": "You will hear a number of different recordings, and you will have to answer questions on what"
+  },
+  {
+    "id": 3,
+    "start": 15.7,
+    "end": 16.28,
+    "text": "you hear."
+  },
+  {
+    "id": 4,
+    "start": 17.28,
+    "end": 23.25,
+    "text": "There will be time for you to read the instructions and questions, and you will have a chance to"
+  },
+  {
+    "id": 5,
+    "start": 23.25,
+    "end": 24.24,
+    "text": "check your work."
+  },
+  {
+    "id": 6,
+    "start": 25.34,
+    "end": 28.3,
+    "text": "All the recordings will be played once only."
+  },
+  {
+    "id": 7,
+    "start": 29.68,
+    "end": 31.38,
+    "text": "The test is in four parts."
+  },
+  {
+    "id": 8,
+    "start": 32.34,
+    "end": 38.4,
+    "text": "At the end of the test, you will be given ten minutes to transfer your answers to an answer"
+  },
+  {
+    "id": 9,
+    "start": 38.4,
+    "end": 38.74,
+    "text": "sheet."
+  },
+  {
+    "id": 10,
+    "start": 40.92,
+    "end": 42.48,
+    "text": "Now turn to part one."
+  },
+  {
+    "id": 11,
+    "start": 47.56,
+    "end": 48.34,
+    "text": "Part one."
+  },
+  {
+    "id": 12,
+    "start": 49.94,
+    "end": 55.24,
+    "text": "You will hear a woman phoning the owner of a house she is going to rent about companies"
+  },
+  {
+    "id": 13,
+    "start": 55.34,
+    "end": 57.24,
+    "text": "that she could rent furniture from."
+  },
+  {
+    "id": 14,
+    "start": 58.52,
+    "end": 62.42,
+    "text": "First, you have some time to look at questions one to five."
+  },
+  {
+    "id": 15,
+    "start": 92.98,
+    "end": 97.04,
+    "text": "Now listen carefully and answer questions one to five."
+  },
+  {
+    "id": 16,
+    "start": 100.48,
+    "end": 101.32,
+    "text": "Good morning."
+  },
+  {
+    "id": 17,
+    "start": 102.08,
+    "end": 104.0,
+    "text": "Hi, this is Shelley Meyer."
+  },
+  {
+    "id": 18,
+    "start": 104.56,
+    "end": 106.8,
+    "text": "I'm renting your house on Archwood Avenue."
+  },
+  {
+    "id": 19,
+    "start": 107.32,
+    "end": 108.9,
+    "text": "I'm due to move in next week."
+  },
+  {
+    "id": 20,
+    "start": 109.6,
+    "end": 111.2,
+    "text": "Oh yes, hello, Ms. Meyer."
+  },
+  {
+    "id": 21,
+    "start": 111.66,
+    "end": 112.72,
+    "text": "What can I do for you?"
+  },
+  {
+    "id": 22,
+    "start": 113.6,
+    "end": 117.64,
+    "text": "When I viewed the house, I told you almost probably need to rent some furniture."
+  },
+  {
+    "id": 23,
+    "start": 118.16,
+    "end": 122.84,
+    "text": "At least until I know whether my temporary work contract is going to be made permanent."
+  },
+  {
+    "id": 24,
+    "start": 123.48,
+    "end": 125.1,
+    "text": "Yes, of course I remember."
+  },
+  {
+    "id": 25,
+    "start": 125.64,
+    "end": 130.36,
+    "text": "And I said I could give you some information about furniture rental companies in the city."
+  },
+  {
+    "id": 26,
+    "start": 130.88,
+    "end": 131.56,
+    "text": "That's right."
+  },
+  {
+    "id": 27,
+    "start": 132.4,
+    "end": 135.38,
+    "text": "Well the biggest company is called Peac Rendels."
+  },
+  {
+    "id": 28,
+    "start": 135.98,
+    "end": 140.18,
+    "text": "I've recommended them to other people and have always heard positive reports about them."
+  },
+  {
+    "id": 29,
+    "start": 140.68,
+    "end": 143.12,
+    "text": "Would you give me an idea of their costs?"
+  },
+  {
+    "id": 30,
+    "start": 143.96,
+    "end": 146.9,
+    "text": "Sure, I actually have one of their brochures here."
+  },
+  {
+    "id": 31,
+    "start": 147.64,
+    "end": 154.86,
+    "text": "It says the monthly price per room starts at $105 and goes up to $239."
+  },
+  {
+    "id": 32,
+    "start": 155.8,
+    "end": 159.26,
+    "text": "That depends on which rooms you need furniture for, of course."
+  },
+  {
+    "id": 33,
+    "start": 159.66,
+    "end": 164.22,
+    "text": "Sure, it's just to get a general idea of how much it's going to cost."
+  },
+  {
+    "id": 34,
+    "start": 165.06,
+    "end": 168.78,
+    "text": "And you said you had some positive feedback about this company?"
+  },
+  {
+    "id": 35,
+    "start": 169.66,
+    "end": 176.16,
+    "text": "Yes, people have mentioned that the furniture from Peac Rendels is more modern than any of the other companies."
+  },
+  {
+    "id": 36,
+    "start": 176.76,
+    "end": 183.48,
+    "text": "And also, once you place an order, the furniture will be delivered to you in just one or two days."
+  },
+  {
+    "id": 37,
+    "start": 183.94,
+    "end": 185.56,
+    "text": "That would be really helpful."
+  },
+  {
+    "id": 38,
+    "start": 186.44,
+    "end": 190.62,
+    "text": "Oh, and the brochure says that there's a special offer at the moment."
+  },
+  {
+    "id": 39,
+    "start": 191.18,
+    "end": 196.94,
+    "text": "If you rent living room furniture, I believe that's a set of chairs and a TV table,"
+  },
+  {
+    "id": 40,
+    "start": 197.58,
+    "end": 200.32,
+    "text": "you'll also get a lamp at no extra cost."
+  },
+  {
+    "id": 41,
+    "start": 201.14,
+    "end": 206.5,
+    "text": "OK, but you know that price range you gave is more than I was hoping to pay."
+  },
+  {
+    "id": 42,
+    "start": 207.26,
+    "end": 209.72,
+    "text": "Then you could try Aaron and Oliver."
+  },
+  {
+    "id": 43,
+    "start": 210.02,
+    "end": 212.94,
+    "text": "Sorry. What and Oliver?"
+  },
+  {
+    "id": 44,
+    "start": 213.62,
+    "end": 216.22,
+    "text": "Aaron, double A-R-O-N."
+  },
+  {
+    "id": 45,
+    "start": 217.14,
+    "end": 219.34,
+    "text": "OK. Are they cheaper?"
+  },
+  {
+    "id": 46,
+    "start": 220.04,
+    "end": 222.24,
+    "text": "I'd say they're a mid-price company."
+  },
+  {
+    "id": 47,
+    "start": 222.9,
+    "end": 229.22,
+    "text": "But if you chose them, you need to be aware that they charge an extra 12% every month in case of damage."
+  },
+  {
+    "id": 48,
+    "start": 229.86,
+    "end": 234.04,
+    "text": "Oh, I see. I'd have to do the math carefully then."
+  },
+  {
+    "id": 49,
+    "start": 234.44,
+    "end": 239.32,
+    "text": "Right. But one helpful thing is that they also do cleaning for customers."
+  },
+  {
+    "id": 50,
+    "start": 239.74,
+    "end": 240.62,
+    "text": "For the furniture?"
+  },
+  {
+    "id": 51,
+    "start": 241.36,
+    "end": 241.98,
+    "text": "For the house."
+  },
+  {
+    "id": 52,
+    "start": 242.52,
+    "end": 245.28,
+    "text": "Oh, I see. I probably won't need that."
+  },
+  {
+    "id": 53,
+    "start": 248.88,
+    "end": 254.82,
+    "text": "Before you hear the rest of the conversation, you have some time to look at questions 6 to 10."
+  },
+  {
+    "id": 54,
+    "start": 275.96,
+    "end": 293.36,
+    "text": "Now listen and answer questions 6 to 10."
+  },
+  {
+    "id": 55,
+    "start": 297.0,
+    "end": 299.96,
+    "text": "There's another company called Large Furniture."
+  },
+  {
+    "id": 56,
+    "start": 300.6,
+    "end": 303.84,
+    "text": "It's quite new and it has the lowest prices in town."
+  },
+  {
+    "id": 57,
+    "start": 308.78,
+    "end": 309.98,
+    "text": "Well, that would be good."
+  },
+  {
+    "id": 58,
+    "start": 310.8,
+    "end": 316.98,
+    "text": "I'm not bringing much with me and I won't have much time to go shopping after I start my job."
+  },
+  {
+    "id": 59,
+    "start": 317.82,
+    "end": 321.24,
+    "text": "There are two things you need to know about Large Furniture."
+  },
+  {
+    "id": 60,
+    "start": 322.12,
+    "end": 326.68,
+    "text": "First of all, you have to take out insurance on the furniture and you need to organize"
+  },
+  {
+    "id": 61,
+    "start": 326.8,
+    "end": 327.46,
+    "text": "that yourself."
+  },
+  {
+    "id": 62,
+    "start": 327.78,
+    "end": 329.2,
+    "text": "That wouldn't be too hard."
+  },
+  {
+    "id": 63,
+    "start": 330.18,
+    "end": 335.95,
+    "text": "Also, you can't take out a contract for less than 6 months, but I figure that might not"
+  },
+  {
+    "id": 64,
+    "start": 335.95,
+    "end": 337.14,
+    "text": "be a problem for you."
+  },
+  {
+    "id": 65,
+    "start": 337.68,
+    "end": 340.84,
+    "text": "You're renting the house for 12 months after all, aren't you?"
+  },
+  {
+    "id": 66,
+    "start": 341.18,
+    "end": 342.76,
+    "text": "Yes, okay."
+  },
+  {
+    "id": 67,
+    "start": 343.6,
+    "end": 344.98,
+    "text": "Well, sorry to interrupt."
+  },
+  {
+    "id": 68,
+    "start": 345.76,
+    "end": 348.16,
+    "text": "I just thought of another furniture rental company."
+  },
+  {
+    "id": 69,
+    "start": 348.5,
+    "end": 353.06,
+    "text": "It's called Space Rendals and it's located very near to the house."
+  },
+  {
+    "id": 70,
+    "start": 353.62,
+    "end": 354.1,
+    "text": "Okay."
+  },
+  {
+    "id": 71,
+    "start": 354.88,
+    "end": 361.4,
+    "text": "I don't have any information about their charges, so it's best to use their app to find out"
+  },
+  {
+    "id": 72,
+    "start": 361.4,
+    "end": 362.98,
+    "text": "what it would cost you to use them."
+  },
+  {
+    "id": 73,
+    "start": 363.16,
+    "end": 364.16,
+    "text": "Okay, thanks."
+  },
+  {
+    "id": 74,
+    "start": 364.62,
+    "end": 365.2,
+    "text": "I'll do that."
+  },
+  {
+    "id": 75,
+    "start": 366.08,
+    "end": 370.44,
+    "text": "One good thing about that company is that if you don't like the furniture once it's delivered,"
+  },
+  {
+    "id": 76,
+    "start": 371.0,
+    "end": 376.04,
+    "text": "you can request exchanges as long as you do that within a week of receiving it."
+  },
+  {
+    "id": 77,
+    "start": 376.42,
+    "end": 378.26,
+    "text": "That sounds really great."
+  },
+  {
+    "id": 78,
+    "start": 379.28,
+    "end": 379.66,
+    "text": "Okay."
+  },
+  {
+    "id": 79,
+    "start": 380.26,
+    "end": 381.6,
+    "text": "Well, thanks very much."
+  },
+  {
+    "id": 80,
+    "start": 382.14,
+    "end": 383.18,
+    "text": "That's so helpful."
+  },
+  {
+    "id": 81,
+    "start": 387.1,
+    "end": 388.92,
+    "text": "That is the end of Part 1."
+  },
+  {
+    "id": 82,
+    "start": 389.7,
+    "end": 393.66,
+    "text": "You now have one minute to check your answers to Part 1."
+  },
+  {
+    "id": 83,
+    "start": 446.14,
+    "end": 451.48,
+    "text": "You will hear an archaeologist who is part of a community project to excavate an ancient"
+  },
+  {
+    "id": 84,
+    "start": 451.58,
+    "end": 455.52,
+    "text": "village talking to members of the public who are visiting the site."
+  },
+  {
+    "id": 85,
+    "start": 456.36,
+    "end": 460.48,
+    "text": "First, you have some time to look at questions 11 to 16."
+  },
+  {
+    "id": 86,
+    "start": 511.18,
+    "end": 515.36,
+    "text": "Now listen carefully and answer questions 11 to 16."
+  },
+  {
+    "id": 87,
+    "start": 519.06,
+    "end": 520.32,
+    "text": "Hello, I'm Hayden."
+  },
+  {
+    "id": 88,
+    "start": 520.5,
+    "end": 524.88,
+    "text": "I'm one of the archaeologists investigating the site here at BitCuster."
+  },
+  {
+    "id": 89,
+    "start": 525.9,
+    "end": 531.18,
+    "text": "This is the third summer for this community project and most of the people digging here"
+  },
+  {
+    "id": 90,
+    "start": 531.18,
+    "end": 531.9,
+    "text": "are volunteers."
+  },
+  {
+    "id": 91,
+    "start": 532.86,
+    "end": 538.14,
+    "text": "I'm a full-time archaeologist for the town council, but I was asked to join the project"
+  },
+  {
+    "id": 92,
+    "start": 538.26,
+    "end": 543.66,
+    "text": "by NHA, a charity which sets up projects like this up and down the country."
+  },
+  {
+    "id": 93,
+    "start": 544.68,
+    "end": 550.19,
+    "text": "As you can see, we're next to BitCuster Castle, which is great because the owners let us"
+  },
+  {
+    "id": 94,
+    "start": 550.19,
+    "end": 551.26,
+    "text": "use their facilities."
+  },
+  {
+    "id": 95,
+    "start": 552.64,
+    "end": 555.38,
+    "text": "So, how did we get to where we are today?"
+  },
+  {
+    "id": 96,
+    "start": 556.84,
+    "end": 563.42,
+    "text": "Many archaeology projects happen when an ancient object is found, and in our case that object"
+  },
+  {
+    "id": 97,
+    "start": 563.42,
+    "end": 564.64,
+    "text": "was a gold coin."
+  },
+  {
+    "id": 98,
+    "start": 565.62,
+    "end": 570.88,
+    "text": "Coins are often found by people using metal detectors to look for things buried in the"
+  },
+  {
+    "id": 99,
+    "start": 570.88,
+    "end": 577.62,
+    "text": "ground, or coins are uncovered when wild animals like rabbits have been digging tunnels."
+  },
+  {
+    "id": 100,
+    "start": 578.8,
+    "end": 584.63,
+    "text": "Here, a walker found it on the ground after a rainstorm washed away some of the earth and"
+  },
+  {
+    "id": 101,
+    "start": 584.63,
+    "end": 585.08,
+    "text": "sand."
+  },
+  {
+    "id": 102,
+    "start": 586.8,
+    "end": 592.96,
+    "text": "When the story of the gold coin hit the news, Peter Swift, an amateur historian, contacted"
+  },
+  {
+    "id": 103,
+    "start": 593.08,
+    "end": 599.04,
+    "text": "me to say he believed there had been a village on this site, centuries before the castle"
+  },
+  {
+    "id": 104,
+    "start": 599.12,
+    "end": 599.68,
+    "text": "was built."
+  },
+  {
+    "id": 105,
+    "start": 600.8,
+    "end": 606.78,
+    "text": "Just by chance, the team found some old maps and documents in our library, which showed"
+  },
+  {
+    "id": 106,
+    "start": 606.94,
+    "end": 613.6,
+    "text": "500-year-old drawings of ruined buildings on the grassy area between the outer stone"
+  },
+  {
+    "id": 107,
+    "start": 613.76,
+    "end": 615.74,
+    "text": "walls of the castle and the river."
+  },
+  {
+    "id": 108,
+    "start": 616.68,
+    "end": 618.82,
+    "text": "We knew then we were onto something."
+  },
+  {
+    "id": 109,
+    "start": 620.4,
+    "end": 625.46,
+    "text": "Over the three summers the team has been here, we found the remains of several buildings,"
+  },
+  {
+    "id": 110,
+    "start": 625.86,
+    "end": 628.6,
+    "text": "and more broken pots than you can count."
+  },
+  {
+    "id": 111,
+    "start": 629.62,
+    "end": 634.86,
+    "text": "Normally you'd expect to find broachies and other jewellery, but we're still waiting"
+  },
+  {
+    "id": 112,
+    "start": 634.96,
+    "end": 636.5,
+    "text": "to uncover any such items."
+  },
+  {
+    "id": 113,
+    "start": 637.7,
+    "end": 643.53,
+    "text": "The people who once lived here were skilled at making tools from animal bones, as you'll"
+  },
+  {
+    "id": 114,
+    "start": 643.53,
+    "end": 645.12,
+    "text": "see when you visit the exhibition."
+  },
+  {
+    "id": 115,
+    "start": 646.74,
+    "end": 652.33,
+    "text": "Besides the discovery of the village, we've also found evidence of human activity on the"
+  },
+  {
+    "id": 116,
+    "start": 652.33,
+    "end": 658.62,
+    "text": "other side of the river, no other houses or hearts so far, but we can see the borders"
+  },
+  {
+    "id": 117,
+    "start": 658.88,
+    "end": 660.56,
+    "text": "of an ancient field system."
+  },
+  {
+    "id": 118,
+    "start": 661.52,
+    "end": 666.79,
+    "text": "At one point we found a long wall and thought it was an ancient palace, but it turned out"
+  },
+  {
+    "id": 119,
+    "start": 666.79,
+    "end": 667.88,
+    "text": "to be a modern wall."
+  },
+  {
+    "id": 120,
+    "start": 669.92,
+    "end": 673.82,
+    "text": "The summer's work will end soon, but we'll be back next summer."
+  },
+  {
+    "id": 121,
+    "start": 674.68,
+    "end": 680.4,
+    "text": "In the meantime we're putting on a series of guided tours for school groups this autumn."
+  },
+  {
+    "id": 122,
+    "start": 681.42,
+    "end": 685.54,
+    "text": "Oh, and maybe you saw the TV documentary about our project."
+  },
+  {
+    "id": 123,
+    "start": 686.38,
+    "end": 692.08,
+    "text": "That suggested the objects we found are going to the town's museum, but we don't know"
+  },
+  {
+    "id": 124,
+    "start": 692.08,
+    "end": 693.32,
+    "text": "that for sure yet."
+  },
+  {
+    "id": 125,
+    "start": 697.2,
+    "end": 702.98,
+    "text": "Before you hear the rest of the talk, you have some time to look at questions 17-20."
+  },
+  {
+    "id": 126,
+    "start": 733.54,
+    "end": 737.3,
+    "text": "Now listen and answer questions 17-20."
+  },
+  {
+    "id": 127,
+    "start": 740.5,
+    "end": 745.82,
+    "text": "When you enter the site, please make sure you keep to the paths at all times."
+  },
+  {
+    "id": 128,
+    "start": 746.48,
+    "end": 752.12,
+    "text": "There are a few other things, the highlights of the site if you like that I want to mention."
+  },
+  {
+    "id": 129,
+    "start": 753.04,
+    "end": 754.12,
+    "text": "Take a look at the map."
+  },
+  {
+    "id": 130,
+    "start": 755.0,
+    "end": 757.84,
+    "text": "Our present location is marked at the bottom."
+  },
+  {
+    "id": 131,
+    "start": 759.26,
+    "end": 765.3,
+    "text": "This year we've identified the foundations of an ancient bridge, and it's really exciting"
+  },
+  {
+    "id": 132,
+    "start": 765.38,
+    "end": 770.74,
+    "text": "today because a team of divers are in the river searching for lost objects."
+  },
+  {
+    "id": 133,
+    "start": 771.88,
+    "end": 778.38,
+    "text": "To reach the bridge, take the main path ahead of you, go straight on, and keep going"
+  },
+  {
+    "id": 134,
+    "start": 778.4,
+    "end": 780.66,
+    "text": "till the path bends to the left."
+  },
+  {
+    "id": 135,
+    "start": 781.72,
+    "end": 784.74,
+    "text": "We'll see a smaller track leading off to the right."
+  },
+  {
+    "id": 136,
+    "start": 785.48,
+    "end": 788.7,
+    "text": "Follow that to take you to the river where the divers are."
+  },
+  {
+    "id": 137,
+    "start": 790.52,
+    "end": 792.92,
+    "text": "You might be interested to see the rubbish pit."
+  },
+  {
+    "id": 138,
+    "start": 793.6,
+    "end": 798.44,
+    "text": "This is very near the castle walls in the northwest corner of the site."
+  },
+  {
+    "id": 139,
+    "start": 799.42,
+    "end": 803.7,
+    "text": "It actually dates to the time of the castle and not the ancient village."
+  },
+  {
+    "id": 140,
+    "start": 804.58,
+    "end": 810.36,
+    "text": "We found oyster shells and fishbones, and we assumed they were thrown from the castle"
+  },
+  {
+    "id": 141,
+    "start": 810.52,
+    "end": 811.22,
+    "text": "kitchen above."
+  },
+  {
+    "id": 142,
+    "start": 813.12,
+    "end": 818.28,
+    "text": "One area we excavated in the first summer uncovered the site of a meeting hall."
+  },
+  {
+    "id": 143,
+    "start": 819.18,
+    "end": 825.16,
+    "text": "We knew it was an important building because it had two rows of post holes deep enough"
+  },
+  {
+    "id": 144,
+    "start": 825.2,
+    "end": 826.72,
+    "text": "to support a large roof."
+  },
+  {
+    "id": 145,
+    "start": 827.58,
+    "end": 833.52,
+    "text": "It's the largest structure in the central area of the site next to the current excavation"
+  },
+  {
+    "id": 146,
+    "start": 833.54,
+    "end": 833.88,
+    "text": "area."
+  },
+  {
+    "id": 147,
+    "start": 835.72,
+    "end": 838.56,
+    "text": "Next year we discovered a fish pond in the ancient village."
+  },
+  {
+    "id": 148,
+    "start": 839.46,
+    "end": 841.56,
+    "text": "Normally these were beside a river."
+  },
+  {
+    "id": 149,
+    "start": 842.28,
+    "end": 847.72,
+    "text": "The pond here is further away, but it's possible the river has moved slightly."
+  },
+  {
+    "id": 150,
+    "start": 848.62,
+    "end": 855.16,
+    "text": "Anyway, to get there from here you turn right at the first information board you come to,"
+  },
+  {
+    "id": 151,
+    "start": 855.74,
+    "end": 858.0,
+    "text": "and follow the path into the trees."
+  },
+  {
+    "id": 152,
+    "start": 859.08,
+    "end": 862.54,
+    "text": "Before you come out of the trees you'll see it on your right."
+  },
+  {
+    "id": 153,
+    "start": 863.68,
+    "end": 866.34,
+    "text": "If you reach the river you've gone too far."
+  },
+  {
+    "id": 154,
+    "start": 867.62,
+    "end": 869.78,
+    "text": "So does anyone have it?"
+  },
+  {
+    "id": 155,
+    "start": 873.36,
+    "end": 875.04,
+    "text": "That is the end of part two."
+  },
+  {
+    "id": 156,
+    "start": 875.96,
+    "end": 880.36,
+    "text": "You now have 30 seconds to check your answers to part two."
+  },
+  {
+    "id": 157,
+    "start": 953.68,
+    "end": 969.9,
+    "text": "Part three."
+  },
+  {
+    "id": 158,
+    "start": 971.56,
+    "end": 977.92,
+    "text": "You will hear two theatre studies students, Maya and Finn discussing their project on theatre"
+  },
+  {
+    "id": 159,
+    "start": 978.02,
+    "end": 978.46,
+    "text": "programs."
+  },
+  {
+    "id": 160,
+    "start": 979.8,
+    "end": 984.56,
+    "text": "First you have some time to look at questions 21 to 26."
+  },
+  {
+    "id": 161,
+    "start": 1009.4,
+    "end": 1034.86,
+    "text": "Now listen carefully and answer questions 21 to 26."
+  },
+  {
+    "id": 162,
+    "start": 1038.8,
+    "end": 1043.38,
+    "text": "So Finn, I've done as much as I can for our project on theatre programs."
+  },
+  {
+    "id": 163,
+    "start": 1044.0,
+    "end": 1045.64,
+    "text": "How's your research coming along?"
+  },
+  {
+    "id": 164,
+    "start": 1046.12,
+    "end": 1052.52,
+    "text": "Okay Maya, I didn't know theatre programs are called playbills in the USA till I started"
+  },
+  {
+    "id": 165,
+    "start": 1052.58,
+    "end": 1053.72,
+    "text": "looking into the topic."
+  },
+  {
+    "id": 166,
+    "start": 1054.62,
+    "end": 1059.64,
+    "text": "Even though I struggled to find many useful websites, I'm glad we picked this subject."
+  },
+  {
+    "id": 167,
+    "start": 1060.38,
+    "end": 1064.96,
+    "text": "No one else on the course is doing the same as us, although it is one of the research"
+  },
+  {
+    "id": 168,
+    "start": 1065.06,
+    "end": 1066.68,
+    "text": "areas of the module convener."
+  },
+  {
+    "id": 169,
+    "start": 1067.24,
+    "end": 1069.3,
+    "text": "That might actually put some people off."
+  },
+  {
+    "id": 170,
+    "start": 1069.38,
+    "end": 1070.48,
+    "text": "I suppose so."
+  },
+  {
+    "id": 171,
+    "start": 1071.3,
+    "end": 1076.06,
+    "text": "Anyway, I hadn't realised there were actually companies specialising in creating theatre"
+  },
+  {
+    "id": 172,
+    "start": 1076.1,
+    "end": 1076.66,
+    "text": "programs."
+  },
+  {
+    "id": 173,
+    "start": 1077.12,
+    "end": 1079.16,
+    "text": "Yes, they're quite common nowadays."
+  },
+  {
+    "id": 174,
+    "start": 1079.74,
+    "end": 1084.62,
+    "text": "Contrary to what many people think, theatres don't hire people to do the programs."
+  },
+  {
+    "id": 175,
+    "start": 1085.26,
+    "end": 1091.1,
+    "text": "In fact companies buy the rights to publish programs on the theatre's behalf and then make"
+  },
+  {
+    "id": 176,
+    "start": 1091.12,
+    "end": 1094.56,
+    "text": "their money selling advertising space within the program booklet."
+  },
+  {
+    "id": 177,
+    "start": 1095.2,
+    "end": 1097.46,
+    "text": "It must be easier for theatres to do it that way."
+  },
+  {
+    "id": 178,
+    "start": 1097.74,
+    "end": 1098.0,
+    "text": "Yes."
+  },
+  {
+    "id": 179,
+    "start": 1098.92,
+    "end": 1102.64,
+    "text": "I remember reading something about programs in early British theatre."
+  },
+  {
+    "id": 180,
+    "start": 1103.28,
+    "end": 1106.18,
+    "text": "It said that the cast was always very important."
+  },
+  {
+    "id": 181,
+    "start": 1106.54,
+    "end": 1112.94,
+    "text": "Yeah, audiences were very familiar with leading actors and big names would draw huge crowds."
+  },
+  {
+    "id": 182,
+    "start": 1113.14,
+    "end": 1118.4,
+    "text": "But I hadn't realised that if the program named a famous actor, that's who the public"
+  },
+  {
+    "id": 183,
+    "start": 1118.5,
+    "end": 1119.82,
+    "text": "expected to perform."
+  },
+  {
+    "id": 184,
+    "start": 1120.46,
+    "end": 1124.92,
+    "text": "And if that didn't happen, people accused the theatre of breaking their agreement with"
+  },
+  {
+    "id": 185,
+    "start": 1124.96,
+    "end": 1125.54,
+    "text": "the audience."
+  },
+  {
+    "id": 186,
+    "start": 1126.12,
+    "end": 1130.36,
+    "text": "They would demand refunds and if they didn't get them, there were riots."
+  },
+  {
+    "id": 187,
+    "start": 1131.16,
+    "end": 1132.06,
+    "text": "Outrageous!"
+  },
+  {
+    "id": 188,
+    "start": 1132.64,
+    "end": 1134.02,
+    "text": "That had never happened now."
+  },
+  {
+    "id": 189,
+    "start": 1134.18,
+    "end": 1134.58,
+    "text": "No."
+  },
+  {
+    "id": 190,
+    "start": 1135.0,
+    "end": 1136.08,
+    "text": "People are too polite."
+  },
+  {
+    "id": 191,
+    "start": 1136.56,
+    "end": 1140.12,
+    "text": "Even when they're disappointed if the star of the show misses a performance."
+  },
+  {
+    "id": 192,
+    "start": 1140.68,
+    "end": 1145.04,
+    "text": "We should definitely include that information about early audiences in our project."
+  },
+  {
+    "id": 193,
+    "start": 1145.96,
+    "end": 1150.96,
+    "text": "I also think it's important to mention that lots of ordinary people at that time were"
+  },
+  {
+    "id": 194,
+    "start": 1150.96,
+    "end": 1151.7,
+    "text": "illiterate."
+  },
+  {
+    "id": 195,
+    "start": 1152.2,
+    "end": 1156.06,
+    "text": "So theatre programs were of limited value in advertising plays."
+  },
+  {
+    "id": 196,
+    "start": 1156.86,
+    "end": 1161.9,
+    "text": "When a company of actors arrived in a town, they'd parade around the streets in their costumes,"
+  },
+  {
+    "id": 197,
+    "start": 1162.56,
+    "end": 1165.6,
+    "text": "beating drums and announcing their upcoming performances."
+  },
+  {
+    "id": 198,
+    "start": 1166.1,
+    "end": 1166.68,
+    "text": "Interesting."
+  },
+  {
+    "id": 199,
+    "start": 1167.4,
+    "end": 1169.5,
+    "text": "I couldn't imagine that happening now either."
+  },
+  {
+    "id": 200,
+    "start": 1169.74,
+    "end": 1170.14,
+    "text": "Hmm."
+  },
+  {
+    "id": 201,
+    "start": 1170.9,
+    "end": 1176.4,
+    "text": "There's also an interesting comparison to make between 18th and 19th century programs."
+  },
+  {
+    "id": 202,
+    "start": 1177.32,
+    "end": 1182.12,
+    "text": "And wasn't it in the 19th century that theatre programs started to resemble programs today?"
+  },
+  {
+    "id": 203,
+    "start": 1182.6,
+    "end": 1182.9,
+    "text": "Yes."
+  },
+  {
+    "id": 204,
+    "start": 1183.58,
+    "end": 1188.34,
+    "text": "And unlike programs from the 18th century, they always used colour."
+  },
+  {
+    "id": 205,
+    "start": 1188.72,
+    "end": 1191.38,
+    "text": "And there was a greater variety of designs."
+  },
+  {
+    "id": 206,
+    "start": 1192.36,
+    "end": 1198.22,
+    "text": "But personally, I think 18th century programs were superior because they told the theatre"
+  },
+  {
+    "id": 207,
+    "start": 1198.28,
+    "end": 1201.64,
+    "text": "go as so many things, including about the actors."
+  },
+  {
+    "id": 208,
+    "start": 1202.6,
+    "end": 1207.28,
+    "text": "And about the writer, the plot, and sometimes the history of the play."
+  },
+  {
+    "id": 209,
+    "start": 1207.5,
+    "end": 1208.0,
+    "text": "That's right."
+  },
+  {
+    "id": 210,
+    "start": 1208.84,
+    "end": 1212.68,
+    "text": "What should we say about theatre programs in the 20th century?"
+  },
+  {
+    "id": 211,
+    "start": 1213.28,
+    "end": 1218.56,
+    "text": "I reckon the most important thing is the dramatic change they underwent during World War"
+  },
+  {
+    "id": 212,
+    "start": 1218.6,
+    "end": 1218.94,
+    "text": "2."
+  },
+  {
+    "id": 213,
+    "start": 1219.32,
+    "end": 1222.34,
+    "text": "When the government imposed restrictions on the use of paper?"
+  },
+  {
+    "id": 214,
+    "start": 1222.82,
+    "end": 1225.26,
+    "text": "Yeah, but that was only in the UK."
+  },
+  {
+    "id": 215,
+    "start": 1226.12,
+    "end": 1232.68,
+    "text": "And the USA programs, or rather playbills, continued to be published in the same format."
+  },
+  {
+    "id": 216,
+    "start": 1233.08,
+    "end": 1239.14,
+    "text": "While here in the UK, programs became merely a single sheet of paper folded to create"
+  },
+  {
+    "id": 217,
+    "start": 1239.18,
+    "end": 1240.44,
+    "text": "four pages for text."
+  },
+  {
+    "id": 218,
+    "start": 1240.62,
+    "end": 1240.94,
+    "text": "Hmm."
+  },
+  {
+    "id": 219,
+    "start": 1241.62,
+    "end": 1246.98,
+    "text": "What I don't really get is that after the war they didn't go back to being more than one"
+  },
+  {
+    "id": 220,
+    "start": 1246.98,
+    "end": 1251.1,
+    "text": "sheets, or change in any way for over 25 years."
+  },
+  {
+    "id": 221,
+    "start": 1251.96,
+    "end": 1256.98,
+    "text": "I know there were paper shortages after the war, but only for five or ten years."
+  },
+  {
+    "id": 222,
+    "start": 1257.38,
+    "end": 1258.08,
+    "text": "Hmm, strange."
+  },
+  {
+    "id": 223,
+    "start": 1261.48,
+    "end": 1266.96,
+    "text": "Before you hear the rest of the discussion, you have some time to look at questions 27"
+  },
+  {
+    "id": 224,
+    "start": 1267.08,
+    "end": 1267.7,
+    "text": "to 30."
+  },
+  {
+    "id": 225,
+    "start": 1288.06,
+    "end": 1291.5,
+    "text": "Now listen, and answer questions 27 to 30."
+  },
+  {
+    "id": 226,
+    "start": 1294.52,
+    "end": 1299.44,
+    "text": "I've got some pictures of programs we could include on the slides for our presentation."
+  },
+  {
+    "id": 227,
+    "start": 1300.02,
+    "end": 1301.58,
+    "text": "I found a couple summaia."
+  },
+  {
+    "id": 228,
+    "start": 1302.14,
+    "end": 1303.98,
+    "text": "Let's go through and see what we think."
+  },
+  {
+    "id": 229,
+    "start": 1304.52,
+    "end": 1309.74,
+    "text": "Um, uh, this is an old one for a play called Rui Blas."
+  },
+  {
+    "id": 230,
+    "start": 1310.22,
+    "end": 1314.22,
+    "text": "Hmm, never heard of that, but the program looks very decorative."
+  },
+  {
+    "id": 231,
+    "start": 1314.82,
+    "end": 1316.98,
+    "text": "Good enough to put in a frame on the wall."
+  },
+  {
+    "id": 232,
+    "start": 1317.44,
+    "end": 1318.98,
+    "text": "The images are just beautiful."
+  },
+  {
+    "id": 233,
+    "start": 1320.06,
+    "end": 1321.52,
+    "text": "Finn, what did you find?"
+  },
+  {
+    "id": 234,
+    "start": 1322.14,
+    "end": 1325.68,
+    "text": "I've got some pages from a program for Man of Lamancha."
+  },
+  {
+    "id": 235,
+    "start": 1326.08,
+    "end": 1331.34,
+    "text": "I thought this was a good program to show, not because of the pictures, but because it"
+  },
+  {
+    "id": 236,
+    "start": 1331.34,
+    "end": 1334.66,
+    "text": "contains articles written by members of the theatre company."
+  },
+  {
+    "id": 237,
+    "start": 1335.56,
+    "end": 1340.86,
+    "text": "So we can learn how the production was created and the thoughts and feelings of the cast."
+  },
+  {
+    "id": 238,
+    "start": 1341.2,
+    "end": 1341.52,
+    "text": "Good."
+  },
+  {
+    "id": 239,
+    "start": 1342.34,
+    "end": 1345.38,
+    "text": "I've got a copy of a program that's now in a museum."
+  },
+  {
+    "id": 240,
+    "start": 1346.0,
+    "end": 1351.74,
+    "text": "It's for the tragedy of Jane Shaw, and it's said to be the earliest surviving document"
+  },
+  {
+    "id": 241,
+    "start": 1352.06,
+    "end": 1355.18,
+    "text": "to have been printed on Australia's first printing press."
+  },
+  {
+    "id": 242,
+    "start": 1355.66,
+    "end": 1356.2,
+    "text": "Fantastic."
+  },
+  {
+    "id": 243,
+    "start": 1357.36,
+    "end": 1361.12,
+    "text": "Another program to talk about is for the Sailor's Festival."
+  },
+  {
+    "id": 244,
+    "start": 1361.96,
+    "end": 1366.84,
+    "text": "It comes from the British Library's digitized collection of programs that was started a few"
+  },
+  {
+    "id": 245,
+    "start": 1366.84,
+    "end": 1367.4,
+    "text": "years ago."
+  },
+  {
+    "id": 246,
+    "start": 1367.98,
+    "end": 1373.46,
+    "text": "It already comprises over 200,000 programs, which is amazing."
+  },
+  {
+    "id": 247,
+    "start": 1373.8,
+    "end": 1377.14,
+    "text": "Huh, wish I'd known about it while I was doing my research."
+  },
+  {
+    "id": 248,
+    "start": 1380.86,
+    "end": 1382.54,
+    "text": "That is the end of part three."
+  },
+  {
+    "id": 249,
+    "start": 1383.44,
+    "end": 1387.38,
+    "text": "You now have 30 seconds to check your answers to part three."
+  },
+  {
+    "id": 250,
+    "start": 1391.96,
+    "end": 1412.92,
+    "text": "Part four."
+  },
+  {
+    "id": 251,
+    "start": 1413.96,
+    "end": 1418.78,
+    "text": "You will hear a design and technology lecturer talking about inclusive design."
+  },
+  {
+    "id": 252,
+    "start": 1419.92,
+    "end": 1424.08,
+    "text": "First, you have some time to look at questions 31 to 40."
+  },
+  {
+    "id": 253,
+    "start": 1449.48,
+    "end": 1478.86,
+    "text": "Now listen carefully and answer questions 31 to 40."
+  },
+  {
+    "id": 254,
+    "start": 1482.36,
+    "end": 1487.66,
+    "text": "It's only relatively recently that designers have become aware of the need to be inclusive"
+  },
+  {
+    "id": 255,
+    "start": 1487.82,
+    "end": 1489.1,
+    "text": "when designing products."
+  },
+  {
+    "id": 256,
+    "start": 1490.08,
+    "end": 1492.02,
+    "text": "But what does that mean exactly?"
+  },
+  {
+    "id": 257,
+    "start": 1492.8,
+    "end": 1499.06,
+    "text": "Well, it simply means designing products that span economic, social and cultural barriers."
+  },
+  {
+    "id": 258,
+    "start": 1500.1,
+    "end": 1505.94,
+    "text": "It means making sure products are accessible, so that as many different types of people"
+  },
+  {
+    "id": 259,
+    "start": 1506.04,
+    "end": 1511.94,
+    "text": "as possible can use them without any type of adaptation having to be made to the original"
+  },
+  {
+    "id": 260,
+    "start": 1511.98,
+    "end": 1512.56,
+    "text": "design."
+  },
+  {
+    "id": 261,
+    "start": 1513.9,
+    "end": 1519.23,
+    "text": "Inclusive design is often linked with universal design, although they are not quite the"
+  },
+  {
+    "id": 262,
+    "start": 1519.23,
+    "end": 1520.0,
+    "text": "same thing."
+  },
+  {
+    "id": 263,
+    "start": 1520.98,
+    "end": 1526.34,
+    "text": "Universal design aims to make products that work for everyone, and that includes considering"
+  },
+  {
+    "id": 264,
+    "start": 1526.44,
+    "end": 1532.14,
+    "text": "the needs of people who have cognitive difficulties, which can present quite a challenge."
+  },
+  {
+    "id": 265,
+    "start": 1533.52,
+    "end": 1538.84,
+    "text": "Today, examples of successful inclusive design can be seen all around us."
+  },
+  {
+    "id": 266,
+    "start": 1539.58,
+    "end": 1545.72,
+    "text": "In workplaces, it is common to see desks which can be adjusted to suit people of different"
+  },
+  {
+    "id": 267,
+    "start": 1545.88,
+    "end": 1548.24,
+    "text": "heights, or for wheelchair users."
+  },
+  {
+    "id": 268,
+    "start": 1549.38,
+    "end": 1555.24,
+    "text": "This still isn't always the case, however, and is one reason why office workers often suffer"
+  },
+  {
+    "id": 269,
+    "start": 1555.34,
+    "end": 1556.88,
+    "text": "from back or neck problems."
+  },
+  {
+    "id": 270,
+    "start": 1558.4,
+    "end": 1564.72,
+    "text": "We'll find another example in the public toilets of countless hotels, airports and offices."
+  },
+  {
+    "id": 271,
+    "start": 1566.06,
+    "end": 1571.64,
+    "text": "TAPS that you activate by sensor require no pressing or twisting movements."
+  },
+  {
+    "id": 272,
+    "start": 1572.42,
+    "end": 1578.68,
+    "text": "These are not only more hygienic, they're also easier for people with dexterity or mobility"
+  },
+  {
+    "id": 273,
+    "start": 1578.84,
+    "end": 1579.42,
+    "text": "issues."
+  },
+  {
+    "id": 274,
+    "start": 1580.48,
+    "end": 1586.32,
+    "text": "The tech industry has been criticised in the past for focusing too much on young consumers,"
+  },
+  {
+    "id": 275,
+    "start": 1587.44,
+    "end": 1588.88,
+    "text": "but this is changing."
+  },
+  {
+    "id": 276,
+    "start": 1589.84,
+    "end": 1593.36,
+    "text": "Many products are now designed with the elderly in mind."
+  },
+  {
+    "id": 277,
+    "start": 1594.26,
+    "end": 1601.06,
+    "text": "For example, it's well known that vision declines with age, and that we also become worse"
+  },
+  {
+    "id": 278,
+    "start": 1601.12,
+    "end": 1603.52,
+    "text": "at distinguishing between similar colours."
+  },
+  {
+    "id": 279,
+    "start": 1604.34,
+    "end": 1610.82,
+    "text": "In particular, shades of blue, which is why software designers rarely create interfaces"
+  },
+  {
+    "id": 280,
+    "start": 1611.12,
+    "end": 1612.18,
+    "text": "with this colour."
+  },
+  {
+    "id": 281,
+    "start": 1613.88,
+    "end": 1619.42,
+    "text": "These girls also decline with age, and some people have difficulty doing everyday things,"
+  },
+  {
+    "id": 282,
+    "start": 1619.76,
+    "end": 1622.44,
+    "text": "like picking up a cup or opening a door."
+  },
+  {
+    "id": 283,
+    "start": 1623.46,
+    "end": 1627.7,
+    "text": "This can also affect their ability to use a mouse or keyboard."
+  },
+  {
+    "id": 284,
+    "start": 1628.7,
+    "end": 1633.28,
+    "text": "So, voice access is now a routine way of making commands."
+  },
+  {
+    "id": 285,
+    "start": 1638.88,
+    "end": 1644.58,
+    "text": "It's worth looking at the problems non-inclusive designs cause when not enough consideration"
+  },
+  {
+    "id": 286,
+    "start": 1644.88,
+    "end": 1650.96,
+    "text": "is given to a range of users, as it can have a serious impact on people's lives."
+  },
+  {
+    "id": 287,
+    "start": 1652.5,
+    "end": 1658.83,
+    "text": "Access is one obvious example, because it has such a huge impact on disabled people's"
+  },
+  {
+    "id": 288,
+    "start": 1658.83,
+    "end": 1659.58,
+    "text": "independence."
+  },
+  {
+    "id": 289,
+    "start": 1661.16,
+    "end": 1666.96,
+    "text": "And being able to access public transport because buses or trains are not wheelchair friendly"
+  },
+  {
+    "id": 290,
+    "start": 1667.46,
+    "end": 1672.38,
+    "text": "means many disabled people can't go out unless someone goes with them."
+  },
+  {
+    "id": 291,
+    "start": 1673.84,
+    "end": 1675.68,
+    "text": "Safety is another issue."
+  },
+  {
+    "id": 292,
+    "start": 1676.54,
+    "end": 1683.5,
+    "text": "Inexplicably most cars are still crash-tested using a dummy based on an average sized male."
+  },
+  {
+    "id": 293,
+    "start": 1684.6,
+    "end": 1690.8,
+    "text": "This has safety implications for all women, particularly those who are pregnant, as the"
+  },
+  {
+    "id": 294,
+    "start": 1690.88,
+    "end": 1695.08,
+    "text": "seatbelts worn by the dummy are not adapted to accommodate them."
+  },
+  {
+    "id": 295,
+    "start": 1696.32,
+    "end": 1702.92,
+    "text": "Over the past 100 years, workplaces in the UK have, on the whole, become considerably"
+  },
+  {
+    "id": 296,
+    "start": 1703.08,
+    "end": 1703.62,
+    "text": "safer."
+  },
+  {
+    "id": 297,
+    "start": 1705.02,
+    "end": 1712.32,
+    "text": "Employers are legally required to provide well-maintained personal protective equipment, or PPE, anything"
+  },
+  {
+    "id": 298,
+    "start": 1712.36,
+    "end": 1717.46,
+    "text": "from goggles to full-body suits, to workers who need it, free of charge."
+  },
+  {
+    "id": 299,
+    "start": 1718.52,
+    "end": 1721.38,
+    "text": "But most PPE is designed to fit men."
+  },
+  {
+    "id": 300,
+    "start": 1722.48,
+    "end": 1727.48,
+    "text": "A recent report found that employers often think that when it comes to female workers,"
+  },
+  {
+    "id": 301,
+    "start": 1728.08,
+    "end": 1733.52,
+    "text": "all they need to do to comply with this legal requirement is to buy jackets, for example,"
+  },
+  {
+    "id": 302,
+    "start": 1733.94,
+    "end": 1735.58,
+    "text": "designed for a small man."
+  },
+  {
+    "id": 303,
+    "start": 1736.68,
+    "end": 1742.36,
+    "text": "The problem with this is that women can be tall and still have much smaller shoulders"
+  },
+  {
+    "id": 304,
+    "start": 1742.56,
+    "end": 1743.92,
+    "text": "than the average man."
+  },
+  {
+    "id": 305,
+    "start": 1745.24,
+    "end": 1752.24,
+    "text": "People fitting PPE such as high-vis jackets, vests and body armor can put women at risk."
+  },
+  {
+    "id": 306,
+    "start": 1753.4,
+    "end": 1760.52,
+    "text": "The report found that 95% of women said that their PPE often hampered their work, and that"
+  },
+  {
+    "id": 307,
+    "start": 1760.52,
+    "end": 1766.0,
+    "text": "this problem was worse in the emergency services, particularly the police."
+  },
+  {
+    "id": 308,
+    "start": 1767.44,
+    "end": 1770.4,
+    "text": "Another problem is related to comfort at work."
+  },
+  {
+    "id": 309,
+    "start": 1771.24,
+    "end": 1777.84,
+    "text": "A very common scenario in offices in summertime is to see women wrapped in blankets or wearing"
+  },
+  {
+    "id": 310,
+    "start": 1777.88,
+    "end": 1781.12,
+    "text": "sweaters while the air conditioning is on high."
+  },
+  {
+    "id": 311,
+    "start": 1782.12,
+    "end": 1784.94,
+    "text": "Meanwhile the men are in shorts and t-shirts."
+  },
+  {
+    "id": 312,
+    "start": 1786.0,
+    "end": 1790.08,
+    "text": "This is due to differences in metabolic rates for men and women."
+  },
+  {
+    "id": 313,
+    "start": 1790.9,
+    "end": 1797.2,
+    "text": "There is a standard setting for air conditioning to be at a temperature of 21 degrees, designed"
+  },
+  {
+    "id": 314,
+    "start": 1797.36,
+    "end": 1803.26,
+    "text": "to suit men, and in most modern offices it's not possible to turn the air conditioning"
+  },
+  {
+    "id": 315,
+    "start": 1803.46,
+    "end": 1804.38,
+    "text": "up or down."
+  },
+  {
+    "id": 316,
+    "start": 1805.42,
+    "end": 1811.61,
+    "text": "This means that many offices which mainly employ women are wasting energy by having the air"
+  },
+  {
+    "id": 317,
+    "start": 1811.61,
+    "end": 1813.42,
+    "text": "conditioning set too high."
+  },
+  {
+    "id": 318,
+    "start": 1814.86,
+    "end": 1819.44,
+    "text": "As you can see from the examples I've just mentioned, there are serious consequences"
+  },
+  {
+    "id": 319,
+    "start": 1819.7,
+    "end": 1823.22,
+    "text": "for designs which don't consider the needs of all users."
+  },
+  {
+    "id": 320,
+    "start": 1828.58,
+    "end": 1830.24,
+    "text": "That is the end of Part 4."
+  },
+  {
+    "id": 321,
+    "start": 1831.1,
+    "end": 1834.68,
+    "text": "You now have one minute to check your answers to Part 4."
+  },
+  {
+    "id": 322,
+    "start": 1887.36,
+    "end": 1896.78,
+    "text": "That is the end of the listening test."
+  },
+  {
+    "id": 323,
+    "start": 1898.26,
+    "end": 1904.3,
+    "text": "In the IELTS test you would now have 10 minutes to transfer your answers to the listening"
+  },
+  {
+    "id": 324,
+    "start": 1904.42,
+    "end": 1905.1,
+    "text": "answer sheet."
+  }
+]

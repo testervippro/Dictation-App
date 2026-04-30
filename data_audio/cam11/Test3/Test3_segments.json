@@ -1,0 +1,1760 @@
+[
+  {
+    "id": 0,
+    "start": 1.16,
+    "end": 6.44,
+    "text": "Cambridge English, IELTS 11, tests 1 to 4."
+  },
+  {
+    "id": 1,
+    "start": 7.74,
+    "end": 14.66,
+    "text": "Published by Cambridge University Press and Cambridge English Language Assessment 2016."
+  },
+  {
+    "id": 2,
+    "start": 16.44,
+    "end": 18.1,
+    "text": "This recording is copyright."
+  },
+  {
+    "id": 3,
+    "start": 19.5,
+    "end": 23.16,
+    "text": "CD2, test 3."
+  },
+  {
+    "id": 4,
+    "start": 25.56,
+    "end": 31.2,
+    "text": "You will hear a number of different recordings and you will have to answer questions on what"
+  },
+  {
+    "id": 5,
+    "start": 31.2,
+    "end": 31.88,
+    "text": "you hear."
+  },
+  {
+    "id": 6,
+    "start": 33.54,
+    "end": 39.56,
+    "text": "There will be time for you to read the instructions and questions and you will have a chance to"
+  },
+  {
+    "id": 7,
+    "start": 39.56,
+    "end": 40.7,
+    "text": "check your work."
+  },
+  {
+    "id": 8,
+    "start": 42.58,
+    "end": 45.72,
+    "text": "All the recordings will be played once only."
+  },
+  {
+    "id": 9,
+    "start": 47.3,
+    "end": 49.82,
+    "text": "The test is in four sections."
+  },
+  {
+    "id": 10,
+    "start": 51.6,
+    "end": 57.3,
+    "text": "At the end of the test, you will be given ten minutes to transfer your answers to an"
+  },
+  {
+    "id": 11,
+    "start": 57.32,
+    "end": 58.0,
+    "text": "answer sheet."
+  },
+  {
+    "id": 12,
+    "start": 60.3,
+    "end": 62.3,
+    "text": "Now turn to section 1."
+  },
+  {
+    "id": 13,
+    "start": 64.14,
+    "end": 65.22,
+    "text": "Section 1."
+  },
+  {
+    "id": 14,
+    "start": 67.42,
+    "end": 73.12,
+    "text": "You will hear a woman telephoning a tourist office to ask about free activities."
+  },
+  {
+    "id": 15,
+    "start": 75.12,
+    "end": 79.76,
+    "text": "First, you have some time to look at questions 1 to 6."
+  },
+  {
+    "id": 16,
+    "start": 104.6,
+    "end": 114.38,
+    "text": "You will see that there is an example that has been done for you."
+  },
+  {
+    "id": 17,
+    "start": 115.36,
+    "end": 120.92,
+    "text": "On this occasion only, the conversation relating to this will be played first."
+  },
+  {
+    "id": 18,
+    "start": 124.46,
+    "end": 127.36,
+    "text": "Good morning, this is Burnham Tourist Office Martin speaking."
+  },
+  {
+    "id": 19,
+    "start": 127.9,
+    "end": 134.0,
+    "text": "Oh hello, I saw a poster about free things to do in the area and it said people should"
+  },
+  {
+    "id": 20,
+    "start": 134.08,
+    "end": 135.46,
+    "text": "phone you for information."
+  },
+  {
+    "id": 21,
+    "start": 136.02,
+    "end": 142.82,
+    "text": "I am coming to Burnham with my husband and two children for a few days on June 27th or"
+  },
+  {
+    "id": 22,
+    "start": 142.82,
+    "end": 148.72,
+    "text": "possibly the 28th and I would like some ideas for things to do on the 29th."
+  },
+  {
+    "id": 23,
+    "start": 148.88,
+    "end": 149.6,
+    "text": "Yes of course."
+  },
+  {
+    "id": 24,
+    "start": 153.16,
+    "end": 160.71,
+    "text": "The date that the woman wants information about is the 29th of June so the letter C has"
+  },
+  {
+    "id": 25,
+    "start": 160.71,
+    "end": 161.78,
+    "text": "been circled."
+  },
+  {
+    "id": 26,
+    "start": 163.6,
+    "end": 164.56,
+    "text": "Now we shall begin."
+  },
+  {
+    "id": 27,
+    "start": 165.92,
+    "end": 170.92,
+    "text": "You should answer the questions as you listen because you will not hear the recording"
+  },
+  {
+    "id": 28,
+    "start": 171.08,
+    "end": 172.18,
+    "text": "a second time."
+  },
+  {
+    "id": 29,
+    "start": 174.2,
+    "end": 178.76,
+    "text": "Listen carefully and answer questions 1 to 6."
+  },
+  {
+    "id": 30,
+    "start": 182.18,
+    "end": 185.04,
+    "text": "Good morning, this is Burnham Tourist Office Martin speaking."
+  },
+  {
+    "id": 31,
+    "start": 185.48,
+    "end": 191.66,
+    "text": "Oh hello, I saw a poster about free things to do in the area and it said people should"
+  },
+  {
+    "id": 32,
+    "start": 191.72,
+    "end": 193.14,
+    "text": "phone you for information."
+  },
+  {
+    "id": 33,
+    "start": 193.66,
+    "end": 200.52,
+    "text": "I am coming to Burnham with my husband and two children for a few days on June 27th or"
+  },
+  {
+    "id": 34,
+    "start": 200.52,
+    "end": 206.4,
+    "text": "possibly the 28th and I would like some ideas for things to do on the 29th."
+  },
+  {
+    "id": 35,
+    "start": 206.62,
+    "end": 207.24,
+    "text": "Yes of course."
+  },
+  {
+    "id": 36,
+    "start": 207.62,
+    "end": 207.96,
+    "text": "Ok."
+  },
+  {
+    "id": 37,
+    "start": 208.86,
+    "end": 211.4,
+    "text": "Then let's start with a couple of events especially for children."
+  },
+  {
+    "id": 38,
+    "start": 212.2,
+    "end": 216.7,
+    "text": "The art gallery is holding an event called Family Welcome that day when there are activities"
+  },
+  {
+    "id": 39,
+    "start": 216.74,
+    "end": 218.8,
+    "text": "and trails to use throughout the gallery."
+  },
+  {
+    "id": 40,
+    "start": 219.52,
+    "end": 220.48,
+    "text": "That sounds interesting."
+  },
+  {
+    "id": 41,
+    "start": 220.98,
+    "end": 222.14,
+    "text": "What time does it start?"
+  },
+  {
+    "id": 42,
+    "start": 222.62,
+    "end": 227.32,
+    "text": "The gallery opens at 10 and the Family Welcome event runs from 10 30 until 2 o'clock."
+  },
+  {
+    "id": 43,
+    "start": 228.06,
+    "end": 232.93,
+    "text": "The gallery stays open until 5 and several times during the day they are going to show a"
+  },
+  {
+    "id": 44,
+    "start": 232.93,
+    "end": 234.78,
+    "text": "short film that the gallery has produced."
+  },
+  {
+    "id": 45,
+    "start": 235.3,
+    "end": 240.14,
+    "text": "It demonstrates how ceramics are made and there will be equipment and materials for children"
+  },
+  {
+    "id": 46,
+    "start": 240.18,
+    "end": 241.18,
+    "text": "to have a go themselves."
+  },
+  {
+    "id": 47,
+    "start": 241.96,
+    "end": 246.14,
+    "text": "Last time they ran the event there was a film about painting which went down very well"
+  },
+  {
+    "id": 48,
+    "start": 246.16,
+    "end": 249.08,
+    "text": "with the children and they are now working on one about sculpture."
+  },
+  {
+    "id": 49,
+    "start": 250.0,
+    "end": 254.5,
+    "text": "I like the sound of that and what other events happen in Burnham."
+  },
+  {
+    "id": 50,
+    "start": 254.88,
+    "end": 256.52,
+    "text": "Well do you all enjoy listening to music?"
+  },
+  {
+    "id": 51,
+    "start": 256.98,
+    "end": 257.48,
+    "text": "Oh yes."
+  },
+  {
+    "id": 52,
+    "start": 258.32,
+    "end": 262.96,
+    "text": "Well there are several free concerts taking place at different times, one or two in the morning,"
+  },
+  {
+    "id": 53,
+    "start": 263.66,
+    "end": 268.13,
+    "text": "the majority at lunchtime and a couple in the evening and they range from pop music to"
+  },
+  {
+    "id": 54,
+    "start": 268.13,
+    "end": 268.82,
+    "text": "Latin American."
+  },
+  {
+    "id": 55,
+    "start": 269.5,
+    "end": 272.5,
+    "text": "The Latin American could be fun, what time is that?"
+  },
+  {
+    "id": 56,
+    "start": 273.16,
+    "end": 275.46,
+    "text": "It's been repeated several times in different places."
+  },
+  {
+    "id": 57,
+    "start": 276.06,
+    "end": 281.2,
+    "text": "They are performing in the central library at 1 o'clock, then at 4 it's in the city museum"
+  },
+  {
+    "id": 58,
+    "start": 281.8,
+    "end": 285.16,
+    "text": "and in the evening at 7 30 there's a longer concert in the theatre."
+  },
+  {
+    "id": 59,
+    "start": 285.68,
+    "end": 288.58,
+    "text": "Right, I'll suggest that to the rest of the family."
+  },
+  {
+    "id": 60,
+    "start": 288.88,
+    "end": 292.1,
+    "text": "Something else you might be interested in is the boat race along the river."
+  },
+  {
+    "id": 61,
+    "start": 292.5,
+    "end": 294.52,
+    "text": "Oh yes, do you tell me about that?"
+  },
+  {
+    "id": 62,
+    "start": 294.7,
+    "end": 299.94,
+    "text": "The race starts at offered Marina to the north of Burnham and goes as far as Summer Pool."
+  },
+  {
+    "id": 63,
+    "start": 300.88,
+    "end": 304.78,
+    "text": "The best place to watch it from is Charles Worth Bridge, though that does get rather crowded."
+  },
+  {
+    "id": 64,
+    "start": 305.32,
+    "end": 306.6,
+    "text": "And who's taking part?"
+  },
+  {
+    "id": 65,
+    "start": 307.12,
+    "end": 310.12,
+    "text": "Well local boat clubs but the standard is very high."
+  },
+  {
+    "id": 66,
+    "start": 310.92,
+    "end": 315.16,
+    "text": "One of them came first in the West of England Regional Championship in May this year."
+  },
+  {
+    "id": 67,
+    "start": 315.68,
+    "end": 317.68,
+    "text": "It was the first time a team from Burnham is won."
+  },
+  {
+    "id": 68,
+    "start": 318.42,
+    "end": 322.34,
+    "text": "It means that next year they'll be representing the region in the National Championship."
+  },
+  {
+    "id": 69,
+    "start": 326.28,
+    "end": 332.66,
+    "text": "Before you hear the rest of the conversation, you have some time to look at questions 7 to 10."
+  },
+  {
+    "id": 70,
+    "start": 333.28,
+    "end": 357.46,
+    "text": "Now listen and answer questions 7 to 10."
+  },
+  {
+    "id": 71,
+    "start": 361.28,
+    "end": 364.32,
+    "text": "Now I've heard something about Paxton Nature Reserve."
+  },
+  {
+    "id": 72,
+    "start": 364.9,
+    "end": 368.0,
+    "text": "It's a good place for spotting unusual birds isn't it?"
+  },
+  {
+    "id": 73,
+    "start": 368.24,
+    "end": 369.6,
+    "text": "That's right, throughout the year."
+  },
+  {
+    "id": 74,
+    "start": 370.46,
+    "end": 374.44,
+    "text": "There is a lake there as well as a river and they provide a very attractive habitat."
+  },
+  {
+    "id": 75,
+    "start": 375.08,
+    "end": 377.5,
+    "text": "So it's a good idea to bring binoculars if you have them."
+  },
+  {
+    "id": 76,
+    "start": 378.1,
+    "end": 381.3,
+    "text": "And just at the moment you can see various flowers that are pretty unusual."
+  },
+  {
+    "id": 77,
+    "start": 381.94,
+    "end": 383.6,
+    "text": "The soil at Paxton isn't very common."
+  },
+  {
+    "id": 78,
+    "start": 384.4,
+    "end": 385.48,
+    "text": "They're looking good right now."
+  },
+  {
+    "id": 79,
+    "start": 386.08,
+    "end": 389.7,
+    "text": "Right, my husband will be particularly interested in that."
+  },
+  {
+    "id": 80,
+    "start": 390.38,
+    "end": 397.36,
+    "text": "And there's going to be a talk and a slideshow about mushrooms and you'll be able to go out and pick some afterwards and study the different varieties."
+  },
+  {
+    "id": 81,
+    "start": 398.1,
+    "end": 401.74,
+    "text": "Uh huh. And is it possible for children to swim in the river?"
+  },
+  {
+    "id": 82,
+    "start": 402.1,
+    "end": 405.58,
+    "text": "Yes, part of it has been fenced off to make it safe for children to swim in."
+  },
+  {
+    "id": 83,
+    "start": 406.0,
+    "end": 409.34,
+    "text": "It's very shallow and there's a lifeguard on duty whenever it's open."
+  },
+  {
+    "id": 84,
+    "start": 409.86,
+    "end": 412.54,
+    "text": "The lake is too deep so swimming isn't allowed there."
+  },
+  {
+    "id": 85,
+    "start": 413.28,
+    "end": 417.44,
+    "text": "Okay, we must remember to bring their swimming things in case we go to Paxton."
+  },
+  {
+    "id": 86,
+    "start": 418.3,
+    "end": 421.28,
+    "text": "How long does it take to get there by car from Burnham?"
+  },
+  {
+    "id": 87,
+    "start": 421.78,
+    "end": 427.08,
+    "text": "About 20 minutes, but parking is very limited so it's usually much easier to go by bus."
+  },
+  {
+    "id": 88,
+    "start": 427.6,
+    "end": 429.14,
+    "text": "And it takes about the same time."
+  },
+  {
+    "id": 89,
+    "start": 429.58,
+    "end": 433.52,
+    "text": "Right. Well, I'll discuss the options with the rest of the family."
+  },
+  {
+    "id": 90,
+    "start": 434.06,
+    "end": 435.86,
+    "text": "Thanks very much for all your help."
+  },
+  {
+    "id": 91,
+    "start": 436.08,
+    "end": 436.5,
+    "text": "You're welcome."
+  },
+  {
+    "id": 92,
+    "start": 436.9,
+    "end": 437.34,
+    "text": "Goodbye."
+  },
+  {
+    "id": 93,
+    "start": 441.44,
+    "end": 443.34,
+    "text": "That is the end of section one."
+  },
+  {
+    "id": 94,
+    "start": 445.0,
+    "end": 448.16,
+    "text": "You now have half a minute to check your answers."
+  },
+  {
+    "id": 95,
+    "start": 468.28,
+    "end": 475.23,
+    "text": "Now turn to section two."
+  },
+  {
+    "id": 96,
+    "start": 475.23,
+    "end": 477.46,
+    "text": "Section two."
+  },
+  {
+    "id": 97,
+    "start": 487.72,
+    "end": 495.74,
+    "text": "You will hear a talk given by a woman called Shona Ferguson about changes in a town called Barford."
+  },
+  {
+    "id": 98,
+    "start": 497.66,
+    "end": 502.44,
+    "text": "First, you have some time to look at questions 11 to 15."
+  },
+  {
+    "id": 99,
+    "start": 528.3,
+    "end": 533.38,
+    "text": "Now listen carefully and answer questions 11 to 15."
+  },
+  {
+    "id": 100,
+    "start": 537.34,
+    "end": 541.92,
+    "text": "First of all, let me thank you all for coming to this public meeting to discuss the future of our town."
+  },
+  {
+    "id": 101,
+    "start": 542.72,
+    "end": 547.2,
+    "text": "Our first speaker is Shona Ferguson from Barford Town Council. Shona."
+  },
+  {
+    "id": 102,
+    "start": 548.1,
+    "end": 552.16,
+    "text": "Thank you. First, I'll briefly give you some background information."
+  },
+  {
+    "id": 103,
+    "start": 552.54,
+    "end": 555.62,
+    "text": "Then I'll be asking you for your comments on developments in the town."
+  },
+  {
+    "id": 104,
+    "start": 556.72,
+    "end": 562.24,
+    "text": "Well, as you don't need me to tell you, Barford has changed a great deal in the last 50 years."
+  },
+  {
+    "id": 105,
+    "start": 563.06,
+    "end": 564.82,
+    "text": "These are some of the main changes."
+  },
+  {
+    "id": 106,
+    "start": 565.88,
+    "end": 571.36,
+    "text": "50 years ago, buses linked virtually every part of the town and the neighbouring towns and villages."
+  },
+  {
+    "id": 107,
+    "start": 572.26,
+    "end": 580.08,
+    "text": "Most people use them frequently, but not now because the bus companies concentrate on just the routes that attract most passengers."
+  },
+  {
+    "id": 108,
+    "start": 581.1,
+    "end": 583.9,
+    "text": "So parts of the town are no longer served by buses."
+  },
+  {
+    "id": 109,
+    "start": 585.0,
+    "end": 591.54,
+    "text": "Even replacing old uncomfortable buses with smart new ones has had little impact on passenger numbers."
+  },
+  {
+    "id": 110,
+    "start": 591.78,
+    "end": 600.94,
+    "text": "It's sometimes said that bus fares are too high, but in relation to average incomes fares are not much higher than they were 50 years ago."
+  },
+  {
+    "id": 111,
+    "start": 602.36,
+    "end": 605.42,
+    "text": "Changes in the road network are affecting the town."
+  },
+  {
+    "id": 112,
+    "start": 605.68,
+    "end": 611.74,
+    "text": "The centre was recently closed to traffic on a trial basis, making it much safer for pedestrians."
+  },
+  {
+    "id": 113,
+    "start": 612.96,
+    "end": 614.76,
+    "text": "The impact of this is being measured."
+  },
+  {
+    "id": 114,
+    "start": 615.8,
+    "end": 626.28,
+    "text": "The new cycle paths separating bikes from cars in most main roads are being used far more than was expected, reducing traffic and improving air quality."
+  },
+  {
+    "id": 115,
+    "start": 626.44,
+    "end": 635.54,
+    "text": "And although the council's attempts to have a bypass constructed have failed, we haven't given up hope of persuading the government to change its mind."
+  },
+  {
+    "id": 116,
+    "start": 636.92,
+    "end": 639.8,
+    "text": "Shopping in the town centre has changed over the years."
+  },
+  {
+    "id": 117,
+    "start": 640.46,
+    "end": 644.14,
+    "text": "Many of us can remember when the town was crowded with people going shopping."
+  },
+  {
+    "id": 118,
+    "start": 644.88,
+    "end": 652.3,
+    "text": "Numbers have been falling for several years, despite efforts to attract shoppers, for instance by opening new car parks."
+  },
+  {
+    "id": 119,
+    "start": 653.22,
+    "end": 657.24,
+    "text": "Some people combine shopping with visits to the town's restaurants and cafes."
+  },
+  {
+    "id": 120,
+    "start": 658.1,
+    "end": 670.18,
+    "text": "Most shops are small independent stores, which is good, but many people prefer to use supermarkets and department stores in nearby large towns, as there are so few well-known chain stores here."
+  },
+  {
+    "id": 121,
+    "start": 671.5,
+    "end": 682.28,
+    "text": "Turning now to medical facilities, the town is served by family doctors in several medical practices, fewer than 50 years ago, but each catering for far more patients."
+  },
+  {
+    "id": 122,
+    "start": 683.5,
+    "end": 688.96,
+    "text": "Our hospital closed 15 years ago, which means journeys to other towns are unavoidable."
+  },
+  {
+    "id": 123,
+    "start": 689.62,
+    "end": 693.26,
+    "text": "On the other hand, there are more dentists than there used to be."
+  },
+  {
+    "id": 124,
+    "start": 694.26,
+    "end": 697.58,
+    "text": "Employment patterns have changed along with almost everything else."
+  },
+  {
+    "id": 125,
+    "start": 698.28,
+    "end": 702.84,
+    "text": "The number of schools and colleges has increased, making that the main employment sector."
+  },
+  {
+    "id": 126,
+    "start": 703.78,
+    "end": 715.1,
+    "text": "Services such as website design and accountancy have grown in importance, and surprisingly perhaps, manufacturing hasn't seen the decline that has affected it in other parts of the country."
+  },
+  {
+    "id": 127,
+    "start": 718.74,
+    "end": 725.42,
+    "text": "Before you hear the rest of the talk, you have some time to look at questions 16 to 20."
+  },
+  {
+    "id": 128,
+    "start": 751.12,
+    "end": 755.56,
+    "text": "Now listen and answer questions 16 to 20."
+  },
+  {
+    "id": 129,
+    "start": 759.38,
+    "end": 765.74,
+    "text": "Now I'll very quickly outline current plans for some of the town's facilities, before asking for your comments."
+  },
+  {
+    "id": 130,
+    "start": 767.54,
+    "end": 772.76,
+    "text": "As you'll know if you regularly use the car park at the railway station, it's usually full."
+  },
+  {
+    "id": 131,
+    "start": 773.36,
+    "end": 778.96,
+    "text": "The railway company applied for permission to replace it with a multi-story car park, but that was refused."
+  },
+  {
+    "id": 132,
+    "start": 779.58,
+    "end": 785.38,
+    "text": "Instead, the company has bought some adjoining land, and this will be used to increase the number of parking spaces."
+  },
+  {
+    "id": 133,
+    "start": 786.46,
+    "end": 793.3,
+    "text": "The grand, the old cinema in the High Street, will close at the end of the year, and reopen on a different site."
+  },
+  {
+    "id": 134,
+    "start": 793.72,
+    "end": 795.9,
+    "text": "You've probably seen the building under construction."
+  },
+  {
+    "id": 135,
+    "start": 796.64,
+    "end": 803.32,
+    "text": "The plan is to have three screens with fewer seats, rather than just the one large auditorium in the old cinema."
+  },
+  {
+    "id": 136,
+    "start": 804.46,
+    "end": 807.26,
+    "text": "I expect many of you shop in the indoor market."
+  },
+  {
+    "id": 137,
+    "start": 807.98,
+    "end": 814.88,
+    "text": "It's become more and more shabby looking, and because of fears about safety, it was threatened with demolition."
+  },
+  {
+    "id": 138,
+    "start": 815.44,
+    "end": 822.8,
+    "text": "The good news is that it will close for six weeks to be made safe and redecorated, and the improved building will open in July."
+  },
+  {
+    "id": 139,
+    "start": 824.04,
+    "end": 829.22,
+    "text": "Lots of people use the library, including school and college students who go there to study."
+  },
+  {
+    "id": 140,
+    "start": 830.0,
+    "end": 835.7,
+    "text": "The council has managed to secure funding to keep the library open later into the evening, twice a week."
+  },
+  {
+    "id": 141,
+    "start": 836.2,
+    "end": 841.96,
+    "text": "We would like to enlarge the building in the not too distant future, but this is by no means definite."
+  },
+  {
+    "id": 142,
+    "start": 843.08,
+    "end": 849.02,
+    "text": "There is no limit on access to the nature reserve on the edge of town, and this will continue to be the case."
+  },
+  {
+    "id": 143,
+    "start": 849.42,
+    "end": 854.22,
+    "text": "What will change, though, is that the council will no longer be in charge of the area."
+  },
+  {
+    "id": 144,
+    "start": 854.72,
+    "end": 861.46,
+    "text": "Instead, it will become the responsibility of a national body that administers most nature reserves in the country."
+  },
+  {
+    "id": 145,
+    "start": 862.6,
+    "end": 865.64,
+    "text": "Okay, now let me ask you if you have..."
+  },
+  {
+    "id": 146,
+    "start": 869.14,
+    "end": 871.06,
+    "text": "That is the end of section 2."
+  },
+  {
+    "id": 147,
+    "start": 872.22,
+    "end": 875.42,
+    "text": "You now have half a minute to check your answers."
+  },
+  {
+    "id": 148,
+    "start": 897.0,
+    "end": 900.44,
+    "text": "Now turn to section 3."
+  },
+  {
+    "id": 149,
+    "start": 906.44,
+    "end": 908.26,
+    "text": "Section 3."
+  },
+  {
+    "id": 150,
+    "start": 915.54,
+    "end": 925.78,
+    "text": "You will hear two students called Helen and Jeremy, who are studying creative writing, discussing a project for their course, which involves writing and writing."
+  },
+  {
+    "id": 151,
+    "start": 930.72,
+    "end": 932.88,
+    "text": "First, you have some time to look at questions 21 to 26."
+  },
+  {
+    "id": 152,
+    "start": 955.28,
+    "end": 962.76,
+    "text": "Now listen carefully and answer questions 21 to 26."
+  },
+  {
+    "id": 153,
+    "start": 962.76,
+    "end": 962.86,
+    "text": "Hello Helen, sorry I'm late."
+  },
+  {
+    "id": 154,
+    "start": 968.72,
+    "end": 972.9,
+    "text": "Hi Jeremy, no problem. Well, we'd better work out where we are on our project, I suppose."
+  },
+  {
+    "id": 155,
+    "start": 975.84,
+    "end": 977.9,
+    "text": "Yeah, I've looked at the data, and I've got a lot of questions."
+  },
+  {
+    "id": 156,
+    "start": 979.8,
+    "end": 982.47,
+    "text": "I'm going to ask you a question."
+  },
+  {
+    "id": 157,
+    "start": 982.47,
+    "end": 983.26,
+    "text": "What project, I suppose?"
+  },
+  {
+    "id": 158,
+    "start": 983.78,
+    "end": 989.22,
+    "text": "Yeah, I've looked at the drawings you've done for my story, the forest, and I think they're brilliant."
+  },
+  {
+    "id": 159,
+    "start": 989.36,
+    "end": 992.94,
+    "text": "They really create the atmosphere I had in mind when I was writing it."
+  },
+  {
+    "id": 160,
+    "start": 993.06,
+    "end": 994.4,
+    "text": "I'm glad you liked them."
+  },
+  {
+    "id": 161,
+    "start": 994.78,
+    "end": 997.82,
+    "text": "There are just a few suggestions I'd like to make."
+  },
+  {
+    "id": 162,
+    "start": 998.0,
+    "end": 998.4,
+    "text": "Go ahead."
+  },
+  {
+    "id": 163,
+    "start": 999.02,
+    "end": 1002.36,
+    "text": "Now, I'm not sure about the drawing of the cave."
+  },
+  {
+    "id": 164,
+    "start": 1002.9,
+    "end": 1009.16,
+    "text": "It's got trees all around it, which is great, but the drawings are a bit too static, isn't it?"
+  },
+  {
+    "id": 165,
+    "start": 1009.52,
+    "end": 1011.26,
+    "text": "I think it needs some action."
+  },
+  {
+    "id": 166,
+    "start": 1011.6,
+    "end": 1013.2,
+    "text": "Yes, there's nothing happening."
+  },
+  {
+    "id": 167,
+    "start": 1014.26,
+    "end": 1017.84,
+    "text": "Perhaps I should add the boy Malcolm, isn't it?"
+  },
+  {
+    "id": 168,
+    "start": 1018.26,
+    "end": 1019.68,
+    "text": "He would be walking up to it."
+  },
+  {
+    "id": 169,
+    "start": 1020.24,
+    "end": 1022.62,
+    "text": "Yes, let's have Malcolm in the drawing."
+  },
+  {
+    "id": 170,
+    "start": 1023.82,
+    "end": 1028.58,
+    "text": "And what about putting in a tiger, the one that he makes friends with a bit later,"
+  },
+  {
+    "id": 171,
+    "start": 1028.86,
+    "end": 1032.88,
+    "text": "maybe it could be sitting under a tree washing itself."
+  },
+  {
+    "id": 172,
+    "start": 1033.56,
+    "end": 1037.66,
+    "text": "And the tiger stops in the middle of what it's doing when it sees Malcolm walking past."
+  },
+  {
+    "id": 173,
+    "start": 1038.28,
+    "end": 1038.84,
+    "text": "That's a good idea."
+  },
+  {
+    "id": 174,
+    "start": 1039.08,
+    "end": 1040.32,
+    "text": "Okay, I'll have a go at that."
+  },
+  {
+    "id": 175,
+    "start": 1041.0,
+    "end": 1044.02,
+    "text": "Then there's the drawing of the crowd of men and women dancing."
+  },
+  {
+    "id": 176,
+    "start": 1044.9,
+    "end": 1048.14,
+    "text": "They're just outside the forest, and there's a lot going on."
+  },
+  {
+    "id": 177,
+    "start": 1048.66,
+    "end": 1049.24,
+    "text": "That's right."
+  },
+  {
+    "id": 178,
+    "start": 1049.34,
+    "end": 1054.3,
+    "text": "You wanted them to be watching a carnival procession, but I thought it would be too crowded."
+  },
+  {
+    "id": 179,
+    "start": 1054.98,
+    "end": 1056.2,
+    "text": "Do you think it works like this?"
+  },
+  {
+    "id": 180,
+    "start": 1057.12,
+    "end": 1059.36,
+    "text": "Yes, I like what you've done."
+  },
+  {
+    "id": 181,
+    "start": 1060.14,
+    "end": 1065.26,
+    "text": "The only thing is, could you add Malcolm to it without changing what's already there?"
+  },
+  {
+    "id": 182,
+    "start": 1067.06,
+    "end": 1070.48,
+    "text": "What about having him sitting on the tree trunk on the right of the picture?"
+  },
+  {
+    "id": 183,
+    "start": 1071.36,
+    "end": 1072.94,
+    "text": "Yes, that would be fine."
+  },
+  {
+    "id": 184,
+    "start": 1073.56,
+    "end": 1075.44,
+    "text": "And do you want him watching the other people?"
+  },
+  {
+    "id": 185,
+    "start": 1075.86,
+    "end": 1079.86,
+    "text": "No, he's been left out of all the fun, so I'd like him to be crying."
+  },
+  {
+    "id": 186,
+    "start": 1080.6,
+    "end": 1085.86,
+    "text": "That'll contrast nicely with the next picture where he's laughing at the clowns in the carnival."
+  },
+  {
+    "id": 187,
+    "start": 1086.06,
+    "end": 1087.14,
+    "text": "Right, I'll do that."
+  },
+  {
+    "id": 188,
+    "start": 1088.08,
+    "end": 1091.1,
+    "text": "And then the drawing of the people ice skating in the forest."
+  },
+  {
+    "id": 189,
+    "start": 1091.36,
+    "end": 1093.24,
+    "text": "I wasn't too happy with that one."
+  },
+  {
+    "id": 190,
+    "start": 1094.28,
+    "end": 1097.02,
+    "text": "Because they're supposed to be skating on grass, aren't they?"
+  },
+  {
+    "id": 191,
+    "start": 1097.16,
+    "end": 1099.02,
+    "text": "That's right, and it's frozen over."
+  },
+  {
+    "id": 192,
+    "start": 1099.98,
+    "end": 1102.58,
+    "text": "At the moment, it doesn't look quite right."
+  },
+  {
+    "id": 193,
+    "start": 1103.64,
+    "end": 1104.54,
+    "text": "Let's see what you mean."
+  },
+  {
+    "id": 194,
+    "start": 1105.22,
+    "end": 1106.38,
+    "text": "I'll have another go at that."
+  },
+  {
+    "id": 195,
+    "start": 1106.94,
+    "end": 1109.52,
+    "text": "And I like the wool hats they're wearing."
+  },
+  {
+    "id": 196,
+    "start": 1109.78,
+    "end": 1112.32,
+    "text": "Maybe you could give each of them a scarf as well."
+  },
+  {
+    "id": 197,
+    "start": 1112.7,
+    "end": 1113.86,
+    "text": "Yeah, that's easy enough."
+  },
+  {
+    "id": 198,
+    "start": 1114.52,
+    "end": 1117.94,
+    "text": "They can be streaming out behind the people to suggest they're skating really fast."
+  },
+  {
+    "id": 199,
+    "start": 1118.7,
+    "end": 1118.9,
+    "text": "Great."
+  },
+  {
+    "id": 200,
+    "start": 1120.08,
+    "end": 1121.96,
+    "text": "Well, that's all on the drawings."
+  },
+  {
+    "id": 201,
+    "start": 1122.48,
+    "end": 1128.28,
+    "text": "Right, so you've finished writing your story, and I just need to finish illustrating it."
+  },
+  {
+    "id": 202,
+    "start": 1128.76,
+    "end": 1131.44,
+    "text": "And my story and your drawings are done."
+  },
+  {
+    "id": 203,
+    "start": 1134.86,
+    "end": 1136.98,
+    "text": "Before you hear the rest of the discussion,"
+  },
+  {
+    "id": 204,
+    "start": 1137.9,
+    "end": 1141.98,
+    "text": "you have some time to look at questions 27 to 30."
+  },
+  {
+    "id": 205,
+    "start": 1152.28,
+    "end": 1167.12,
+    "text": "Now listen and answer questions 27 to 30."
+  },
+  {
+    "id": 206,
+    "start": 1170.92,
+    "end": 1177.38,
+    "text": "So the next thing is to decide what exactly we need to write about in the report that goes with the stories"
+  },
+  {
+    "id": 207,
+    "start": 1178.16,
+    "end": 1180.1,
+    "text": "and how we're going to divide the work."
+  },
+  {
+    "id": 208,
+    "start": 1180.28,
+    "end": 1180.86,
+    "text": "Right, Helen."
+  },
+  {
+    "id": 209,
+    "start": 1181.64,
+    "end": 1186.44,
+    "text": "What do you think about including a section on how we planned the project as a whole Jeremy?"
+  },
+  {
+    "id": 210,
+    "start": 1187.06,
+    "end": 1188.5,
+    "text": "That's probably quite important."
+  },
+  {
+    "id": 211,
+    "start": 1188.84,
+    "end": 1192.44,
+    "text": "Yeah, well, you've had most of the good ideas so far."
+  },
+  {
+    "id": 212,
+    "start": 1193.4,
+    "end": 1198.22,
+    "text": "How do you feel about drafting something, then we can go through it together and discuss it."
+  },
+  {
+    "id": 213,
+    "start": 1198.42,
+    "end": 1199.98,
+    "text": "Okay, that seems reasonable."
+  },
+  {
+    "id": 214,
+    "start": 1200.96,
+    "end": 1205.08,
+    "text": "And I could include something on how we came up with the ideas for our two stories, couldn't I?"
+  },
+  {
+    "id": 215,
+    "start": 1205.46,
+    "end": 1207.98,
+    "text": "Well, I've started writing something about that."
+  },
+  {
+    "id": 216,
+    "start": 1208.28,
+    "end": 1212.26,
+    "text": "So why don't you do the same and we can include the two things?"
+  },
+  {
+    "id": 217,
+    "start": 1212.64,
+    "end": 1212.82,
+    "text": "Right."
+  },
+  {
+    "id": 218,
+    "start": 1213.44,
+    "end": 1216.14,
+    "text": "So what about our interpretation of the stories?"
+  },
+  {
+    "id": 219,
+    "start": 1216.74,
+    "end": 1222.38,
+    "text": "Do we need to write about what we think they show, like the value of helping other people, all that sort of thing?"
+  },
+  {
+    "id": 220,
+    "start": 1223.46,
+    "end": 1225.04,
+    "text": "That's going to come up later, isn't it?"
+  },
+  {
+    "id": 221,
+    "start": 1225.16,
+    "end": 1234.34,
+    "text": "I think everyone in the class is going to read each other's stories and come up with their own interpretations, which we're going to discuss."
+  },
+  {
+    "id": 222,
+    "start": 1234.94,
+    "end": 1236.26,
+    "text": "Oh, I missed that."
+  },
+  {
+    "id": 223,
+    "start": 1236.72,
+    "end": 1239.54,
+    "text": "So it isn't going to be part of the report at all."
+  },
+  {
+    "id": 224,
+    "start": 1239.66,
+    "end": 1239.94,
+    "text": "No."
+  },
+  {
+    "id": 225,
+    "start": 1240.96,
+    "end": 1247.52,
+    "text": "But we need to write about the illustrations because they're an essential element of children's experience of reading the stories."
+  },
+  {
+    "id": 226,
+    "start": 1247.94,
+    "end": 1254.08,
+    "text": "It's probably easiest for you to write that section as you know more about drawing than I do."
+  },
+  {
+    "id": 227,
+    "start": 1254.48,
+    "end": 1257.26,
+    "text": "Maybe, but I find it quite hard to write about."
+  },
+  {
+    "id": 228,
+    "start": 1258.06,
+    "end": 1259.44,
+    "text": "I'd be happier if you did it."
+  },
+  {
+    "id": 229,
+    "start": 1260.16,
+    "end": 1260.46,
+    "text": "Okay."
+  },
+  {
+    "id": 230,
+    "start": 1261.6,
+    "end": 1263.38,
+    "text": "So when do you think we can get this ready?"
+  },
+  {
+    "id": 231,
+    "start": 1266.82,
+    "end": 1268.88,
+    "text": "That is the end of section three."
+  },
+  {
+    "id": 232,
+    "start": 1270.34,
+    "end": 1273.56,
+    "text": "You now have half a minute to check your answers."
+  },
+  {
+    "id": 233,
+    "start": 1296.28,
+    "end": 1306.36,
+    "text": "Now turn to section four."
+  },
+  {
+    "id": 234,
+    "start": 1310.02,
+    "end": 1311.08,
+    "text": "Section four."
+  },
+  {
+    "id": 235,
+    "start": 1313.12,
+    "end": 1322.22,
+    "text": "You will hear part of a lecture to business students about the use of one particular type of research known as ethnography."
+  },
+  {
+    "id": 236,
+    "start": 1324.36,
+    "end": 1329.38,
+    "text": "First, you have some time to look at questions 31 to 40."
+  },
+  {
+    "id": 237,
+    "start": 1354.08,
+    "end": 1354.96,
+    "text": "You"
+  },
+  {
+    "id": 238,
+    "start": 1383.28,
+    "end": 1400.36,
+    "text": "Now listen carefully and answer questions 31 to 40."
+  },
+  {
+    "id": 239,
+    "start": 1404.5,
+    "end": 1409.76,
+    "text": "So what I'm going to talk about to you today is something called ethnography."
+  },
+  {
+    "id": 240,
+    "start": 1410.52,
+    "end": 1415.2,
+    "text": "This is a type of research aimed at exploring the way human cultures work."
+  },
+  {
+    "id": 241,
+    "start": 1415.98,
+    "end": 1423.16,
+    "text": "It was first developed for use in anthropology and it's also been used in sociology and communication studies."
+  },
+  {
+    "id": 242,
+    "start": 1424.14,
+    "end": 1427.56,
+    "text": "So what's it got to do with business, you may ask?"
+  },
+  {
+    "id": 243,
+    "start": 1428.34,
+    "end": 1437.36,
+    "text": "Well, businesses are finding that ethnography can offer them deeper insight into the possible needs of customers, either present or future,"
+  },
+  {
+    "id": 244,
+    "start": 1437.92,
+    "end": 1442.7,
+    "text": "as well as providing valuable information about their attitudes towards existing products."
+  },
+  {
+    "id": 245,
+    "start": 1443.78,
+    "end": 1450.6,
+    "text": "And ethnography can also help companies to design new products or services that customers really want."
+  },
+  {
+    "id": 246,
+    "start": 1452.34,
+    "end": 1457.0,
+    "text": "Let's look at some examples of how ethnographic research works in business."
+  },
+  {
+    "id": 247,
+    "start": 1458.26,
+    "end": 1463.04,
+    "text": "One team of researchers did a project for a company manufacturing kitchen equipment."
+  },
+  {
+    "id": 248,
+    "start": 1463.96,
+    "end": 1469.56,
+    "text": "They watched how cooks used measuring cups to measure out things like sugar and flour."
+  },
+  {
+    "id": 249,
+    "start": 1470.54,
+    "end": 1477.7,
+    "text": "They saw that the cooks had to check and recheck the contents because although the measuring cups had numbers inside them,"
+  },
+  {
+    "id": 250,
+    "start": 1478.2,
+    "end": 1480.02,
+    "text": "the cooks couldn't see these easily."
+  },
+  {
+    "id": 251,
+    "start": 1480.66,
+    "end": 1487.02,
+    "text": "So a new design of cup was developed to overcome this problem and it was a top seller."
+  },
+  {
+    "id": 252,
+    "start": 1488.26,
+    "end": 1494.5,
+    "text": "Another team of ethnographic researchers looked at how cell phones were used in Uganda in Africa."
+  },
+  {
+    "id": 253,
+    "start": 1495.64,
+    "end": 1501.34,
+    "text": "They found that people who didn't have their own phones could pay to use the phones of local entrepreneurs."
+  },
+  {
+    "id": 254,
+    "start": 1502.46,
+    "end": 1509.82,
+    "text": "Because these customers paid in advance for their calls, they were eager to know how much time they'd spent on the call so far."
+  },
+  {
+    "id": 255,
+    "start": 1510.66,
+    "end": 1515.86,
+    "text": "So the phone company designed phones for use globally with this added feature."
+  },
+  {
+    "id": 256,
+    "start": 1517.54,
+    "end": 1521.74,
+    "text": "Ethnographic research has also been carried out in computer companies."
+  },
+  {
+    "id": 257,
+    "start": 1522.6,
+    "end": 1527.4,
+    "text": "In one company, IT systems administrators were observed for several weeks."
+  },
+  {
+    "id": 258,
+    "start": 1528.24,
+    "end": 1534.6,
+    "text": "It was found that a large amount of their work involved communicating with colleagues in order to solve problems,"
+  },
+  {
+    "id": 259,
+    "start": 1535.28,
+    "end": 1540.6,
+    "text": "but that they didn't have a standard way of exchanging information from spreadsheets and so on."
+  },
+  {
+    "id": 260,
+    "start": 1541.32,
+    "end": 1546.12,
+    "text": "So the team came up with an idea for software that would help them to do this."
+  },
+  {
+    "id": 261,
+    "start": 1547.34,
+    "end": 1552.88,
+    "text": "In another piece of research, a team observed and talked to nurses working in hospitals."
+  },
+  {
+    "id": 262,
+    "start": 1554.08,
+    "end": 1561.34,
+    "text": "This led to the recognition that the nurses needed to access the computer records of their patients no matter where they were."
+  },
+  {
+    "id": 263,
+    "start": 1562.56,
+    "end": 1570.4,
+    "text": "This led to the development of a portable computer tablet that allowed the nurses to check records in locations throughout the hospital."
+  },
+  {
+    "id": 264,
+    "start": 1572.08,
+    "end": 1577.58,
+    "text": "Occasionally, research can be done even in environments where the researchers can't be present."
+  },
+  {
+    "id": 265,
+    "start": 1578.32,
+    "end": 1587.34,
+    "text": "For example, in one project done for an airline, respondents used their smartphones to record information during airline trips."
+  },
+  {
+    "id": 266,
+    "start": 1587.86,
+    "end": 1592.02,
+    "text": "In a study aiming at tracking the emotions of passengers during a flight."
+  },
+  {
+    "id": 267,
+    "start": 1597.34,
+    "end": 1601.24,
+    "text": "So what makes studies like these different from ordinary research?"
+  },
+  {
+    "id": 268,
+    "start": 1602.3,
+    "end": 1606.68,
+    "text": "Let's look at some of the general principles behind ethnographic research in business."
+  },
+  {
+    "id": 269,
+    "start": 1607.92,
+    "end": 1611.66,
+    "text": "First of all, the researcher has to be completely open-minded."
+  },
+  {
+    "id": 270,
+    "start": 1612.48,
+    "end": 1618.74,
+    "text": "He or she hasn't thought up a hypothesis to be tested as is the case in other types of research."
+  },
+  {
+    "id": 271,
+    "start": 1619.68,
+    "end": 1623.98,
+    "text": "Instead, they wait for the participants in the research to inform them."
+  },
+  {
+    "id": 272,
+    "start": 1625.22,
+    "end": 1631.4,
+    "text": "As far as choosing the participants themselves is concerned, that's not really all that different from ordinary research."
+  },
+  {
+    "id": 273,
+    "start": 1632.12,
+    "end": 1638.84,
+    "text": "The criteria according to which the participants are chosen may be something as simple as the age bracket they fall into,"
+  },
+  {
+    "id": 274,
+    "start": 1639.4,
+    "end": 1647.44,
+    "text": "or the researchers may select them according to their income, or they might try to find a set of people who all use a particular product, for example."
+  },
+  {
+    "id": 275,
+    "start": 1648.6,
+    "end": 1653.4,
+    "text": "But it's absolutely crucial to recruit the right people as participants."
+  },
+  {
+    "id": 276,
+    "start": 1654.8,
+    "end": 1663.04,
+    "text": "As well as the criteria I've mentioned, they have to be comfortable talking about themselves and being watched as they go about their activities."
+  },
+  {
+    "id": 277,
+    "start": 1664.04,
+    "end": 1671.64,
+    "text": "Actually, most researchers say that people open up pretty easily, maybe because they're often in their own home or workplace."
+  },
+  {
+    "id": 278,
+    "start": 1673.1,
+    "end": 1679.12,
+    "text": "So what makes this type of research special is that it's not just a matter of sending a questionnaire to the participants."
+  },
+  {
+    "id": 279,
+    "start": 1679.96,
+    "end": 1686.08,
+    "text": "Instead, the research is usually based on first-hand observation of what they're doing at the time."
+  },
+  {
+    "id": 280,
+    "start": 1686.98,
+    "end": 1690.2,
+    "text": "But that doesn't mean that the researcher never talks to the participants."
+  },
+  {
+    "id": 281,
+    "start": 1691.22,
+    "end": 1702.52,
+    "text": "However, unlike in traditional research, in this case, it's the participant rather than the researchers who decides what direction the interview will follow."
+  },
+  {
+    "id": 282,
+    "start": 1703.74,
+    "end": 1710.64,
+    "text": "This means that there's less likelihood of the researcher imposing his or her own ideas on the participant."
+  },
+  {
+    "id": 283,
+    "start": 1712.32,
+    "end": 1719.12,
+    "text": "But after they've said goodbye to their participants and got back to their office, the researchers' work isn't finished."
+  },
+  {
+    "id": 284,
+    "start": 1720.12,
+    "end": 1732.78,
+    "text": "Most researchers estimate that 70 to 80% of their time is spent not on the collecting of data, but on its analysis, looking at photos, listening to recordings and transcribing them and so on."
+  },
+  {
+    "id": 285,
+    "start": 1733.88,
+    "end": 1743.3,
+    "text": "The researchers may end up with hundreds of pages of notes, and to determine what's significant they don't focus on the sensational things or the unusual things."
+  },
+  {
+    "id": 286,
+    "start": 1743.52,
+    "end": 1751.8,
+    "text": "Instead, they try to identify a pattern of some sort in all this data and to discern the meaning behind it."
+  },
+  {
+    "id": 287,
+    "start": 1752.6,
+    "end": 1760.4,
+    "text": "This can result in some compelling insights that can in turn feed back to the whole design process."
+  },
+  {
+    "id": 288,
+    "start": 1764.36,
+    "end": 1766.38,
+    "text": "That is the end of section 4."
+  },
+  {
+    "id": 289,
+    "start": 1767.66,
+    "end": 1770.74,
+    "text": "You now have half a minute to check your answers."
+  },
+  {
+    "id": 290,
+    "start": 1797.28,
+    "end": 1804.08,
+    "text": "That is the end of the listening test."
+  },
+  {
+    "id": 291,
+    "start": 1805.74,
+    "end": 1810.08,
+    "text": "You now have 10 minutes to transfer your answers to the answer sheet."
+  },
+  {
+    "id": 292,
+    "start": 1813.8,
+    "end": 1818.64,
+    "text": "Please stop writing and wait for your question booklet to be collected."
+  }
+]

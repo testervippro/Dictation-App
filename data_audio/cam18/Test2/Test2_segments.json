@@ -1,0 +1,1382 @@
+[
+  {
+    "id": 0,
+    "start": 0.2,
+    "end": 11.58,
+    "text": "Part 3. You will hear two geography students, Adam and Michelle talking about a volcanic eruption which took place in Iceland in 1783."
+  },
+  {
+    "id": 1,
+    "start": 12.52,
+    "end": 17.06,
+    "text": "First, you have some time to look at questions 21 to 26."
+  },
+  {
+    "id": 2,
+    "start": 30.0,
+    "end": 36.26,
+    "text": "You will hear two geography students, Adam and Michelle talking about a volcanic eruption which took place in 1783."
+  },
+  {
+    "id": 3,
+    "start": 39.5,
+    "end": 49.54,
+    "text": "You will hear two geography students, Adam and Michelle talking about a volcanic eruption which took place in 1783."
+  },
+  {
+    "id": 4,
+    "start": 50.0,
+    "end": 62.06,
+    "text": "Now listen carefully and answer questions 21 to 26."
+  },
+  {
+    "id": 5,
+    "start": 65.94,
+    "end": 71.62,
+    "text": "So Michelle, shall we make a start on our presentation? We haven't got that much time left."
+  },
+  {
+    "id": 6,
+    "start": 72.0,
+    "end": 81.22,
+    "text": "No, Adam. But at least we've done all the background reading. I found it really interesting. I'd never even heard of the lucky eruption before this."
+  },
+  {
+    "id": 7,
+    "start": 81.58,
+    "end": 85.78,
+    "text": "Me neither. I suppose 1783 is a long time ago."
+  },
+  {
+    "id": 8,
+    "start": 86.18,
+    "end": 90.7,
+    "text": "But it was a huge eruption and it had such devastating consequences."
+  },
+  {
+    "id": 9,
+    "start": 91.14,
+    "end": 100.08,
+    "text": "I know. It was great there were so many primary sources to look at. It really gives you a sense of how catastrophic the volcano was."
+  },
+  {
+    "id": 10,
+    "start": 101.0,
+    "end": 104.92,
+    "text": "People were really trying to make sense of the science for the first time."
+  },
+  {
+    "id": 11,
+    "start": 105.32,
+    "end": 116.62,
+    "text": "That's right. But what I found more significant was how we impacted directly and indirectly on political events as well as having massive social and economic consequences."
+  },
+  {
+    "id": 12,
+    "start": 116.98,
+    "end": 120.74,
+    "text": "I know. That should be the main focus of our presentation."
+  },
+  {
+    "id": 13,
+    "start": 121.16,
+    "end": 129.96,
+    "text": "The observations made by people at the time were interesting, weren't they? I mean, they all gave a pretty consistent account of what happened."
+  },
+  {
+    "id": 14,
+    "start": 130.58,
+    "end": 133.68,
+    "text": "Even if they didn't always use the same terminology."
+  },
+  {
+    "id": 15,
+    "start": 134.24,
+    "end": 143.48,
+    "text": "Yeah. I was surprised there were so many weather stations established by that time. So you know, you can see how the weather changed often by the hour."
+  },
+  {
+    "id": 16,
+    "start": 144.0,
+    "end": 151.4,
+    "text": "Right. Righters at the time talked about the lucky haze to describe the volcanic fog that spread across Europe."
+  },
+  {
+    "id": 17,
+    "start": 152.12,
+    "end": 155.74,
+    "text": "They all realized that this wasn't the sort of fog they were used to."
+  },
+  {
+    "id": 18,
+    "start": 156.3,
+    "end": 162.78,
+    "text": "And, of course, this was in pre-industrial times. So they hadn't experienced sulfur smelling fog before."
+  },
+  {
+    "id": 19,
+    "start": 163.06,
+    "end": 163.98,
+    "text": "No, that's true."
+  },
+  {
+    "id": 20,
+    "start": 164.38,
+    "end": 170.86,
+    "text": "Reports from the period blamed the haze for an increase in headaches, respiratory issues and asthma attacks."
+  },
+  {
+    "id": 21,
+    "start": 171.68,
+    "end": 176.46,
+    "text": "And they all describe how it covered the sun and made it look a strange red color."
+  },
+  {
+    "id": 22,
+    "start": 177.66,
+    "end": 178.98,
+    "text": "Must have been very weird."
+  },
+  {
+    "id": 23,
+    "start": 180.32,
+    "end": 184.92,
+    "text": "It's interesting that Benjamin Franklin wrote about the haze. Did you read that?"
+  },
+  {
+    "id": 24,
+    "start": 185.62,
+    "end": 188.86,
+    "text": "He was the American ambassador in Paris at the time."
+  },
+  {
+    "id": 25,
+    "start": 189.2,
+    "end": 194.8,
+    "text": "Yeah. At first, no one realized that the haze was caused by the volcanic eruption in Iceland."
+  },
+  {
+    "id": 26,
+    "start": 195.4,
+    "end": 199.02,
+    "text": "It was Benjamin Franklin who realized that before anyone else."
+  },
+  {
+    "id": 27,
+    "start": 199.68,
+    "end": 204.48,
+    "text": "He's often credited with that apparently. But a French naturalist beat him to it."
+  },
+  {
+    "id": 28,
+    "start": 204.98,
+    "end": 207.26,
+    "text": "I can't remember his name. I'd have to look it up."
+  },
+  {
+    "id": 29,
+    "start": 207.96,
+    "end": 212.88,
+    "text": "Then other naturalists had the same idea. All independently of each other."
+  },
+  {
+    "id": 30,
+    "start": 213.32,
+    "end": 220.76,
+    "text": "Oh, right. We should talk about the immediate impact of the eruption, which was obviously enormous."
+  },
+  {
+    "id": 31,
+    "start": 221.54,
+    "end": 224.64,
+    "text": "Especially in Iceland where so many people died."
+  },
+  {
+    "id": 32,
+    "start": 225.0,
+    "end": 230.62,
+    "text": "Hmm. You'd expect that. And the fact that the volcanic ash drifted so swiftly."
+  },
+  {
+    "id": 33,
+    "start": 231.18,
+    "end": 233.96,
+    "text": "But not that the effects would go on for so long."
+  },
+  {
+    "id": 34,
+    "start": 234.58,
+    "end": 241.72,
+    "text": "Or that two years after the eruption, strange weather events were being reported as far away as North America and North Africa."
+  },
+  {
+    "id": 35,
+    "start": 242.12,
+    "end": 245.84,
+    "text": "No. I found all that hard to believe too."
+  },
+  {
+    "id": 36,
+    "start": 246.58,
+    "end": 251.24,
+    "text": "It must have been terrible. And there was nothing anyone could do about it."
+  },
+  {
+    "id": 37,
+    "start": 251.98,
+    "end": 255.3,
+    "text": "Even if they knew the ash cloud was coming in their direction."
+  },
+  {
+    "id": 38,
+    "start": 258.82,
+    "end": 264.96,
+    "text": "Before you hear the rest of the discussion, you have some time to look at questions 27-30."
+  },
+  {
+    "id": 39,
+    "start": 285.28,
+    "end": 288.48,
+    "text": "Now listen and answer questions 27-30."
+  },
+  {
+    "id": 40,
+    "start": 292.48,
+    "end": 299.5,
+    "text": "We should run through some of the terrible consequences of the eruption experienced in different countries. There's quite a varied range."
+  },
+  {
+    "id": 41,
+    "start": 301.02,
+    "end": 304.96,
+    "text": "Starting with Iceland, where the impact on farming was devastating."
+  },
+  {
+    "id": 42,
+    "start": 305.94,
+    "end": 312.28,
+    "text": "Hmm. One of the most dramatic things there was the effect on livestock as they grazed in the fields."
+  },
+  {
+    "id": 43,
+    "start": 313.1,
+    "end": 320.26,
+    "text": "They were poisoned because they get vegetation that had been contaminated with fluorine as a result of the volcanic fallout."
+  },
+  {
+    "id": 44,
+    "start": 320.66,
+    "end": 326.04,
+    "text": "That was horrible. In Egypt, the bizarre weather patterns led to a severe drought."
+  },
+  {
+    "id": 45,
+    "start": 326.82,
+    "end": 331.54,
+    "text": "And as a result, the Nile didn't flood, which meant the crops all failed."
+  },
+  {
+    "id": 46,
+    "start": 332.2,
+    "end": 340.06,
+    "text": "It's so far from where the eruption happened. And yet the famine there led to more people dying than any other country."
+  },
+  {
+    "id": 47,
+    "start": 340.72,
+    "end": 342.3,
+    "text": "It was worse than the plague."
+  },
+  {
+    "id": 48,
+    "start": 342.78,
+    "end": 349.76,
+    "text": "Okay. Then in the UK, the mortality rate went up a lot, presumably from respiratory illnesses."
+  },
+  {
+    "id": 49,
+    "start": 350.64,
+    "end": 358.92,
+    "text": "According to one report, it was about double the usual number and included an unusually high percentage of people under the age of 25."
+  },
+  {
+    "id": 50,
+    "start": 359.68,
+    "end": 366.82,
+    "text": "Hmm. I think people will be surprised to hear that the weather in the USA was badly affected too."
+  },
+  {
+    "id": 51,
+    "start": 367.84,
+    "end": 377.1,
+    "text": "George Washington even makes a note in his diary that they were snowbound until March in Virginia. That was before he became president."
+  },
+  {
+    "id": 52,
+    "start": 377.46,
+    "end": 382.06,
+    "text": "Yes. And there was ice floating down the Mississippi, which was unprecedented."
+  },
+  {
+    "id": 53,
+    "start": 382.76,
+    "end": 387.46,
+    "text": "Oh, astonishing, really. Anyway, what do you think we should include next?"
+  },
+  {
+    "id": 54,
+    "start": 391.28,
+    "end": 397.46,
+    "text": "That is the end of Part 3. You now have 30 seconds to check your answers to Part 3."
+  },
+  {
+    "id": 55,
+    "start": 412.5,
+    "end": 435.22,
+    "text": "Part 4. You will hear a student on a fashion design course giving a talk about the history of pockets."
+  },
+  {
+    "id": 56,
+    "start": 436.62,
+    "end": 440.7,
+    "text": "First, you have some time to look at questions 31 to 40."
+  },
+  {
+    "id": 57,
+    "start": 466.0,
+    "end": 472.24,
+    "text": "Now listen carefully and answer questions 31 to 40."
+  },
+  {
+    "id": 58,
+    "start": 474.88,
+    "end": 480.02,
+    "text": "Good morning. Now we've been asked to choose an aspirin."
+  },
+  {
+    "id": 59,
+    "start": 483.42,
+    "end": 484.78,
+    "text": "I'm going to ask you a question."
+  },
+  {
+    "id": 60,
+    "start": 486.5,
+    "end": 490.46,
+    "text": "I'm going to ask you a question."
+  },
+  {
+    "id": 61,
+    "start": 491.22,
+    "end": 495.54,
+    "text": "Now listen carefully and answer questions 31 to 40."
+  },
+  {
+    "id": 62,
+    "start": 497.5,
+    "end": 508.28,
+    "text": "Good morning. Now we've been asked to choose an aspect of European clothing or fashion and to talk about its development over time."
+  },
+  {
+    "id": 63,
+    "start": 509.34,
+    "end": 517.96,
+    "text": "I decided to focus on a rather small area of clothing and that's pockets. I chose pockets for two reasons really."
+  },
+  {
+    "id": 64,
+    "start": 518.88,
+    "end": 534.22,
+    "text": "We all have them in jeans, jackets, coats, for example. And even though we often carry bags or briefcases as well, nothing is quite as convenient as being able to pop your phone or credit card into your pocket."
+  },
+  {
+    "id": 65,
+    "start": 535.46,
+    "end": 544.04,
+    "text": "Yet I suspect that other than that, people don't really think about pockets too much and they're rather overlooked as a fashion item."
+  },
+  {
+    "id": 66,
+    "start": 545.52,
+    "end": 551.52,
+    "text": "It's certainly very interesting to go back in time and see how pockets developed for men and women."
+  },
+  {
+    "id": 67,
+    "start": 552.6,
+    "end": 559.02,
+    "text": "In the 18th century, fashion's were quite different from the way they are now and pockets were too."
+  },
+  {
+    "id": 68,
+    "start": 560.26,
+    "end": 567.02,
+    "text": "If we think about male fashion first, that was the time when suits became popular."
+  },
+  {
+    "id": 69,
+    "start": 567.3,
+    "end": 576.74,
+    "text": "Trausers were knee length only and referred to as breaches. The waistcoats were short and the jackets were long."
+  },
+  {
+    "id": 70,
+    "start": 577.7,
+    "end": 586.24,
+    "text": "But all three garments were lined with material and pockets were sewn into this cloth by whichever tailor the customer used."
+  },
+  {
+    "id": 71,
+    "start": 587.76,
+    "end": 596.16,
+    "text": "The wearer could then carry small objects such as pencils or coins on their person and reach them through a gap in the lining."
+  },
+  {
+    "id": 72,
+    "start": 597.68,
+    "end": 611.96,
+    "text": "Code pockets became increasingly decorative on the outside for men who wanted to look stylish. But they were often larger but plainer if the wearer was someone with a profession who needed to carry medical instruments."
+  },
+  {
+    "id": 73,
+    "start": 612.2,
+    "end": 615.52,
+    "text": "A doctor or physician for example."
+  },
+  {
+    "id": 74,
+    "start": 620.98,
+    "end": 631.06,
+    "text": "The development of women's pockets was a little different. For one thing, they weren't nearly as visible or as easy to reach as men's."
+  },
+  {
+    "id": 75,
+    "start": 632.18,
+    "end": 641.7,
+    "text": "In the 18th and 19th centuries, women carried numerous possessions on their person and some of these could be worth a lot of money."
+  },
+  {
+    "id": 76,
+    "start": 643.08,
+    "end": 650.4,
+    "text": "Women were more vulnerable to theft and wealthy women in particular worried constantly about pick pockets."
+  },
+  {
+    "id": 77,
+    "start": 651.72,
+    "end": 671.02,
+    "text": "So, what they did was to have a pair of pockets made that were tied together with string. The pockets were made of fabric which might be recycled cloth if the wearer had little money or something more expensive such as linen, sometimes featuring very delicate embroidery."
+  },
+  {
+    "id": 78,
+    "start": 672.52,
+    "end": 688.28,
+    "text": "Women tied the pockets around their waist so that they hung beneath their clothes. Remember, skirts were long then and there was plenty of room to hide a whole range of small possessions between the layers of peticoats that were commonly worn."
+  },
+  {
+    "id": 79,
+    "start": 689.48,
+    "end": 696.48,
+    "text": "They would have an opening in the folds of their skirts through which they could reach whatever they needed like their perfume."
+  },
+  {
+    "id": 80,
+    "start": 697.96,
+    "end": 711.1,
+    "text": "Working women of course also needed to carry around items that they might use for whatever job or trade they were involved in but their pairs of pockets still remained on the inside of their clothing."
+  },
+  {
+    "id": 81,
+    "start": 712.04,
+    "end": 716.98,
+    "text": "They just got bigger or longer, sometimes reaching down to their knees."
+  },
+  {
+    "id": 82,
+    "start": 718.84,
+    "end": 728.5,
+    "text": "So, the tie-on pockets went well into the 19th century and only changed when fashion ordered towards the end of that period."
+  },
+  {
+    "id": 83,
+    "start": 729.58,
+    "end": 740.62,
+    "text": "That's when dresses became tighter and less bulky and the pairs of pockets became very noticeable. They stood out too much and detracted from the woman's image."
+  },
+  {
+    "id": 84,
+    "start": 741.96,
+    "end": 751.64,
+    "text": "Women who had been used to carrying around a range of personal possessions and still wanted to needed somewhere to carry these items about their person."
+  },
+  {
+    "id": 85,
+    "start": 752.88,
+    "end": 768.8,
+    "text": "That was when small bags or pouches as they were known came into fashion and of course they inevitably led onto the handbag of more modern times, particularly when fashion removed pockets altogether."
+  },
+  {
+    "id": 86,
+    "start": 772.52,
+    "end": 778.3,
+    "text": "That is the end of part 4. You now have one minute to check your answers to part 4."
+  },
+  {
+    "id": 87,
+    "start": 801.84,
+    "end": 802.74,
+    "text": "You"
+  },
+  {
+    "id": 88,
+    "start": 831.5,
+    "end": 840.4,
+    "text": "That is the end of the listening test."
+  },
+  {
+    "id": 89,
+    "start": 842.12,
+    "end": 848.66,
+    "text": "In the IELTS test, you would now have 10 minutes to transfer your answers to the listening answer sheet."
+  },
+  {
+    "id": 90,
+    "start": 854.18,
+    "end": 854.92,
+    "text": "Test 2"
+  },
+  {
+    "id": 91,
+    "start": 856.5,
+    "end": 863.9,
+    "text": "This is the IELTS listening test. You will hear a number of different recordings and you will have to answer questions on what you hear."
+  },
+  {
+    "id": 92,
+    "start": 864.96,
+    "end": 870.3,
+    "text": "There will be time for you to read the instructions and questions and you will have a chance to check your work."
+  },
+  {
+    "id": 93,
+    "start": 871.24,
+    "end": 876.46,
+    "text": "All the recordings will be played once only. The test is in four parts."
+  },
+  {
+    "id": 94,
+    "start": 877.56,
+    "end": 882.82,
+    "text": "At the end of the test, you will be given 10 minutes to transfer your answers to an answer sheet."
+  },
+  {
+    "id": 95,
+    "start": 885.08,
+    "end": 886.36,
+    "text": "Now turn to part 1."
+  },
+  {
+    "id": 96,
+    "start": 891.62,
+    "end": 892.26,
+    "text": "Part 1"
+  },
+  {
+    "id": 97,
+    "start": 893.44,
+    "end": 900.02,
+    "text": "You will hear a woman from a job agency giving information to a man about work in a chain of restaurants."
+  },
+  {
+    "id": 98,
+    "start": 901.48,
+    "end": 905.1,
+    "text": "First you have some time to look at questions 1 to 5."
+  },
+  {
+    "id": 99,
+    "start": 914.5,
+    "end": 933.92,
+    "text": "Now listen carefully and answer questions 1 to 5."
+  },
+  {
+    "id": 100,
+    "start": 937.54,
+    "end": 940.44,
+    "text": "So I understand you are interested in restaurant work."
+  },
+  {
+    "id": 101,
+    "start": 941.0,
+    "end": 945.24,
+    "text": "Yes, I have got a bit of experience and I can provide references."
+  },
+  {
+    "id": 102,
+    "start": 945.68,
+    "end": 947.92,
+    "text": "That is good. I can check all that later."
+  },
+  {
+    "id": 103,
+    "start": 948.76,
+    "end": 955.82,
+    "text": "Now my Lowe's restaurants have some vacancies at the moment. They are a really good company to work for. Lots of benefits."
+  },
+  {
+    "id": 104,
+    "start": 956.16,
+    "end": 956.5,
+    "text": "Alright."
+  },
+  {
+    "id": 105,
+    "start": 956.5,
+    "end": 957.02,
+    "text": "Yes."
+  },
+  {
+    "id": 106,
+    "start": 957.68,
+    "end": 965.32,
+    "text": "They have got a very good reputation for looking after staff. For example, all employees get training, even temporary staff."
+  },
+  {
+    "id": 107,
+    "start": 965.7,
+    "end": 968.62,
+    "text": "Oh really? That is quite unusual isn't it?"
+  },
+  {
+    "id": 108,
+    "start": 969.0,
+    "end": 969.38,
+    "text": "Yes, it is."
+  },
+  {
+    "id": 109,
+    "start": 969.9,
+    "end": 972.62,
+    "text": "And do staff get free uniforms too?"
+  },
+  {
+    "id": 110,
+    "start": 974.28,
+    "end": 981.06,
+    "text": "You just need to wear a white t-shirt and black trousers it says here. So I guess not."
+  },
+  {
+    "id": 111,
+    "start": 981.9,
+    "end": 988.36,
+    "text": "But another benefit of working for a big company like this is that you can get a discount at any of their restaurants."
+  },
+  {
+    "id": 112,
+    "start": 988.96,
+    "end": 989.74,
+    "text": "Even at weekends?"
+  },
+  {
+    "id": 113,
+    "start": 990.42,
+    "end": 992.66,
+    "text": "No, but you will be working then anyway."
+  },
+  {
+    "id": 114,
+    "start": 993.1,
+    "end": 994.6,
+    "text": "Oh yes, I suppose so."
+  },
+  {
+    "id": 115,
+    "start": 995.34,
+    "end": 1001.52,
+    "text": "Most of their restaurants are in the city centre aren't they? So easy to get to by bus?"
+  },
+  {
+    "id": 116,
+    "start": 1001.94,
+    "end": 1010.08,
+    "text": "Yes, that is right. But if you have to do a late shift and finish work after midnight, the company will pay for you to get a taxi home."
+  },
+  {
+    "id": 117,
+    "start": 1010.42,
+    "end": 1013.44,
+    "text": "I probably won't need one. I think I'd use my bike."
+  },
+  {
+    "id": 118,
+    "start": 1013.76,
+    "end": 1014.08,
+    "text": "Okay."
+  },
+  {
+    "id": 119,
+    "start": 1015.2,
+    "end": 1020.1,
+    "text": "Now they do have some quite specific requirements for the kind of person they are looking for."
+  },
+  {
+    "id": 120,
+    "start": 1020.72,
+    "end": 1025.72,
+    "text": "Milo's is a young dynamic company and they are really keen on creating a strong team."
+  },
+  {
+    "id": 121,
+    "start": 1026.52,
+    "end": 1029.98,
+    "text": "It is really important that you can fit in and get on well with everyone."
+  },
+  {
+    "id": 122,
+    "start": 1030.4,
+    "end": 1033.82,
+    "text": "Yeah, I have no problem with that. It sounds good actually."
+  },
+  {
+    "id": 123,
+    "start": 1034.5,
+    "end": 1041.34,
+    "text": "The last place I worked for was quite demanding too. We had to make sure we gave a really high level of service."
+  },
+  {
+    "id": 124,
+    "start": 1041.88,
+    "end": 1045.82,
+    "text": "That is good to hear because that will be equally important at Milo's."
+  },
+  {
+    "id": 125,
+    "start": 1046.3,
+    "end": 1048.86,
+    "text": "I know they want people who have an eye for detail."
+  },
+  {
+    "id": 126,
+    "start": 1049.2,
+    "end": 1052.42,
+    "text": "That is fine. I am very used to working in that kind of environment."
+  },
+  {
+    "id": 127,
+    "start": 1052.82,
+    "end": 1060.18,
+    "text": "Perfect. So the only other thing that is required is good communication skills. So you will need to have a certificate in English."
+  },
+  {
+    "id": 128,
+    "start": 1060.52,
+    "end": 1060.74,
+    "text": "Sure."
+  },
+  {
+    "id": 129,
+    "start": 1064.36,
+    "end": 1070.14,
+    "text": "Before you hear the rest of the conversation, you have some time to look at questions 6-10."
+  },
+  {
+    "id": 130,
+    "start": 1079.0,
+    "end": 1098.48,
+    "text": "Now listen and answer questions 6-10."
+  },
+  {
+    "id": 131,
+    "start": 1102.2,
+    "end": 1106.12,
+    "text": "Okay. Let's have a look at the current job vacancies at Milo's."
+  },
+  {
+    "id": 132,
+    "start": 1106.34,
+    "end": 1108.66,
+    "text": "The first one is in Wivenho street."
+  },
+  {
+    "id": 133,
+    "start": 1109.34,
+    "end": 1109.94,
+    "text": "Sorry where?"
+  },
+  {
+    "id": 134,
+    "start": 1110.62,
+    "end": 1117.2,
+    "text": "Wivenho. W-I-V-E-N-H-O-E."
+  },
+  {
+    "id": 135,
+    "start": 1118.0,
+    "end": 1120.22,
+    "text": "It is quite central just off Cork Street."
+  },
+  {
+    "id": 136,
+    "start": 1120.56,
+    "end": 1121.1,
+    "text": "Oh right."
+  },
+  {
+    "id": 137,
+    "start": 1121.7,
+    "end": 1123.78,
+    "text": "They are looking for a breakfast supervisor."
+  },
+  {
+    "id": 138,
+    "start": 1124.4,
+    "end": 1125.26,
+    "text": "That would be okay."
+  },
+  {
+    "id": 139,
+    "start": 1126.2,
+    "end": 1129.94,
+    "text": "So you are probably familiar with the kind of responsibilities involved."
+  },
+  {
+    "id": 140,
+    "start": 1130.8,
+    "end": 1133.92,
+    "text": "Obviously checking that all the portions are correct etc."
+  },
+  {
+    "id": 141,
+    "start": 1134.84,
+    "end": 1139.12,
+    "text": "And then things like checking all the procedures for cleaning the equipment are being followed."
+  },
+  {
+    "id": 142,
+    "start": 1139.52,
+    "end": 1142.02,
+    "text": "Okay. And what about the salary?"
+  },
+  {
+    "id": 143,
+    "start": 1142.78,
+    "end": 1146.1,
+    "text": "In my last job I was getting 9 pounds 50 per hour."
+  },
+  {
+    "id": 144,
+    "start": 1146.78,
+    "end": 1148.96,
+    "text": "I was hoping to get a bit more than that."
+  },
+  {
+    "id": 145,
+    "start": 1149.52,
+    "end": 1152.72,
+    "text": "Well to begin with you would be getting 9 pounds 75."
+  },
+  {
+    "id": 146,
+    "start": 1153.8,
+    "end": 1157.34,
+    "text": "But that goes up to 11 pounds 25 after 3 months."
+  },
+  {
+    "id": 147,
+    "start": 1157.9,
+    "end": 1158.86,
+    "text": "That is not too bad."
+  },
+  {
+    "id": 148,
+    "start": 1159.64,
+    "end": 1161.64,
+    "text": "And I suppose it is a very early start."
+  },
+  {
+    "id": 149,
+    "start": 1162.04,
+    "end": 1165.34,
+    "text": "Hmm. That is the only unattractive thing about this job."
+  },
+  {
+    "id": 150,
+    "start": 1166.14,
+    "end": 1168.4,
+    "text": "But then you have the afternoons and evenings free."
+  },
+  {
+    "id": 151,
+    "start": 1169.12,
+    "end": 1172.52,
+    "text": "So the restaurant starts serving breakfast from 7am."
+  },
+  {
+    "id": 152,
+    "start": 1173.12,
+    "end": 1177.14,
+    "text": "And you would have to be there at 5.30 to set everything up."
+  },
+  {
+    "id": 153,
+    "start": 1177.64,
+    "end": 1179.32,
+    "text": "But you would be finished at 12.30."
+  },
+  {
+    "id": 154,
+    "start": 1179.64,
+    "end": 1183.0,
+    "text": "Hmm. Well as you say there are advantages to that."
+  },
+  {
+    "id": 155,
+    "start": 1183.88,
+    "end": 1187.9,
+    "text": "Now you might also be interested in the job at the city road branch."
+  },
+  {
+    "id": 156,
+    "start": 1188.62,
+    "end": 1192.38,
+    "text": "That is for a junior chef. So again a position of responsibility."
+  },
+  {
+    "id": 157,
+    "start": 1192.94,
+    "end": 1194.74,
+    "text": "I might prefer that actually."
+  },
+  {
+    "id": 158,
+    "start": 1195.2,
+    "end": 1201.52,
+    "text": "Right. Well obviously this role would involve supporting the sous chef and other senior staff."
+  },
+  {
+    "id": 159,
+    "start": 1202.2,
+    "end": 1206.0,
+    "text": "And you would be responsible for making sure there is enough stock each week."
+  },
+  {
+    "id": 160,
+    "start": 1206.5,
+    "end": 1208.0,
+    "text": "And sorting out all the deliveries."
+  },
+  {
+    "id": 161,
+    "start": 1208.58,
+    "end": 1214.08,
+    "text": "I have never done that before. But I imagine it is fairly straightforward once you get the hang of it."
+  },
+  {
+    "id": 162,
+    "start": 1214.38,
+    "end": 1218.8,
+    "text": "Yes. And you would be working alongside more experienced staff to begin with."
+  },
+  {
+    "id": 163,
+    "start": 1219.22,
+    "end": 1220.78,
+    "text": "So I am sure it would not be a problem."
+  },
+  {
+    "id": 164,
+    "start": 1221.6,
+    "end": 1226.6,
+    "text": "The salary is slightly higher here. It is an annual salary of £23,000."
+  },
+  {
+    "id": 165,
+    "start": 1227.3,
+    "end": 1227.62,
+    "text": "Right."
+  },
+  {
+    "id": 166,
+    "start": 1228.42,
+    "end": 1232.68,
+    "text": "I know that if they like you, it is likely you will be promoted quite quickly."
+  },
+  {
+    "id": 167,
+    "start": 1233.08,
+    "end": 1234.4,
+    "text": "So that is worth thinking about."
+  },
+  {
+    "id": 168,
+    "start": 1234.82,
+    "end": 1238.56,
+    "text": "Yes. It does sound interesting. What are the hours like?"
+  },
+  {
+    "id": 169,
+    "start": 1239.14,
+    "end": 1244.72,
+    "text": "The usual I think. There is a lot of evening and weekend work. But they are closed on Mondays."
+  },
+  {
+    "id": 170,
+    "start": 1245.52,
+    "end": 1248.64,
+    "text": "But you do get one Sunday off every four weeks."
+  },
+  {
+    "id": 171,
+    "start": 1249.28,
+    "end": 1251.62,
+    "text": "So would you like me to send off your CV?"
+  },
+  {
+    "id": 172,
+    "start": 1256.18,
+    "end": 1257.72,
+    "text": "That is the end of part one."
+  },
+  {
+    "id": 173,
+    "start": 1259.02,
+    "end": 1262.52,
+    "text": "You now have one minute to check your answers to part one."
+  },
+  {
+    "id": 174,
+    "start": 1269.8,
+    "end": 1270.7,
+    "text": "You"
+  },
+  {
+    "id": 175,
+    "start": 1299.94,
+    "end": 1300.54,
+    "text": "You"
+  },
+  {
+    "id": 176,
+    "start": 1303.0,
+    "end": 1303.76,
+    "text": "You"
+  },
+  {
+    "id": 177,
+    "start": 1305.56,
+    "end": 1306.84,
+    "text": "You"
+  },
+  {
+    "id": 178,
+    "start": 1308.5,
+    "end": 1309.92,
+    "text": "You"
+  },
+  {
+    "id": 179,
+    "start": 1311.5,
+    "end": 1313.1,
+    "text": "You"
+  },
+  {
+    "id": 180,
+    "start": 1314.5,
+    "end": 1315.82,
+    "text": "You"
+  },
+  {
+    "id": 181,
+    "start": 1317.62,
+    "end": 1318.78,
+    "text": "You"
+  },
+  {
+    "id": 182,
+    "start": 1320.5,
+    "end": 1321.36,
+    "text": "You"
+  },
+  {
+    "id": 183,
+    "start": 1322.96,
+    "end": 1323.58,
+    "text": "Part two."
+  },
+  {
+    "id": 184,
+    "start": 1324.52,
+    "end": 1331.64,
+    "text": "You will hear a talk to members of the public about plans for a new housing development near a town called Nunston."
+  },
+  {
+    "id": 185,
+    "start": 1333.44,
+    "end": 1337.44,
+    "text": "First, you have some time to look at questions 11 to 14."
+  },
+  {
+    "id": 186,
+    "start": 1339.0,
+    "end": 1361.94,
+    "text": "Now listen carefully and answer questions 11 to 14."
+  },
+  {
+    "id": 187,
+    "start": 1363.84,
+    "end": 1376.46,
+    "text": "Hello everyone. It is good to see that so many members of the public have shown up for our presentation on the new housing development plan on the outskirts of Nunston."
+  },
+  {
+    "id": 188,
+    "start": 1377.36,
+    "end": 1382.2,
+    "text": "I am Mark Reynolds and I am communications manager at the development."
+  },
+  {
+    "id": 189,
+    "start": 1383.7,
+    "end": 1388.12,
+    "text": "I will start by giving you a brief overview of our plans for the development."
+  },
+  {
+    "id": 190,
+    "start": 1389.68,
+    "end": 1397.54,
+    "text": "So one thing I am sure you will want to know is why we have selected this particular site for a housing development."
+  },
+  {
+    "id": 191,
+    "start": 1398.8,
+    "end": 1405.04,
+    "text": "A present is being used for farming like much of the land around Nunston."
+  },
+  {
+    "id": 192,
+    "start": 1406.04,
+    "end": 1413.8,
+    "text": "But because of the new industrial centre in Nunston there is a lot of demand for housing for employees in the region."
+  },
+  {
+    "id": 193,
+    "start": 1414.54,
+    "end": 1418.92,
+    "text": "As many employees are having to commute long distances at present."
+  },
+  {
+    "id": 194,
+    "start": 1419.92,
+    "end": 1426.7,
+    "text": "Of course there is also the fact that we have an international airport just 20 minutes drive away."
+  },
+  {
+    "id": 195,
+    "start": 1427.68,
+    "end": 1434.7,
+    "text": "But although that is certainly convenient it wasn't one of our major criteria for choosing the site."
+  },
+  {
+    "id": 196,
+    "start": 1435.86,
+    "end": 1442.76,
+    "text": "We were more interested in the fact that there is an excellent hospital just 15 kilometres away."
+  },
+  {
+    "id": 197,
+    "start": 1443.72,
+    "end": 1446.82,
+    "text": "And a large secondary school even closer than that."
+  },
+  {
+    "id": 198,
+    "start": 1448.16,
+    "end": 1454.4,
+    "text": "One drawback to the site is that it is on quite a steep slope."
+  },
+  {
+    "id": 199,
+    "start": 1455.24,
+    "end": 1460.44,
+    "text": "But we have taken account of that in our planning so it shouldn't be a major problem."
+  },
+  {
+    "id": 200,
+    "start": 1461.88,
+    "end": 1465.06,
+    "text": "We have had a lot of positive feedback about the plans."
+  },
+  {
+    "id": 201,
+    "start": 1466.0,
+    "end": 1477.36,
+    "text": "People like the wide variety of accommodation types and prices and the fact that it is only a short drive to get out into the countryside from the development."
+  },
+  {
+    "id": 202,
+    "start": 1478.64,
+    "end": 1494.7,
+    "text": "We were particularly pleased that so many people like the designs for the layout of the development, with the majority of people saying it generally made a good impression and blended in well with the natural features of the landscape."
+  },
+  {
+    "id": 203,
+    "start": 1495.44,
+    "end": 1500.26,
+    "text": "With provision made for protecting trees and wildlife on the site."
+  },
+  {
+    "id": 204,
+    "start": 1501.68,
+    "end": 1506.66,
+    "text": "Some people have mentioned that they'd like to see more facilities for cyclists."
+  },
+  {
+    "id": 205,
+    "start": 1507.26,
+    "end": 1519.9,
+    "text": "And we'll look at that but the overall feedback has been that the design and facilities of the development make it seem a place where people of all ages can live together happily."
+  },
+  {
+    "id": 206,
+    "start": 1523.46,
+    "end": 1529.3,
+    "text": "Before you hear the rest of the talk, you have some time to look at questions 15 to 20."
+  },
+  {
+    "id": 207,
+    "start": 1552.0,
+    "end": 1567.5,
+    "text": "Now listen and answer questions 15 to 20."
+  },
+  {
+    "id": 208,
+    "start": 1572.2,
+    "end": 1578.28,
+    "text": "OK, so I'll put a map of the proposed development up on the screen."
+  },
+  {
+    "id": 209,
+    "start": 1580.64,
+    "end": 1587.24,
+    "text": "You'll see it's bounded on the south side by the main road which then goes on to Nunston."
+  },
+  {
+    "id": 210,
+    "start": 1588.24,
+    "end": 1593.74,
+    "text": "Another boundary is formed by London Road on the western side of the development."
+  },
+  {
+    "id": 211,
+    "start": 1595.18,
+    "end": 1601.28,
+    "text": "Inside the development there'll be about 400 houses and three apartment blocks."
+  },
+  {
+    "id": 212,
+    "start": 1603.08,
+    "end": 1607.36,
+    "text": "There'll also be a school for children up to 11 years old."
+  },
+  {
+    "id": 213,
+    "start": 1608.58,
+    "end": 1616.66,
+    "text": "If you look at the south entrance at the bottom of the map, there's a road from there that goes right up through the development."
+  },
+  {
+    "id": 214,
+    "start": 1617.36,
+    "end": 1623.18,
+    "text": "The school will be on that road, at the corner of the second turning to the left."
+  },
+  {
+    "id": 215,
+    "start": 1624.96,
+    "end": 1631.34,
+    "text": "A large sports centre is planned with facilities for indoor and outdoor activities."
+  },
+  {
+    "id": 216,
+    "start": 1632.46,
+    "end": 1640.1,
+    "text": "This will be on the western side of the development just below the road that branches off from London Road."
+  },
+  {
+    "id": 217,
+    "start": 1641.6,
+    "end": 1646.48,
+    "text": "There'll be a clinic where residents can go if they have any health problems."
+  },
+  {
+    "id": 218,
+    "start": 1647.7,
+    "end": 1650.4,
+    "text": "Can you see the lake towards the top of the map?"
+  },
+  {
+    "id": 219,
+    "start": 1651.58,
+    "end": 1656.88,
+    "text": "The clinic will be just below this to the right of a street of houses."
+  },
+  {
+    "id": 220,
+    "start": 1658.22,
+    "end": 1662.1,
+    "text": "There'll also be a community centre for people of all ages."
+  },
+  {
+    "id": 221,
+    "start": 1663.52,
+    "end": 1676.48,
+    "text": "On the northeast side of the development there'll be a row of specially designed houses specifically for residents over 65 and the community centre will be adjoining this."
+  },
+  {
+    "id": 222,
+    "start": 1677.86,
+    "end": 1680.28,
+    "text": "We haven't forgotten about shopping."
+  },
+  {
+    "id": 223,
+    "start": 1681.36,
+    "end": 1685.56,
+    "text": "There'll be a supermarket between the two entrances to the development."
+  },
+  {
+    "id": 224,
+    "start": 1686.66,
+    "end": 1694.16,
+    "text": "We're planning to leave the three large trees near London Road and it'll be just to the south of these."
+  },
+  {
+    "id": 225,
+    "start": 1695.98,
+    "end": 1699.16,
+    "text": "It's planned to have a playground for younger children."
+  },
+  {
+    "id": 226,
+    "start": 1700.08,
+    "end": 1714.18,
+    "text": "If you look at the road that goes up from the south entrance, you'll see it curves round to the left at the top and the playground will be in that curve with nice views of the lake."
+  },
+  {
+    "id": 227,
+    "start": 1715.34,
+    "end": 1720.24,
+    "text": "Okay, so now does anyone have any questions?"
+  },
+  {
+    "id": 228,
+    "start": 1723.56,
+    "end": 1729.48,
+    "text": "That is the end of part two. You now have 30 seconds to check your answers to part two."
+  },
+  {
+    "id": 229,
+    "start": 1752.78,
+    "end": 1753.62,
+    "text": "You"
+  }
+]

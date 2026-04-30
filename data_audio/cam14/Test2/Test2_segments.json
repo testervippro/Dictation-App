@@ -1,0 +1,2282 @@
+[
+  {
+    "id": 0,
+    "start": 2.72,
+    "end": 3.44,
+    "text": "Test 2"
+  },
+  {
+    "id": 1,
+    "start": 5.38,
+    "end": 11.02,
+    "text": "You will hear a number of different recordings, and you will have to answer questions on what"
+  },
+  {
+    "id": 2,
+    "start": 11.02,
+    "end": 11.66,
+    "text": "you hear."
+  },
+  {
+    "id": 3,
+    "start": 13.52,
+    "end": 19.52,
+    "text": "There will be time for you to read the instructions and questions, and you will have a chance to check"
+  },
+  {
+    "id": 4,
+    "start": 19.58,
+    "end": 20.34,
+    "text": "your work."
+  },
+  {
+    "id": 5,
+    "start": 21.8,
+    "end": 25.56,
+    "text": "All the recordings will be played once only."
+  },
+  {
+    "id": 6,
+    "start": 27.66,
+    "end": 29.72,
+    "text": "The test is in four sections."
+  },
+  {
+    "id": 7,
+    "start": 31.2,
+    "end": 37.34,
+    "text": "At the end of the test, you will be given ten minutes to transfer your answers to an"
+  },
+  {
+    "id": 8,
+    "start": 37.34,
+    "end": 38.08,
+    "text": "answer sheet."
+  },
+  {
+    "id": 9,
+    "start": 40.4,
+    "end": 42.3,
+    "text": "Now turn to section 1."
+  },
+  {
+    "id": 10,
+    "start": 47.7,
+    "end": 48.74,
+    "text": "Section 1"
+  },
+  {
+    "id": 11,
+    "start": 50.82,
+    "end": 55.78,
+    "text": "You will hear a woman talking to a doctor at a clinic about a medical problem."
+  },
+  {
+    "id": 12,
+    "start": 57.56,
+    "end": 61.82,
+    "text": "First, you have some time to look at questions 1 to 4."
+  },
+  {
+    "id": 13,
+    "start": 82.36,
+    "end": 85.98,
+    "text": "You will see that there is an example that has been done for you."
+  },
+  {
+    "id": 14,
+    "start": 87.58,
+    "end": 93.08,
+    "text": "On this occasion only, the conversation relating to this will be played first."
+  },
+  {
+    "id": 15,
+    "start": 96.68,
+    "end": 98.0,
+    "text": "Hi, come and take a seat."
+  },
+  {
+    "id": 16,
+    "start": 98.18,
+    "end": 98.76,
+    "text": "Thank you."
+  },
+  {
+    "id": 17,
+    "start": 99.0,
+    "end": 104.0,
+    "text": "My name is Karl Rodgers, and I'm one of the doctors here at the Total Health Clinic, so I understand"
+  },
+  {
+    "id": 18,
+    "start": 104.08,
+    "end": 105.54,
+    "text": "this is your first visit to the clinic."
+  },
+  {
+    "id": 19,
+    "start": 105.74,
+    "end": 106.4,
+    "text": "Yes, it is."
+  },
+  {
+    "id": 20,
+    "start": 106.94,
+    "end": 111.3,
+    "text": "Okay, well I hope you will be very happy with the service you receive here, so if it's"
+  },
+  {
+    "id": 21,
+    "start": 111.3,
+    "end": 115.36,
+    "text": "alright with you, I'll take a few details to help me give you the best possible service."
+  },
+  {
+    "id": 22,
+    "start": 115.72,
+    "end": 116.16,
+    "text": "Sure."
+  },
+  {
+    "id": 23,
+    "start": 117.04,
+    "end": 121.1,
+    "text": "So, can I check first of all that we have the correct personal details for you?"
+  },
+  {
+    "id": 24,
+    "start": 121.92,
+    "end": 124.2,
+    "text": "So your full name is Julie Ann Garcia."
+  },
+  {
+    "id": 25,
+    "start": 124.76,
+    "end": 125.38,
+    "text": "That's correct."
+  },
+  {
+    "id": 26,
+    "start": 128.44,
+    "end": 135.66,
+    "text": "The woman's name is Julie Ann Garcia, so Garcia has been written in the space."
+  },
+  {
+    "id": 27,
+    "start": 137.7,
+    "end": 138.74,
+    "text": "Now we shall begin."
+  },
+  {
+    "id": 28,
+    "start": 140.56,
+    "end": 145.7,
+    "text": "You should answer the questions as you listen, because you will not hear the recording"
+  },
+  {
+    "id": 29,
+    "start": 145.8,
+    "end": 147.0,
+    "text": "a second time."
+  },
+  {
+    "id": 30,
+    "start": 148.84,
+    "end": 153.02,
+    "text": "Listen carefully and answer questions 1 to 4."
+  },
+  {
+    "id": 31,
+    "start": 156.46,
+    "end": 157.76,
+    "text": "Hi, come and take a seat."
+  },
+  {
+    "id": 32,
+    "start": 157.94,
+    "end": 158.54,
+    "text": "Thank you."
+  },
+  {
+    "id": 33,
+    "start": 158.76,
+    "end": 163.28,
+    "text": "My name is Karl Rodgers, and I'm one of the doctors here at the Total Health Clinic, so"
+  },
+  {
+    "id": 34,
+    "start": 163.28,
+    "end": 165.3,
+    "text": "I understand this is your first visit to the clinic."
+  },
+  {
+    "id": 35,
+    "start": 165.58,
+    "end": 166.2,
+    "text": "Yes, it is."
+  },
+  {
+    "id": 36,
+    "start": 166.64,
+    "end": 171.09,
+    "text": "Okay, well I hope you will be very happy with the service you receive here, so if it's"
+  },
+  {
+    "id": 37,
+    "start": 171.09,
+    "end": 175.12,
+    "text": "alright with you, I'll take a few details to help me give you the best possible service."
+  },
+  {
+    "id": 38,
+    "start": 175.5,
+    "end": 175.94,
+    "text": "Sure."
+  },
+  {
+    "id": 39,
+    "start": 176.76,
+    "end": 180.88,
+    "text": "So, can I check first of all that we have the correct personal details for you?"
+  },
+  {
+    "id": 40,
+    "start": 181.28,
+    "end": 183.98,
+    "text": "So your full name is Julie Ann Garcia."
+  },
+  {
+    "id": 41,
+    "start": 184.58,
+    "end": 185.14,
+    "text": "That's correct."
+  },
+  {
+    "id": 42,
+    "start": 185.84,
+    "end": 188.32,
+    "text": "Perfect, and can I have a contact phone number?"
+  },
+  {
+    "id": 43,
+    "start": 188.9,
+    "end": 192.75,
+    "text": "It's 219-4429-785."
+  },
+  {
+    "id": 44,
+    "start": 192.75,
+    "end": 195.55,
+    "text": "Okay, and then can I just check?"
+  },
+  {
+    "id": 45,
+    "start": 195.55,
+    "end": 197.32,
+    "text": "I'll check that we have the correct date of birth."
+  },
+  {
+    "id": 46,
+    "start": 197.82,
+    "end": 199.46,
+    "text": "October 10th, 1992."
+  },
+  {
+    "id": 47,
+    "start": 200.38,
+    "end": 201.72,
+    "text": "Oh, I actually have 1991."
+  },
+  {
+    "id": 48,
+    "start": 203.02,
+    "end": 204.14,
+    "text": "I'll just correct that now."
+  },
+  {
+    "id": 49,
+    "start": 205.38,
+    "end": 206.66,
+    "text": "Right, so that's all good."
+  },
+  {
+    "id": 50,
+    "start": 207.44,
+    "end": 209.38,
+    "text": "Now I just need a few more personal details."
+  },
+  {
+    "id": 51,
+    "start": 210.22,
+    "end": 213.3,
+    "text": "Do you have an occupation, either full time or part time?"
+  },
+  {
+    "id": 52,
+    "start": 213.7,
+    "end": 217.94,
+    "text": "Yes, I work full time in Esther Hasey's, you know the restaurant chain."
+  },
+  {
+    "id": 53,
+    "start": 218.64,
+    "end": 222.96,
+    "text": "I started off as a waitress there a few years ago, and I'm a manager now."
+  },
+  {
+    "id": 54,
+    "start": 223.56,
+    "end": 227.32,
+    "text": "I know them, yeah, they're down on 114th Street, aren't they?"
+  },
+  {
+    "id": 55,
+    "start": 227.58,
+    "end": 228.16,
+    "text": "That's right."
+  },
+  {
+    "id": 56,
+    "start": 228.66,
+    "end": 229.83,
+    "text": "Yeah, I've been there a few times."
+  },
+  {
+    "id": 57,
+    "start": 229.83,
+    "end": 231.18,
+    "text": "I just love their salads."
+  },
+  {
+    "id": 58,
+    "start": 231.72,
+    "end": 232.68,
+    "text": "That's good to hear."
+  },
+  {
+    "id": 59,
+    "start": 233.42,
+    "end": 237.06,
+    "text": "Right, so one more thing I need to know before we talk about why you're here, Julie,"
+  },
+  {
+    "id": 60,
+    "start": 237.56,
+    "end": 239.4,
+    "text": "and that's the name of your insurance company."
+  },
+  {
+    "id": 61,
+    "start": 240.0,
+    "end": 245.38,
+    "text": "It's Cully Life Insurance, that's C-A-W-L-E-Y."
+  },
+  {
+    "id": 62,
+    "start": 246.0,
+    "end": 246.42,
+    "text": "Excellent."
+  },
+  {
+    "id": 63,
+    "start": 246.82,
+    "end": 247.68,
+    "text": "Thank you so much."
+  },
+  {
+    "id": 64,
+    "start": 251.12,
+    "end": 255.57,
+    "text": "Before you hear the rest of the conversation, you have some time to look at"
+  },
+  {
+    "id": 65,
+    "start": 255.57,
+    "end": 257.6,
+    "text": "questions 5 to 10."
+  },
+  {
+    "id": 66,
+    "start": 288.1,
+    "end": 291.74,
+    "text": "Now listen and answer questions 5 to 10."
+  },
+  {
+    "id": 67,
+    "start": 295.16,
+    "end": 297.52,
+    "text": "Now Julie, let's look at how we can help you."
+  },
+  {
+    "id": 68,
+    "start": 297.9,
+    "end": 300.04,
+    "text": "So tell me a little about what brought you here today."
+  },
+  {
+    "id": 69,
+    "start": 300.52,
+    "end": 304.22,
+    "text": "Well, I've been getting a pain in my knee, the left one."
+  },
+  {
+    "id": 70,
+    "start": 304.8,
+    "end": 310.04,
+    "text": "Not very serious at first, but it's gotten worse, so I thought I ought to see someone"
+  },
+  {
+    "id": 71,
+    "start": 310.1,
+    "end": 310.58,
+    "text": "about it."
+  },
+  {
+    "id": 72,
+    "start": 310.7,
+    "end": 311.94,
+    "text": "That's certainly the right decision."
+  },
+  {
+    "id": 73,
+    "start": 312.58,
+    "end": 314.28,
+    "text": "So how long have you been aware of this pain?"
+  },
+  {
+    "id": 74,
+    "start": 314.54,
+    "end": 316.98,
+    "text": "Is it just a few days or is it longer than that?"
+  },
+  {
+    "id": 75,
+    "start": 317.56,
+    "end": 318.24,
+    "text": "Longer."
+  },
+  {
+    "id": 76,
+    "start": 318.98,
+    "end": 324.12,
+    "text": "It's been worse for the last couple of days, but it's three weeks since I first noticed"
+  },
+  {
+    "id": 77,
+    "start": 324.28,
+    "end": 324.44,
+    "text": "it."
+  },
+  {
+    "id": 78,
+    "start": 325.02,
+    "end": 328.82,
+    "text": "It came on quite gradually, though, so I kind of ignored it at first."
+  },
+  {
+    "id": 79,
+    "start": 329.28,
+    "end": 332.7,
+    "text": "And have you taken any medication yourself or treated it in any way?"
+  },
+  {
+    "id": 80,
+    "start": 333.02,
+    "end": 338.68,
+    "text": "Yeah, I've been taking medication to deal with the pain, Tylenol, and that works okay"
+  },
+  {
+    "id": 81,
+    "start": 338.74,
+    "end": 342.2,
+    "text": "for a few hours, but I don't like to keep taking it."
+  },
+  {
+    "id": 82,
+    "start": 342.52,
+    "end": 342.9,
+    "text": "Okay."
+  },
+  {
+    "id": 83,
+    "start": 343.3,
+    "end": 344.46,
+    "text": "And what about heat treatment?"
+  },
+  {
+    "id": 84,
+    "start": 344.76,
+    "end": 346.04,
+    "text": "Have you tried applying heat at all?"
+  },
+  {
+    "id": 85,
+    "start": 346.48,
+    "end": 350.52,
+    "text": "No, but I have been using ice on it for the last few days."
+  },
+  {
+    "id": 86,
+    "start": 351.02,
+    "end": 352.82,
+    "text": "And does that seem to help the pain at all?"
+  },
+  {
+    "id": 87,
+    "start": 353.22,
+    "end": 354.1,
+    "text": "A little, yes."
+  },
+  {
+    "id": 88,
+    "start": 354.48,
+    "end": 354.76,
+    "text": "Good."
+  },
+  {
+    "id": 89,
+    "start": 355.24,
+    "end": 357.12,
+    "text": "Now you look as if you're quite fit normally."
+  },
+  {
+    "id": 90,
+    "start": 357.5,
+    "end": 358.28,
+    "text": "I am, yes."
+  },
+  {
+    "id": 91,
+    "start": 358.62,
+    "end": 360.66,
+    "text": "So do you do any sport on a regular basis?"
+  },
+  {
+    "id": 92,
+    "start": 361.08,
+    "end": 362.74,
+    "text": "Yes, I play a lot of tennis."
+  },
+  {
+    "id": 93,
+    "start": 362.92,
+    "end": 365.56,
+    "text": "I belong to a club, so I go there a lot."
+  },
+  {
+    "id": 94,
+    "start": 366.12,
+    "end": 371.26,
+    "text": "I'm quite competitive, so I enjoy that side of it as well as the exercise, but I haven't"
+  },
+  {
+    "id": 95,
+    "start": 371.3,
+    "end": 372.54,
+    "text": "gone since I started."
+  },
+  {
+    "id": 96,
+    "start": 372.78,
+    "end": 373.06,
+    "text": "Sure."
+  },
+  {
+    "id": 97,
+    "start": 373.44,
+    "end": 375.14,
+    "text": "And do you do any other types of exercise?"
+  },
+  {
+    "id": 98,
+    "start": 375.4,
+    "end": 380.38,
+    "text": "Yeah, I sometimes do a little swimming, but usually just when I'm on vacation."
+  },
+  {
+    "id": 99,
+    "start": 381.08,
+    "end": 384.94,
+    "text": "But normally I go running a few times a week, maybe three or four times."
+  },
+  {
+    "id": 100,
+    "start": 385.26,
+    "end": 385.6,
+    "text": "Hmm."
+  },
+  {
+    "id": 101,
+    "start": 386.08,
+    "end": 390.14,
+    "text": "So you're licking it in quite a pounding, but you haven't had any problems up to now?"
+  },
+  {
+    "id": 102,
+    "start": 390.48,
+    "end": 391.82,
+    "text": "No, not with my legs."
+  },
+  {
+    "id": 103,
+    "start": 392.62,
+    "end": 397.1,
+    "text": "I did have an accident last year when I slipped and hurt my shoulder, but that's better now."
+  },
+  {
+    "id": 104,
+    "start": 397.68,
+    "end": 398.06,
+    "text": "Excellent."
+  },
+  {
+    "id": 105,
+    "start": 398.66,
+    "end": 399.6,
+    "text": "And do you have any allergies?"
+  },
+  {
+    "id": 106,
+    "start": 400.2,
+    "end": 401.8,
+    "text": "No, none that I'm aware of."
+  },
+  {
+    "id": 107,
+    "start": 402.18,
+    "end": 404.58,
+    "text": "And do you take any medication on a regular basis?"
+  },
+  {
+    "id": 108,
+    "start": 405.32,
+    "end": 407.36,
+    "text": "Well, I take vitamins, but that's all."
+  },
+  {
+    "id": 109,
+    "start": 407.56,
+    "end": 408.78,
+    "text": "I'm generally very healthy."
+  },
+  {
+    "id": 110,
+    "start": 409.48,
+    "end": 409.82,
+    "text": "Okay."
+  },
+  {
+    "id": 111,
+    "start": 410.04,
+    "end": 413.06,
+    "text": "Well, let's have a closer look and see what might be causing this problem."
+  },
+  {
+    "id": 112,
+    "start": 413.64,
+    "end": 414.62,
+    "text": "If you can just get up."
+  },
+  {
+    "id": 113,
+    "start": 417.88,
+    "end": 419.78,
+    "text": "That is the end of section one."
+  },
+  {
+    "id": 114,
+    "start": 421.42,
+    "end": 424.46,
+    "text": "You now have half a minute to check your answers."
+  },
+  {
+    "id": 115,
+    "start": 455.22,
+    "end": 457.26,
+    "text": "Now turn to section two."
+  },
+  {
+    "id": 116,
+    "start": 464.76,
+    "end": 465.68,
+    "text": "Section two."
+  },
+  {
+    "id": 117,
+    "start": 467.6,
+    "end": 473.52,
+    "text": "You will hear a guide talking to a group of tourists who are about to visit an English"
+  },
+  {
+    "id": 118,
+    "start": 473.62,
+    "end": 474.04,
+    "text": "castle."
+  },
+  {
+    "id": 119,
+    "start": 475.84,
+    "end": 480.32,
+    "text": "First, you have some time to look at questions 11 to 15."
+  },
+  {
+    "id": 120,
+    "start": 515.86,
+    "end": 520.6,
+    "text": "Now listen carefully and answer questions 11 to 15."
+  },
+  {
+    "id": 121,
+    "start": 524.12,
+    "end": 527.74,
+    "text": "We'll be arriving at Brannley Castle in about five minutes."
+  },
+  {
+    "id": 122,
+    "start": 528.16,
+    "end": 532.88,
+    "text": "But before we get there, I'll give you a little information about the castle and what"
+  },
+  {
+    "id": 123,
+    "start": 533.02,
+    "end": 534.22,
+    "text": "our visit will include."
+  },
+  {
+    "id": 124,
+    "start": 535.4,
+    "end": 540.34,
+    "text": "So in fact, there's been a castle on this site for over 1100 years."
+  },
+  {
+    "id": 125,
+    "start": 541.14,
+    "end": 548.06,
+    "text": "The first building was a fort constructed in 914 AD for defense against Danish invaders"
+  },
+  {
+    "id": 126,
+    "start": 548.42,
+    "end": 552.3,
+    "text": "by King Alfred the Great's daughter, who ruled England at the time."
+  },
+  {
+    "id": 127,
+    "start": 553.46,
+    "end": 558.12,
+    "text": "In the following century, after the Norman's conquered England, the land was given to"
+  },
+  {
+    "id": 128,
+    "start": 558.14,
+    "end": 560.36,
+    "text": "a nobleman called Richard Devere."
+  },
+  {
+    "id": 129,
+    "start": 560.98,
+    "end": 566.34,
+    "text": "And he built a castle there that stayed in the Devere family for over 400 years."
+  },
+  {
+    "id": 130,
+    "start": 567.5,
+    "end": 572.68,
+    "text": "However, when Queen Elizabeth I announced that she was going to visit the castle in 1576,"
+  },
+  {
+    "id": 131,
+    "start": 573.36,
+    "end": 575.42,
+    "text": "it was beginning to look a bit rundown."
+  },
+  {
+    "id": 132,
+    "start": 576.18,
+    "end": 581.24,
+    "text": "And it was decided that rather than repair the guestrooms, did make a new house for her,"
+  },
+  {
+    "id": 133,
+    "start": 581.36,
+    "end": 583.48,
+    "text": "out of wood next to the main hall."
+  },
+  {
+    "id": 134,
+    "start": 584.38,
+    "end": 590.12,
+    "text": "She stayed there for four nights, and apparently it was very luxurious, but unfortunately"
+  },
+  {
+    "id": 135,
+    "start": 590.2,
+    "end": 592.86,
+    "text": "it was destroyed a few years later by fire."
+  },
+  {
+    "id": 136,
+    "start": 593.56,
+    "end": 600.98,
+    "text": "In the 17th century the castle belonged to the wealthy Fenis family, who enlarged it and"
+  },
+  {
+    "id": 137,
+    "start": 601.0,
+    "end": 602.1,
+    "text": "made it more comfortable."
+  },
+  {
+    "id": 138,
+    "start": 602.88,
+    "end": 608.44,
+    "text": "However, by 1982 the Fenis family could no longer afford to maintain the castle, even"
+  },
+  {
+    "id": 139,
+    "start": 608.44,
+    "end": 611.86,
+    "text": "though they received government support, and they put it on the market."
+  },
+  {
+    "id": 140,
+    "start": 613.26,
+    "end": 617.54,
+    "text": "They was eventually taken over by a company who owned a number of amusement parks."
+  },
+  {
+    "id": 141,
+    "start": 618.0,
+    "end": 621.96,
+    "text": "But when we get there I think you'll see that they've managed to retain the original"
+  },
+  {
+    "id": 142,
+    "start": 622.04,
+    "end": 623.24,
+    "text": "atmosphere of the castle."
+  },
+  {
+    "id": 143,
+    "start": 624.08,
+    "end": 629.6,
+    "text": "When you go inside you'll find that in the staterooms there are lifelike moving wax"
+  },
+  {
+    "id": 144,
+    "start": 629.76,
+    "end": 635.32,
+    "text": "models dressed in costumes of different periods in the past, which even carry on conversations"
+  },
+  {
+    "id": 145,
+    "start": 635.58,
+    "end": 635.98,
+    "text": "together."
+  },
+  {
+    "id": 146,
+    "start": 636.78,
+    "end": 641.84,
+    "text": "As well as that in every room there are booklets giving information about what the room"
+  },
+  {
+    "id": 147,
+    "start": 641.9,
+    "end": 646.18,
+    "text": "was used for, and the history of the objects and furniture it contains."
+  },
+  {
+    "id": 148,
+    "start": 648.1,
+    "end": 655.06,
+    "text": "The castle parks quite extensive, at one time shape were kept there, and in the 19th century"
+  },
+  {
+    "id": 149,
+    "start": 655.08,
+    "end": 659.92,
+    "text": "the owners had a little zoo with animals like rabbits and even a baby elephant."
+  },
+  {
+    "id": 150,
+    "start": 660.8,
+    "end": 666.0,
+    "text": "Nowadays the old zoo buildings are used for public displays of paintings and sculpture."
+  },
+  {
+    "id": 151,
+    "start": 667.26,
+    "end": 673.98,
+    "text": "The park also has some beautiful trees, though the oldest of all which dated back 800"
+  },
+  {
+    "id": 152,
+    "start": 674.54,
+    "end": 677.78,
+    "text": "years were sadly blown down in 1987."
+  },
+  {
+    "id": 153,
+    "start": 678.98,
+    "end": 684.82,
+    "text": "Now you're free to wander around on your own until 430, but then at the end of our visit"
+  },
+  {
+    "id": 154,
+    "start": 684.96,
+    "end": 688.16,
+    "text": "we'll all meet together at the bottom of the great staircase."
+  },
+  {
+    "id": 155,
+    "start": 689.1,
+    "end": 693.4,
+    "text": "We'll then go on to the long gallery where there's a wonderful collection of photographs"
+  },
+  {
+    "id": 156,
+    "start": 693.96,
+    "end": 698.09,
+    "text": "showing the family who owned the castle a hundred years ago having tea and cakes in"
+  },
+  {
+    "id": 157,
+    "start": 698.09,
+    "end": 703.64,
+    "text": "a conservatory, and we'll then take you to the same place where afternoon tea will be"
+  },
+  {
+    "id": 158,
+    "start": 703.68,
+    "end": 704.4,
+    "text": "served to you."
+  },
+  {
+    "id": 159,
+    "start": 707.32,
+    "end": 714.1,
+    "text": "Before you hear the rest of the talk you have some time to look at questions 16 to 20."
+  },
+  {
+    "id": 160,
+    "start": 723.86,
+    "end": 743.5,
+    "text": "Now listen and answer questions 16 to 20."
+  },
+  {
+    "id": 161,
+    "start": 746.98,
+    "end": 753.44,
+    "text": "Now if you can take a look at your plans you'll see Brannley Castle has four hours joined"
+  },
+  {
+    "id": 162,
+    "start": 753.44,
+    "end": 757.38,
+    "text": "together by a high wall with the river on two sides."
+  },
+  {
+    "id": 163,
+    "start": 758.24,
+    "end": 763.26,
+    "text": "Don't miss seeing the great hall, that's near the river in the main tower, the biggest"
+  },
+  {
+    "id": 164,
+    "start": 763.36,
+    "end": 767.42,
+    "text": "one which was extended and redesigned in the 18th century."
+  },
+  {
+    "id": 165,
+    "start": 768.68,
+    "end": 773.5,
+    "text": "If you want to get a good view of the whole castle you can walk around the walls, the"
+  },
+  {
+    "id": 166,
+    "start": 773.58,
+    "end": 778.73,
+    "text": "starting points quite near the main entrance walk straight down the path until you get to"
+  },
+  {
+    "id": 167,
+    "start": 778.73,
+    "end": 780.88,
+    "text": "the south gate and it's just there."
+  },
+  {
+    "id": 168,
+    "start": 781.48,
+    "end": 784.76,
+    "text": "Don't go on to the north gate, there's no way up from there."
+  },
+  {
+    "id": 169,
+    "start": 786.2,
+    "end": 791.61,
+    "text": "There'll shortly be a show in which you can see Arches displaying their skill with a"
+  },
+  {
+    "id": 170,
+    "start": 791.61,
+    "end": 792.36,
+    "text": "bow and arrow."
+  },
+  {
+    "id": 171,
+    "start": 792.56,
+    "end": 798.42,
+    "text": "The quickest way to get there is to take the first left after the main entrance and follow"
+  },
+  {
+    "id": 172,
+    "start": 798.42,
+    "end": 800.34,
+    "text": "the path past the bridge."
+  },
+  {
+    "id": 173,
+    "start": 801.62,
+    "end": 803.54,
+    "text": "Then you'll see it in front of you at the end."
+  },
+  {
+    "id": 174,
+    "start": 804.84,
+    "end": 811.05,
+    "text": "If you like animals there's also a display of hunting birds, falcons and eagles and"
+  },
+  {
+    "id": 175,
+    "start": 811.05,
+    "end": 811.56,
+    "text": "so on."
+  },
+  {
+    "id": 176,
+    "start": 811.88,
+    "end": 818.11,
+    "text": "If you go from the main entrance in the direction of a south gate but turn right before you"
+  },
+  {
+    "id": 177,
+    "start": 818.11,
+    "end": 823.36,
+    "text": "get there instead of going through it you'll see it on your right past the first tower."
+  },
+  {
+    "id": 178,
+    "start": 824.7,
+    "end": 830.14,
+    "text": "At 3pm there's a short performance of traditional dancing on the outdoor stage."
+  },
+  {
+    "id": 179,
+    "start": 830.94,
+    "end": 835.02,
+    "text": "It's right at the other side of the castle from the entrance and over the bridge."
+  },
+  {
+    "id": 180,
+    "start": 835.5,
+    "end": 837.22,
+    "text": "It's about 10 minutes walk or so."
+  },
+  {
+    "id": 181,
+    "start": 838.24,
+    "end": 840.12,
+    "text": "And finally the shop."
+  },
+  {
+    "id": 182,
+    "start": 841.02,
+    "end": 846.0,
+    "text": "It's actually inside one of the towers but the way in is from the outside."
+  },
+  {
+    "id": 183,
+    "start": 846.68,
+    "end": 851.74,
+    "text": "Just take the first left after the main entrance, go down the path and take the first right."
+  },
+  {
+    "id": 184,
+    "start": 852.26,
+    "end": 854.5,
+    "text": "It's got some lovely gifts and souvenirs."
+  },
+  {
+    "id": 185,
+    "start": 861.46,
+    "end": 863.2,
+    "text": "That's the end of section 2."
+  },
+  {
+    "id": 186,
+    "start": 864.82,
+    "end": 867.82,
+    "text": "You now have half a minute to check your answers."
+  },
+  {
+    "id": 187,
+    "start": 885.9,
+    "end": 900.46,
+    "text": "Now turn to section 3."
+  },
+  {
+    "id": 188,
+    "start": 910.9,
+    "end": 917.51,
+    "text": "You will hear two environmental science students called Rosie and Martin discussing their"
+  },
+  {
+    "id": 189,
+    "start": 917.51,
+    "end": 922.42,
+    "text": "presentation on an extinct animal called the woolly mammoth with their tutor."
+  },
+  {
+    "id": 190,
+    "start": 924.54,
+    "end": 929.5,
+    "text": "First you have some time to look at questions 21 to 24."
+  },
+  {
+    "id": 191,
+    "start": 938.54,
+    "end": 965.0,
+    "text": "Now listen carefully and answer questions 21 to 24."
+  },
+  {
+    "id": 192,
+    "start": 968.62,
+    "end": 974.82,
+    "text": "So Rosie and Martin let's look at what you've got for your presentation on woolly mammoths."
+  },
+  {
+    "id": 193,
+    "start": 975.5,
+    "end": 978.64,
+    "text": "Okay we've got a short outline here."
+  },
+  {
+    "id": 194,
+    "start": 979.4,
+    "end": 979.74,
+    "text": "Thanks."
+  },
+  {
+    "id": 195,
+    "start": 980.68,
+    "end": 985.28,
+    "text": "So it's about a research project in North America."
+  },
+  {
+    "id": 196,
+    "start": 985.76,
+    "end": 991.2,
+    "text": "Yes but we thought we needed something general about woolly mammoths in our introduction"
+  },
+  {
+    "id": 197,
+    "start": 991.9,
+    "end": 997.24,
+    "text": "to establish that they were related to our modern elephant and they lived thousands"
+  },
+  {
+    "id": 198,
+    "start": 997.52,
+    "end": 999.76,
+    "text": "of years ago in the last ice age."
+  },
+  {
+    "id": 199,
+    "start": 1000.34,
+    "end": 1007.18,
+    "text": "Maybe we could show a video clip of a cartoon about mammoths but that would be a bit childish."
+  },
+  {
+    "id": 200,
+    "start": 1008.06,
+    "end": 1014.04,
+    "text": "Or we could have a diagram it could be a timeline to show when they lived with illustrations."
+  },
+  {
+    "id": 201,
+    "start": 1014.66,
+    "end": 1018.06,
+    "text": "Or we could just show a drawing of them walking in the ice."
+  },
+  {
+    "id": 202,
+    "start": 1019.02,
+    "end": 1021.68,
+    "text": "No, let's go with your last suggestion."
+  },
+  {
+    "id": 203,
+    "start": 1022.28,
+    "end": 1022.6,
+    "text": "Good."
+  },
+  {
+    "id": 204,
+    "start": 1023.46,
+    "end": 1029.68,
+    "text": "Then you're describing the discovery of the mammoth tooth on St. Paul's Island in Alaska"
+  },
+  {
+    "id": 205,
+    "start": 1029.68,
+    "end": 1031.58,
+    "text": "and why it was significant."
+  },
+  {
+    "id": 206,
+    "start": 1032.24,
+    "end": 1036.3,
+    "text": "Yes, the tooth was found by a man called Russell Graham."
+  },
+  {
+    "id": 207,
+    "start": 1036.96,
+    "end": 1039.96,
+    "text": "He picked it up from under a rock in the cave."
+  },
+  {
+    "id": 208,
+    "start": 1040.42,
+    "end": 1046.5,
+    "text": "He knew it was special for a start it was in really good condition as if it had been"
+  },
+  {
+    "id": 209,
+    "start": 1046.52,
+    "end": 1049.22,
+    "text": "just extracted from the animal's jaw bone."
+  },
+  {
+    "id": 210,
+    "start": 1049.92,
+    "end": 1054.52,
+    "text": "Anyway, they found it was 6,500 years old."
+  },
+  {
+    "id": 211,
+    "start": 1055.28,
+    "end": 1057.2,
+    "text": "So why was that significant?"
+  },
+  {
+    "id": 212,
+    "start": 1058.56,
+    "end": 1064.36,
+    "text": "Well, the mammoth bones previously found on the North American mainland were much less"
+  },
+  {
+    "id": 213,
+    "start": 1064.36,
+    "end": 1067.86,
+    "text": "recent than that so this was really amazing."
+  },
+  {
+    "id": 214,
+    "start": 1068.5,
+    "end": 1074.54,
+    "text": "Then we're making an animated diagram to show the geography of the area in prehistoric times."
+  },
+  {
+    "id": 215,
+    "start": 1075.6,
+    "end": 1079.48,
+    "text": "So originally St. Paul's Island wasn't an island."
+  },
+  {
+    "id": 216,
+    "start": 1080.18,
+    "end": 1088.14,
+    "text": "It was connected to the mainland and mammoths and other animals like bears were able to roam around the whole area."
+  },
+  {
+    "id": 217,
+    "start": 1089.0,
+    "end": 1096.1,
+    "text": "Then the climate warmed up and the sea level began to rise and the island got cut off from the mainland."
+  },
+  {
+    "id": 218,
+    "start": 1096.98,
+    "end": 1099.7,
+    "text": "So those mammoths on the island couldn't escape."
+  },
+  {
+    "id": 219,
+    "start": 1100.36,
+    "end": 1101.92,
+    "text": "They had to stay on the island."
+  },
+  {
+    "id": 220,
+    "start": 1102.78,
+    "end": 1109.26,
+    "text": "And in fact the species survived there for thousands of years after they'd become extinct on the mainland."
+  },
+  {
+    "id": 221,
+    "start": 1109.96,
+    "end": 1113.38,
+    "text": "So why do you think they died out on the mainland?"
+  },
+  {
+    "id": 222,
+    "start": 1114.28,
+    "end": 1115.28,
+    "text": "No one's sure."
+  },
+  {
+    "id": 223,
+    "start": 1115.92,
+    "end": 1123.8,
+    "text": "Anyway, next we'll explain how Graham and his team identified the date when the mammoths became extinct on the island."
+  },
+  {
+    "id": 224,
+    "start": 1124.88,
+    "end": 1134.0,
+    "text": "They concluded that the extinction happened 5,600 years ago, which is a very precise time for a prehistoric extinction."
+  },
+  {
+    "id": 225,
+    "start": 1134.86,
+    "end": 1139.22,
+    "text": "It's based on samples they took from mud at the bottom of a lake on the island."
+  },
+  {
+    "id": 226,
+    "start": 1140.1,
+    "end": 1148.92,
+    "text": "They analyzed it to find out what had fallen in over time, bits of plants, volcanic ash, and even DNA from the mammoth themselves."
+  },
+  {
+    "id": 227,
+    "start": 1149.92,
+    "end": 1154.12,
+    "text": "It's standard procedure, but it took nearly two years to do."
+  },
+  {
+    "id": 228,
+    "start": 1157.54,
+    "end": 1164.4,
+    "text": "Before you hear the rest of the discussion, you have some time to look at questions 25 to 30."
+  },
+  {
+    "id": 229,
+    "start": 1179.78,
+    "end": 1199.06,
+    "text": "Now listen and answer questions 25 to 30."
+  },
+  {
+    "id": 230,
+    "start": 1202.36,
+    "end": 1210.36,
+    "text": "So why don't you quickly go through the main sections of your presentation and discuss what actions needed for each part?"
+  },
+  {
+    "id": 231,
+    "start": 1210.94,
+    "end": 1217.54,
+    "text": "Okay, so for the introduction we're using a visual. So once we've prepared that, we're done."
+  },
+  {
+    "id": 232,
+    "start": 1218.14,
+    "end": 1223.7,
+    "text": "I'm not sure. I think we need to write down all the ideas we want to include here."
+  },
+  {
+    "id": 233,
+    "start": 1224.2,
+    "end": 1229.08,
+    "text": "Not just rely on memory. How we begin the presentation is so important."
+  },
+  {
+    "id": 234,
+    "start": 1229.22,
+    "end": 1240.68,
+    "text": "You're right. The discovery of the mammoth teeth is probably the most dramatic part, but we don't have that much information, only what we got from the online article."
+  },
+  {
+    "id": 235,
+    "start": 1241.64,
+    "end": 1248.04,
+    "text": "I thought maybe we could get in touch with the researcher who led the team and asked him to tell us a bit more."
+  },
+  {
+    "id": 236,
+    "start": 1248.56,
+    "end": 1257.96,
+    "text": "Great idea. What about the section with the initial questions asked by the researchers? We've got a lot on that, but we need to make it interesting."
+  },
+  {
+    "id": 237,
+    "start": 1258.7,
+    "end": 1265.08,
+    "text": "We could ask the audience to suggest some questions about it and then see how many of them we can answer."
+  },
+  {
+    "id": 238,
+    "start": 1265.9,
+    "end": 1269.82,
+    "text": "I don't think it would take too long. Yes, that would add a bit of variety."
+  },
+  {
+    "id": 239,
+    "start": 1270.66,
+    "end": 1276.76,
+    "text": "Then the section on further research carried out on the island, analyzing the mud in the lake."
+  },
+  {
+    "id": 240,
+    "start": 1277.78,
+    "end": 1282.74,
+    "text": "I wonder if we've actually got too much information here. Should we cut some?"
+  },
+  {
+    "id": 241,
+    "start": 1283.26,
+    "end": 1291.44,
+    "text": "I don't think so, but it's all a bit muddled at present. Yes. Maybe it would be better if it followed a chronological pattern."
+  },
+  {
+    "id": 242,
+    "start": 1292.04,
+    "end": 1301.14,
+    "text": "I think so. The findings and possible explanations section is just about ready, but we need to practice it so we're sure it won't overrun."
+  },
+  {
+    "id": 243,
+    "start": 1301.72,
+    "end": 1305.38,
+    "text": "I think it should be okay, but yes, let's make sure."
+  },
+  {
+    "id": 244,
+    "start": 1306.6,
+    "end": 1317.08,
+    "text": "In the last section, relevance to the present day, you've got some good ideas, but this is where you need to move away from the ideas of others and give your own viewpoint."
+  },
+  {
+    "id": 245,
+    "start": 1317.76,
+    "end": 1321.7,
+    "text": "Okay, we'll think about that. Now, shall we show you something?"
+  },
+  {
+    "id": 246,
+    "start": 1324.9,
+    "end": 1331.6,
+    "text": "That is the end of section three. You now have half a minute to check your answers."
+  },
+  {
+    "id": 247,
+    "start": 1335.78,
+    "end": 1340.82,
+    "text": "Now turn to section four."
+  },
+  {
+    "id": 248,
+    "start": 1362.22,
+    "end": 1364.3,
+    "text": "Now turn to section four."
+  },
+  {
+    "id": 249,
+    "start": 1367.28,
+    "end": 1376.42,
+    "text": "Section four. You will hear a lecture about the history of weather forecasting."
+  },
+  {
+    "id": 250,
+    "start": 1378.5,
+    "end": 1383.34,
+    "text": "First, you have some time to look at questions 31 to 40."
+  },
+  {
+    "id": 251,
+    "start": 1397.56,
+    "end": 1398.48,
+    "text": "You"
+  },
+  {
+    "id": 252,
+    "start": 1427.28,
+    "end": 1438.92,
+    "text": "Now listen carefully and answer questions 31 to 40."
+  },
+  {
+    "id": 253,
+    "start": 1442.36,
+    "end": 1453.66,
+    "text": "In this series of lectures about the history of weather forecasting, I'll start by examining its early history. That'll be the subject of today's talk."
+  },
+  {
+    "id": 254,
+    "start": 1454.92,
+    "end": 1459.1,
+    "text": "Okay, so we'll start by going back thousands of years."
+  },
+  {
+    "id": 255,
+    "start": 1460.28,
+    "end": 1471.9,
+    "text": "Most ancient cultures had weather gods and weather catastrophes such as floods played an important role in many creation myths."
+  },
+  {
+    "id": 256,
+    "start": 1472.98,
+    "end": 1482.12,
+    "text": "Generally, weather was attributed to the whims of the gods as the wide range of weather gods in various cultures shows."
+  },
+  {
+    "id": 257,
+    "start": 1483.12,
+    "end": 1491.12,
+    "text": "For instance, there's the Egyptian sun god Ra and Thor, the Norse god of thunder and lightning."
+  },
+  {
+    "id": 258,
+    "start": 1492.3,
+    "end": 1501.4,
+    "text": "Many ancient civilizations developed rights such as dances in order to make the weather gods look kindly on them."
+  },
+  {
+    "id": 259,
+    "start": 1502.7,
+    "end": 1513.68,
+    "text": "But the weather was of daily importance observing the skies and drawing the correct conclusions from these observations was really important."
+  },
+  {
+    "id": 260,
+    "start": 1514.52,
+    "end": 1531.28,
+    "text": "In fact, their survival depended on it. It isn't known when people first started to observe the skies, but at around 650 BC, the Babylonians produced the first short range weather forecast."
+  },
+  {
+    "id": 261,
+    "start": 1532.84,
+    "end": 1537.28,
+    "text": "Based on their observations of clouds and other phenomena."
+  },
+  {
+    "id": 262,
+    "start": 1538.7,
+    "end": 1555.06,
+    "text": "The Chinese also recognized weather patterns and by 300 BC, astronomers had developed a calendar which divided the year into 24 festivals, each associated with a different weather phenomenon."
+  },
+  {
+    "id": 263,
+    "start": 1556.78,
+    "end": 1563.02,
+    "text": "The ancient Greeks were the first to develop a more scientific approach to explaining the weather."
+  },
+  {
+    "id": 264,
+    "start": 1564.22,
+    "end": 1576.8,
+    "text": "The work of the philosopher and scientist Aristotle in the fourth century BC is especially noteworthy as his ideas held sway for nearly 2,000 years."
+  },
+  {
+    "id": 265,
+    "start": 1578.34,
+    "end": 1589.26,
+    "text": "In 340 BC, he wrote a book in which he attempted to account for the formation of rain, clouds, wind and storms."
+  },
+  {
+    "id": 266,
+    "start": 1590.28,
+    "end": 1602.26,
+    "text": "He also described celestial phenomena such as halos, that is, bright circles of light around the sun, the moon and bright stars, and comets."
+  },
+  {
+    "id": 267,
+    "start": 1603.44,
+    "end": 1622.24,
+    "text": "Many of his observations were surprisingly accurate. For example, he believed that heat could cause water to evaporate, but he also jumped to quite a few wrong conclusions, such as that winds are breathed out by the earth."
+  },
+  {
+    "id": 268,
+    "start": 1623.08,
+    "end": 1626.94,
+    "text": "Errors like this were rectified from the Renaissance onwards."
+  },
+  {
+    "id": 269,
+    "start": 1632.3,
+    "end": 1639.76,
+    "text": "For nearly 2,000 years Aristotle's work was accepted as the chief authority on weather theory."
+  },
+  {
+    "id": 270,
+    "start": 1640.76,
+    "end": 1656.34,
+    "text": "Alongside this, though, in the Middle Ages, weather observations were passed on in the form of proverbs, such as red sky at night, shepherds the light, red sky in the morning, shepherds warning."
+  },
+  {
+    "id": 271,
+    "start": 1657.9,
+    "end": 1666.34,
+    "text": "Many of these are based on very good observations and are accurate, as contemporary meteorologists have discovered."
+  },
+  {
+    "id": 272,
+    "start": 1668.1,
+    "end": 1681.18,
+    "text": "For centuries, any attempt to forecast the weather could only be based on personal observations, but in the 15th century scientists began to see the need for instruments."
+  },
+  {
+    "id": 273,
+    "start": 1682.2,
+    "end": 1691.88,
+    "text": "Until then, the only ones available were weather veins to determine the wind direction and early versions of rain gauges."
+  },
+  {
+    "id": 274,
+    "start": 1693.48,
+    "end": 1700.36,
+    "text": "One of the first invented in the 15th century was a high grometer, which measured humidity."
+  },
+  {
+    "id": 275,
+    "start": 1701.46,
+    "end": 1707.08,
+    "text": "This was one of many inventions that contributed to the development of weather forecasting."
+  },
+  {
+    "id": 276,
+    "start": 1709.14,
+    "end": 1716.96,
+    "text": "In 1592, the Italian scientist and inventor Galileo developed the world's first thermometer."
+  },
+  {
+    "id": 277,
+    "start": 1718.48,
+    "end": 1725.94,
+    "text": "His student, Torrecelli, later invented the barometer, which allowed people to measure atmospheric pressure."
+  },
+  {
+    "id": 278,
+    "start": 1727.64,
+    "end": 1734.72,
+    "text": "In 1648, the French philosopher Pascal proved that pressure decreases with altitude."
+  },
+  {
+    "id": 279,
+    "start": 1735.98,
+    "end": 1746.92,
+    "text": "This discovery was verified by English astronomer Halle in 1686, and Halle was also the first person to map trade winds."
+  },
+  {
+    "id": 280,
+    "start": 1748.2,
+    "end": 1762.64,
+    "text": "This increasing ability to measure factors related to weather helped scientists to understand the atmosphere and its processes better, and they started collecting weather observation data systematically."
+  },
+  {
+    "id": 281,
+    "start": 1764.26,
+    "end": 1779.54,
+    "text": "In the 18th century, the scientist and politician Benjamin Franklin carried out work on electricity and lightning in particular, but he was also very interested in weather and studied it throughout most of his life."
+  },
+  {
+    "id": 282,
+    "start": 1780.94,
+    "end": 1786.7,
+    "text": "It was Franklin who discovered that storms generally travel from west to east."
+  },
+  {
+    "id": 283,
+    "start": 1788.36,
+    "end": 1795.4,
+    "text": "In addition to new meteorological instruments, other developments contributed to our understanding of the atmosphere."
+  },
+  {
+    "id": 284,
+    "start": 1796.62,
+    "end": 1807.78,
+    "text": "People in different locations began to keep records, and in the mid-19th century, the invention of the telegraph made it possible for these records to be collated."
+  },
+  {
+    "id": 285,
+    "start": 1808.94,
+    "end": 1814.14,
+    "text": "This led, by the end of the 19th century, to the first weather services."
+  },
+  {
+    "id": 286,
+    "start": 1815.6,
+    "end": 1827.5,
+    "text": "It was not until the early 20th century that mathematics and physics became part of meteorology, and we'll continue from that point next week."
+  },
+  {
+    "id": 287,
+    "start": 1830.76,
+    "end": 1837.8,
+    "text": "That is the end of section 4. You now have half a minute to check your answers."
+  },
+  {
+    "id": 288,
+    "start": 1868.42,
+    "end": 1870.54,
+    "text": "That is the end of the listening test."
+  },
+  {
+    "id": 289,
+    "start": 1872.08,
+    "end": 1878.54,
+    "text": "In the IELTS test, you would now have 10 minutes to transfer your answers to the answer sheet."
+  },
+  {
+    "id": 290,
+    "start": 1884.62,
+    "end": 1888.48,
+    "text": "IELTS 14 tests 1 to 4."
+  },
+  {
+    "id": 291,
+    "start": 1890.26,
+    "end": 1894.58,
+    "text": "Published by Cambridge University Press and Uckles 2019."
+  },
+  {
+    "id": 292,
+    "start": 1896.78,
+    "end": 1898.52,
+    "text": "This recording is copyright."
+  },
+  {
+    "id": 293,
+    "start": 1900.06,
+    "end": 1908.96,
+    "text": "Test 3. You will hear a number of different recordings, and you will have to answer questions on what you hear."
+  },
+  {
+    "id": 294,
+    "start": 1910.86,
+    "end": 1917.62,
+    "text": "There will be time for you to read the instructions and questions, and you will have a chance to check your work."
+  },
+  {
+    "id": 295,
+    "start": 1919.5,
+    "end": 1922.88,
+    "text": "All the recordings will be played once only."
+  },
+  {
+    "id": 296,
+    "start": 1924.78,
+    "end": 1926.98,
+    "text": "The test is in four sections."
+  },
+  {
+    "id": 297,
+    "start": 1928.84,
+    "end": 1935.38,
+    "text": "At the end of the test, you will be given 10 minutes to transfer your answers to an answer sheet."
+  },
+  {
+    "id": 298,
+    "start": 1937.78,
+    "end": 1939.6,
+    "text": "Now turn to section 1."
+  },
+  {
+    "id": 299,
+    "start": 1945.04,
+    "end": 1945.98,
+    "text": "Section 1."
+  },
+  {
+    "id": 300,
+    "start": 1948.02,
+    "end": 1955.66,
+    "text": "You will hear a man phoning the customer services manager of a hotel to get information about holding a conference there."
+  },
+  {
+    "id": 301,
+    "start": 1957.62,
+    "end": 1961.88,
+    "text": "First, you have some time to look at questions 1 to 5."
+  },
+  {
+    "id": 302,
+    "start": 1977.78,
+    "end": 1991.0,
+    "text": "You will see that there is an example that has been done for you."
+  },
+  {
+    "id": 303,
+    "start": 1992.6,
+    "end": 1998.24,
+    "text": "On this occasion only, the conversation relating to this will be played first."
+  },
+  {
+    "id": 304,
+    "start": 2001.7,
+    "end": 2003.82,
+    "text": "Hello, Flanda's conference hotel."
+  },
+  {
+    "id": 305,
+    "start": 2004.46,
+    "end": 2010.86,
+    "text": "Oh, hi. I wanted to ask about conference facilities at the hotel. Have I come through to the right person?"
+  },
+  {
+    "id": 306,
+    "start": 2011.34,
+    "end": 2016.06,
+    "text": "You have under customer services manager. My name is Angela."
+  },
+  {
+    "id": 307,
+    "start": 2019.6,
+    "end": 2026.52,
+    "text": "The name of the customer services manager is Angela. So Angela has been written in the space."
+  },
+  {
+    "id": 308,
+    "start": 2028.7,
+    "end": 2038.06,
+    "text": "Now we shall begin. You should answer the questions as you listen because you will not hear the recording a second time."
+  },
+  {
+    "id": 309,
+    "start": 2040.02,
+    "end": 2043.92,
+    "text": "Listen carefully and answer questions 1 to 5."
+  },
+  {
+    "id": 310,
+    "start": 2047.46,
+    "end": 2049.62,
+    "text": "Hello, Flanda's conference hotel."
+  },
+  {
+    "id": 311,
+    "start": 2050.18,
+    "end": 2056.62,
+    "text": "Oh, hi. I wanted to ask about conference facilities at the hotel. Have I come through to the right person?"
+  },
+  {
+    "id": 312,
+    "start": 2057.08,
+    "end": 2063.86,
+    "text": "You have under customer services manager. My name is Angela. So how can I help you?"
+  },
+  {
+    "id": 313,
+    "start": 2064.44,
+    "end": 2069.26,
+    "text": "Well, I'm calling from Barrett & Stansons. We're a medical company based in Perth."
+  },
+  {
+    "id": 314,
+    "start": 2069.62,
+    "end": 2069.98,
+    "text": "Oh, yes."
+  },
+  {
+    "id": 315,
+    "start": 2070.72,
+    "end": 2079.82,
+    "text": "And we're organising a conference for our clients to be held in Sydney. It'll be held over two days and we're expecting about 50 or 60 people."
+  },
+  {
+    "id": 316,
+    "start": 2080.34,
+    "end": 2081.96,
+    "text": "When were you thinking of having it?"
+  },
+  {
+    "id": 317,
+    "start": 2082.58,
+    "end": 2087.72,
+    "text": "Some time early next year, like the end of January, it'd have to be a weekend."
+  },
+  {
+    "id": 318,
+    "start": 2088.66,
+    "end": 2097.08,
+    "text": "Let me see. Our conference facilities are already booked for the weekend beginning January the 28th."
+  },
+  {
+    "id": 319,
+    "start": 2097.9,
+    "end": 2100.52,
+    "text": "We could do the first weekend in February."
+  },
+  {
+    "id": 320,
+    "start": 2101.28,
+    "end": 2103.72,
+    "text": "How about January the 21st?"
+  },
+  {
+    "id": 321,
+    "start": 2104.14,
+    "end": 2107.48,
+    "text": "I'm afraid that's book two."
+  },
+  {
+    "id": 322,
+    "start": 2108.26,
+    "end": 2110.6,
+    "text": "Well, let's go for the February date then."
+  },
+  {
+    "id": 323,
+    "start": 2111.36,
+    "end": 2114.6,
+    "text": "So that's the weekend beginning the 4th."
+  },
+  {
+    "id": 324,
+    "start": 2114.94,
+    "end": 2120.4,
+    "text": "Okay. Now, can you tell me a bit about what conference facilities you have?"
+  },
+  {
+    "id": 325,
+    "start": 2120.92,
+    "end": 2126.78,
+    "text": "Sure. So for talks and presentations, we have the Tesla room."
+  },
+  {
+    "id": 326,
+    "start": 2127.22,
+    "end": 2127.5,
+    "text": "Sorry?"
+  },
+  {
+    "id": 327,
+    "start": 2128.04,
+    "end": 2133.58,
+    "text": "Tesla that spelled T-E-S-L-A."
+  },
+  {
+    "id": 328,
+    "start": 2134.36,
+    "end": 2140.52,
+    "text": "It holds up to 100 people and it's fully equipped with our projector and so on."
+  },
+  {
+    "id": 329,
+    "start": 2140.92,
+    "end": 2142.08,
+    "text": "How about a microphone?"
+  },
+  {
+    "id": 330,
+    "start": 2142.6,
+    "end": 2145.42,
+    "text": "Yes, that'll be all set up ready for you."
+  },
+  {
+    "id": 331,
+    "start": 2146.14,
+    "end": 2151.1,
+    "text": "And there'll be one that members of the audience can use too for questions if necessary."
+  },
+  {
+    "id": 332,
+    "start": 2151.44,
+    "end": 2157.84,
+    "text": "Fine. And we'll also need some sort of open area where people can sit and have a cup of coffee."
+  },
+  {
+    "id": 333,
+    "start": 2158.48,
+    "end": 2163.4,
+    "text": "And we'd like to have an exhibition of our products and services there as well."
+  },
+  {
+    "id": 334,
+    "start": 2163.94,
+    "end": 2166.12,
+    "text": "So that'll need to be quite a big space."
+  },
+  {
+    "id": 335,
+    "start": 2166.7,
+    "end": 2172.52,
+    "text": "That's fine. There's a central ATM with all those facilities."
+  },
+  {
+    "id": 336,
+    "start": 2173.36,
+    "end": 2177.0,
+    "text": "And you can come before the conference starts if you want to set everything up."
+  },
+  {
+    "id": 337,
+    "start": 2177.36,
+    "end": 2180.36,
+    "text": "Great. And I presume there's Wi-Fi?"
+  },
+  {
+    "id": 338,
+    "start": 2180.8,
+    "end": 2185.3,
+    "text": "Oh yes. That's free and available throughout the hotel."
+  },
+  {
+    "id": 339,
+    "start": 2185.84,
+    "end": 2186.26,
+    "text": "Okay."
+  },
+  {
+    "id": 340,
+    "start": 2187.04,
+    "end": 2190.08,
+    "text": "Would you also like us to provide a buffet lunch?"
+  },
+  {
+    "id": 341,
+    "start": 2190.62,
+    "end": 2194.0,
+    "text": "We can do a two-course meal with a number of different options."
+  },
+  {
+    "id": 342,
+    "start": 2194.52,
+    "end": 2196.92,
+    "text": "What sort of price are we looking at for that?"
+  },
+  {
+    "id": 343,
+    "start": 2197.5,
+    "end": 2200.88,
+    "text": "Well, I can send you a copy of this standard menu."
+  },
+  {
+    "id": 344,
+    "start": 2201.54,
+    "end": 2204.36,
+    "text": "That's $45 per person."
+  },
+  {
+    "id": 345,
+    "start": 2205.06,
+    "end": 2208.66,
+    "text": "Or you can have this special for $25 more."
+  },
+  {
+    "id": 346,
+    "start": 2209.14,
+    "end": 2211.38,
+    "text": "I think the standard should be okay."
+  },
+  {
+    "id": 347,
+    "start": 2211.98,
+    "end": 2213.84,
+    "text": "But yes, send me the menu."
+  },
+  {
+    "id": 348,
+    "start": 2217.26,
+    "end": 2223.4,
+    "text": "Before you hear the rest of the conversation, you have some time to look at questions 6 to 10."
+  },
+  {
+    "id": 349,
+    "start": 2248.88,
+    "end": 2252.54,
+    "text": "Now listen and answer questions 6 to 10."
+  },
+  {
+    "id": 350,
+    "start": 2255.88,
+    "end": 2261.0,
+    "text": "Now we're also going to need accommodation on the Saturday night for some of the participants."
+  },
+  {
+    "id": 351,
+    "start": 2261.78,
+    "end": 2265.1,
+    "text": "I'm not sure how many, but probably about 25."
+  },
+  {
+    "id": 352,
+    "start": 2266.04,
+    "end": 2267.96,
+    "text": "So what do you charge for a room?"
+  },
+  {
+    "id": 353,
+    "start": 2268.78,
+    "end": 2273.12,
+    "text": "For conference attendees, we have a 25% reduction."
+  },
+  {
+    "id": 354,
+    "start": 2273.94,
+    "end": 2277.42,
+    "text": "So we can offer you rooms at $135."
+  },
+  {
+    "id": 355,
+    "start": 2278.62,
+    "end": 2281.62,
+    "text": "Normally, a standard room is $180."
+  },
+  {
+    "id": 356,
+    "start": 2282.6,
+    "end": 2284.06,
+    "text": "And does that include breakfast?"
+  },
+  {
+    "id": 357,
+    "start": 2284.58,
+    "end": 2290.82,
+    "text": "Sure. And of course, guests can also make use of all the other facilities at the hotel."
+  },
+  {
+    "id": 358,
+    "start": 2291.26,
+    "end": 2296.18,
+    "text": "So we've got a spa, where you can get massages and facials and so on."
+  },
+  {
+    "id": 359,
+    "start": 2296.86,
+    "end": 2300.3,
+    "text": "And there's a pool up on the roof for the use of guests."
+  },
+  {
+    "id": 360,
+    "start": 2300.9,
+    "end": 2301.6,
+    "text": "Oh, great."
+  },
+  {
+    "id": 361,
+    "start": 2302.62,
+    "end": 2304.92,
+    "text": "Now what about transport links?"
+  },
+  {
+    "id": 362,
+    "start": 2305.46,
+    "end": 2307.36,
+    "text": "The hotel's downtown, isn't it?"
+  },
+  {
+    "id": 363,
+    "start": 2307.74,
+    "end": 2310.86,
+    "text": "Yes. It's about 12 kilometres from the airport."
+  },
+  {
+    "id": 364,
+    "start": 2311.5,
+    "end": 2314.32,
+    "text": "But there's a complimentary shuttle bus for guests."
+  },
+  {
+    "id": 365,
+    "start": 2314.92,
+    "end": 2319.06,
+    "text": "And it's only about 10 minutes walk from the central railway station."
+  },
+  {
+    "id": 366,
+    "start": 2319.48,
+    "end": 2322.7,
+    "text": "Oh, okay. Now I don't know Sydney very well."
+  },
+  {
+    "id": 367,
+    "start": 2323.08,
+    "end": 2326.02,
+    "text": "Can you just give me an idea of the location of the hotel?"
+  },
+  {
+    "id": 368,
+    "start": 2326.72,
+    "end": 2330.28,
+    "text": "Oh, well, it's downtown on Wilby Street."
+  },
+  {
+    "id": 369,
+    "start": 2330.9,
+    "end": 2335.48,
+    "text": "That's quite a small street and it's not very far from the sea."
+  },
+  {
+    "id": 370,
+    "start": 2336.28,
+    "end": 2340.96,
+    "text": "And of course, if the conference attendees want to go out on their Saturday evening,"
+  },
+  {
+    "id": 371,
+    "start": 2341.14,
+    "end": 2344.1,
+    "text": "there's a huge choice of places to eat."
+  },
+  {
+    "id": 372,
+    "start": 2344.84,
+    "end": 2350.18,
+    "text": "Then, if they want to make a night of it, they can go on to one of the clubs in the area."
+  },
+  {
+    "id": 373,
+    "start": 2350.9,
+    "end": 2353.12,
+    "text": "There are a great many to choose from."
+  },
+  {
+    "id": 374,
+    "start": 2353.9,
+    "end": 2357.4,
+    "text": "Okay. So if we go ahead with this,"
+  },
+  {
+    "id": 375,
+    "start": 2357.7,
+    "end": 2361.1,
+    "text": "can you give me some information about how much we're looking at?"
+  },
+  {
+    "id": 376,
+    "start": 2364.36,
+    "end": 2366.26,
+    "text": "That is the end of section one."
+  },
+  {
+    "id": 377,
+    "start": 2367.74,
+    "end": 2370.94,
+    "text": "You now have half a minute to check your answers."
+  },
+  {
+    "id": 378,
+    "start": 2383.78,
+    "end": 2403.72,
+    "text": "Now turn to section two."
+  },
+  {
+    "id": 379,
+    "start": 2403.88,
+    "end": 2405.76,
+    "text": "Thank you."
+  }
+]

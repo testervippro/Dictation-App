@@ -1,0 +1,5012 @@
+[
+  {
+    "index": 0,
+    "filename": "0.mp3",
+    "text": "Who_wants_to_organize_the_patient_files"
+  },
+  {
+    "index": 1,
+    "filename": "1.mp3",
+    "text": "A_Means_who_would_like_to"
+  },
+  {
+    "index": 2,
+    "filename": "2.mp3",
+    "text": "B_Our_phone_number_has_changed"
+  },
+  {
+    "index": 3,
+    "filename": "3.mp3",
+    "text": "C_A_well-run_organization"
+  },
+  {
+    "index": 4,
+    "filename": "4.mp3",
+    "text": "Why_didnt_Miranda_shut_down_the_computers_yesterday"
+  },
+  {
+    "index": 5,
+    "filename": "5.mp3",
+    "text": "A_Yes_my_new_laptop"
+  },
+  {
+    "index": 6,
+    "filename": "6.mp3",
+    "text": "B_Outside_of_Office_101"
+  },
+  {
+    "index": 7,
+    "filename": "7.mp3",
+    "text": "C_Because_she_left_early"
+  },
+  {
+    "index": 8,
+    "filename": "8.mp3",
+    "text": "Would_you_like_the_pie_or_the_pudding_for_dessert"
+  },
+  {
+    "index": 9,
+    "filename": "9.mp3",
+    "text": "A_About_five_dollars"
+  },
+  {
+    "index": 10,
+    "filename": "10.mp3",
+    "text": "B_The_pie_sounds_delicious"
+  },
+  {
+    "index": 11,
+    "filename": "11.mp3",
+    "text": "C_I_just_put_it_on"
+  },
+  {
+    "index": 12,
+    "filename": "12.mp3",
+    "text": "Didnt_you_read_Mr_Kims_memo"
+  },
+  {
+    "index": 13,
+    "filename": "13.mp3",
+    "text": "A_He_used_to_live_there"
+  },
+  {
+    "index": 14,
+    "filename": "14.mp3",
+    "text": "B_A_newspaper_article"
+  },
+  {
+    "index": 15,
+    "filename": "15.mp3",
+    "text": "C_Yes_I_read_it_this_morning"
+  },
+  {
+    "index": 16,
+    "filename": "16.mp3",
+    "text": "We_can_put_a_seafood_dish_on_the_menu_cant_we"
+  },
+  {
+    "index": 17,
+    "filename": "17.mp3",
+    "text": "A_There_in_a_stack_over_there"
+  },
+  {
+    "index": 18,
+    "filename": "18.mp3",
+    "text": "B_A_restaurant_with_a_view_of_the_ocean"
+  },
+  {
+    "index": 19,
+    "filename": "19.mp3",
+    "text": "C_We_can_if_youd_like"
+  },
+  {
+    "index": 20,
+    "filename": "20.mp3",
+    "text": "Who_managed_the_flower_store_last_year"
+  },
+  {
+    "index": 21,
+    "filename": "21.mp3",
+    "text": "A_No_a_monthly_order"
+  },
+  {
+    "index": 22,
+    "filename": "22.mp3",
+    "text": "B_Some_yellow_roses_please"
+  },
+  {
+    "index": 23,
+    "filename": "23.mp3",
+    "text": "C_Marta_did_it"
+  },
+  {
+    "index": 24,
+    "filename": "24.mp3",
+    "text": "Do_you_mind_filling_out_our_customer_satisfaction_survey"
+  },
+  {
+    "index": 25,
+    "filename": "25.mp3",
+    "text": "A_I_filled_the_tank_in_the_car_yesterday"
+  },
+  {
+    "index": 26,
+    "filename": "26.mp3",
+    "text": "B_Sure_I_can_do_that"
+  },
+  {
+    "index": 27,
+    "filename": "27.mp3",
+    "text": "C_The_stairs_are_around_the_corner"
+  },
+  {
+    "index": 28,
+    "filename": "28.mp3",
+    "text": "Why_arent_those_workers_wearing_their_uniforms"
+  },
+  {
+    "index": 29,
+    "filename": "29.mp3",
+    "text": "A_Because_they_just_finished_their_shift"
+  },
+  {
+    "index": 30,
+    "filename": "30.mp3",
+    "text": "B_I_did_work_in_manufacturing"
+  },
+  {
+    "index": 31,
+    "filename": "31.mp3",
+    "text": "C_A_green_shirt_and_jacket"
+  },
+  {
+    "index": 32,
+    "filename": "32.mp3",
+    "text": "Do_you_want_me_to_ask_a_joke_about_the_report"
+  },
+  {
+    "index": 33,
+    "filename": "33.mp3",
+    "text": "A_Yes_thats_a_good_idea"
+  },
+  {
+    "index": 34,
+    "filename": "34.mp3",
+    "text": "B_Somewhere_on_your_desk"
+  },
+  {
+    "index": 35,
+    "filename": "35.mp3",
+    "text": "C_How_was_the_conference"
+  },
+  {
+    "index": 36,
+    "filename": "36.mp3",
+    "text": "Should_I_display_the_data_on_a_chart_or_on_a_graph"
+  },
+  {
+    "index": 37,
+    "filename": "37.mp3",
+    "text": "A_There_more_energy_efficient"
+  },
+  {
+    "index": 38,
+    "filename": "38.mp3",
+    "text": "B_No_that_cant_be_right"
+  },
+  {
+    "index": 39,
+    "filename": "39.mp3",
+    "text": "C_A_graph_would_be_better"
+  },
+  {
+    "index": 40,
+    "filename": "40.mp3",
+    "text": "Where_can_I_get_breakfast_near_this_hotel"
+  },
+  {
+    "index": 41,
+    "filename": "41.mp3",
+    "text": "A_Cream_and_sugar_please"
+  },
+  {
+    "index": 42,
+    "filename": "42.mp3",
+    "text": "B_Well_you_have_a_few_options"
+  },
+  {
+    "index": 43,
+    "filename": "43.mp3",
+    "text": "C_I_believe_so"
+  },
+  {
+    "index": 44,
+    "filename": "44.mp3",
+    "text": "What_was_our_net_profit_for_the_second_quarter"
+  },
+  {
+    "index": 45,
+    "filename": "45.mp3",
+    "text": "A_No_he_arrived_first"
+  },
+  {
+    "index": 46,
+    "filename": "46.mp3",
+    "text": "B_At_the_new_tennis_club"
+  },
+  {
+    "index": 47,
+    "filename": "47.mp3",
+    "text": "C_10000"
+  },
+  {
+    "index": 48,
+    "filename": "48.mp3",
+    "text": "Why_dont_you_check_the_prices_at_a_different_paint_store"
+  },
+  {
+    "index": 49,
+    "filename": "49.mp3",
+    "text": "A_Is_there_one_that_you_suggest"
+  },
+  {
+    "index": 50,
+    "filename": "50.mp3",
+    "text": "B_Check_in_at_11_oclock"
+  },
+  {
+    "index": 51,
+    "filename": "51.mp3",
+    "text": "C_No_shes_a_photographer"
+  },
+  {
+    "index": 52,
+    "filename": "52.mp3",
+    "text": "When_will_the_presentation_begin"
+  },
+  {
+    "index": 53,
+    "filename": "53.mp3",
+    "text": "A_Actually_Im_not_presenting_today"
+  },
+  {
+    "index": 54,
+    "filename": "54.mp3",
+    "text": "B_The_production_numbers"
+  },
+  {
+    "index": 55,
+    "filename": "55.mp3",
+    "text": "C_A_screen_and_a_projector"
+  },
+  {
+    "index": 56,
+    "filename": "56.mp3",
+    "text": "Were_trying_to_cut_out_delivery_times"
+  },
+  {
+    "index": 57,
+    "filename": "57.mp3",
+    "text": "A_The_cords_are_too_long"
+  },
+  {
+    "index": 58,
+    "filename": "58.mp3",
+    "text": "B_Our_customers_will_appreciate_that"
+  },
+  {
+    "index": 59,
+    "filename": "59.mp3",
+    "text": "C_The_box_is_in_the_closet"
+  },
+  {
+    "index": 60,
+    "filename": "60.mp3",
+    "text": "How_much_juice_should_I_buy_for_the_staff_meeting"
+  },
+  {
+    "index": 61,
+    "filename": "61.mp3",
+    "text": "A_Sure_Ill_take_the_receipt_to_accounting"
+  },
+  {
+    "index": 62,
+    "filename": "62.mp3",
+    "text": "B_Everyone_from_the_departments_attending"
+  },
+  {
+    "index": 63,
+    "filename": "63.mp3",
+    "text": "C_Do_you_want_to_get_some_lunch_now"
+  },
+  {
+    "index": 64,
+    "filename": "64.mp3",
+    "text": "Shouldnt_you_have_left_for_your_trip_already"
+  },
+  {
+    "index": 65,
+    "filename": "65.mp3",
+    "text": "A_A_couple_of_suitcases"
+  },
+  {
+    "index": 66,
+    "filename": "66.mp3",
+    "text": "B_The_flight_was_delayed"
+  },
+  {
+    "index": 67,
+    "filename": "67.mp3",
+    "text": "C_Actually_its_on_the_right"
+  },
+  {
+    "index": 68,
+    "filename": "68.mp3",
+    "text": "Has_the_warrant_expired_for_our_solar-powered_lights"
+  },
+  {
+    "index": 69,
+    "filename": "69.mp3",
+    "text": "A_No_we_still_have_two_more_months"
+  },
+  {
+    "index": 70,
+    "filename": "70.mp3",
+    "text": "B_On_the_wall_beneath_the_whiteboard"
+  },
+  {
+    "index": 71,
+    "filename": "71.mp3",
+    "text": "C_The_session_starts_at_10_am"
+  },
+  {
+    "index": 72,
+    "filename": "72.mp3",
+    "text": "Youve_placed_the_supply_order_havent_you"
+  },
+  {
+    "index": 73,
+    "filename": "73.mp3",
+    "text": "A_On_the_desk_is_fine"
+  },
+  {
+    "index": 74,
+    "filename": "74.mp3",
+    "text": "B_It_was_a_surprise_party"
+  },
+  {
+    "index": 75,
+    "filename": "75.mp3",
+    "text": "C_I_just_submitted_the_payment"
+  },
+  {
+    "index": 76,
+    "filename": "76.mp3",
+    "text": "When_are_you_showing_your_clients_the_house_on_Bell_Street"
+  },
+  {
+    "index": 77,
+    "filename": "77.mp3",
+    "text": "A_On_the_third_floor"
+  },
+  {
+    "index": 78,
+    "filename": "78.mp3",
+    "text": "B_Tomorrow_afternoon"
+  },
+  {
+    "index": 79,
+    "filename": "79.mp3",
+    "text": "C_Its_playing_at_the_downtown_theater"
+  },
+  {
+    "index": 80,
+    "filename": "80.mp3",
+    "text": "How_long_will_the_building_edition_take_to_complete"
+  },
+  {
+    "index": 81,
+    "filename": "81.mp3",
+    "text": "A_Im_reviewing_the_plans_now"
+  },
+  {
+    "index": 82,
+    "filename": "82.mp3",
+    "text": "B_You_can_take_that"
+  },
+  {
+    "index": 83,
+    "filename": "83.mp3",
+    "text": "C_In_the_back_of_the_truck"
+  },
+  {
+    "index": 84,
+    "filename": "84.mp3",
+    "text": "Which_envelope_should_I_use_to_mail_these_photos"
+  },
+  {
+    "index": 85,
+    "filename": "85.mp3",
+    "text": "A_No_Im_not_using_it"
+  },
+  {
+    "index": 86,
+    "filename": "86.mp3",
+    "text": "B_By_the_post_office"
+  },
+  {
+    "index": 87,
+    "filename": "87.mp3",
+    "text": "C_Are_you_sending_them_express"
+  },
+  {
+    "index": 88,
+    "filename": "88.mp3",
+    "text": "The_quality_control_team_is_inspecting_the_factory_soon"
+  },
+  {
+    "index": 89,
+    "filename": "89.mp3",
+    "text": "A_Some_spare_parts"
+  },
+  {
+    "index": 90,
+    "filename": "90.mp3",
+    "text": "B_Thanks_it_went_well"
+  },
+  {
+    "index": 91,
+    "filename": "91.mp3",
+    "text": "C_Everything_is_ready"
+  },
+  {
+    "index": 92,
+    "filename": "92.mp3",
+    "text": "Wheres_the_nearest_bus_stop"
+  },
+  {
+    "index": 93,
+    "filename": "93.mp3",
+    "text": "A_They_work_closely_together"
+  },
+  {
+    "index": 94,
+    "filename": "94.mp3",
+    "text": "B_He_left_at_home"
+  },
+  {
+    "index": 95,
+    "filename": "95.mp3",
+    "text": "C_Im_going_there_now"
+  },
+  {
+    "index": 96,
+    "filename": "96.mp3",
+    "text": "Could_I_come_to_your_office_today_to_sign_the_rental_contract"
+  },
+  {
+    "index": 97,
+    "filename": "97.mp3",
+    "text": "A_A_one-bedroom_apartment"
+  },
+  {
+    "index": 98,
+    "filename": "98.mp3",
+    "text": "B_Ill_be_here_until_5_oclock"
+  },
+  {
+    "index": 99,
+    "filename": "99.mp3",
+    "text": "A_The_air_quality_was_recently_tested"
+  },
+  {
+    "index": 100,
+    "filename": "100.mp3",
+    "text": "B_James_makes_those_decisions"
+  },
+  {
+    "index": 101,
+    "filename": "101.mp3",
+    "text": "C_A_billboard_by_the_highway"
+  },
+  {
+    "index": 102,
+    "filename": "102.mp3",
+    "text": "C_2000_a_month"
+  },
+  {
+    "index": 103,
+    "filename": "103.mp3",
+    "text": "When_does_the_shop_close"
+  },
+  {
+    "index": 104,
+    "filename": "104.mp3",
+    "text": "A_Yes_at_the_workshop"
+  },
+  {
+    "index": 105,
+    "filename": "105.mp3",
+    "text": "B_No_theyre_new_clothes"
+  },
+  {
+    "index": 106,
+    "filename": "106.mp3",
+    "text": "C_At_9_oclock_tonight"
+  },
+  {
+    "index": 107,
+    "filename": "107.mp3",
+    "text": "Whos_scheduled_to_clean_the_kitchen"
+  },
+  {
+    "index": 108,
+    "filename": "108.mp3",
+    "text": "A_By_the_sink"
+  },
+  {
+    "index": 109,
+    "filename": "109.mp3",
+    "text": "B_Yes_every_day"
+  },
+  {
+    "index": 110,
+    "filename": "110.mp3",
+    "text": "C_Jack_is"
+  },
+  {
+    "index": 111,
+    "filename": "111.mp3",
+    "text": "How_will_we_get_to_the_hotel_from_the_airport"
+  },
+  {
+    "index": 112,
+    "filename": "112.mp3",
+    "text": "A_Well_take_a_taxi"
+  },
+  {
+    "index": 113,
+    "filename": "113.mp3",
+    "text": "B_About_45_minutes"
+  },
+  {
+    "index": 114,
+    "filename": "114.mp3",
+    "text": "C_Will_that_be_everything"
+  },
+  {
+    "index": 115,
+    "filename": "115.mp3",
+    "text": "Is_Theresa_out_of_the_office_today"
+  },
+  {
+    "index": 116,
+    "filename": "116.mp3",
+    "text": "A_Those_tickets_are_sold_out"
+  },
+  {
+    "index": 117,
+    "filename": "117.mp3",
+    "text": "B_No_shes_just_gone_to_lunch"
+  },
+  {
+    "index": 118,
+    "filename": "118.mp3",
+    "text": "C_I_completed_that_yesterday"
+  },
+  {
+    "index": 119,
+    "filename": "119.mp3",
+    "text": "Which_food_supplier_do_you_use"
+  },
+  {
+    "index": 120,
+    "filename": "120.mp3",
+    "text": "A_In_the_vegetable_aisle"
+  },
+  {
+    "index": 121,
+    "filename": "121.mp3",
+    "text": "B_On_a_weekly_basis"
+  },
+  {
+    "index": 122,
+    "filename": "122.mp3",
+    "text": "C_We_use_E_and_G_food_company"
+  },
+  {
+    "index": 123,
+    "filename": "123.mp3",
+    "text": "Could_you_help_me_set_up_this_window_display"
+  },
+  {
+    "index": 124,
+    "filename": "124.mp3",
+    "text": "A_A_window_seat"
+  },
+  {
+    "index": 125,
+    "filename": "125.mp3",
+    "text": "B_Yes_I_was_in_a_play"
+  },
+  {
+    "index": 126,
+    "filename": "126.mp3",
+    "text": "C_Id_be_happy_to"
+  },
+  {
+    "index": 127,
+    "filename": "127.mp3",
+    "text": "Why_is_this_package_here"
+  },
+  {
+    "index": 128,
+    "filename": "128.mp3",
+    "text": "A_350_cents"
+  },
+  {
+    "index": 129,
+    "filename": "129.mp3",
+    "text": "B_Ill_carry_it_upstairs"
+  },
+  {
+    "index": 130,
+    "filename": "130.mp3",
+    "text": "C_An_online_retailer"
+  },
+  {
+    "index": 131,
+    "filename": "131.mp3",
+    "text": "Which_menu_item_do_you_recommend"
+  },
+  {
+    "index": 132,
+    "filename": "132.mp3",
+    "text": "A_Id_suggest_the_pasta"
+  },
+  {
+    "index": 133,
+    "filename": "133.mp3",
+    "text": "B_Do_you_have_this_shirt_in_blue"
+  },
+  {
+    "index": 134,
+    "filename": "134.mp3",
+    "text": "C_No_Im_fine_Thank_you"
+  },
+  {
+    "index": 135,
+    "filename": "135.mp3",
+    "text": "Do_you_know_who_requested_technical_support"
+  },
+  {
+    "index": 136,
+    "filename": "136.mp3",
+    "text": "A_Sorry_I_just_got_into_the_office"
+  },
+  {
+    "index": 137,
+    "filename": "137.mp3",
+    "text": "B_The_sports_team_is_doing_well"
+  },
+  {
+    "index": 138,
+    "filename": "138.mp3",
+    "text": "C_Two_years_of_technical_school"
+  },
+  {
+    "index": 139,
+    "filename": "139.mp3",
+    "text": "Where_does_Takumi_keep_the_ink_cartridges_for_the_printer"
+  },
+  {
+    "index": 140,
+    "filename": "140.mp3",
+    "text": "A_Yes_thatd_be_great"
+  },
+  {
+    "index": 141,
+    "filename": "141.mp3",
+    "text": "B_To_get_it_replaced"
+  },
+  {
+    "index": 142,
+    "filename": "142.mp3",
+    "text": "C_In_the_supply_room"
+  },
+  {
+    "index": 143,
+    "filename": "143.mp3",
+    "text": "Ali_is_going_to_Jessicas_retirement_party_isnt_he"
+  },
+  {
+    "index": 144,
+    "filename": "144.mp3",
+    "text": "A_I_dont_think_they_worked_together"
+  },
+  {
+    "index": 145,
+    "filename": "145.mp3",
+    "text": "B_Brand_new_tires"
+  },
+  {
+    "index": 146,
+    "filename": "146.mp3",
+    "text": "C_No_thanks_I_already_ate"
+  },
+  {
+    "index": 147,
+    "filename": "147.mp3",
+    "text": "Why_dont_you_go_to_the_trade_show_with_Franklin_and_Jane"
+  },
+  {
+    "index": 148,
+    "filename": "148.mp3",
+    "text": "A_No_I_didnt_see_it"
+  },
+  {
+    "index": 149,
+    "filename": "149.mp3",
+    "text": "B_Because_I_have_a_major_report_to_finalize_that_week"
+  },
+  {
+    "index": 150,
+    "filename": "150.mp3",
+    "text": "C_Usually_in_San_Francisco"
+  },
+  {
+    "index": 151,
+    "filename": "151.mp3",
+    "text": "When_are_we_ordering_more_gloves_for_the_laboratory"
+  },
+  {
+    "index": 152,
+    "filename": "152.mp3",
+    "text": "A_The_latest_test_results"
+  },
+  {
+    "index": 153,
+    "filename": "153.mp3",
+    "text": "B_Its_close_to_the_post_office"
+  },
+  {
+    "index": 154,
+    "filename": "154.mp3",
+    "text": "C_Weve_got_extras_in_the_cabinet"
+  },
+  {
+    "index": 155,
+    "filename": "155.mp3",
+    "text": "Doesnt_this_movie_theatre_seat_500_people"
+  },
+  {
+    "index": 156,
+    "filename": "156.mp3",
+    "text": "A_Tickets_are_15"
+  },
+  {
+    "index": 157,
+    "filename": "157.mp3",
+    "text": "B_Not_quite_that_many_No"
+  },
+  {
+    "index": 158,
+    "filename": "158.mp3",
+    "text": "C_We_should_be_finished_soon"
+  },
+  {
+    "index": 159,
+    "filename": "159.mp3",
+    "text": "Would_you_like_to_make_an_appointment_with_a_nutritionist"
+  },
+  {
+    "index": 160,
+    "filename": "160.mp3",
+    "text": "A_A_client_luncheon"
+  },
+  {
+    "index": 161,
+    "filename": "161.mp3",
+    "text": "B_Im_scheduled_for_the_14th"
+  },
+  {
+    "index": 162,
+    "filename": "162.mp3",
+    "text": "C_The_fruit_is_on_the_table"
+  },
+  {
+    "index": 163,
+    "filename": "163.mp3",
+    "text": "Did_you_know_that_the_Vienna_Orchestra_is_giving_a_concert_here_soon"
+  },
+  {
+    "index": 164,
+    "filename": "164.mp3",
+    "text": "A_No_where_will_it_be"
+  },
+  {
+    "index": 165,
+    "filename": "165.mp3",
+    "text": "B_Classical_literature"
+  },
+  {
+    "index": 166,
+    "filename": "166.mp3",
+    "text": "C_The_opening_piece_was_great"
+  },
+  {
+    "index": 167,
+    "filename": "167.mp3",
+    "text": "Whats_the_marketing_department_working_on"
+  },
+  {
+    "index": 168,
+    "filename": "168.mp3",
+    "text": "A_Im_on_the_accounting_team"
+  },
+  {
+    "index": 169,
+    "filename": "169.mp3",
+    "text": "B_That_was_a_good_commercial"
+  },
+  {
+    "index": 170,
+    "filename": "170.mp3",
+    "text": "C_To_the_second_floor"
+  },
+  {
+    "index": 171,
+    "filename": "171.mp3",
+    "text": "Isnt_it_hot_in_here"
+  },
+  {
+    "index": 172,
+    "filename": "172.mp3",
+    "text": "A_A_hat_and_scarf"
+  },
+  {
+    "index": 173,
+    "filename": "173.mp3",
+    "text": "B_For_a_quick_phone_call"
+  },
+  {
+    "index": 174,
+    "filename": "174.mp3",
+    "text": "C_The_air_condition_is_behind_me"
+  },
+  {
+    "index": 175,
+    "filename": "175.mp3",
+    "text": "Do_you_want_to_drive_to_the_convention_center_or_would_you_like_me_to"
+  },
+  {
+    "index": 176,
+    "filename": "176.mp3",
+    "text": "A_Thats_all_we_needed"
+  },
+  {
+    "index": 177,
+    "filename": "177.mp3",
+    "text": "B_The_first_entrance_on_the_left"
+  },
+  {
+    "index": 178,
+    "filename": "178.mp3",
+    "text": "C_I_can_drive_since_you_did_last_time"
+  },
+  {
+    "index": 179,
+    "filename": "179.mp3",
+    "text": "Could_you_pick_up_some_more_paper_for_the_printer"
+  },
+  {
+    "index": 180,
+    "filename": "180.mp3",
+    "text": "A_Alan_said_that_he_would"
+  },
+  {
+    "index": 181,
+    "filename": "181.mp3",
+    "text": "B_No_I_havent_seen_it"
+  },
+  {
+    "index": 182,
+    "filename": "182.mp3",
+    "text": "C_A_technician"
+  },
+  {
+    "index": 183,
+    "filename": "183.mp3",
+    "text": "Im_about_to_order_lunch_now_if_youre_hungry"
+  },
+  {
+    "index": 184,
+    "filename": "184.mp3",
+    "text": "A_Next_to_the_telephone"
+  },
+  {
+    "index": 185,
+    "filename": "185.mp3",
+    "text": "B_Bus_number_five"
+  },
+  {
+    "index": 186,
+    "filename": "186.mp3",
+    "text": "C_Can_I_see_the_menu"
+  },
+  {
+    "index": 187,
+    "filename": "187.mp3",
+    "text": "Wheres_the_camera_on_this_computer"
+  },
+  {
+    "index": 188,
+    "filename": "188.mp3",
+    "text": "A_No_I_dont_think_so"
+  },
+  {
+    "index": 189,
+    "filename": "189.mp3",
+    "text": "B_E-mail_it_by_tomorrow_please"
+  },
+  {
+    "index": 190,
+    "filename": "190.mp3",
+    "text": "C_On_the_top_edge_of_the_monitor"
+  },
+  {
+    "index": 191,
+    "filename": "191.mp3",
+    "text": "The_conference_is_in_Helsinki_this_year_isnt_it"
+  },
+  {
+    "index": 192,
+    "filename": "192.mp3",
+    "text": "A_Heres_the_itinerary"
+  },
+  {
+    "index": 193,
+    "filename": "193.mp3",
+    "text": "B_About_5000_participants"
+  },
+  {
+    "index": 194,
+    "filename": "194.mp3",
+    "text": "C_I_was_supposed_to_call_him"
+  },
+  {
+    "index": 195,
+    "filename": "195.mp3",
+    "text": "Should_I_schedule_the_inspection_for_Monday_or_Wednesday"
+  },
+  {
+    "index": 196,
+    "filename": "196.mp3",
+    "text": "A_Yes_Ill_have_a_few"
+  },
+  {
+    "index": 197,
+    "filename": "197.mp3",
+    "text": "B_Mondays_are_less_busy"
+  },
+  {
+    "index": 198,
+    "filename": "198.mp3",
+    "text": "C_Please_inspect_these_boxes"
+  },
+  {
+    "index": 199,
+    "filename": "199.mp3",
+    "text": "Lets_talk_about_how_the_business_trip_went"
+  },
+  {
+    "index": 200,
+    "filename": "200.mp3",
+    "text": "A_We_have_a_client_meeting_right_now"
+  },
+  {
+    "index": 201,
+    "filename": "201.mp3",
+    "text": "B_The_travel_agency"
+  },
+  {
+    "index": 202,
+    "filename": "202.mp3",
+    "text": "C_I_saw_it_last_week"
+  },
+  {
+    "index": 203,
+    "filename": "203.mp3",
+    "text": "Do_you_think_itll_rain_tomorrow"
+  },
+  {
+    "index": 204,
+    "filename": "204.mp3",
+    "text": "A_Yes_probably"
+  },
+  {
+    "index": 205,
+    "filename": "205.mp3",
+    "text": "B_Let_me_show_you_how"
+  },
+  {
+    "index": 206,
+    "filename": "206.mp3",
+    "text": "C_No_he_cant"
+  },
+  {
+    "index": 207,
+    "filename": "207.mp3",
+    "text": "When_will_the_new_building_be_finished"
+  },
+  {
+    "index": 208,
+    "filename": "208.mp3",
+    "text": "A_Across_from_the_pharmacy"
+  },
+  {
+    "index": 209,
+    "filename": "209.mp3",
+    "text": "B_For_the_new_meeting_room"
+  },
+  {
+    "index": 210,
+    "filename": "210.mp3",
+    "text": "C_By_the_end_of_the_month"
+  },
+  {
+    "index": 211,
+    "filename": "211.mp3",
+    "text": "How_was_the_fundraising_event_yesterday"
+  },
+  {
+    "index": 212,
+    "filename": "212.mp3",
+    "text": "A_Yes_at_8_oclock"
+  },
+  {
+    "index": 213,
+    "filename": "213.mp3",
+    "text": "B_It_was_very_successful"
+  },
+  {
+    "index": 214,
+    "filename": "214.mp3",
+    "text": "C_The_Wilson_Hotel"
+  },
+  {
+    "index": 215,
+    "filename": "215.mp3",
+    "text": "Where_is_a_good_place_for_a_quick_lunch"
+  },
+  {
+    "index": 216,
+    "filename": "216.mp3",
+    "text": "A_Yes_I_won_the_race"
+  },
+  {
+    "index": 217,
+    "filename": "217.mp3",
+    "text": "B_The_sandwich_shop_next_door"
+  },
+  {
+    "index": 218,
+    "filename": "218.mp3",
+    "text": "C_About_4"
+  },
+  {
+    "index": 219,
+    "filename": "219.mp3",
+    "text": "Dont_you_work_upstairs"
+  },
+  {
+    "index": 220,
+    "filename": "220.mp3",
+    "text": "A_She_prefers_to_take_the_stairs"
+  },
+  {
+    "index": 221,
+    "filename": "221.mp3",
+    "text": "B_I_dont_use_it_very_well"
+  },
+  {
+    "index": 222,
+    "filename": "222.mp3",
+    "text": "C_No_my_office_is_on_this_floor"
+  },
+  {
+    "index": 223,
+    "filename": "223.mp3",
+    "text": "You_submitted_the_travel_request_didnt_you"
+  },
+  {
+    "index": 224,
+    "filename": "224.mp3",
+    "text": "A_Yes_this_morning"
+  },
+  {
+    "index": 225,
+    "filename": "225.mp3",
+    "text": "B_15th_and_Green_Street"
+  },
+  {
+    "index": 226,
+    "filename": "226.mp3",
+    "text": "C_That_would_be_okay"
+  },
+  {
+    "index": 227,
+    "filename": "227.mp3",
+    "text": "Whos_going_to_take_notes_at_Thursdays_meeting"
+  },
+  {
+    "index": 228,
+    "filename": "228.mp3",
+    "text": "A_Several_pages"
+  },
+  {
+    "index": 229,
+    "filename": "229.mp3",
+    "text": "B_Ill_be_on_vacation_then"
+  },
+  {
+    "index": 230,
+    "filename": "230.mp3",
+    "text": "C_The_charger_is_broken"
+  },
+  {
+    "index": 231,
+    "filename": "231.mp3",
+    "text": "Why_cant_we_replace_the_computers"
+  },
+  {
+    "index": 232,
+    "filename": "232.mp3",
+    "text": "A_The_copies_are_in_black_and_white"
+  },
+  {
+    "index": 233,
+    "filename": "233.mp3",
+    "text": "B_Because_the_budgets_not_big_enough"
+  },
+  {
+    "index": 234,
+    "filename": "234.mp3",
+    "text": "C_On_the_table_is_fine"
+  },
+  {
+    "index": 235,
+    "filename": "235.mp3",
+    "text": "Shouldnt_we_update_our_company_logo"
+  },
+  {
+    "index": 236,
+    "filename": "236.mp3",
+    "text": "A_No_well_have_to_get_approval_first"
+  },
+  {
+    "index": 237,
+    "filename": "237.mp3",
+    "text": "B_That_date_is_convenient"
+  },
+  {
+    "index": 238,
+    "filename": "238.mp3",
+    "text": "C_I_go_there_often"
+  },
+  {
+    "index": 239,
+    "filename": "239.mp3",
+    "text": "Whether_theyre_going_to_hire_someone_to_fill_the_open_position"
+  },
+  {
+    "index": 240,
+    "filename": "240.mp3",
+    "text": "A_Would_you_like_coffee_or_tea"
+  },
+  {
+    "index": 241,
+    "filename": "241.mp3",
+    "text": "B_I_think_I_left_my_office_door_open"
+  },
+  {
+    "index": 242,
+    "filename": "242.mp3",
+    "text": "C_There_are_three_people_left_to_interview"
+  },
+  {
+    "index": 243,
+    "filename": "243.mp3",
+    "text": "I_heard_Fatima_is_presenting_her_proposal_today"
+  },
+  {
+    "index": 244,
+    "filename": "244.mp3",
+    "text": "A_Sure_I_will"
+  },
+  {
+    "index": 245,
+    "filename": "245.mp3",
+    "text": "B_We_bought_them_each_a_present"
+  },
+  {
+    "index": 246,
+    "filename": "246.mp3",
+    "text": "C_Oh_I_thought_that_was_tomorrow"
+  },
+  {
+    "index": 247,
+    "filename": "247.mp3",
+    "text": "Why_dont_we_invite_Ms_Lee_to_the_business_dinner"
+  },
+  {
+    "index": 248,
+    "filename": "248.mp3",
+    "text": "A_I_do_have_her_email_address"
+  },
+  {
+    "index": 249,
+    "filename": "249.mp3",
+    "text": "B_A_bowl_of_vegetable_soup"
+  },
+  {
+    "index": 250,
+    "filename": "250.mp3",
+    "text": "C_Im_sorry_I_thought_I_returned_it"
+  },
+  {
+    "index": 251,
+    "filename": "251.mp3",
+    "text": "What_repair_work_needs_to_be_done_on_this_car"
+  },
+  {
+    "index": 252,
+    "filename": "252.mp3",
+    "text": "A_Yes_thats_right"
+  },
+  {
+    "index": 253,
+    "filename": "253.mp3",
+    "text": "B_I_havent_finished_checking_it"
+  },
+  {
+    "index": 254,
+    "filename": "254.mp3",
+    "text": "C_No_thanks_I_can_walk"
+  },
+  {
+    "index": 255,
+    "filename": "255.mp3",
+    "text": "Who_should_I_call_to_set_up_my_printer"
+  },
+  {
+    "index": 256,
+    "filename": "256.mp3",
+    "text": "A_At_12_oclock"
+  },
+  {
+    "index": 257,
+    "filename": "257.mp3",
+    "text": "B_The_phone_numbers_on_your_desk"
+  },
+  {
+    "index": 258,
+    "filename": "258.mp3",
+    "text": "C_The_weather_forecast"
+  },
+  {
+    "index": 259,
+    "filename": "259.mp3",
+    "text": "Have_you_ordered_more_whiteboards_for_the_office_yet"
+  },
+  {
+    "index": 260,
+    "filename": "260.mp3",
+    "text": "A_Yes_the_board_of_directors"
+  },
+  {
+    "index": 261,
+    "filename": "261.mp3",
+    "text": "B_A_receipt_for_the_uniforms"
+  },
+  {
+    "index": 262,
+    "filename": "262.mp3",
+    "text": "C_Kathys_in_charge_of_supplies"
+  },
+  {
+    "index": 263,
+    "filename": "263.mp3",
+    "text": "Theres_a_special_exhibition_at_the_art_gallery"
+  },
+  {
+    "index": 264,
+    "filename": "264.mp3",
+    "text": "A_Yes_I_read_an_article_about_it"
+  },
+  {
+    "index": 265,
+    "filename": "265.mp3",
+    "text": "B_She_has_a_high_salary"
+  },
+  {
+    "index": 266,
+    "filename": "266.mp3",
+    "text": "C_At_the_next_stoplight"
+  },
+  {
+    "index": 267,
+    "filename": "267.mp3",
+    "text": "Can_I_start_the_video_conference_now"
+  },
+  {
+    "index": 268,
+    "filename": "268.mp3",
+    "text": "A_No_lets_wait_a_few_minutes"
+  },
+  {
+    "index": 269,
+    "filename": "269.mp3",
+    "text": "B_It_was_very_popular"
+  },
+  {
+    "index": 270,
+    "filename": "270.mp3",
+    "text": "C_That_candidate_won"
+  },
+  {
+    "index": 271,
+    "filename": "271.mp3",
+    "text": "Who_authorized_that_purchase"
+  },
+  {
+    "index": 272,
+    "filename": "272.mp3",
+    "text": "A_Within_an_hour_or_so"
+  },
+  {
+    "index": 273,
+    "filename": "273.mp3",
+    "text": "B_Yes_about_the_budget"
+  },
+  {
+    "index": 274,
+    "filename": "274.mp3",
+    "text": "C_Someone_in_the_accounting_department"
+  },
+  {
+    "index": 275,
+    "filename": "275.mp3",
+    "text": "Why_is_the_library_so_busy_today"
+  },
+  {
+    "index": 276,
+    "filename": "276.mp3",
+    "text": "A_Sure_I_have_some_time"
+  },
+  {
+    "index": 277,
+    "filename": "277.mp3",
+    "text": "B_He_got_a_job_at_a_news_magazine"
+  },
+  {
+    "index": 278,
+    "filename": "278.mp3",
+    "text": "C_Have_you_seen_todays_event_schedule"
+  },
+  {
+    "index": 279,
+    "filename": "279.mp3",
+    "text": "We_should_really_buy_a_new_coffee_maker"
+  },
+  {
+    "index": 280,
+    "filename": "280.mp3",
+    "text": "A_Cream_and_sugar_please"
+  },
+  {
+    "index": 281,
+    "filename": "281.mp3",
+    "text": "B_Thats_a_good_idea"
+  },
+  {
+    "index": 282,
+    "filename": "282.mp3",
+    "text": "C_No_put_it_on_my_desk"
+  },
+  {
+    "index": 283,
+    "filename": "283.mp3",
+    "text": "Im_afraid_I_wont_be_able_to_lead_the_tour_this_afternoon"
+  },
+  {
+    "index": 284,
+    "filename": "284.mp3",
+    "text": "A_Okay_thanks_for_letting_me_know"
+  },
+  {
+    "index": 285,
+    "filename": "285.mp3",
+    "text": "B_I_left_it_for_you_by_the_elevator"
+  },
+  {
+    "index": 286,
+    "filename": "286.mp3",
+    "text": "C_No_maybe_just_a_quick_update"
+  },
+  {
+    "index": 287,
+    "filename": "287.mp3",
+    "text": "We_still_need_to_sign_our_contract_with_the_advertising_agency_dont_we"
+  },
+  {
+    "index": 288,
+    "filename": "288.mp3",
+    "text": "A_My_travel_agent_found_me_a_great_hotel"
+  },
+  {
+    "index": 289,
+    "filename": "289.mp3",
+    "text": "B_Yes_by_next_Friday"
+  },
+  {
+    "index": 290,
+    "filename": "290.mp3",
+    "text": "C_I_saw_that_commercial_as_well"
+  },
+  {
+    "index": 291,
+    "filename": "291.mp3",
+    "text": "Should_I_bring_some_photography_samples_to_the_job_interview"
+  },
+  {
+    "index": 292,
+    "filename": "292.mp3",
+    "text": "A_Please_sign_your_name_here"
+  },
+  {
+    "index": 293,
+    "filename": "293.mp3",
+    "text": "B_Ive_seen_them_online"
+  },
+  {
+    "index": 294,
+    "filename": "294.mp3",
+    "text": "C_What_a_nice_view"
+  },
+  {
+    "index": 295,
+    "filename": "295.mp3",
+    "text": "Is_there_a_room_in_the_store_where_I_can_try_this_shirt_on"
+  },
+  {
+    "index": 296,
+    "filename": "296.mp3",
+    "text": "A_You_can_follow_me"
+  },
+  {
+    "index": 297,
+    "filename": "297.mp3",
+    "text": "B_Well_try_hard_next_time"
+  },
+  {
+    "index": 298,
+    "filename": "298.mp3",
+    "text": "C_Shes_not_here_right_now"
+  },
+  {
+    "index": 299,
+    "filename": "299.mp3",
+    "text": "Would_you_like_to_meet_on_Tuesday_or_Wednesday"
+  },
+  {
+    "index": 300,
+    "filename": "300.mp3",
+    "text": "A_Actually_he_did_like_it"
+  },
+  {
+    "index": 301,
+    "filename": "301.mp3",
+    "text": "B_The_staffing_policy"
+  },
+  {
+    "index": 302,
+    "filename": "302.mp3",
+    "text": "C_I_dont_have_my_appointment_book_with_me"
+  },
+  {
+    "index": 303,
+    "filename": "303.mp3",
+    "text": "I_brought_the_extra_office_supplies"
+  },
+  {
+    "index": 304,
+    "filename": "304.mp3",
+    "text": "A_Ms_Park_did"
+  },
+  {
+    "index": 305,
+    "filename": "305.mp3",
+    "text": "B_You_can_use_the_printer"
+  },
+  {
+    "index": 306,
+    "filename": "306.mp3",
+    "text": "C_No_I_have_enough"
+  },
+  {
+    "index": 307,
+    "filename": "307.mp3",
+    "text": "Do_you_have_a_warranty_on_this_laptop"
+  },
+  {
+    "index": 308,
+    "filename": "308.mp3",
+    "text": "A_A_desktop_computer"
+  },
+  {
+    "index": 309,
+    "filename": "309.mp3",
+    "text": "B_Yes_for_one_year"
+  },
+  {
+    "index": 310,
+    "filename": "310.mp3",
+    "text": "C_Theyre_on_the_top_shelf"
+  },
+  {
+    "index": 311,
+    "filename": "311.mp3",
+    "text": "Why_is_the_cafeteria_closed"
+  },
+  {
+    "index": 312,
+    "filename": "312.mp3",
+    "text": "A_Because_its_being_cleaned"
+  },
+  {
+    "index": 313,
+    "filename": "313.mp3",
+    "text": "B_Thanks_but_I_already_ate"
+  },
+  {
+    "index": 314,
+    "filename": "314.mp3",
+    "text": "C_No_its_not_too_far"
+  },
+  {
+    "index": 315,
+    "filename": "315.mp3",
+    "text": "Where_do_I_board_the_train_to_Paris"
+  },
+  {
+    "index": 316,
+    "filename": "316.mp3",
+    "text": "A_On_platform_four"
+  },
+  {
+    "index": 317,
+    "filename": "317.mp3",
+    "text": "B_To_see_a_client"
+  },
+  {
+    "index": 318,
+    "filename": "318.mp3",
+    "text": "C_Six_passengers"
+  },
+  {
+    "index": 319,
+    "filename": "319.mp3",
+    "text": "How_can_we_improve_our_bicycle_sales"
+  },
+  {
+    "index": 320,
+    "filename": "320.mp3",
+    "text": "A_By_advertising_more"
+  },
+  {
+    "index": 321,
+    "filename": "321.mp3",
+    "text": "B_He_always_wears_a_helmet"
+  },
+  {
+    "index": 322,
+    "filename": "322.mp3",
+    "text": "C_They_were_gone_for_an_hour"
+  },
+  {
+    "index": 323,
+    "filename": "323.mp3",
+    "text": "When_is_the_budget_request_form_due"
+  },
+  {
+    "index": 324,
+    "filename": "324.mp3",
+    "text": "A_Yes_in_my_binder"
+  },
+  {
+    "index": 325,
+    "filename": "325.mp3",
+    "text": "B_From_the_break_room"
+  },
+  {
+    "index": 326,
+    "filename": "326.mp3",
+    "text": "C_You_should_ask_Kate"
+  },
+  {
+    "index": 327,
+    "filename": "327.mp3",
+    "text": "What_did_you_think_of_the_training_video"
+  },
+  {
+    "index": 328,
+    "filename": "328.mp3",
+    "text": "A_No_it_wasnt_raining"
+  },
+  {
+    "index": 329,
+    "filename": "329.mp3",
+    "text": "B_I_thought_it_was_very_helpful"
+  },
+  {
+    "index": 330,
+    "filename": "330.mp3",
+    "text": "C_In_the_managers_office"
+  },
+  {
+    "index": 331,
+    "filename": "331.mp3",
+    "text": "Do_you_have_a_pen_I_can_borrow"
+  },
+  {
+    "index": 332,
+    "filename": "332.mp3",
+    "text": "A_When_was_that"
+  },
+  {
+    "index": 333,
+    "filename": "333.mp3",
+    "text": "B_A_receipt_please"
+  },
+  {
+    "index": 334,
+    "filename": "334.mp3",
+    "text": "C_I_lent_it_to_John"
+  },
+  {
+    "index": 335,
+    "filename": "335.mp3",
+    "text": "Did_the_human_resources_mating_get_cancelled"
+  },
+  {
+    "index": 336,
+    "filename": "336.mp3",
+    "text": "A_No_its_still_scheduled_for_ten_oclock"
+  },
+  {
+    "index": 337,
+    "filename": "337.mp3",
+    "text": "B_Networking_strategies"
+  },
+  {
+    "index": 338,
+    "filename": "338.mp3",
+    "text": "C_30_of_the_representatives"
+  },
+  {
+    "index": 339,
+    "filename": "339.mp3",
+    "text": "That_positions_been_open_a_long_time"
+  },
+  {
+    "index": 340,
+    "filename": "340.mp3",
+    "text": "A_Yes_the_door_is_closed"
+  },
+  {
+    "index": 341,
+    "filename": "341.mp3",
+    "text": "B_They_wont_be_participating"
+  },
+  {
+    "index": 342,
+    "filename": "342.mp3",
+    "text": "C_I_hope_they_hire_someone_soon"
+  },
+  {
+    "index": 343,
+    "filename": "343.mp3",
+    "text": "Would_you_like_to_try_a_free_bread_sample"
+  },
+  {
+    "index": 344,
+    "filename": "344.mp3",
+    "text": "A_Thanks_it_looks_delicious"
+  },
+  {
+    "index": 345,
+    "filename": "345.mp3",
+    "text": "B_Im_sorry_to_hear_that"
+  },
+  {
+    "index": 346,
+    "filename": "346.mp3",
+    "text": "C_Ill_check_on_the_delivery_status"
+  },
+  {
+    "index": 347,
+    "filename": "347.mp3",
+    "text": "B_When_will_the_car_be_fixed"
+  },
+  {
+    "index": 348,
+    "filename": "348.mp3",
+    "text": "A_Oh_did_she"
+  },
+  {
+    "index": 349,
+    "filename": "349.mp3",
+    "text": "B_About_fifty_dollars_I_think"
+  },
+  {
+    "index": 350,
+    "filename": "350.mp3",
+    "text": "C_Ill_call_the_shop_to_find_out"
+  },
+  {
+    "index": 351,
+    "filename": "351.mp3",
+    "text": "This_painters_work_was_featured_at_the_Holts_gallery_right"
+  },
+  {
+    "index": 352,
+    "filename": "352.mp3",
+    "text": "A_No_at_the_other_gallery_in_town"
+  },
+  {
+    "index": 353,
+    "filename": "353.mp3",
+    "text": "B_Some_retail_space"
+  },
+  {
+    "index": 354,
+    "filename": "354.mp3",
+    "text": "C_Several_hats"
+  },
+  {
+    "index": 355,
+    "filename": "355.mp3",
+    "text": "Could_you_attend_the_technology_trade_show"
+  },
+  {
+    "index": 356,
+    "filename": "356.mp3",
+    "text": "A_A_new_computer_model"
+  },
+  {
+    "index": 357,
+    "filename": "357.mp3",
+    "text": "B_It_was_a_wonderful_performance"
+  },
+  {
+    "index": 358,
+    "filename": "358.mp3",
+    "text": "C_I_have_a_deadline_coming_up"
+  },
+  {
+    "index": 359,
+    "filename": "359.mp3",
+    "text": "When_can_we_get_together_to_start_planning_the_awards_banquet"
+  },
+  {
+    "index": 360,
+    "filename": "360.mp3",
+    "text": "A_Be_sure_to_stop_at_the_bank_this_afternoon"
+  },
+  {
+    "index": 361,
+    "filename": "361.mp3",
+    "text": "B_Lets_meet_tomorrow_morning"
+  },
+  {
+    "index": 362,
+    "filename": "362.mp3",
+    "text": "C_No_that_wasnt_the_original_plan"
+  },
+  {
+    "index": 363,
+    "filename": "363.mp3",
+    "text": "There_are_a_lot_of_customers_here_at_the_store_today_arent_there"
+  },
+  {
+    "index": 364,
+    "filename": "364.mp3",
+    "text": "A_Maybe_a_dishwasher"
+  },
+  {
+    "index": 365,
+    "filename": "365.mp3",
+    "text": "B_Saturdays_are_always_busy"
+  },
+  {
+    "index": 366,
+    "filename": "366.mp3",
+    "text": "C_Heres_my_receipt"
+  },
+  {
+    "index": 367,
+    "filename": "367.mp3",
+    "text": "Will_the_musicians_be_set_up_by_five_oclock_or_are_they_arriving_later"
+  },
+  {
+    "index": 368,
+    "filename": "368.mp3",
+    "text": "A_Hes_a_football_player"
+  },
+  {
+    "index": 369,
+    "filename": "369.mp3",
+    "text": "B_Theyll_be_here_at_730"
+  },
+  {
+    "index": 370,
+    "filename": "370.mp3",
+    "text": "C_Brazilian_folk_music"
+  },
+  {
+    "index": 371,
+    "filename": "371.mp3",
+    "text": "What_do_we_need_to_bring_to_the_workplace_safety_orientation"
+  },
+  {
+    "index": 372,
+    "filename": "372.mp3",
+    "text": "A_I_saved_my_work"
+  },
+  {
+    "index": 373,
+    "filename": "373.mp3",
+    "text": "B_Yes_her_application_is_impressive"
+  },
+  {
+    "index": 374,
+    "filename": "374.mp3",
+    "text": "C_Didnt_you_receive_an_email"
+  },
+  {
+    "index": 375,
+    "filename": "375.mp3",
+    "text": "How_did_you_like_last_weeks_seminar"
+  },
+  {
+    "index": 376,
+    "filename": "376.mp3",
+    "text": "A_I_was_out_on_holiday"
+  },
+  {
+    "index": 377,
+    "filename": "377.mp3",
+    "text": "B_Yes_certainly"
+  },
+  {
+    "index": 378,
+    "filename": "378.mp3",
+    "text": "C_A_financial_planner"
+  },
+  {
+    "index": 379,
+    "filename": "379.mp3",
+    "text": "Didnt_Mr_Jacobs_ask_us_to_call_him_before_the_staff_meeting_starts"
+  },
+  {
+    "index": 380,
+    "filename": "380.mp3",
+    "text": "A_Cut_the_paper_in_half"
+  },
+  {
+    "index": 381,
+    "filename": "381.mp3",
+    "text": "B_We_have_talented_employees"
+  },
+  {
+    "index": 382,
+    "filename": "382.mp3",
+    "text": "C_Yes_we_should_call_him_right_now"
+  },
+  {
+    "index": 383,
+    "filename": "383.mp3",
+    "text": "Which_brands_of_computers_do_you_sell_at_your_shop"
+  },
+  {
+    "index": 384,
+    "filename": "384.mp3",
+    "text": "A_Out_the_shopping_mall"
+  },
+  {
+    "index": 385,
+    "filename": "385.mp3",
+    "text": "B_I_only_do_repairs"
+  },
+  {
+    "index": 386,
+    "filename": "386.mp3",
+    "text": "C_Thanks_its_a_new_one"
+  },
+  {
+    "index": 387,
+    "filename": "387.mp3",
+    "text": "Why_dont_you_print_out_the_slides_so_we_can_review_them"
+  },
+  {
+    "index": 388,
+    "filename": "388.mp3",
+    "text": "A_Theyre_already_on_my_desk"
+  },
+  {
+    "index": 389,
+    "filename": "389.mp3",
+    "text": "B_It_was_working_fine_earlier"
+  },
+  {
+    "index": 390,
+    "filename": "390.mp3",
+    "text": "C_A_few_of_us_will_be_late"
+  },
+  {
+    "index": 391,
+    "filename": "391.mp3",
+    "text": "Do_you_want_to_hold_the_reception_in_the_conference_center"
+  },
+  {
+    "index": 392,
+    "filename": "392.mp3",
+    "text": "A_No_the_23rd_of_October"
+  },
+  {
+    "index": 393,
+    "filename": "393.mp3",
+    "text": "B_My_client_and_his_manager"
+  },
+  {
+    "index": 394,
+    "filename": "394.mp3",
+    "text": "C_Do_they_have_any_dates_available"
+  },
+  {
+    "index": 395,
+    "filename": "395.mp3",
+    "text": "I_dont_think_weve_budgeted_enough_for_the_construction_project"
+  },
+  {
+    "index": 396,
+    "filename": "396.mp3",
+    "text": "A_No_its_a_right_turn"
+  },
+  {
+    "index": 397,
+    "filename": "397.mp3",
+    "text": "B_The_glass_and_steel_suppliers"
+  },
+  {
+    "index": 398,
+    "filename": "398.mp3",
+    "text": "C_Lets_check_the_accounts_again"
+  },
+  {
+    "index": 399,
+    "filename": "399.mp3",
+    "text": "Being_areas_full_where_can_I_leave_my_car"
+  },
+  {
+    "index": 400,
+    "filename": "400.mp3",
+    "text": "A_45_minutes_ago"
+  },
+  {
+    "index": 401,
+    "filename": "401.mp3",
+    "text": "B_Our_supervisor_should_know"
+  },
+  {
+    "index": 402,
+    "filename": "402.mp3",
+    "text": "C_More_than_100_cars"
+  },
+  {
+    "index": 403,
+    "filename": "403.mp3",
+    "text": "Which_shoes_are_on_sale_this_weekend"
+  },
+  {
+    "index": 404,
+    "filename": "404.mp3",
+    "text": "A_Thats_a_good_choice"
+  },
+  {
+    "index": 405,
+    "filename": "405.mp3",
+    "text": "B_The_ones_on_this_table"
+  },
+  {
+    "index": 406,
+    "filename": "406.mp3",
+    "text": "C_I_check_to_resume"
+  },
+  {
+    "index": 407,
+    "filename": "407.mp3",
+    "text": "Would_you_like_to_pay_for_the_cake_now_or_when_its_delivered"
+  },
+  {
+    "index": 408,
+    "filename": "408.mp3",
+    "text": "A_Chocolate_please"
+  },
+  {
+    "index": 409,
+    "filename": "409.mp3",
+    "text": "B_Actually_none_of_them_were"
+  },
+  {
+    "index": 410,
+    "filename": "410.mp3",
+    "text": "C_Ill_pay_now"
+  },
+  {
+    "index": 411,
+    "filename": "411.mp3",
+    "text": "Doesnt_Thomas_usually_work_the_evening_shift"
+  },
+  {
+    "index": 412,
+    "filename": "412.mp3",
+    "text": "A_It_was_working_fine_earlier"
+  },
+  {
+    "index": 413,
+    "filename": "413.mp3",
+    "text": "B_Someone_from_the_day_shift_is_out_sick_today"
+  },
+  {
+    "index": 414,
+    "filename": "414.mp3",
+    "text": "C_Lets_clean_the_warehouse"
+  },
+  {
+    "index": 415,
+    "filename": "415.mp3",
+    "text": "Who_came_up_with_the_idea_for_the_new_commercial"
+  },
+  {
+    "index": 416,
+    "filename": "416.mp3",
+    "text": "A_Just_a_few"
+  },
+  {
+    "index": 417,
+    "filename": "417.mp3",
+    "text": "B_One_of_our_marketing_assistants"
+  },
+  {
+    "index": 418,
+    "filename": "418.mp3",
+    "text": "C_Probably_next_month"
+  },
+  {
+    "index": 419,
+    "filename": "419.mp3",
+    "text": "Could_we_start_the_orientation_meeting_a_bit_later"
+  },
+  {
+    "index": 420,
+    "filename": "420.mp3",
+    "text": "A_Sure_at_what_time"
+  },
+  {
+    "index": 421,
+    "filename": "421.mp3",
+    "text": "B_About_10_employees"
+  },
+  {
+    "index": 422,
+    "filename": "422.mp3",
+    "text": "C_Thanks_I_learned_a_lot"
+  },
+  {
+    "index": 423,
+    "filename": "423.mp3",
+    "text": "When_are_we_getting_our_paychecks"
+  },
+  {
+    "index": 424,
+    "filename": "424.mp3",
+    "text": "A_Because_the_bank_is_closed"
+  },
+  {
+    "index": 425,
+    "filename": "425.mp3",
+    "text": "B_No_did_you"
+  },
+  {
+    "index": 426,
+    "filename": "426.mp3",
+    "text": "C_This_Friday"
+  },
+  {
+    "index": 427,
+    "filename": "427.mp3",
+    "text": "Did_we_decide_on_the_large_catering_order_or_the_small_one"
+  },
+  {
+    "index": 428,
+    "filename": "428.mp3",
+    "text": "A_This_meal_is_delicious"
+  },
+  {
+    "index": 429,
+    "filename": "429.mp3",
+    "text": "B_In_alphabetical_order"
+  },
+  {
+    "index": 430,
+    "filename": "430.mp3",
+    "text": "C_Were_expecting_a_big_group_of_people"
+  },
+  {
+    "index": 431,
+    "filename": "431.mp3",
+    "text": "How_do_I_sign_up_for_the_10-kilometer_race"
+  },
+  {
+    "index": 432,
+    "filename": "432.mp3",
+    "text": "A_Walking_or_running_is_okay"
+  },
+  {
+    "index": 433,
+    "filename": "433.mp3",
+    "text": "B_You_fell_out_of_form_online"
+  },
+  {
+    "index": 434,
+    "filename": "434.mp3",
+    "text": "C_Through_the_park"
+  },
+  {
+    "index": 435,
+    "filename": "435.mp3",
+    "text": "Didnt_I_submit_my_references_online"
+  },
+  {
+    "index": 436,
+    "filename": "436.mp3",
+    "text": "A_The_website_was_very_interesting"
+  },
+  {
+    "index": 437,
+    "filename": "437.mp3",
+    "text": "B_You_did_last_week"
+  },
+  {
+    "index": 438,
+    "filename": "438.mp3",
+    "text": "C_More_than_500"
+  },
+  {
+    "index": 439,
+    "filename": "439.mp3",
+    "text": "What_will_the_keynote_speaker_talk_about_at_the_conference"
+  },
+  {
+    "index": 440,
+    "filename": "440.mp3",
+    "text": "A_That_informations_in_the_event_program"
+  },
+  {
+    "index": 441,
+    "filename": "441.mp3",
+    "text": "B_Could_you_turn_the_volume_down"
+  },
+  {
+    "index": 442,
+    "filename": "442.mp3",
+    "text": "C_About_two_weeks_ago_I_think"
+  },
+  {
+    "index": 443,
+    "filename": "443.mp3",
+    "text": "Where_is_the_closest_pharmacy"
+  },
+  {
+    "index": 444,
+    "filename": "444.mp3",
+    "text": "A_Her_brother_is_a_farmer"
+  },
+  {
+    "index": 445,
+    "filename": "445.mp3",
+    "text": "B_On_the_weekend"
+  },
+  {
+    "index": 446,
+    "filename": "446.mp3",
+    "text": "C_Theres_one_by_the_bus_station"
+  },
+  {
+    "index": 447,
+    "filename": "447.mp3",
+    "text": "Why_are_your_travel_expenses_so_high"
+  },
+  {
+    "index": 448,
+    "filename": "448.mp3",
+    "text": "A_They_will_all_sold_out"
+  },
+  {
+    "index": 449,
+    "filename": "449.mp3",
+    "text": "B_Ill_tell_you_said_hi"
+  },
+  {
+    "index": 450,
+    "filename": "450.mp3",
+    "text": "C_Maria_approved_the_budget"
+  },
+  {
+    "index": 451,
+    "filename": "451.mp3",
+    "text": "Have_you_looked_at_the_designs_for_the_book_cover"
+  },
+  {
+    "index": 452,
+    "filename": "452.mp3",
+    "text": "A_Ive_been_in_meetings_all_morning"
+  },
+  {
+    "index": 453,
+    "filename": "453.mp3",
+    "text": "B_Sure_Ill_cover_the_furniture"
+  },
+  {
+    "index": 454,
+    "filename": "454.mp3",
+    "text": "C_Your_appointments_booked"
+  },
+  {
+    "index": 455,
+    "filename": "455.mp3",
+    "text": "Where_are_the_new_employees_starting"
+  },
+  {
+    "index": 456,
+    "filename": "456.mp3",
+    "text": "A_Three_years_of_experience"
+  },
+  {
+    "index": 457,
+    "filename": "457.mp3",
+    "text": "B_Theyll_be_here_tomorrow_afternoon"
+  },
+  {
+    "index": 458,
+    "filename": "458.mp3",
+    "text": "C_The_same_salary_as_before"
+  },
+  {
+    "index": 459,
+    "filename": "459.mp3",
+    "text": "Should_I_go_on_the_morning_flight_or_wait_until_the_afternoon"
+  },
+  {
+    "index": 460,
+    "filename": "460.mp3",
+    "text": "A_Seven_hours"
+  },
+  {
+    "index": 461,
+    "filename": "461.mp3",
+    "text": "B_Okay_that_should_be_fine"
+  },
+  {
+    "index": 462,
+    "filename": "462.mp3",
+    "text": "C_Take_the_morning_flight"
+  },
+  {
+    "index": 463,
+    "filename": "463.mp3",
+    "text": "I_saw_a_stain_on_the_carpet_in_room_29"
+  },
+  {
+    "index": 464,
+    "filename": "464.mp3",
+    "text": "A_An_overnight_stay"
+  },
+  {
+    "index": 465,
+    "filename": "465.mp3",
+    "text": "B_Your_reservations_confirmed"
+  },
+  {
+    "index": 466,
+    "filename": "466.mp3",
+    "text": "C_Its_time_to_replace_it_anyway"
+  },
+  {
+    "index": 467,
+    "filename": "467.mp3",
+    "text": "Why_dont_we_meet_at_the_fitness_center_around_730"
+  },
+  {
+    "index": 468,
+    "filename": "468.mp3",
+    "text": "A_Its_already_there"
+  },
+  {
+    "index": 469,
+    "filename": "469.mp3",
+    "text": "B_Sounds_good_to_me"
+  },
+  {
+    "index": 470,
+    "filename": "470.mp3",
+    "text": "C_Because_it_fits_you_well"
+  },
+  {
+    "index": 471,
+    "filename": "471.mp3",
+    "text": "Could_you_find_me_a_hammer_and_some_nails"
+  },
+  {
+    "index": 472,
+    "filename": "472.mp3",
+    "text": "A_Ill_call_maintenance"
+  },
+  {
+    "index": 473,
+    "filename": "473.mp3",
+    "text": "B_You_can_send_it_by_email"
+  },
+  {
+    "index": 474,
+    "filename": "474.mp3",
+    "text": "C_The_beauty_salon_on_the_corner"
+  },
+  {
+    "index": 475,
+    "filename": "475.mp3",
+    "text": "Who_was_in_the_break_room_last"
+  },
+  {
+    "index": 476,
+    "filename": "476.mp3",
+    "text": "A_I_noticed_that_it_was_messy_too"
+  },
+  {
+    "index": 477,
+    "filename": "477.mp3",
+    "text": "B_Sure_I_could_use_a_break"
+  },
+  {
+    "index": 478,
+    "filename": "478.mp3",
+    "text": "C_How_did_you_make_this_dessert"
+  },
+  {
+    "index": 479,
+    "filename": "479.mp3",
+    "text": "Theres_a_sale_on_electronics_tomorrow"
+  },
+  {
+    "index": 480,
+    "filename": "480.mp3",
+    "text": "A_Yes_the_electricity_bill_was_really_low"
+  },
+  {
+    "index": 481,
+    "filename": "481.mp3",
+    "text": "B_The_shirt_on_the_sales_rack"
+  },
+  {
+    "index": 482,
+    "filename": "482.mp3",
+    "text": "C_I_have_had_this_computer_for_a_long_time"
+  },
+  {
+    "index": 483,
+    "filename": "483.mp3",
+    "text": "Why_hasnt_production_started_yet"
+  },
+  {
+    "index": 484,
+    "filename": "484.mp3",
+    "text": "A_Several_eight_hour_shifts"
+  },
+  {
+    "index": 485,
+    "filename": "485.mp3",
+    "text": "B_A_shipment_to_Toronto"
+  },
+  {
+    "index": 486,
+    "filename": "486.mp3",
+    "text": "C_Because_the_machine_is_broken"
+  },
+  {
+    "index": 487,
+    "filename": "487.mp3",
+    "text": "How_do_you_want_me_to_display_the_new_products"
+  },
+  {
+    "index": 488,
+    "filename": "488.mp3",
+    "text": "A_We_shop_there_too"
+  },
+  {
+    "index": 489,
+    "filename": "489.mp3",
+    "text": "B_Please_arrange_them_according_to_color"
+  },
+  {
+    "index": 490,
+    "filename": "490.mp3",
+    "text": "C_Production_is_going_well"
+  },
+  {
+    "index": 491,
+    "filename": "491.mp3",
+    "text": "Wheres_the_instruction_manual_for_the_video_conferencing_software"
+  },
+  {
+    "index": 492,
+    "filename": "492.mp3",
+    "text": "A_In_the_file_cabinet"
+  },
+  {
+    "index": 493,
+    "filename": "493.mp3",
+    "text": "B_On_Saturday"
+  },
+  {
+    "index": 494,
+    "filename": "494.mp3",
+    "text": "C_The_marketing_conference"
+  },
+  {
+    "index": 495,
+    "filename": "495.mp3",
+    "text": "This_mirror_would_look_good_in_the_corner_dont_you_think"
+  },
+  {
+    "index": 496,
+    "filename": "496.mp3",
+    "text": "A_Youre_a_better_decorator_than_I_am"
+  },
+  {
+    "index": 497,
+    "filename": "497.mp3",
+    "text": "B_I_dont_think_I_have_any"
+  },
+  {
+    "index": 498,
+    "filename": "498.mp3",
+    "text": "C_A_brand_new_vacuum_cleaner"
+  },
+  {
+    "index": 499,
+    "filename": "499.mp3",
+    "text": "Youre_creating_a_schedule_for_the_Madrid_Convention_right"
+  },
+  {
+    "index": 500,
+    "filename": "500.mp3",
+    "text": "A_Yes_heres_the_spreadsheet"
+  },
+  {
+    "index": 501,
+    "filename": "501.mp3",
+    "text": "B_The_beginning_of_October"
+  },
+  {
+    "index": 502,
+    "filename": "502.mp3",
+    "text": "C_About_twelve"
+  },
+  {
+    "index": 503,
+    "filename": "503.mp3",
+    "text": "Why_were_you_late_for_work_today"
+  },
+  {
+    "index": 504,
+    "filename": "504.mp3",
+    "text": "A_Its_on_my_desk"
+  },
+  {
+    "index": 505,
+    "filename": "505.mp3",
+    "text": "B_Because_I_got_stuck_in_traffic"
+  },
+  {
+    "index": 506,
+    "filename": "506.mp3",
+    "text": "C_Later_this_afternoon"
+  },
+  {
+    "index": 507,
+    "filename": "507.mp3",
+    "text": "Wheres_your_poppin_building_like_headed"
+  },
+  {
+    "index": 508,
+    "filename": "508.mp3",
+    "text": "A_Not_very_often"
+  },
+  {
+    "index": 509,
+    "filename": "509.mp3",
+    "text": "B_Twenty_floors"
+  },
+  {
+    "index": 510,
+    "filename": "510.mp3",
+    "text": "C_On_fifth_avenue"
+  },
+  {
+    "index": 511,
+    "filename": "511.mp3",
+    "text": "Which_flavor_ice_cream_would_you_like"
+  },
+  {
+    "index": 512,
+    "filename": "512.mp3",
+    "text": "A_Yes_in_a_bowl"
+  },
+  {
+    "index": 513,
+    "filename": "513.mp3",
+    "text": "B_Ill_take_chocolate_please"
+  },
+  {
+    "index": 514,
+    "filename": "514.mp3",
+    "text": "C_The_booth_over_there"
+  },
+  {
+    "index": 515,
+    "filename": "515.mp3",
+    "text": "Whos_going_to_pick_up_Pablo_from_the_airport"
+  },
+  {
+    "index": 516,
+    "filename": "516.mp3",
+    "text": "A_A_driver_will_pick_him_up_at_twelve"
+  },
+  {
+    "index": 517,
+    "filename": "517.mp3",
+    "text": "B_Theyre_my_favorite_airline"
+  },
+  {
+    "index": 518,
+    "filename": "518.mp3",
+    "text": "C_At_the_baggage_claim"
+  },
+  {
+    "index": 519,
+    "filename": "519.mp3",
+    "text": "Wheres_the_train_station"
+  },
+  {
+    "index": 520,
+    "filename": "520.mp3",
+    "text": "A_I_always_listen_to_that_radio_station"
+  },
+  {
+    "index": 521,
+    "filename": "521.mp3",
+    "text": "B_An_informative_training_session"
+  },
+  {
+    "index": 522,
+    "filename": "522.mp3",
+    "text": "C_Right_next_to_the_university"
+  },
+  {
+    "index": 523,
+    "filename": "523.mp3",
+    "text": "When_will_the_cleaning_products_be_delivered"
+  },
+  {
+    "index": 524,
+    "filename": "524.mp3",
+    "text": "A_By_truck"
+  },
+  {
+    "index": 525,
+    "filename": "525.mp3",
+    "text": "B_In_two_days"
+  },
+  {
+    "index": 526,
+    "filename": "526.mp3",
+    "text": "C_A_manufacturing_plant"
+  },
+  {
+    "index": 527,
+    "filename": "527.mp3",
+    "text": "We_havent_received_the_electric_bill_yet_have_we"
+  },
+  {
+    "index": 528,
+    "filename": "528.mp3",
+    "text": "A_Sure_Ill_turn_it_on"
+  },
+  {
+    "index": 529,
+    "filename": "529.mp3",
+    "text": "B_No_not_yet"
+  },
+  {
+    "index": 530,
+    "filename": "530.mp3",
+    "text": "C_A_credit_card"
+  },
+  {
+    "index": 531,
+    "filename": "531.mp3",
+    "text": "How_did_you_enjoy_your_stay"
+  },
+  {
+    "index": 532,
+    "filename": "532.mp3",
+    "text": "A_I_had_a_great_time"
+  },
+  {
+    "index": 533,
+    "filename": "533.mp3",
+    "text": "B_About_seven_thirty"
+  },
+  {
+    "index": 534,
+    "filename": "534.mp3",
+    "text": "C_He_left_it_at_work"
+  },
+  {
+    "index": 535,
+    "filename": "535.mp3",
+    "text": "Who_won_the_employee_of_the_month_award"
+  },
+  {
+    "index": 536,
+    "filename": "536.mp3",
+    "text": "A_My_dinner_was_delicious_thanks"
+  },
+  {
+    "index": 537,
+    "filename": "537.mp3",
+    "text": "B_Just_a_few_minutes_after_three_oclock"
+  },
+  {
+    "index": 538,
+    "filename": "538.mp3",
+    "text": "C_It_still_hasnt_been_announced"
+  },
+  {
+    "index": 539,
+    "filename": "539.mp3",
+    "text": "Do_you_want_me_to_reserve_a_ticket_for_you"
+  },
+  {
+    "index": 540,
+    "filename": "540.mp3",
+    "text": "A_I_cant_say_that_I_have"
+  },
+  {
+    "index": 541,
+    "filename": "541.mp3",
+    "text": "B_A_higher_ticket_price"
+  },
+  {
+    "index": 542,
+    "filename": "542.mp3",
+    "text": "C_Yes_Id_appreciate_that"
+  },
+  {
+    "index": 543,
+    "filename": "543.mp3",
+    "text": "Does_your_bus_stop_by_the_construction_site"
+  },
+  {
+    "index": 544,
+    "filename": "544.mp3",
+    "text": "A_Oh_Im_going_by_car"
+  },
+  {
+    "index": 545,
+    "filename": "545.mp3",
+    "text": "B_A_new_building_company"
+  },
+  {
+    "index": 546,
+    "filename": "546.mp3",
+    "text": "C_Did_you_go_on_Tuesday_or_Thursday"
+  },
+  {
+    "index": 547,
+    "filename": "547.mp3",
+    "text": "Theres_a_discount_on_this_stove_right"
+  },
+  {
+    "index": 548,
+    "filename": "548.mp3",
+    "text": "A_No_I_sell_kitchen_appliances"
+  },
+  {
+    "index": 549,
+    "filename": "549.mp3",
+    "text": "B_Hes_an_excellent_cook"
+  },
+  {
+    "index": 550,
+    "filename": "550.mp3",
+    "text": "C_Yes_its_25_off"
+  },
+  {
+    "index": 551,
+    "filename": "551.mp3",
+    "text": "Could_you_show_me_where_the_electronics_department_is"
+  },
+  {
+    "index": 552,
+    "filename": "552.mp3",
+    "text": "A_The_show_starts_at_8_pm"
+  },
+  {
+    "index": 553,
+    "filename": "553.mp3",
+    "text": "B_Replace_the_batteries"
+  },
+  {
+    "index": 554,
+    "filename": "554.mp3",
+    "text": "C_Sure_follow_me"
+  },
+  {
+    "index": 555,
+    "filename": "555.mp3",
+    "text": "Whats_this_shirt_made_of"
+  },
+  {
+    "index": 556,
+    "filename": "556.mp3",
+    "text": "A_In_Spain_I_believe"
+  },
+  {
+    "index": 557,
+    "filename": "557.mp3",
+    "text": "B_Let_me_check_the_label"
+  },
+  {
+    "index": 558,
+    "filename": "558.mp3",
+    "text": "C_It_also_comes_in_blue"
+  },
+  {
+    "index": 559,
+    "filename": "559.mp3",
+    "text": "Will_the_social_media_workshop_end_before_6_pm"
+  },
+  {
+    "index": 560,
+    "filename": "560.mp3",
+    "text": "A_Know_the_late_shift"
+  },
+  {
+    "index": 561,
+    "filename": "561.mp3",
+    "text": "B_The_schedules_online"
+  },
+  {
+    "index": 562,
+    "filename": "562.mp3",
+    "text": "C_I_only_read_newspapers"
+  },
+  {
+    "index": 563,
+    "filename": "563.mp3",
+    "text": "Which_suitcase_do_you_like_better"
+  },
+  {
+    "index": 564,
+    "filename": "564.mp3",
+    "text": "The_yellow_one_or_the_red_one"
+  },
+  {
+    "index": 565,
+    "filename": "565.mp3",
+    "text": "A_Its_an_annual_conference"
+  },
+  {
+    "index": 566,
+    "filename": "566.mp3",
+    "text": "B_The_yellow_one_is_a_good_size"
+  },
+  {
+    "index": 567,
+    "filename": "567.mp3",
+    "text": "C_I_should_book_my_flight_soon"
+  },
+  {
+    "index": 568,
+    "filename": "568.mp3",
+    "text": "The_parking_area_in_front_of_the_warehouse_is_being_closed"
+  },
+  {
+    "index": 569,
+    "filename": "569.mp3",
+    "text": "A_Theres_more_spaces_in_the_back"
+  },
+  {
+    "index": 570,
+    "filename": "570.mp3",
+    "text": "B_Heres_an_extra_uniform"
+  },
+  {
+    "index": 571,
+    "filename": "571.mp3",
+    "text": "C_No_just_open_the_boxes"
+  },
+  {
+    "index": 572,
+    "filename": "572.mp3",
+    "text": "These_shoes_look_nice_dont_they"
+  },
+  {
+    "index": 573,
+    "filename": "573.mp3",
+    "text": "A_I_think_you_should_try_this_pair_instead"
+  },
+  {
+    "index": 574,
+    "filename": "574.mp3",
+    "text": "B_The_clothing_store_near_my_house"
+  },
+  {
+    "index": 575,
+    "filename": "575.mp3",
+    "text": "C_Yes_it_was_nice_to_meet_her"
+  },
+  {
+    "index": 576,
+    "filename": "576.mp3",
+    "text": "Lets_leave_early_for_our_lunch_with_the_clients"
+  },
+  {
+    "index": 577,
+    "filename": "577.mp3",
+    "text": "A_I_still_have_a_lot_to_do"
+  },
+  {
+    "index": 578,
+    "filename": "578.mp3",
+    "text": "B_A_different_menu_item"
+  },
+  {
+    "index": 579,
+    "filename": "579.mp3",
+    "text": "C_No_I_havent_met_him"
+  },
+  {
+    "index": 580,
+    "filename": "580.mp3",
+    "text": "When_will_you_sell_your_property"
+  },
+  {
+    "index": 581,
+    "filename": "581.mp3",
+    "text": "A_Theres_a_sale_at_the_supermarket"
+  },
+  {
+    "index": 582,
+    "filename": "582.mp3",
+    "text": "B_Yes_we_liked_it"
+  },
+  {
+    "index": 583,
+    "filename": "583.mp3",
+    "text": "C_We_dont_have_a_real_estate_agent_yet"
+  },
+  {
+    "index": 584,
+    "filename": "584.mp3",
+    "text": "These_business_cards_are_attractive"
+  },
+  {
+    "index": 585,
+    "filename": "585.mp3",
+    "text": "A_Office_is_open_at_9_am"
+  },
+  {
+    "index": 586,
+    "filename": "586.mp3",
+    "text": "B_Yes_the_design_is_professional"
+  },
+  {
+    "index": 587,
+    "filename": "587.mp3",
+    "text": "C_No_the_keys_are_the_same"
+  },
+  {
+    "index": 588,
+    "filename": "588.mp3",
+    "text": "How_long_does_it_take_to_become_a_plumber"
+  },
+  {
+    "index": 589,
+    "filename": "589.mp3",
+    "text": "A_It_happened_last_week"
+  },
+  {
+    "index": 590,
+    "filename": "590.mp3",
+    "text": "B_A_price_estimate_for_metal_pipes"
+  },
+  {
+    "index": 591,
+    "filename": "591.mp3",
+    "text": "C_Are_you_interested_in_training_for_that_job"
+  },
+  {
+    "index": 592,
+    "filename": "592.mp3",
+    "text": "Dont_we_have_an_extra_table_in_the_supply_closet"
+  },
+  {
+    "index": 593,
+    "filename": "593.mp3",
+    "text": "A_Were_using_it_for_the_holiday_party"
+  },
+  {
+    "index": 594,
+    "filename": "594.mp3",
+    "text": "B_Yes_you_can_close_it"
+  },
+  {
+    "index": 595,
+    "filename": "595.mp3",
+    "text": "C_Maria_just_ordered_more_paper"
+  },
+  {
+    "index": 596,
+    "filename": "596.mp3",
+    "text": "Where_should_I_go_when_I_visit_New_York"
+  },
+  {
+    "index": 597,
+    "filename": "597.mp3",
+    "text": "A_Every_month"
+  },
+  {
+    "index": 598,
+    "filename": "598.mp3",
+    "text": "B_To_the_botanical_gardens"
+  },
+  {
+    "index": 599,
+    "filename": "599.mp3",
+    "text": "C_20_dollars"
+  },
+  {
+    "index": 600,
+    "filename": "600.mp3",
+    "text": "Has_someone_booked_a_room_for_todays_budget_meeting"
+  },
+  {
+    "index": 601,
+    "filename": "601.mp3",
+    "text": "A_I_really_enjoyed_the_book"
+  },
+  {
+    "index": 602,
+    "filename": "602.mp3",
+    "text": "B_Did_you_turn_off_the_equipment"
+  },
+  {
+    "index": 603,
+    "filename": "603.mp3",
+    "text": "C_The_meeting_is_tomorrow"
+  },
+  {
+    "index": 604,
+    "filename": "604.mp3",
+    "text": "Could_I_borrow_your_pen"
+  },
+  {
+    "index": 605,
+    "filename": "605.mp3",
+    "text": "A_No_Ive_never_been_there"
+  },
+  {
+    "index": 606,
+    "filename": "606.mp3",
+    "text": "B_Some_folders"
+  },
+  {
+    "index": 607,
+    "filename": "607.mp3",
+    "text": "C_Of_course"
+  },
+  {
+    "index": 608,
+    "filename": "608.mp3",
+    "text": "Whats_the_price_of_this_item"
+  },
+  {
+    "index": 609,
+    "filename": "609.mp3",
+    "text": "A_Five_euros"
+  },
+  {
+    "index": 610,
+    "filename": "610.mp3",
+    "text": "B_At_around_8_pm"
+  },
+  {
+    "index": 611,
+    "filename": "611.mp3",
+    "text": "C_Yes_it_does"
+  },
+  {
+    "index": 612,
+    "filename": "612.mp3",
+    "text": "When_do_you_usually_take_your_lunch_break"
+  },
+  {
+    "index": 613,
+    "filename": "613.mp3",
+    "text": "A_With_someone_from_my_department"
+  },
+  {
+    "index": 614,
+    "filename": "614.mp3",
+    "text": "B_Just_a_sandwich"
+  },
+  {
+    "index": 615,
+    "filename": "615.mp3",
+    "text": "C_Sometime_after_1130"
+  },
+  {
+    "index": 616,
+    "filename": "616.mp3",
+    "text": "You_got_the_concert_tickets_for_Saturday_right"
+  },
+  {
+    "index": 617,
+    "filename": "617.mp3",
+    "text": "A_It_was_a_local_band"
+  },
+  {
+    "index": 618,
+    "filename": "618.mp3",
+    "text": "B_No_theyre_actually_for_Sunday"
+  },
+  {
+    "index": 619,
+    "filename": "619.mp3",
+    "text": "C_Ill_write_it_this_afternoon"
+  },
+  {
+    "index": 620,
+    "filename": "620.mp3",
+    "text": "How_did_you_hear_about_our_zoo_tour"
+  },
+  {
+    "index": 621,
+    "filename": "621.mp3",
+    "text": "A_Thats_what_I_heard_too"
+  },
+  {
+    "index": 622,
+    "filename": "622.mp3",
+    "text": "B_A_variety_of_wild_animals"
+  },
+  {
+    "index": 623,
+    "filename": "623.mp3",
+    "text": "C_A_friend_recommended_it"
+  },
+  {
+    "index": 624,
+    "filename": "624.mp3",
+    "text": "What_is_required_to_get_a_store_refund"
+  },
+  {
+    "index": 625,
+    "filename": "625.mp3",
+    "text": "A_I_saw_them_last_week"
+  },
+  {
+    "index": 626,
+    "filename": "626.mp3",
+    "text": "B_You_just_need_your_receipt"
+  },
+  {
+    "index": 627,
+    "filename": "627.mp3",
+    "text": "C_The_orientation_event_was_fun"
+  },
+  {
+    "index": 628,
+    "filename": "628.mp3",
+    "text": "Why_is_construction_on_the_new_apartments_delayed"
+  },
+  {
+    "index": 629,
+    "filename": "629.mp3",
+    "text": "A_Yes_I_would"
+  },
+  {
+    "index": 630,
+    "filename": "630.mp3",
+    "text": "B_No_I_dont_have_the_instructions"
+  },
+  {
+    "index": 631,
+    "filename": "631.mp3",
+    "text": "C_Because_of_the_bad_weather"
+  },
+  {
+    "index": 632,
+    "filename": "632.mp3",
+    "text": "How_do_I_open_a_new_account"
+  },
+  {
+    "index": 633,
+    "filename": "633.mp3",
+    "text": "A_Theyre_hiring_more_accountants"
+  },
+  {
+    "index": 634,
+    "filename": "634.mp3",
+    "text": "B_Yes_the_bank_is_open"
+  },
+  {
+    "index": 635,
+    "filename": "635.mp3",
+    "text": "C_Let_me_get_you_the_paperwork"
+  },
+  {
+    "index": 636,
+    "filename": "636.mp3",
+    "text": "Have_you_installed_the_new_computer_software_yet"
+  },
+  {
+    "index": 637,
+    "filename": "637.mp3",
+    "text": "A_I_did_that_this_morning"
+  },
+  {
+    "index": 638,
+    "filename": "638.mp3",
+    "text": "B_Its_a_monthly_payment_plan"
+  },
+  {
+    "index": 639,
+    "filename": "639.mp3",
+    "text": "C_Some_new_keyboards"
+  },
+  {
+    "index": 640,
+    "filename": "640.mp3",
+    "text": "You_havent_seen_my_scarf_have_you"
+  },
+  {
+    "index": 641,
+    "filename": "641.mp3",
+    "text": "A_I_met_him_yesterday"
+  },
+  {
+    "index": 642,
+    "filename": "642.mp3",
+    "text": "B_Alicia_might_know_where_it_is"
+  },
+  {
+    "index": 643,
+    "filename": "643.mp3",
+    "text": "C_I_love_that_film"
+  },
+  {
+    "index": 644,
+    "filename": "644.mp3",
+    "text": "Who_is_this_spokesperson_at_the_press_conference_today"
+  },
+  {
+    "index": 645,
+    "filename": "645.mp3",
+    "text": "A_It_was_an_interesting_article"
+  },
+  {
+    "index": 646,
+    "filename": "646.mp3",
+    "text": "B_The_company_president"
+  },
+  {
+    "index": 647,
+    "filename": "647.mp3",
+    "text": "C_About_a_new_product"
+  },
+  {
+    "index": 648,
+    "filename": "648.mp3",
+    "text": "How_much_do_you_think_the_banquet_tables_will_cost"
+  },
+  {
+    "index": 649,
+    "filename": "649.mp3",
+    "text": "A_Yes_that_sounds_right"
+  },
+  {
+    "index": 650,
+    "filename": "650.mp3",
+    "text": "B_Over_by_the_chairs"
+  },
+  {
+    "index": 651,
+    "filename": "651.mp3",
+    "text": "C_Ill_check_with_the_supplier"
+  },
+  {
+    "index": 652,
+    "filename": "652.mp3",
+    "text": "Where_can_I_find_the_corporate_handbook"
+  },
+  {
+    "index": 653,
+    "filename": "653.mp3",
+    "text": "A_They_found_a_parking_spot_near_us"
+  },
+  {
+    "index": 654,
+    "filename": "654.mp3",
+    "text": "B_We_shook_hands_at_the_reception"
+  },
+  {
+    "index": 655,
+    "filename": "655.mp3",
+    "text": "C_You_can_download_it_from_our_website"
+  },
+  {
+    "index": 656,
+    "filename": "656.mp3",
+    "text": "Would_you_like_to_pay_in_cash_or_with_a_credit_card"
+  },
+  {
+    "index": 657,
+    "filename": "657.mp3",
+    "text": "A_400"
+  },
+  {
+    "index": 658,
+    "filename": "658.mp3",
+    "text": "B_Which_credit_cards_do_you_accept"
+  },
+  {
+    "index": 659,
+    "filename": "659.mp3",
+    "text": "C_I_thought_so_too"
+  },
+  {
+    "index": 660,
+    "filename": "660.mp3",
+    "text": "When_will_the_prototype_be_ready_for_production"
+  },
+  {
+    "index": 661,
+    "filename": "661.mp3",
+    "text": "A_No_he_wrote_it_down"
+  },
+  {
+    "index": 662,
+    "filename": "662.mp3",
+    "text": "B_Our_Singapore_factory"
+  },
+  {
+    "index": 663,
+    "filename": "663.mp3",
+    "text": "C_Later_this_month"
+  },
+  {
+    "index": 664,
+    "filename": "664.mp3",
+    "text": "It_looks_like_the_restaurant_didnt_deliver_my_salad"
+  },
+  {
+    "index": 665,
+    "filename": "665.mp3",
+    "text": "A_Those_were_delicious"
+  },
+  {
+    "index": 666,
+    "filename": "666.mp3",
+    "text": "B_There_are_napkins_in_the_kitchen"
+  },
+  {
+    "index": 667,
+    "filename": "667.mp3",
+    "text": "C_Ill_call_the_restaurant_manager"
+  },
+  {
+    "index": 668,
+    "filename": "668.mp3",
+    "text": "Why_dont_we_have_a_quick_meeting_at_4"
+  },
+  {
+    "index": 669,
+    "filename": "669.mp3",
+    "text": "A_My_client_arrives_at_345"
+  },
+  {
+    "index": 670,
+    "filename": "670.mp3",
+    "text": "B_It_didnt_last_very_long"
+  },
+  {
+    "index": 671,
+    "filename": "671.mp3",
+    "text": "C_To_launch_a_new_product"
+  },
+  {
+    "index": 672,
+    "filename": "672.mp3",
+    "text": "Do_you_think_we_could_modify_the_project_timeline"
+  },
+  {
+    "index": 673,
+    "filename": "673.mp3",
+    "text": "A_At_the_entrance_to_the_building"
+  },
+  {
+    "index": 674,
+    "filename": "674.mp3",
+    "text": "B_The_flight_departs_from_terminal_6"
+  },
+  {
+    "index": 675,
+    "filename": "675.mp3",
+    "text": "C_Well_need_approval_from_the_director"
+  },
+  {
+    "index": 676,
+    "filename": "676.mp3",
+    "text": "Can_I_leave_a_message_for_Mr_Oyama"
+  },
+  {
+    "index": 677,
+    "filename": "677.mp3",
+    "text": "A_He_should_be_back_in_his_office_soon"
+  },
+  {
+    "index": 678,
+    "filename": "678.mp3",
+    "text": "B_The_main_conference_room"
+  },
+  {
+    "index": 679,
+    "filename": "679.mp3",
+    "text": "C_Theres_a_vegetarian_option"
+  },
+  {
+    "index": 680,
+    "filename": "680.mp3",
+    "text": "Doesnt_this_elevator_go_to_the_20th_floor"
+  },
+  {
+    "index": 681,
+    "filename": "681.mp3",
+    "text": "A_Lecopic_cleaner"
+  },
+  {
+    "index": 682,
+    "filename": "682.mp3",
+    "text": "B_No_it_stops_at_the_10th"
+  },
+  {
+    "index": 683,
+    "filename": "683.mp3",
+    "text": "C_There_are_some_more_in_the_closet"
+  },
+  {
+    "index": 684,
+    "filename": "684.mp3",
+    "text": "Who_wants_to_lead_the_accounting_workshop_next_week"
+  },
+  {
+    "index": 685,
+    "filename": "685.mp3",
+    "text": "A_Ill_be_on_vacation"
+  },
+  {
+    "index": 686,
+    "filename": "686.mp3",
+    "text": "B_Some_training_manuals"
+  },
+  {
+    "index": 687,
+    "filename": "687.mp3",
+    "text": "C_Theyll_be_eating_soon"
+  },
+  {
+    "index": 688,
+    "filename": "688.mp3",
+    "text": "Where_will_this_years_trade_show_take_place"
+  },
+  {
+    "index": 689,
+    "filename": "689.mp3",
+    "text": "A_Yes_I_cant_wait"
+  },
+  {
+    "index": 690,
+    "filename": "690.mp3",
+    "text": "B_Heres_the_brochure"
+  },
+  {
+    "index": 691,
+    "filename": "691.mp3",
+    "text": "C_Is_tomorrow_all_right"
+  },
+  {
+    "index": 692,
+    "filename": "692.mp3",
+    "text": "Shouldnt_I_have_received_shipping_confirmation_from_your_company_by_now"
+  },
+  {
+    "index": 693,
+    "filename": "693.mp3",
+    "text": "A_Our_systems_down"
+  },
+  {
+    "index": 694,
+    "filename": "694.mp3",
+    "text": "B_No_thanks_Im_fine"
+  },
+  {
+    "index": 695,
+    "filename": "695.mp3",
+    "text": "C_He_has_his_certification"
+  },
+  {
+    "index": 696,
+    "filename": "696.mp3",
+    "text": "I_have_a_complaint_about_yesterdays_catering_service"
+  },
+  {
+    "index": 697,
+    "filename": "697.mp3",
+    "text": "A_Appetizers_and_desserts"
+  },
+  {
+    "index": 698,
+    "filename": "698.mp3",
+    "text": "B_Im_sorry_what_went_wrong"
+  },
+  {
+    "index": 699,
+    "filename": "699.mp3",
+    "text": "C_On_the_next_flight"
+  },
+  {
+    "index": 700,
+    "filename": "700.mp3",
+    "text": "Why_were_our_car_sales_so_low_this_month"
+  },
+  {
+    "index": 701,
+    "filename": "701.mp3",
+    "text": "A_Were_still_looking_into_that"
+  },
+  {
+    "index": 702,
+    "filename": "702.mp3",
+    "text": "B_A_50_discount"
+  },
+  {
+    "index": 703,
+    "filename": "703.mp3",
+    "text": "C_I_dont_need_a_new_car"
+  },
+  {
+    "index": 704,
+    "filename": "704.mp3",
+    "text": "Who_approved_the_marketing_budget"
+  },
+  {
+    "index": 705,
+    "filename": "705.mp3",
+    "text": "A_Mr_Chended"
+  },
+  {
+    "index": 706,
+    "filename": "706.mp3",
+    "text": "B_I_can_pay"
+  },
+  {
+    "index": 707,
+    "filename": "707.mp3",
+    "text": "C_Next_to_the_farmers_market"
+  },
+  {
+    "index": 708,
+    "filename": "708.mp3",
+    "text": "Wheres_the_employee_break_room"
+  },
+  {
+    "index": 709,
+    "filename": "709.mp3",
+    "text": "A_On_the_fifth_floor"
+  },
+  {
+    "index": 710,
+    "filename": "710.mp3",
+    "text": "B_Lets_call_the_repair_shop"
+  },
+  {
+    "index": 711,
+    "filename": "711.mp3",
+    "text": "C_Yes_its_fairly_big"
+  },
+  {
+    "index": 712,
+    "filename": "712.mp3",
+    "text": "When_can_we_buy_tickets"
+  },
+  {
+    "index": 713,
+    "filename": "713.mp3",
+    "text": "A_Only_four_per_person"
+  },
+  {
+    "index": 714,
+    "filename": "714.mp3",
+    "text": "B_A_day_before_the_show"
+  },
+  {
+    "index": 715,
+    "filename": "715.mp3",
+    "text": "C_Its_cheaper_to_rent_them"
+  },
+  {
+    "index": 716,
+    "filename": "716.mp3",
+    "text": "Would_you_be_interested_in_joining_our_tour_of_the_art_museum"
+  },
+  {
+    "index": 717,
+    "filename": "717.mp3",
+    "text": "A_A_famous_painting"
+  },
+  {
+    "index": 718,
+    "filename": "718.mp3",
+    "text": "B_Sure_that_sounds_exciting"
+  },
+  {
+    "index": 719,
+    "filename": "719.mp3",
+    "text": "C_50_years_old"
+  },
+  {
+    "index": 720,
+    "filename": "720.mp3",
+    "text": "You_have_a_copy_of_the_report_dont_you"
+  },
+  {
+    "index": 721,
+    "filename": "721.mp3",
+    "text": "A_Yes_its_on_my_desk"
+  },
+  {
+    "index": 722,
+    "filename": "722.mp3",
+    "text": "B_Im_sorry_to_hear_that"
+  },
+  {
+    "index": 723,
+    "filename": "723.mp3",
+    "text": "C_Hes_a_reporter"
+  },
+  {
+    "index": 724,
+    "filename": "724.mp3",
+    "text": "How_far_are_we_from_the_hotel"
+  },
+  {
+    "index": 725,
+    "filename": "725.mp3",
+    "text": "A_I_have_three_bus_passes"
+  },
+  {
+    "index": 726,
+    "filename": "726.mp3",
+    "text": "B_About_a_mile_I_think"
+  },
+  {
+    "index": 727,
+    "filename": "727.mp3",
+    "text": "C_Wasnt_it_yesterday"
+  },
+  {
+    "index": 728,
+    "filename": "728.mp3",
+    "text": "Did_you_get_a_chance_to_read_that_document_I_sent_you"
+  },
+  {
+    "index": 729,
+    "filename": "729.mp3",
+    "text": "A_No_but_Ill_read_it_soon"
+  },
+  {
+    "index": 730,
+    "filename": "730.mp3",
+    "text": "B_An_additional_shipping_charge"
+  },
+  {
+    "index": 731,
+    "filename": "731.mp3",
+    "text": "C_I_prefer_the_library"
+  },
+  {
+    "index": 732,
+    "filename": "732.mp3",
+    "text": "When_will_Mary_return_from_the_conference"
+  },
+  {
+    "index": 733,
+    "filename": "733.mp3",
+    "text": "A_At_the_convention_center"
+  },
+  {
+    "index": 734,
+    "filename": "734.mp3",
+    "text": "B_Ill_give_it_back_tomorrow"
+  },
+  {
+    "index": 735,
+    "filename": "735.mp3",
+    "text": "C_In_the_next_couple_of_days"
+  },
+  {
+    "index": 736,
+    "filename": "736.mp3",
+    "text": "Should_we_take_the_train_or_a_taxi_to_the_town_hall"
+  },
+  {
+    "index": 737,
+    "filename": "737.mp3",
+    "text": "A_The_training_session_is_down_the_hall"
+  },
+  {
+    "index": 738,
+    "filename": "738.mp3",
+    "text": "B_A_two-hour_delay"
+  },
+  {
+    "index": 739,
+    "filename": "739.mp3",
+    "text": "C_Lets_take_the_train"
+  },
+  {
+    "index": 740,
+    "filename": "740.mp3",
+    "text": "Havent_you_had_your_computer_fixed_yet"
+  },
+  {
+    "index": 741,
+    "filename": "741.mp3",
+    "text": "A_She_often_uses_a_computer"
+  },
+  {
+    "index": 742,
+    "filename": "742.mp3",
+    "text": "B_A_software_update"
+  },
+  {
+    "index": 743,
+    "filename": "743.mp3",
+    "text": "C_I_need_a_replacement"
+  },
+  {
+    "index": 744,
+    "filename": "744.mp3",
+    "text": "Why_dont_you_join_us_for_lunch"
+  },
+  {
+    "index": 745,
+    "filename": "745.mp3",
+    "text": "A_Didnt_he_already_sign_it"
+  },
+  {
+    "index": 746,
+    "filename": "746.mp3",
+    "text": "B_I_have_to_finish_this_project"
+  },
+  {
+    "index": 747,
+    "filename": "747.mp3",
+    "text": "C_A_membership_fee"
+  },
+  {
+    "index": 748,
+    "filename": "748.mp3",
+    "text": "Do_you_like_the_new_office_space"
+  },
+  {
+    "index": 749,
+    "filename": "749.mp3",
+    "text": "A_In_the_city"
+  },
+  {
+    "index": 750,
+    "filename": "750.mp3",
+    "text": "B_Yes_if_youd_like_to"
+  },
+  {
+    "index": 751,
+    "filename": "751.mp3",
+    "text": "C_Well_we_do_have_bigger_windows"
+  },
+  {
+    "index": 752,
+    "filename": "752.mp3",
+    "text": "Why_did_you_cancel_your_visit_to_the_doctor"
+  },
+  {
+    "index": 753,
+    "filename": "753.mp3",
+    "text": "A_Because_Im_feeling_better_now"
+  },
+  {
+    "index": 754,
+    "filename": "754.mp3",
+    "text": "B_The_credit_card_hasnt_expired"
+  },
+  {
+    "index": 755,
+    "filename": "755.mp3",
+    "text": "C_Thats_a_nice_place"
+  },
+  {
+    "index": 756,
+    "filename": "756.mp3",
+    "text": "How_long_has_your_house_been_listed_for_sale"
+  },
+  {
+    "index": 757,
+    "filename": "757.mp3",
+    "text": "A_At_Ingrids_house"
+  },
+  {
+    "index": 758,
+    "filename": "758.mp3",
+    "text": "B_Im_not_sure_I_have_time"
+  },
+  {
+    "index": 759,
+    "filename": "759.mp3",
+    "text": "C_Just_over_six_weeks"
+  },
+  {
+    "index": 760,
+    "filename": "760.mp3",
+    "text": "Im_surprised_we_havent_received_the_product_design_yet"
+  },
+  {
+    "index": 761,
+    "filename": "761.mp3",
+    "text": "A_You_can_use_my_stapler"
+  },
+  {
+    "index": 762,
+    "filename": "762.mp3",
+    "text": "B_The_name_on_the_cover_sheet"
+  },
+  {
+    "index": 763,
+    "filename": "763.mp3",
+    "text": "C_Didnt_you_get_the_memo"
+  },
+  {
+    "index": 764,
+    "filename": "764.mp3",
+    "text": "What_did_you_think_of_the_social_media_seminar"
+  },
+  {
+    "index": 765,
+    "filename": "765.mp3",
+    "text": "A_I_registered_for_a_different_session"
+  },
+  {
+    "index": 766,
+    "filename": "766.mp3",
+    "text": "B_Hes_downstairs"
+  },
+  {
+    "index": 767,
+    "filename": "767.mp3",
+    "text": "C_Ill_suggest_that"
+  },
+  {
+    "index": 768,
+    "filename": "768.mp3",
+    "text": "Where_would_I_be_able_to_find_Ms_Maraud_this_afternoon"
+  },
+  {
+    "index": 769,
+    "filename": "769.mp3",
+    "text": "A_To_reserve_a_room"
+  },
+  {
+    "index": 770,
+    "filename": "770.mp3",
+    "text": "B_No_at_9_am"
+  },
+  {
+    "index": 771,
+    "filename": "771.mp3",
+    "text": "C_Shell_be_in_room_235"
+  },
+  {
+    "index": 772,
+    "filename": "772.mp3",
+    "text": "The_new_assembly_plants_hiring_soon_isnt_it"
+  },
+  {
+    "index": 773,
+    "filename": "773.mp3",
+    "text": "A_In_the_garden"
+  },
+  {
+    "index": 774,
+    "filename": "774.mp3",
+    "text": "B_Can_you_assemble_it"
+  },
+  {
+    "index": 775,
+    "filename": "775.mp3",
+    "text": "C_I_already_filled_out_an_application"
+  },
+  {
+    "index": 776,
+    "filename": "776.mp3",
+    "text": "Arent_we_supposed_to_take_the_highway_to_the_airport"
+  },
+  {
+    "index": 777,
+    "filename": "777.mp3",
+    "text": "A_Its_not_on_the_market_yet"
+  },
+  {
+    "index": 778,
+    "filename": "778.mp3",
+    "text": "B_Theres_road_maintenance_going_on"
+  },
+  {
+    "index": 779,
+    "filename": "779.mp3",
+    "text": "C_The_flight_to_Singapore"
+  },
+  {
+    "index": 780,
+    "filename": "780.mp3",
+    "text": "Do_I_sign_for_the_delivery_or_does_someone_else_sign"
+  },
+  {
+    "index": 781,
+    "filename": "781.mp3",
+    "text": "A_It_arrived_on_time"
+  },
+  {
+    "index": 782,
+    "filename": "782.mp3",
+    "text": "B_You_should_do_it"
+  },
+  {
+    "index": 783,
+    "filename": "783.mp3",
+    "text": "C_At_the_back_entrance"
+  },
+  {
+    "index": 784,
+    "filename": "784.mp3",
+    "text": "When_will_that_company_release_its_healthy_snack_bars"
+  },
+  {
+    "index": 785,
+    "filename": "785.mp3",
+    "text": "A_Its_about_8_kilometres_from_here"
+  },
+  {
+    "index": 786,
+    "filename": "786.mp3",
+    "text": "B_I_havent_tried_that_way_yet"
+  },
+  {
+    "index": 787,
+    "filename": "787.mp3",
+    "text": "C_Well_have_to_look_at_their_website"
+  },
+  {
+    "index": 788,
+    "filename": "788.mp3",
+    "text": "The_client_called_to_say_hell_be_late"
+  },
+  {
+    "index": 789,
+    "filename": "789.mp3",
+    "text": "A_The_traffic_is_much_worse_on_Fridays"
+  },
+  {
+    "index": 790,
+    "filename": "790.mp3",
+    "text": "B_Working_on_most_weekends"
+  },
+  {
+    "index": 791,
+    "filename": "791.mp3",
+    "text": "C_Please_dont_hesitate_to_contact_me"
+  },
+  {
+    "index": 792,
+    "filename": "792.mp3",
+    "text": "How_are_the_sales_for_our_sports_apparel_this_quarter"
+  },
+  {
+    "index": 793,
+    "filename": "793.mp3",
+    "text": "A_They_increased_by_7"
+  },
+  {
+    "index": 794,
+    "filename": "794.mp3",
+    "text": "B_He_plays_football_very_well"
+  },
+  {
+    "index": 795,
+    "filename": "795.mp3",
+    "text": "C_Hand_me_those_nails"
+  },
+  {
+    "index": 796,
+    "filename": "796.mp3",
+    "text": "Are_you_buying_a_phone_with_a_bigger_screen_or_with_better_sound_quality"
+  },
+  {
+    "index": 797,
+    "filename": "797.mp3",
+    "text": "A_I_have_to_check_the_prices"
+  },
+  {
+    "index": 798,
+    "filename": "798.mp3",
+    "text": "B_Yesterday_at_4_oclock"
+  },
+  {
+    "index": 799,
+    "filename": "799.mp3",
+    "text": "C_No_I_dont_think_so"
+  },
+  {
+    "index": 800,
+    "filename": "800.mp3",
+    "text": "Would_you_mind_setting_up_the_product_displays"
+  },
+  {
+    "index": 801,
+    "filename": "801.mp3",
+    "text": "A_A_new_tablet_computer"
+  },
+  {
+    "index": 802,
+    "filename": "802.mp3",
+    "text": "B_The_office_next_door_is_warm"
+  },
+  {
+    "index": 803,
+    "filename": "803.mp3",
+    "text": "C_Actually_Im_on_my_break"
+  },
+  {
+    "index": 804,
+    "filename": "804.mp3",
+    "text": "Would_you_be_paying_with_cash"
+  },
+  {
+    "index": 805,
+    "filename": "805.mp3",
+    "text": "A_It_is_recyclable"
+  },
+  {
+    "index": 806,
+    "filename": "806.mp3",
+    "text": "B_They_paid_attention"
+  },
+  {
+    "index": 807,
+    "filename": "807.mp3",
+    "text": "C_No_with_a_credit_card"
+  },
+  {
+    "index": 808,
+    "filename": "808.mp3",
+    "text": "Why_didnt_Karen_apply_for_the_position"
+  },
+  {
+    "index": 809,
+    "filename": "809.mp3",
+    "text": "A_She_isnt_qualified"
+  },
+  {
+    "index": 810,
+    "filename": "810.mp3",
+    "text": "B_In_the_supplied_drawer"
+  },
+  {
+    "index": 811,
+    "filename": "811.mp3",
+    "text": "C_Sometime_last_week"
+  },
+  {
+    "index": 812,
+    "filename": "812.mp3",
+    "text": "Is_the_healthcare_lecture_today_or_tomorrow"
+  },
+  {
+    "index": 813,
+    "filename": "813.mp3",
+    "text": "A_On_the_corner_of_5th_and_state_streets"
+  },
+  {
+    "index": 814,
+    "filename": "814.mp3",
+    "text": "B_Ill_finish_it_by_the_end_of_the_day"
+  },
+  {
+    "index": 815,
+    "filename": "815.mp3",
+    "text": "C_Its_today_in_15_minutes"
+  },
+  {
+    "index": 816,
+    "filename": "816.mp3",
+    "text": "Which_train_car_needs_to_be_inspected"
+  },
+  {
+    "index": 817,
+    "filename": "817.mp3",
+    "text": "A_Tickets_are_20"
+  },
+  {
+    "index": 818,
+    "filename": "818.mp3",
+    "text": "B_The_one_right_behind_the_engine"
+  },
+  {
+    "index": 819,
+    "filename": "819.mp3",
+    "text": "C_I_dont_think_so"
+  },
+  {
+    "index": 820,
+    "filename": "820.mp3",
+    "text": "Have_you_found_a_good_doctor_yet"
+  },
+  {
+    "index": 821,
+    "filename": "821.mp3",
+    "text": "A_Here_take_my_pencil"
+  },
+  {
+    "index": 822,
+    "filename": "822.mp3",
+    "text": "B_Thats_what_I_think_too"
+  },
+  {
+    "index": 823,
+    "filename": "823.mp3",
+    "text": "C_Yes_I_saw_her_last_week"
+  },
+  {
+    "index": 824,
+    "filename": "824.mp3",
+    "text": "When_are_we_leaving_for_the_airport"
+  },
+  {
+    "index": 825,
+    "filename": "825.mp3",
+    "text": "A_I_believe_so"
+  },
+  {
+    "index": 826,
+    "filename": "826.mp3",
+    "text": "B_As_soon_as_the_bus_arrives"
+  },
+  {
+    "index": 827,
+    "filename": "827.mp3",
+    "text": "C_I_did_read_the_report"
+  },
+  {
+    "index": 828,
+    "filename": "828.mp3",
+    "text": "Whos_taking_the_shipment_up_to_the_10th_and_3D"
+  },
+  {
+    "index": 829,
+    "filename": "829.mp3",
+    "text": "A_It_starts_at_330"
+  },
+  {
+    "index": 830,
+    "filename": "830.mp3",
+    "text": "B_Sure_thats_fine_with_me"
+  },
+  {
+    "index": 831,
+    "filename": "831.mp3",
+    "text": "C_Ill_ask_Daniel_to_do_it"
+  },
+  {
+    "index": 832,
+    "filename": "832.mp3",
+    "text": "How_can_we_advertise_to_different_age_groups"
+  },
+  {
+    "index": 833,
+    "filename": "833.mp3",
+    "text": "A_Yes_they_are"
+  },
+  {
+    "index": 834,
+    "filename": "834.mp3",
+    "text": "B_By_using_social_media"
+  },
+  {
+    "index": 835,
+    "filename": "835.mp3",
+    "text": "C_No_you_have_to_drive_there"
+  },
+  {
+    "index": 836,
+    "filename": "836.mp3",
+    "text": "I_want_to_send_this_package_to_Texas"
+  },
+  {
+    "index": 837,
+    "filename": "837.mp3",
+    "text": "A_When_does_it_have_to_arrive"
+  },
+  {
+    "index": 838,
+    "filename": "838.mp3",
+    "text": "B_Heres_the_lunch_menu"
+  },
+  {
+    "index": 839,
+    "filename": "839.mp3",
+    "text": "C_At_the_beginning"
+  },
+  {
+    "index": 840,
+    "filename": "840.mp3",
+    "text": "Where_did_you_put_the_instruction_manual"
+  },
+  {
+    "index": 841,
+    "filename": "841.mp3",
+    "text": "A_During_our_annual_fundraiser"
+  },
+  {
+    "index": 842,
+    "filename": "842.mp3",
+    "text": "B_I_left_it_on_your_desk"
+  },
+  {
+    "index": 843,
+    "filename": "843.mp3",
+    "text": "C_He_didnt_introduce_me"
+  },
+  {
+    "index": 844,
+    "filename": "844.mp3",
+    "text": "I_hope_Mr_Joe_likes_our_updates_to_the_office_design"
+  },
+  {
+    "index": 845,
+    "filename": "845.mp3",
+    "text": "A_A_new_receptionist"
+  },
+  {
+    "index": 846,
+    "filename": "846.mp3",
+    "text": "B_How_many_signs"
+  },
+  {
+    "index": 847,
+    "filename": "847.mp3",
+    "text": "C_He_already_approved_them"
+  },
+  {
+    "index": 848,
+    "filename": "848.mp3",
+    "text": "When_are_we_going_to_hear_from_the_architect"
+  },
+  {
+    "index": 849,
+    "filename": "849.mp3",
+    "text": "A_That_sounds_great"
+  },
+  {
+    "index": 850,
+    "filename": "850.mp3",
+    "text": "B_Probably_this_afternoon"
+  },
+  {
+    "index": 851,
+    "filename": "851.mp3",
+    "text": "C_An_office_building_on_Vine_Street"
+  },
+  {
+    "index": 852,
+    "filename": "852.mp3",
+    "text": "Could_you_remind_me_to_call_the_cleaning_service_tomorrow"
+  },
+  {
+    "index": 853,
+    "filename": "853.mp3",
+    "text": "A_Next_to_the_front_office"
+  },
+  {
+    "index": 854,
+    "filename": "854.mp3",
+    "text": "B_Sorry_Ill_be_on_vacation"
+  },
+  {
+    "index": 855,
+    "filename": "855.mp3",
+    "text": "C_A_broken_window"
+  },
+  {
+    "index": 856,
+    "filename": "856.mp3",
+    "text": "C_Number_20"
+  },
+  {
+    "index": 857,
+    "filename": "857.mp3",
+    "text": "Who_received_the_promotion_to_department_director"
+  },
+  {
+    "index": 858,
+    "filename": "858.mp3",
+    "text": "A_It_hasnt_been_announced"
+  },
+  {
+    "index": 859,
+    "filename": "859.mp3",
+    "text": "B_Right_a_large_account"
+  },
+  {
+    "index": 860,
+    "filename": "860.mp3",
+    "text": "C_Okay_Ill_think_about_it"
+  },
+  {
+    "index": 861,
+    "filename": "861.mp3",
+    "text": "Are_there_enough_presentation_packets_or_should_I_get_some_more"
+  },
+  {
+    "index": 862,
+    "filename": "862.mp3",
+    "text": "A_We_need_five_more"
+  },
+  {
+    "index": 863,
+    "filename": "863.mp3",
+    "text": "B_I_think_thats_your_jacket"
+  },
+  {
+    "index": 864,
+    "filename": "864.mp3",
+    "text": "C_20_off"
+  },
+  {
+    "index": 865,
+    "filename": "865.mp3",
+    "text": "How_do_I_volunteer_to_help_with_the_company_picnic"
+  },
+  {
+    "index": 866,
+    "filename": "866.mp3",
+    "text": "A_Id_like_a_lemonade_please"
+  },
+  {
+    "index": 867,
+    "filename": "867.mp3",
+    "text": "B_They_played_a_great_game"
+  },
+  {
+    "index": 868,
+    "filename": "868.mp3",
+    "text": "C_Magumi_is_organizing_that"
+  },
+  {
+    "index": 869,
+    "filename": "869.mp3",
+    "text": "Helens_training_the_new_interns_isnt_she"
+  },
+  {
+    "index": 870,
+    "filename": "870.mp3",
+    "text": "A_No_she_works_at_the_branch_office_now"
+  },
+  {
+    "index": 871,
+    "filename": "871.mp3",
+    "text": "B_To_Granville_University"
+  },
+  {
+    "index": 872,
+    "filename": "872.mp3",
+    "text": "C_We_can_take_the_later_train"
+  },
+  {
+    "index": 873,
+    "filename": "873.mp3",
+    "text": "Is_the_maintenance_staff_going_to_polish_the_floors_next_week"
+  },
+  {
+    "index": 874,
+    "filename": "874.mp3",
+    "text": "A_They_do_it_once_a_month"
+  },
+  {
+    "index": 875,
+    "filename": "875.mp3",
+    "text": "B_I_decided_not_to_go_after_all"
+  },
+  {
+    "index": 876,
+    "filename": "876.mp3",
+    "text": "C_No_its_not_on_Main_Street"
+  },
+  {
+    "index": 877,
+    "filename": "877.mp3",
+    "text": "Where_should_I_park_the_delivery_truck"
+  },
+  {
+    "index": 878,
+    "filename": "878.mp3",
+    "text": "A_Do_you_know_where_the_loading_dock_is"
+  },
+  {
+    "index": 879,
+    "filename": "879.mp3",
+    "text": "B_Id_love_to_go_to_the_park"
+  },
+  {
+    "index": 880,
+    "filename": "880.mp3",
+    "text": "C_Yes_we_do_deliver_on_Sundays"
+  },
+  {
+    "index": 881,
+    "filename": "881.mp3",
+    "text": "Would_you_like_me_to_call_you_a_taxi"
+  },
+  {
+    "index": 882,
+    "filename": "882.mp3",
+    "text": "A_About_seven_kilometers"
+  },
+  {
+    "index": 883,
+    "filename": "883.mp3",
+    "text": "B_My_car_is_right_around_the_corner"
+  },
+  {
+    "index": 884,
+    "filename": "884.mp3",
+    "text": "C_Thank_you_for_your_visit"
+  },
+  {
+    "index": 885,
+    "filename": "885.mp3",
+    "text": "Didnt_Insook_lead_the_store_at_five_yesterday"
+  },
+  {
+    "index": 886,
+    "filename": "886.mp3",
+    "text": "A_In_the_storage_room"
+  },
+  {
+    "index": 887,
+    "filename": "887.mp3",
+    "text": "B_I_need_to_go_shopping_today"
+  },
+  {
+    "index": 888,
+    "filename": "888.mp3",
+    "text": "C_No_she_stayed_late_to_help_a_customer"
+  },
+  {
+    "index": 889,
+    "filename": "889.mp3",
+    "text": "Youve_placed_your_food_order_already_havent_you"
+  },
+  {
+    "index": 890,
+    "filename": "890.mp3",
+    "text": "A_A_table_for_ten_please"
+  },
+  {
+    "index": 891,
+    "filename": "891.mp3",
+    "text": "B_Im_still_waiting_for_a_menu"
+  },
+  {
+    "index": 892,
+    "filename": "892.mp3",
+    "text": "C_The_office_supplies_havent_arrived"
+  },
+  {
+    "index": 893,
+    "filename": "893.mp3",
+    "text": "What_section_of_the_speech_do_you_want_to_start_working_on"
+  },
+  {
+    "index": 894,
+    "filename": "894.mp3",
+    "text": "A_The_awards_ceremony_isnt_until_the_8th"
+  },
+  {
+    "index": 895,
+    "filename": "895.mp3",
+    "text": "B_Shes_changing_jobs"
+  },
+  {
+    "index": 896,
+    "filename": "896.mp3",
+    "text": "C_This_microphone_doesnt_work"
+  },
+  {
+    "index": 897,
+    "filename": "897.mp3",
+    "text": "Should_we_use_the_extra_money_on_computers_or_on_chairs"
+  },
+  {
+    "index": 898,
+    "filename": "898.mp3",
+    "text": "A_Please_have_a_seat_over_there"
+  },
+  {
+    "index": 899,
+    "filename": "899.mp3",
+    "text": "B_On_the_lower_right_corner_of_the_screen"
+  },
+  {
+    "index": 900,
+    "filename": "900.mp3",
+    "text": "C_Weve_had_the_same_computers_for_five_years"
+  },
+  {
+    "index": 901,
+    "filename": "901.mp3",
+    "text": "Miss_Sato_cant_go_to_the_board_meeting_today"
+  },
+  {
+    "index": 902,
+    "filename": "902.mp3",
+    "text": "A_Oh_then_Ill_take_the_notes"
+  },
+  {
+    "index": 903,
+    "filename": "903.mp3",
+    "text": "B_Actually_Im_a_vegetarian"
+  },
+  {
+    "index": 904,
+    "filename": "904.mp3",
+    "text": "C_Conference_room_B"
+  },
+  {
+    "index": 905,
+    "filename": "905.mp3",
+    "text": "When_will_these_shoes_be_back_in_stock"
+  },
+  {
+    "index": 906,
+    "filename": "906.mp3",
+    "text": "A_On_Tuesday"
+  },
+  {
+    "index": 907,
+    "filename": "907.mp3",
+    "text": "B_Its_a_good_investment"
+  },
+  {
+    "index": 908,
+    "filename": "908.mp3",
+    "text": "C_A_different_pair"
+  },
+  {
+    "index": 909,
+    "filename": "909.mp3",
+    "text": "Is_this_a_full_time_or_a_part_time_position"
+  },
+  {
+    "index": 910,
+    "filename": "910.mp3",
+    "text": "A_Five_candidates_so_far"
+  },
+  {
+    "index": 911,
+    "filename": "911.mp3",
+    "text": "B_Its_part_time"
+  },
+  {
+    "index": 912,
+    "filename": "912.mp3",
+    "text": "C_Do_you_have_time_this_afternoon"
+  },
+  {
+    "index": 913,
+    "filename": "913.mp3",
+    "text": "How_do_you_usually_get_to_the_office"
+  },
+  {
+    "index": 914,
+    "filename": "914.mp3",
+    "text": "A_I_ride_my_bike"
+  },
+  {
+    "index": 915,
+    "filename": "915.mp3",
+    "text": "B_Nine_oclock_in_the_morning"
+  },
+  {
+    "index": 916,
+    "filename": "916.mp3",
+    "text": "C_Its_a_nice_building"
+  },
+  {
+    "index": 917,
+    "filename": "917.mp3",
+    "text": "Why_is_the_company_planning_to_hire_a_new_receptionist"
+  },
+  {
+    "index": 918,
+    "filename": "918.mp3",
+    "text": "A_A_resume_and_cover_letter"
+  },
+  {
+    "index": 919,
+    "filename": "919.mp3",
+    "text": "B_Yes_he_fixed_the_air_conditioning"
+  },
+  {
+    "index": 920,
+    "filename": "920.mp3",
+    "text": "C_Because_Carlos_is_retiring_soon"
+  },
+  {
+    "index": 921,
+    "filename": "921.mp3",
+    "text": "Excuse_me_may_I_check_your_train_ticket_please"
+  },
+  {
+    "index": 922,
+    "filename": "922.mp3",
+    "text": "A_Platform_19"
+  },
+  {
+    "index": 923,
+    "filename": "923.mp3",
+    "text": "B_Sure_here_it_is"
+  },
+  {
+    "index": 924,
+    "filename": "924.mp3",
+    "text": "C_A_window_seat"
+  },
+  {
+    "index": 925,
+    "filename": "925.mp3",
+    "text": "Which_folder_should_I_place_this_document_in"
+  },
+  {
+    "index": 926,
+    "filename": "926.mp3",
+    "text": "A_The_green_one"
+  },
+  {
+    "index": 927,
+    "filename": "927.mp3",
+    "text": "B_Submit_T_please"
+  },
+  {
+    "index": 928,
+    "filename": "928.mp3",
+    "text": "C_All_of_the_shirts_have_been_folded"
+  },
+  {
+    "index": 929,
+    "filename": "929.mp3",
+    "text": "Where_can_I_pick_up_my_name_tag_for_the_conference"
+  },
+  {
+    "index": 930,
+    "filename": "930.mp3",
+    "text": "A_Near_the_entrance"
+  },
+  {
+    "index": 931,
+    "filename": "931.mp3",
+    "text": "B_A_new_set_of_luggage"
+  },
+  {
+    "index": 932,
+    "filename": "932.mp3",
+    "text": "CThe_annual_pharmacist_convention"
+  },
+  {
+    "index": 933,
+    "filename": "933.mp3",
+    "text": "Why_did_you_decide_to_become_a_history_teacher"
+  },
+  {
+    "index": 934,
+    "filename": "934.mp3",
+    "text": "A_I_actually_teach_math"
+  },
+  {
+    "index": 935,
+    "filename": "935.mp3",
+    "text": "B_We_left_early"
+  },
+  {
+    "index": 936,
+    "filename": "936.mp3",
+    "text": "C_She_was_trained_for_a_month"
+  },
+  {
+    "index": 937,
+    "filename": "937.mp3",
+    "text": "Doesnt_the_restaurant_menu_need_to_be_updated_for_summer"
+  },
+  {
+    "index": 938,
+    "filename": "938.mp3",
+    "text": "A_Yes_well_do_that_today"
+  },
+  {
+    "index": 939,
+    "filename": "939.mp3",
+    "text": "B_At_the_farmers_market"
+  },
+  {
+    "index": 940,
+    "filename": "940.mp3",
+    "text": "C_30_reservations"
+  },
+  {
+    "index": 941,
+    "filename": "941.mp3",
+    "text": "When_are_you_going_to_paint_your_office"
+  },
+  {
+    "index": 942,
+    "filename": "942.mp3",
+    "text": "A_I_cant_decide_on_a_color"
+  },
+  {
+    "index": 943,
+    "filename": "943.mp3",
+    "text": "B_No_we_didnt_buy_tickets"
+  },
+  {
+    "index": 944,
+    "filename": "944.mp3",
+    "text": "C_The_room_next_to_the_elevator"
+  },
+  {
+    "index": 945,
+    "filename": "945.mp3",
+    "text": "Isnt_our_presentation_next_week"
+  },
+  {
+    "index": 946,
+    "filename": "946.mp3",
+    "text": "A_It_went_well"
+  },
+  {
+    "index": 947,
+    "filename": "947.mp3",
+    "text": "B_Right_its_on_Monday"
+  },
+  {
+    "index": 948,
+    "filename": "948.mp3",
+    "text": "COnly_a_laptop"
+  },
+  {
+    "index": 949,
+    "filename": "949.mp3",
+    "text": "Youre_working_on_programming_the_website_right"
+  },
+  {
+    "index": 950,
+    "filename": "950.mp3",
+    "text": "A_No_to_the_left"
+  },
+  {
+    "index": 951,
+    "filename": "951.mp3",
+    "text": "B_Yes_its_nearly_ready"
+  },
+  {
+    "index": 952,
+    "filename": "952.mp3",
+    "text": "C_Thats_a_fun_movie"
+  },
+  {
+    "index": 953,
+    "filename": "953.mp3",
+    "text": "I_think_you_should_call_off_the_meeting"
+  },
+  {
+    "index": 954,
+    "filename": "954.mp3",
+    "text": "A_It_starts_in_30_minutes"
+  },
+  {
+    "index": 955,
+    "filename": "955.mp3",
+    "text": "B_Did_he_turn_it_on"
+  },
+  {
+    "index": 956,
+    "filename": "956.mp3",
+    "text": "C_Every_Tuesday_morning"
+  },
+  {
+    "index": 957,
+    "filename": "957.mp3",
+    "text": "Who_can_teach_me_how_to_operate_this_new_cash_register"
+  },
+  {
+    "index": 958,
+    "filename": "958.mp3",
+    "text": "A_Sarah_can_show_you"
+  },
+  {
+    "index": 959,
+    "filename": "959.mp3",
+    "text": "B_Theyre_less_than_10000_won"
+  },
+  {
+    "index": 960,
+    "filename": "960.mp3",
+    "text": "C_Yes_cash_is_accepted_here"
+  },
+  {
+    "index": 961,
+    "filename": "961.mp3",
+    "text": "Wheres_the_broken_fax_machine"
+  },
+  {
+    "index": 962,
+    "filename": "962.mp3",
+    "text": "A_Thats_it_be_great_Thanks"
+  },
+  {
+    "index": 963,
+    "filename": "963.mp3",
+    "text": "B_For_two_weeks_at_least"
+  },
+  {
+    "index": 964,
+    "filename": "964.mp3",
+    "text": "C_I_moved_it_into_the_hallway"
+  },
+  {
+    "index": 965,
+    "filename": "965.mp3",
+    "text": "How_do_I_record_my_overtime_hours"
+  },
+  {
+    "index": 966,
+    "filename": "966.mp3",
+    "text": "A_They_play_music_in_the_office"
+  },
+  {
+    "index": 967,
+    "filename": "967.mp3",
+    "text": "B_My_manager_always_does_that_for_me"
+  },
+  {
+    "index": 968,
+    "filename": "968.mp3",
+    "text": "C_The_renovation_starts_next_week"
+  },
+  {
+    "index": 969,
+    "filename": "969.mp3",
+    "text": "Should_we_invite_more_guests_to_the_banquet"
+  },
+  {
+    "index": 970,
+    "filename": "970.mp3",
+    "text": "A_Yes_I_think_thats_a_good_idea"
+  },
+  {
+    "index": 971,
+    "filename": "971.mp3",
+    "text": "B_The_bank_across_the_street"
+  },
+  {
+    "index": 972,
+    "filename": "972.mp3",
+    "text": "C_Because_I_went_already"
+  },
+  {
+    "index": 973,
+    "filename": "973.mp3",
+    "text": "Id_like_to_cancel_my_subscription_to_Lake_Line_Times"
+  },
+  {
+    "index": 974,
+    "filename": "974.mp3",
+    "text": "A_No_mostly_entertainment_news"
+  },
+  {
+    "index": 975,
+    "filename": "975.mp3",
+    "text": "B_The_photograph_on_the_front_cover"
+  },
+  {
+    "index": 976,
+    "filename": "976.mp3",
+    "text": "C_Do_you_have_your_account_number"
+  },
+  {
+    "index": 977,
+    "filename": "977.mp3",
+    "text": "Who_left_these_boxes_in_the_hallway"
+  },
+  {
+    "index": 978,
+    "filename": "978.mp3",
+    "text": "A_The_closet_in_the_basement"
+  },
+  {
+    "index": 979,
+    "filename": "979.mp3",
+    "text": "B_There_were_maintenance_workers_here_earlier"
+  },
+  {
+    "index": 980,
+    "filename": "980.mp3",
+    "text": "C_Just_take_a_left_on_this_street_and_youre_there"
+  },
+  {
+    "index": 981,
+    "filename": "981.mp3",
+    "text": "Im_taking_our_new_client_to_lunch"
+  },
+  {
+    "index": 982,
+    "filename": "982.mp3",
+    "text": "A_Im_free_at_noon"
+  },
+  {
+    "index": 983,
+    "filename": "983.mp3",
+    "text": "B_Soup_and_salad"
+  },
+  {
+    "index": 984,
+    "filename": "984.mp3",
+    "text": "C_Sure_take_as_much_as_you_want"
+  },
+  {
+    "index": 985,
+    "filename": "985.mp3",
+    "text": "Would_you_prefer_to_open_a_new_store_downtown_or_in_the_countryside"
+  },
+  {
+    "index": 986,
+    "filename": "986.mp3",
+    "text": "A_The_rent_downtown_is_very_expensive"
+  },
+  {
+    "index": 987,
+    "filename": "987.mp3",
+    "text": "B_I_parked_the_car_outside"
+  },
+  {
+    "index": 988,
+    "filename": "988.mp3",
+    "text": "C_Where_do_we_store_the_envelopes"
+  },
+  {
+    "index": 989,
+    "filename": "989.mp3",
+    "text": "Tim_is_organizing_the_office_tour_for_the_interns_right"
+  },
+  {
+    "index": 990,
+    "filename": "990.mp3",
+    "text": "A_Thats_an_old_desk"
+  },
+  {
+    "index": 991,
+    "filename": "991.mp3",
+    "text": "B_No_Ms_Ito_is"
+  },
+  {
+    "index": 992,
+    "filename": "992.mp3",
+    "text": "C_A_trip_to_Germany"
+  },
+  {
+    "index": 993,
+    "filename": "993.mp3",
+    "text": "Id_like_to_book_accommodations_for_a_family_of_five"
+  },
+  {
+    "index": 994,
+    "filename": "994.mp3",
+    "text": "A_They_were_very_accommodating"
+  },
+  {
+    "index": 995,
+    "filename": "995.mp3",
+    "text": "B_I_enjoyed_that_book_as_well"
+  },
+  {
+    "index": 996,
+    "filename": "996.mp3",
+    "text": "C_I_have_a_vacancy_on_the_fourth_floor"
+  },
+  {
+    "index": 997,
+    "filename": "997.mp3",
+    "text": "Why_dont_we_finish_the_budget_report_tomorrow"
+  },
+  {
+    "index": 998,
+    "filename": "998.mp3",
+    "text": "A_The_figures_in_the_spreadsheet_from_July"
+  },
+  {
+    "index": 999,
+    "filename": "999.mp3",
+    "text": "B_As_long_as_I_can_still_leave_at_five_oclock"
+  },
+  {
+    "index": 1000,
+    "filename": "1000.mp3",
+    "text": "C_70000"
+  },
+  {
+    "index": 1001,
+    "filename": "1001.mp3",
+    "text": "Is_the_television_ad_airing_this_morning"
+  }
+]

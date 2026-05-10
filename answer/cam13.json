@@ -1,0 +1,5312 @@
+[
+  {
+    "index": 0,
+    "start": 0.54,
+    "end": 4.42,
+    "text": "Hello, Tourist Information Centre, Mike speaking, how can I help you?"
+  },
+  {
+    "index": 1,
+    "start": 5.06,
+    "end": 5.7,
+    "text": "Oh, hi."
+  },
+  {
+    "index": 2,
+    "start": 6.06,
+    "end": 8.6,
+    "text": "I wanted to find out about cookery classes."
+  },
+  {
+    "index": 3,
+    "start": 9.04,
+    "end": 11.84,
+    "text": "I believe there are some one-day classes for tourists."
+  },
+  {
+    "index": 4,
+    "start": 12.58,
+    "end": 15.72,
+    "text": "Well, they're open to everyone, but tourists are always welcome."
+  },
+  {
+    "index": 5,
+    "start": 16.72,
+    "end": 18.92,
+    "text": "Okay, let me give you some details of what's available."
+  },
+  {
+    "index": 6,
+    "start": 19.82,
+    "end": 20.96,
+    "text": "There are several classes."
+  },
+  {
+    "index": 7,
+    "start": 21.54,
+    "end": 23.98,
+    "text": "One very popular one is at the food studio."
+  },
+  {
+    "index": 8,
+    "start": 24.74,
+    "end": 31.5,
+    "text": "They focus on seasonal products, and as well as teaching you how to cook them, they also show you how to choose them."
+  },
+  {
+    "index": 9,
+    "start": 32.16,
+    "end": 33.48,
+    "text": "Right, that sounds good."
+  },
+  {
+    "index": 10,
+    "start": 33.96,
+    "end": 35.14,
+    "text": "How big are the classes?"
+  },
+  {
+    "index": 11,
+    "start": 35.86,
+    "end": 38.32,
+    "text": "I'm not sure exactly, but they'll be quite small."
+  },
+  {
+    "index": 12,
+    "start": 39.08,
+    "end": 41.08,
+    "text": "And could I get a private lesson there?"
+  },
+  {
+    "index": 13,
+    "start": 41.62,
+    "end": 42.14,
+    "text": "I think so."
+  },
+  {
+    "index": 14,
+    "start": 42.38,
+    "end": 43.28,
+    "text": "Let me check."
+  },
+  {
+    "index": 15,
+    "start": 44.34,
+    "end": 51.62,
+    "text": "Yes, they do offer those, though in fact most of the people who attend the classes find it's a nice way of getting to know one another."
+  },
+  {
+    "index": 16,
+    "start": 52.14,
+    "end": 53.54,
+    "text": "I suppose it must be, yes."
+  },
+  {
+    "index": 17,
+    "start": 54.04,
+    "end": 60.64,
+    "text": "And this company has a special deal for clients where they offer a discount of 20% if you return for a further class."
+  },
+  {
+    "index": 18,
+    "start": 61.38,
+    "end": 63.98,
+    "text": "Okay, but you said there were several classes."
+  },
+  {
+    "index": 19,
+    "start": 64.44,
+    "end": 65.1,
+    "text": "That's right."
+  },
+  {
+    "index": 20,
+    "start": 65.72,
+    "end": 68.84,
+    "text": "Another one you might be interested in is Bond's Cookery School."
+  },
+  {
+    "index": 21,
+    "start": 69.14,
+    "end": 69.86,
+    "text": "They're quite new."
+  },
+  {
+    "index": 22,
+    "start": 69.86,
+    "end": 73.36,
+    "text": "They just opened six months ago, but I've heard good things about them."
+  },
+  {
+    "index": 23,
+    "start": 73.7,
+    "end": 76.92,
+    "text": "They concentrate on teaching you to prepare healthy food."
+  },
+  {
+    "index": 24,
+    "start": 77.68,
+    "end": 79.92,
+    "text": "And they have quite a lot of specialist staff."
+  },
+  {
+    "index": 25,
+    "start": 80.94,
+    "end": 84.22,
+    "text": "So is that food for people on a diet and things like that?"
+  },
+  {
+    "index": 26,
+    "start": 84.66,
+    "end": 86.78,
+    "text": "I don't know if I'd be interested in that."
+  },
+  {
+    "index": 27,
+    "start": 87.5,
+    "end": 92.04,
+    "text": "Well, I don't think they particularly focus on low calorie diets or weight loss."
+  },
+  {
+    "index": 28,
+    "start": 92.7,
+    "end": 100.92,
+    "text": "It's more to do with recipes that look at specific needs, like including ingredients that will help build up your bones and make them stronger."
+  },
+  {
+    "index": 29,
+    "start": 101.22,
+    "end": 101.82,
+    "text": "That sort of thing."
+  },
+  {
+    "index": 30,
+    "start": 102.56,
+    "end": 102.9,
+    "text": "I see."
+  },
+  {
+    "index": 31,
+    "start": 103.24,
+    "end": 105.28,
+    "text": "Well, I might be interested."
+  },
+  {
+    "index": 32,
+    "start": 105.62,
+    "end": 106.46,
+    "text": "I'm not sure."
+  },
+  {
+    "index": 33,
+    "start": 106.88,
+    "end": 108.8,
+    "text": "Do they have a website I could check?"
+  },
+  {
+    "index": 34,
+    "start": 109.6,
+    "end": 111.84,
+    "text": "Yes, just key in the name of the school."
+  },
+  {
+    "index": 35,
+    "start": 112.24,
+    "end": 112.82,
+    "text": "It'll come up."
+  },
+  {
+    "index": 36,
+    "start": 113.5,
+    "end": 117.88,
+    "text": "And if you want to know more about them every Thursday evening, they have a lecture at the school."
+  },
+  {
+    "index": 37,
+    "start": 117.88,
+    "end": 118.66,
+    "text": "It's free."
+  },
+  {
+    "index": 38,
+    "start": 118.92,
+    "end": 120.5,
+    "text": "And you don't need to book or anything."
+  },
+  {
+    "index": 39,
+    "start": 120.78,
+    "end": 122.02,
+    "text": "Just turn up at 730."
+  },
+  {
+    "index": 40,
+    "start": 122.86,
+    "end": 125.78,
+    "text": "And that might give you an idea of whether you want to go to an actual class."
+  },
+  {
+    "index": 41,
+    "start": 126.92,
+    "end": 129.36,
+    "text": "Okay, there's one more place you might be interested in."
+  },
+  {
+    "index": 42,
+    "start": 130.26,
+    "end": 132.08,
+    "text": "That's got a rather strange name."
+  },
+  {
+    "index": 43,
+    "start": 132.48,
+    "end": 135.18,
+    "text": "It's called the Arezza Center."
+  },
+  {
+    "index": 44,
+    "start": 136.08,
+    "end": 140.6,
+    "text": "That's spelled A-Double-R-E-T-S-A."
+  },
+  {
+    "index": 45,
+    "start": 141.2,
+    "end": 141.44,
+    "text": "Okay."
+  },
+  {
+    "index": 46,
+    "start": 142.1,
+    "end": 143.74,
+    "text": "They've got a very good reputation."
+  },
+  {
+    "index": 47,
+    "start": 144.36,
+    "end": 149.9,
+    "text": "They do a bit of meat and fish cookery, but they mostly specialize in vegetarian dishes."
+  },
+  {
+    "index": 48,
+    "start": 150.6,
+    "end": 150.82,
+    "text": "Right."
+  },
+  {
+    "index": 49,
+    "start": 151.4,
+    "end": 154.38,
+    "text": "That's certainly an area I'd like to learn more about."
+  },
+  {
+    "index": 50,
+    "start": 155.12,
+    "end": 157.16,
+    "text": "I've got lots of friends who don't eat meat."
+  },
+  {
+    "index": 51,
+    "start": 157.48,
+    "end": 160.52,
+    "text": "In fact, I think I might have seen that school today."
+  },
+  {
+    "index": 52,
+    "start": 161.28,
+    "end": 162.52,
+    "text": "Is it just by the market?"
+  },
+  {
+    "index": 53,
+    "start": 163.0,
+    "end": 163.56,
+    "text": "That's right."
+  },
+  {
+    "index": 54,
+    "start": 164.22,
+    "end": 166.52,
+    "text": "So they don't have any problem getting their ingredients."
+  },
+  {
+    "index": 55,
+    "start": 166.92,
+    "end": 167.8,
+    "text": "They're right next door."
+  },
+  {
+    "index": 56,
+    "start": 168.7,
+    "end": 172.7,
+    "text": "And they also offer a special two-hour course in how to use a knife."
+  },
+  {
+    "index": 57,
+    "start": 173.48,
+    "end": 177.9,
+    "text": "They cover all the different skills, buying them, sharpening, chopping techniques."
+  },
+  {
+    "index": 58,
+    "start": 178.8,
+    "end": 181.88,
+    "text": "It gets booked up quickly though, so you'd need to check it was available."
+  },
+  {
+    "index": 59,
+    "start": 182.64,
+    "end": 182.86,
+    "text": "Right."
+  },
+  {
+    "index": 60,
+    "start": 183.12,
+    "end": 184.44,
+    "text": "Well, thank you very much."
+  },
+  {
+    "index": 61,
+    "start": 184.88,
+    "end": 185.82,
+    "text": "I'll go and check that out."
+  },
+  {
+    "index": 62,
+    "start": 187.46,
+    "end": 188.4,
+    "text": "Good evening, everyone."
+  },
+  {
+    "index": 63,
+    "start": 189.16,
+    "end": 193.12,
+    "text": "My name's Phil Sutton, and I'm Chairman of the Highways Committee."
+  },
+  {
+    "index": 64,
+    "start": 194.22,
+    "end": 202.46,
+    "text": "We've called this meeting to inform members of the public about the new regulations for traffic and parking we're proposing for Granford."
+  },
+  {
+    "index": 65,
+    "start": 203.58,
+    "end": 208.8,
+    "text": "I'll start by summarising these changes before we open the meeting to questions."
+  },
+  {
+    "index": 66,
+    "start": 210.22,
+    "end": 214.88,
+    "text": "So why do we need to make these changes to traffic systems in Granford?"
+  },
+  {
+    "index": 67,
+    "start": 215.62,
+    "end": 220.56,
+    "text": "Well, we're very aware that traffic is becoming an increasing problem."
+  },
+  {
+    "index": 68,
+    "start": 221.44,
+    "end": 227.34,
+    "text": "It's been especially noticeable with the increase in heavy traffic while they've been building the new hospital."
+  },
+  {
+    "index": 69,
+    "start": 228.24,
+    "end": 233.58,
+    "text": "But it's the overall rise in the volume of traffic of all kinds that's concerning us."
+  },
+  {
+    "index": 70,
+    "start": 234.56,
+    "end": 241.4,
+    "text": "To date, there's not been any increase in traffic accidents, but that's not something we want to see happen, obviously."
+  },
+  {
+    "index": 71,
+    "start": 242.8,
+    "end": 248.68,
+    "text": "We recently carried out a survey of local residents, and their responses were interesting."
+  },
+  {
+    "index": 72,
+    "start": 249.46,
+    "end": 256.74,
+    "text": "People were very concerned about the lack of visibility on some roads due to cars parked along the sides of the roads."
+  },
+  {
+    "index": 73,
+    "start": 257.82,
+    "end": 264.7,
+    "text": "We'd expected complaints about the congestion near the school when parents are dropping off their children or picking them up."
+  },
+  {
+    "index": 74,
+    "start": 265.48,
+    "end": 273.52,
+    "text": "But this wasn't top of the list, and nor were noise and fumes from trucks and lorries, though they were mentioned by some people."
+  },
+  {
+    "index": 75,
+    "start": 274.9,
+    "end": 281.92,
+    "text": "We think these new traffic regulations would make a lot of difference, but we still have a long way to go."
+  },
+  {
+    "index": 76,
+    "start": 283.02,
+    "end": 288.8,
+    "text": "We've managed to keep our proposals within budget, just so they can be covered by the council."
+  },
+  {
+    "index": 77,
+    "start": 289.74,
+    "end": 296.44,
+    "text": "But of course it's no good introducing new regulations if we don't have a way of making sure that everyone obeys them."
+  },
+  {
+    "index": 78,
+    "start": 297.1,
+    "end": 301.88,
+    "text": "And that's an area we're still working on with the help of representatives from the police force."
+  },
+  {
+    "index": 79,
+    "start": 303.0,
+    "end": 312.34,
+    "text": "Okay, so this slide shows a map of the central area of Granford with the high street in the middle and school road on the right."
+  },
+  {
+    "index": 80,
+    "start": 313.48,
+    "end": 319.28,
+    "text": "Now, we already have a set of traffic lights in the high street at the junction with station road."
+  },
+  {
+    "index": 81,
+    "start": 319.96,
+    "end": 328.04,
+    "text": "But we're planning to have another set at the other end at the school road junction to regulate the flow of traffic along the high street."
+  },
+  {
+    "index": 82,
+    "start": 329.4,
+    "end": 333.14,
+    "text": "We've decided we definitely need a pedestrian crossing."
+  },
+  {
+    "index": 83,
+    "start": 334.1,
+    "end": 342.18,
+    "text": "We considered putting this on school road just outside the school, but in the end we decided that could lead to a lot of traffic congestion."
+  },
+  {
+    "index": 84,
+    "start": 343.0,
+    "end": 348.56,
+    "text": "So we decided to locate it on the high street crossing the road in front of the supermarket."
+  },
+  {
+    "index": 85,
+    "start": 349.34,
+    "end": 352.1,
+    "text": "That's a very busy area, so it should help things there."
+  },
+  {
+    "index": 86,
+    "start": 353.36,
+    "end": 356.2,
+    "text": "We are proposing some changes to parking."
+  },
+  {
+    "index": 87,
+    "start": 357.26,
+    "end": 365.46,
+    "text": "At present parking isn't allowed on the high street outside the library, but we're going to change that and allow parking there."
+  },
+  {
+    "index": 88,
+    "start": 365.96,
+    "end": 369.36,
+    "text": "But not at the other end of the high street near school road."
+  },
+  {
+    "index": 89,
+    "start": 370.54,
+    "end": 378.3,
+    "text": "There'll be a new no parking sign on school road just by the entrance to the school for bidding parking for 25 metres."
+  },
+  {
+    "index": 90,
+    "start": 379.5,
+    "end": 386.16,
+    "text": "This should improve visibility for drivers and pedestrians, especially on the bend just to the north of the school."
+  },
+  {
+    "index": 91,
+    "start": 387.9,
+    "end": 403.36,
+    "text": "As far as disabled drivers are concerned, at present they have parking outside the supermarket, but lorries also use those spaces, so we've got two new disabled parking spaces on the side road up towards the bank."
+  },
+  {
+    "index": 92,
+    "start": 404.14,
+    "end": 407.32,
+    "text": "It's not ideal, but probably better than the present arrangement."
+  },
+  {
+    "index": 93,
+    "start": 408.9,
+    "end": 412.44,
+    "text": "We also plan to widen the pavement on school road."
+  },
+  {
+    "index": 94,
+    "start": 413.42,
+    "end": 419.56,
+    "text": "We think we can manage to get an extra half metre on the bend just before we get to the school, on the same side of the road."
+  },
+  {
+    "index": 95,
+    "start": 420.76,
+    "end": 430.84,
+    "text": "Finally, we've introduced new restrictions on loading and unloading for the supermarket, so lorries will only be allowed to stop there before 8am."
+  },
+  {
+    "index": 96,
+    "start": 431.82,
+    "end": 433.88,
+    "text": "That's the supermarket on school road."
+  },
+  {
+    "index": 97,
+    "start": 434.5,
+    "end": 438.44,
+    "text": "We kept to the existing arrangements with the high street supermarket."
+  },
+  {
+    "index": 98,
+    "start": 440.22,
+    "end": 442.04,
+    "text": "Okay, so that's about it."
+  },
+  {
+    "index": 99,
+    "start": 444.9,
+    "end": 448.3,
+    "text": "We've got to choose a topic for our experiment, haven't we, Jack?"
+  },
+  {
+    "index": 100,
+    "start": 449.14,
+    "end": 451.36,
+    "text": "Were you thinking of something to do with seeds?"
+  },
+  {
+    "index": 101,
+    "start": 451.84,
+    "end": 452.76,
+    "text": "That's right."
+  },
+  {
+    "index": 102,
+    "start": 453.18,
+    "end": 458.28,
+    "text": "I thought we could look at seed germination, how a seed begins to grow."
+  },
+  {
+    "index": 103,
+    "start": 459.1,
+    "end": 461.42,
+    "text": "Okay, any particular reason?"
+  },
+  {
+    "index": 104,
+    "start": 461.72,
+    "end": 465.04,
+    "text": "I know you're hoping to work in plant science eventually."
+  },
+  {
+    "index": 105,
+    "start": 465.34,
+    "end": 469.5,
+    "text": "Yeah, but practically everything we do is going to feed into that."
+  },
+  {
+    "index": 106,
+    "start": 470.32,
+    "end": 479.6,
+    "text": "No, there's an optional module on seed structure and function in the third year that I might do, so I thought it might be useful for that."
+  },
+  {
+    "index": 107,
+    "start": 480.6,
+    "end": 485.12,
+    "text": "If I choose that option, I don't have to do a dissertation module."
+  },
+  {
+    "index": 108,
+    "start": 485.68,
+    "end": 486.24,
+    "text": "Good idea."
+  },
+  {
+    "index": 109,
+    "start": 486.68,
+    "end": 501.8,
+    "text": "Well, I thought for this experiment we could look at the relationship between seed size and the way the seeds are planted, so we could plant different sized seeds in different ways and see which grow best."
+  },
+  {
+    "index": 110,
+    "start": 501.8,
+    "end": 506.54,
+    "text": "Okay, we'd need to allow time for the seeds to come up."
+  },
+  {
+    "index": 111,
+    "start": 507.1,
+    "end": 509.36,
+    "text": "That should be fine if we start now."
+  },
+  {
+    "index": 112,
+    "start": 509.72,
+    "end": 514.0,
+    "text": "A lot of the other possible experiments need quite a bit longer."
+  },
+  {
+    "index": 113,
+    "start": 514.82,
+    "end": 520.64,
+    "text": "So that'd make it a good one to choose, and I don't suppose it'd need much equipment."
+  },
+  {
+    "index": 114,
+    "start": 520.64,
+    "end": 526.72,
+    "text": "We're not doing chemical analysis or anything, though that's not really an issue."
+  },
+  {
+    "index": 115,
+    "start": 527.2,
+    "end": 529.5,
+    "text": "We've got plenty of equipment in the laboratory."
+  },
+  {
+    "index": 116,
+    "start": 530.02,
+    "end": 534.86,
+    "text": "Yeah, we need to have a word with the tutor if we're going to go ahead with it, though."
+  },
+  {
+    "index": 117,
+    "start": 535.76,
+    "end": 537.58,
+    "text": "I'm sure our aim's okay."
+  },
+  {
+    "index": 118,
+    "start": 538.26,
+    "end": 544.62,
+    "text": "It's not very ambitious, but the assignment's only 10% of our final mark, isn't it?"
+  },
+  {
+    "index": 119,
+    "start": 545.68,
+    "end": 549.06,
+    "text": "But we need to be sure we're the only ones doing it."
+  },
+  {
+    "index": 120,
+    "start": 549.68,
+    "end": 556.4,
+    "text": "Yeah, it's only 5% actually, but it'd be a bit boring if everyone was doing it."
+  },
+  {
+    "index": 121,
+    "start": 556.98,
+    "end": 560.82,
+    "text": "Did you read that book on seed germination on our reading list?"
+  },
+  {
+    "index": 122,
+    "start": 561.48,
+    "end": 562.62,
+    "text": "The one by Graves."
+  },
+  {
+    "index": 123,
+    "start": 562.68,
+    "end": 568.36,
+    "text": "I looked through it for my last experiment, though it wasn't all that relevant there."
+  },
+  {
+    "index": 124,
+    "start": 569.08,
+    "end": 570.98,
+    "text": "It would be for this experiment, though."
+  },
+  {
+    "index": 125,
+    "start": 571.48,
+    "end": 573.56,
+    "text": "I found it quite hard to follow."
+  },
+  {
+    "index": 126,
+    "start": 574.2,
+    "end": 577.12,
+    "text": "Lots about the theory which I hadn't expected."
+  },
+  {
+    "index": 127,
+    "start": 577.66,
+    "end": 580.92,
+    "text": "Yes, I'd been hoping for something more practical."
+  },
+  {
+    "index": 128,
+    "start": 581.84,
+    "end": 587.34,
+    "text": "It does include references to the recent findings on genetically modified seeds, though."
+  },
+  {
+    "index": 129,
+    "start": 587.76,
+    "end": 589.3,
+    "text": "Yes, that was interesting."
+  },
+  {
+    "index": 130,
+    "start": 589.88,
+    "end": 593.38,
+    "text": "I read an article about seed germination by Lee Hall."
+  },
+  {
+    "index": 131,
+    "start": 594.16,
+    "end": 599.42,
+    "text": "About seeds that lie in the ground for ages and only germinate after a fire."
+  },
+  {
+    "index": 132,
+    "start": 599.66,
+    "end": 600.58,
+    "text": "That's the one."
+  },
+  {
+    "index": 133,
+    "start": 601.1,
+    "end": 605.38,
+    "text": "I knew a bit about it already, but not about this research."
+  },
+  {
+    "index": 134,
+    "start": 606.34,
+    "end": 616.92,
+    "text": "His analysis of figures comparing the times of the fires and the proportion of seeds that germinated was done in a lot of detail, very impressive."
+  },
+  {
+    "index": 135,
+    "start": 617.64,
+    "end": 622.64,
+    "text": "Was that the article with the illustrations of early stages of plant development?"
+  },
+  {
+    "index": 136,
+    "start": 623.48,
+    "end": 624.54,
+    "text": "They were very clear."
+  },
+  {
+    "index": 137,
+    "start": 625.04,
+    "end": 627.94,
+    "text": "I think those diagrams were in another article."
+  },
+  {
+    "index": 138,
+    "start": 628.7,
+    "end": 632.2,
+    "text": "Anyway, should we have a look at the procedure for our experiment?"
+  },
+  {
+    "index": 139,
+    "start": 632.86,
+    "end": 634.88,
+    "text": "We'll need to get going with it quite soon."
+  },
+  {
+    "index": 140,
+    "start": 635.38,
+    "end": 640.06,
+    "text": "Right, so the first thing we have to do is find our seeds."
+  },
+  {
+    "index": 141,
+    "start": 641.04,
+    "end": 647.5,
+    "text": "I think vegetable seeds would be best, and obviously they mustn't all be the same size."
+  },
+  {
+    "index": 142,
+    "start": 648.36,
+    "end": 650.52,
+    "text": "So how many sorts do we need?"
+  },
+  {
+    "index": 143,
+    "start": 651.32,
+    "end": 653.0,
+    "text": "About four different ones?"
+  },
+  {
+    "index": 144,
+    "start": 653.68,
+    "end": 654.86,
+    "text": "I think that would be enough."
+  },
+  {
+    "index": 145,
+    "start": 655.6,
+    "end": 658.2,
+    "text": "There'll be quite a large number of seeds for each one."
+  },
+  {
+    "index": 146,
+    "start": 658.8,
+    "end": 665.72,
+    "text": "Then for each seed we need to find out how much it weighs and also measure its dimensions."
+  },
+  {
+    "index": 147,
+    "start": 666.58,
+    "end": 669.5,
+    "text": "And we need to keep a careful record of all that."
+  },
+  {
+    "index": 148,
+    "start": 670.4,
+    "end": 672.16,
+    "text": "That'll be quite time consuming."
+  },
+  {
+    "index": 149,
+    "start": 672.98,
+    "end": 681.66,
+    "text": "And we also need to decide how deep we're going to plant the seeds, right on the surface a few millimeters down, or several centimeters."
+  },
+  {
+    "index": 150,
+    "start": 682.24,
+    "end": 684.6,
+    "text": "Okay, so then we get planting."
+  },
+  {
+    "index": 151,
+    "start": 685.56,
+    "end": 689.96,
+    "text": "Do you think we can plant several seeds together in the same plant pot?"
+  },
+  {
+    "index": 152,
+    "start": 690.74,
+    "end": 694.36,
+    "text": "No, I think we need a different one for each seed."
+  },
+  {
+    "index": 153,
+    "start": 694.74,
+    "end": 697.84,
+    "text": "Right, and we'll need to label them."
+  },
+  {
+    "index": 154,
+    "start": 698.48,
+    "end": 700.38,
+    "text": "We can use different colored labels."
+  },
+  {
+    "index": 155,
+    "start": 701.16,
+    "end": 703.42,
+    "text": "Then we wait for the seeds to germinate."
+  },
+  {
+    "index": 156,
+    "start": 704.02,
+    "end": 708.88,
+    "text": "I reckon that'll be about three weeks, depending on what the weather's like."
+  },
+  {
+    "index": 157,
+    "start": 709.8,
+    "end": 714.74,
+    "text": "Then we see if our plants have come up, and write down how tall they've grown."
+  },
+  {
+    "index": 158,
+    "start": 715.22,
+    "end": 720.06,
+    "text": "Then all we have to do is look at our numbers, and see if there's any relation between them."
+  },
+  {
+    "index": 159,
+    "start": 720.46,
+    "end": 720.92,
+    "text": "That's right."
+  },
+  {
+    "index": 160,
+    "start": 724.08,
+    "end": 724.36,
+    "text": "Hi."
+  },
+  {
+    "index": 161,
+    "start": 725.3,
+    "end": 729.28,
+    "text": "Today we're going to be looking at animals in urban environments."
+  },
+  {
+    "index": 162,
+    "start": 730.12,
+    "end": 735.64,
+    "text": "And I'm going to be telling you about some research on how they're affected by these environments."
+  },
+  {
+    "index": 163,
+    "start": 737.38,
+    "end": 743.2,
+    "text": "Now in evolutionary terms, urban environments represent huge upheavals."
+  },
+  {
+    "index": 164,
+    "start": 743.76,
+    "end": 748.0,
+    "text": "The sorts of massive changes that usually happen over millions of years."
+  },
+  {
+    "index": 165,
+    "start": 749.16,
+    "end": 754.02,
+    "text": "And we used to think that only a few species could adapt to this new environment."
+  },
+  {
+    "index": 166,
+    "start": 755.28,
+    "end": 760.54,
+    "text": "One species, which is well known as being highly adaptable, is the crow."
+  },
+  {
+    "index": 167,
+    "start": 761.14,
+    "end": 765.62,
+    "text": "And there have been various studies about how they manage to learn new skills."
+  },
+  {
+    "index": 168,
+    "start": 766.9,
+    "end": 777.62,
+    "text": "Another successful species is the pigeon, because they're able to perch on ledges on the walls of city buildings, just like they once perched on cliffs by the sea."
+  },
+  {
+    "index": 169,
+    "start": 778.76,
+    "end": 790.82,
+    "text": "But in fact, we're now finding that these early immigrants were just the start of a more general movement of animals into cities, and of adaptation by these animals to city life."
+  },
+  {
+    "index": 170,
+    "start": 792.04,
+    "end": 798.6,
+    "text": "And one thing that researchers are finding, especially interesting, is the speed with which they're doing this."
+  },
+  {
+    "index": 171,
+    "start": 799.34,
+    "end": 802.14,
+    "text": "We're not talking about gradual evolution here."
+  },
+  {
+    "index": 172,
+    "start": 802.64,
+    "end": 805.06,
+    "text": "These animals are changing fast."
+  },
+  {
+    "index": 173,
+    "start": 806.92,
+    "end": 810.94,
+    "text": "Let me tell you about some of the studies that have been carried out in this area."
+  },
+  {
+    "index": 174,
+    "start": 812.16,
+    "end": 830.42,
+    "text": "So in the University of Minnesota, a biologist called Emily Snellrude and her colleagues looked at specimens of urbanized small mammals, such as mice and gophers, that had been collected in Minnesota, and that are now kept in museums there."
+  },
+  {
+    "index": 175,
+    "start": 831.26,
+    "end": 839.1,
+    "text": "And she looked at specimens that had been collected over the last hundred years, which is a very short time in evolutionary terms."
+  },
+  {
+    "index": 176,
+    "start": 839.94,
+    "end": 847.96,
+    "text": "And she found that during that time, these small mammals had experienced a jump in brain size when compared to rural mammals."
+  },
+  {
+    "index": 177,
+    "start": 848.88,
+    "end": 860.62,
+    "text": "Now we can't be sure this means they're more intelligent, but since the sizes of other parts of the body didn't change, it does suggest that something cognitive was going on."
+  },
+  {
+    "index": 178,
+    "start": 861.68,
+    "end": 875.2,
+    "text": "And Snellrude thinks that this change might reflect the cognitive demands of adjusting to city life, having to look in different places to find food, for example, and coping with a whole new set of dangers."
+  },
+  {
+    "index": 179,
+    "start": 877.18,
+    "end": 889.64,
+    "text": "Then over in Germany, at the Max Planck Institute, there's another biologist called Katharina Miranda, who's done some experiments with blackbirds living in urban and rural areas."
+  },
+  {
+    "index": 180,
+    "start": 890.22,
+    "end": 894.7,
+    "text": "And she's been looking not at their anatomy, but at their behavior."
+  },
+  {
+    "index": 181,
+    "start": 895.64,
+    "end": 901.18,
+    "text": "So as you might expect, she's found that the urban blackbirds tend to be quite bold."
+  },
+  {
+    "index": 182,
+    "start": 901.9,
+    "end": 906.6,
+    "text": "They're prepared to face up to a lot of threats that would frighten away their country counterparts."
+  },
+  {
+    "index": 183,
+    "start": 907.58,
+    "end": 917.44,
+    "text": "But there's one type of situation that does seem to frighten the urban blackbirds, and that's anything new, anything they haven't experienced before."
+  },
+  {
+    "index": 184,
+    "start": 918.38,
+    "end": 922.48,
+    "text": "And if you think about it, that's quite sensible for a bird living in the city."
+  },
+  {
+    "index": 185,
+    "start": 924.1,
+    "end": 931.08,
+    "text": "Jonathan Atwell, in Indiana University, is looking at how a range of animals respond to urban environments."
+  },
+  {
+    "index": 186,
+    "start": 932.16,
+    "end": 940.84,
+    "text": "He's found that when they're under stress, their endocrine systems react by reducing the amount of hormones such as corticosterone into their blood."
+  },
+  {
+    "index": 187,
+    "start": 941.8,
+    "end": 943.5,
+    "text": "It's a sensible seeming adaptation."
+  },
+  {
+    "index": 188,
+    "start": 944.4,
+    "end": 950.22,
+    "text": "A rat that gets scared every time a subway train rolls past won't be very successful."
+  },
+  {
+    "index": 189,
+    "start": 951.88,
+    "end": 957.32,
+    "text": "There's just one more study I'd like to mention, which is by Sarah Parton and her team."
+  },
+  {
+    "index": 190,
+    "start": 958.3,
+    "end": 969.36,
+    "text": "And they've been looking at how squirrels communicate in an urban environment, and they've found that a routine part of their communication is carried out by waving their tails."
+  },
+  {
+    "index": 191,
+    "start": 970.7,
+    "end": 979.2,
+    "text": "You do also see this in the country, but it's much more prevalent in cities, possibly because it's effective in a noisy environment."
+  },
+  {
+    "index": 192,
+    "start": 980.82,
+    "end": 983.76,
+    "text": "So what are the long-term implications of this?"
+  },
+  {
+    "index": 193,
+    "start": 985.12,
+    "end": 997.18,
+    "text": "One possibility is that we may see completely new species developing in cities, but on the other hand, it's possible that not all of these adaptations will be permanent."
+  },
+  {
+    "index": 194,
+    "start": 998.26,
+    "end": 1004.4,
+    "text": "Once the animals got accustomed to its new environment, it may no longer need the features it's developed."
+  },
+  {
+    "index": 195,
+    "start": 1005.76,
+    "end": 1007.68,
+    "text": "So now we've had a look at adaptation."
+  },
+  {
+    "index": 196,
+    "start": 1010.34,
+    "end": 1012.66,
+    "text": "Hello, South City Cycling Club."
+  },
+  {
+    "index": 197,
+    "start": 1013.28,
+    "end": 1013.92,
+    "text": "Oh, hi."
+  },
+  {
+    "index": 198,
+    "start": 1014.32,
+    "end": 1017.68,
+    "text": "I want to find out about joining the club."
+  },
+  {
+    "index": 199,
+    "start": 1018.54,
+    "end": 1020.08,
+    "text": "Right, I can help you there."
+  },
+  {
+    "index": 200,
+    "start": 1020.52,
+    "end": 1024.08,
+    "text": "I'm the club secretary and my name's Jim Hunter."
+  },
+  {
+    "index": 201,
+    "start": 1024.6,
+    "end": 1025.44,
+    "text": "Oh, hi, Jim."
+  },
+  {
+    "index": 202,
+    "start": 1026.02,
+    "end": 1029.0,
+    "text": "So are you interested in membership for yourself?"
+  },
+  {
+    "index": 203,
+    "start": 1029.54,
+    "end": 1030.14,
+    "text": "That's right."
+  },
+  {
+    "index": 204,
+    "start": 1030.86,
+    "end": 1035.26,
+    "text": "Okay, well, there are basically two types of adult membership."
+  },
+  {
+    "index": 205,
+    "start": 1036.08,
+    "end": 1040.24,
+    "text": "If you're pretty serious about cycling, there's the full membership."
+  },
+  {
+    "index": 206,
+    "start": 1040.96,
+    "end": 1053.92,
+    "text": "That costs $260, and that covers you not just for ordinary cycling, but also for races, both here in the city and also in other parts of Australia."
+  },
+  {
+    "index": 207,
+    "start": 1054.14,
+    "end": 1054.52,
+    "text": "Right."
+  },
+  {
+    "index": 208,
+    "start": 1054.88,
+    "end": 1056.96,
+    "text": "Well, I'm not really up to that standard."
+  },
+  {
+    "index": 209,
+    "start": 1057.48,
+    "end": 1062.06,
+    "text": "I was more interested in just joining a group to do some cycling in my free time."
+  },
+  {
+    "index": 210,
+    "start": 1062.62,
+    "end": 1065.24,
+    "text": "Sure, that's why most people join."
+  },
+  {
+    "index": 211,
+    "start": 1065.92,
+    "end": 1070.48,
+    "text": "So in that case, you'd be better with the recreational membership."
+  },
+  {
+    "index": 212,
+    "start": 1071.2,
+    "end": 1077.82,
+    "text": "That's $108 if you're over 19, and $95 if you're under."
+  },
+  {
+    "index": 213,
+    "start": 1078.36,
+    "end": 1079.2,
+    "text": "I'm 25."
+  },
+  {
+    "index": 214,
+    "start": 1079.96,
+    "end": 1086.94,
+    "text": "Okay, it's paid quarterly, and you can upgrade it later to the full membership if you want to, of course."
+  },
+  {
+    "index": 215,
+    "start": 1087.9,
+    "end": 1092.1,
+    "text": "Now, both types of membership include the club fee of $20."
+  },
+  {
+    "index": 216,
+    "start": 1093.16,
+    "end": 1100.02,
+    "text": "They also provide insurance in case you have an accident, though we hope you won't need that, of course."
+  },
+  {
+    "index": 217,
+    "start": 1100.98,
+    "end": 1101.2,
+    "text": "No."
+  },
+  {
+    "index": 218,
+    "start": 1101.62,
+    "end": 1102.4,
+    "text": "Okay."
+  },
+  {
+    "index": 219,
+    "start": 1102.84,
+    "end": 1109.34,
+    "text": "Well, I'll go with the recreational membership, I think, and that allows me to join in the club activities and so on."
+  },
+  {
+    "index": 220,
+    "start": 1109.7,
+    "end": 1110.36,
+    "text": "That's right."
+  },
+  {
+    "index": 221,
+    "start": 1110.86,
+    "end": 1116.68,
+    "text": "And once you're a member of the club, you're also permitted to wear our kit when you're out cycling."
+  },
+  {
+    "index": 222,
+    "start": 1116.98,
+    "end": 1118.48,
+    "text": "It's green and white."
+  },
+  {
+    "index": 223,
+    "start": 1118.96,
+    "end": 1121.24,
+    "text": "Yes, I've seen cyclists wearing it."
+  },
+  {
+    "index": 224,
+    "start": 1121.84,
+    "end": 1123.38,
+    "text": "So can I buy that at the club?"
+  },
+  {
+    "index": 225,
+    "start": 1124.22,
+    "end": 1127.74,
+    "text": "No, it's made to order by a company in Brisbane."
+  },
+  {
+    "index": 226,
+    "start": 1128.3,
+    "end": 1130.04,
+    "text": "You can find them online."
+  },
+  {
+    "index": 227,
+    "start": 1130.58,
+    "end": 1131.98,
+    "text": "They're called Jerry's."
+  },
+  {
+    "index": 228,
+    "start": 1132.18,
+    "end": 1137.46,
+    "text": "That's J-E-R-R-I-Z."
+  },
+  {
+    "index": 229,
+    "start": 1138.32,
+    "end": 1141.74,
+    "text": "You can use your membership number to put in an order on their website."
+  },
+  {
+    "index": 230,
+    "start": 1142.6,
+    "end": 1142.8,
+    "text": "Okay."
+  },
+  {
+    "index": 231,
+    "start": 1143.2,
+    "end": 1146.38,
+    "text": "Now, can you tell me a bit about the rides I can do?"
+  },
+  {
+    "index": 232,
+    "start": 1147.0,
+    "end": 1147.36,
+    "text": "Sure."
+  },
+  {
+    "index": 233,
+    "start": 1147.98,
+    "end": 1160.2,
+    "text": "So we have training rides pretty well every morning, and they're a really good way of improving your cycling skills as well as your general level of fitness, but they're different levels."
+  },
+  {
+    "index": 234,
+    "start": 1161.12,
+    "end": 1163.12,
+    "text": "Level A is pretty fast."
+  },
+  {
+    "index": 235,
+    "start": 1163.5,
+    "end": 1167.3,
+    "text": "You're looking at about 30 or 35 kilometres an hour."
+  },
+  {
+    "index": 236,
+    "start": 1167.7,
+    "end": 1173.9,
+    "text": "If you can do about 25 kilometres an hour, you'd probably be level B."
+  },
+  {
+    "index": 237,
+    "start": 1175.04,
+    "end": 1180.46,
+    "text": "And then level C are the novices who stay at about 15 kilometres per hour."
+  },
+  {
+    "index": 238,
+    "start": 1180.88,
+    "end": 1181.16,
+    "text": "Right."
+  },
+  {
+    "index": 239,
+    "start": 1181.58,
+    "end": 1183.96,
+    "text": "Well, I reckon I'd be level B."
+  },
+  {
+    "index": 240,
+    "start": 1184.36,
+    "end": 1186.56,
+    "text": "So when are the sessions for that level?"
+  },
+  {
+    "index": 241,
+    "start": 1187.3,
+    "end": 1189.62,
+    "text": "There are a couple each week."
+  },
+  {
+    "index": 242,
+    "start": 1190.08,
+    "end": 1191.94,
+    "text": "They're both early morning sessions."
+  },
+  {
+    "index": 243,
+    "start": 1192.72,
+    "end": 1200.46,
+    "text": "There's one on Tuesdays, and for that one you meet at 5.30am and the meeting points the stadium."
+  },
+  {
+    "index": 244,
+    "start": 1200.88,
+    "end": 1202.18,
+    "text": "Do you know where that is?"
+  },
+  {
+    "index": 245,
+    "start": 1202.7,
+    "end": 1204.64,
+    "text": "Yes, it's quite near my home, in fact."
+  },
+  {
+    "index": 246,
+    "start": 1205.02,
+    "end": 1207.48,
+    "text": "Okay, and how about the other one?"
+  },
+  {
+    "index": 247,
+    "start": 1208.1,
+    "end": 1209.64,
+    "text": "That's on Thursdays."
+  },
+  {
+    "index": 248,
+    "start": 1209.9,
+    "end": 1214.42,
+    "text": "It starts at the same time, but they meet at the main gate to the park."
+  },
+  {
+    "index": 249,
+    "start": 1214.5,
+    "end": 1217.6,
+    "text": "Is that the one just passed the shopping mall?"
+  },
+  {
+    "index": 250,
+    "start": 1217.82,
+    "end": 1218.86,
+    "text": "That's it."
+  },
+  {
+    "index": 251,
+    "start": 1219.14,
+    "end": 1221.2,
+    "text": "So how long are the rides?"
+  },
+  {
+    "index": 252,
+    "start": 1222.12,
+    "end": 1229.16,
+    "text": "They're about an hour and a half, so if you have a job, it's easy to fit in before you go to work."
+  },
+  {
+    "index": 253,
+    "start": 1230.06,
+    "end": 1235.96,
+    "text": "And the members often go somewhere for coffee afterwards, so it's quite a social event."
+  },
+  {
+    "index": 254,
+    "start": 1236.02,
+    "end": 1237.94,
+    "text": "Okay, that sounds good."
+  },
+  {
+    "index": 255,
+    "start": 1238.44,
+    "end": 1242.5,
+    "text": "I've only just moved to the city, so I don't actually know many people yet."
+  },
+  {
+    "index": 256,
+    "start": 1243.16,
+    "end": 1245.08,
+    "text": "Well, it's a great way to meet people."
+  },
+  {
+    "index": 257,
+    "start": 1245.38,
+    "end": 1247.56,
+    "text": "And does each ride have a leader?"
+  },
+  {
+    "index": 258,
+    "start": 1248.46,
+    "end": 1250.14,
+    "text": "Sometimes, but not always."
+  },
+  {
+    "index": 259,
+    "start": 1250.54,
+    "end": 1252.92,
+    "text": "But you don't really need one."
+  },
+  {
+    "index": 260,
+    "start": 1253.22,
+    "end": 1256.22,
+    "text": "The group members on the ride support one another anyway."
+  },
+  {
+    "index": 261,
+    "start": 1256.96,
+    "end": 1258.22,
+    "text": "How would we know where to go?"
+  },
+  {
+    "index": 262,
+    "start": 1259.38,
+    "end": 1264.66,
+    "text": "If you check the club website, you'll see that the route for each ride is clearly marked."
+  },
+  {
+    "index": 263,
+    "start": 1265.4,
+    "end": 1268.84,
+    "text": "So you can just print that out and take it along with you."
+  },
+  {
+    "index": 264,
+    "start": 1269.42,
+    "end": 1274.88,
+    "text": "It's similar from one week to another, but it's not always exactly the same."
+  },
+  {
+    "index": 265,
+    "start": 1275.46,
+    "end": 1276.6,
+    "text": "And what do I need to bring?"
+  },
+  {
+    "index": 266,
+    "start": 1277.4,
+    "end": 1280.72,
+    "text": "Well, bring a bottle of water and your phone."
+  },
+  {
+    "index": 267,
+    "start": 1281.2,
+    "end": 1284.74,
+    "text": "You shouldn't use it while you're cycling, but have it with you."
+  },
+  {
+    "index": 268,
+    "start": 1285.18,
+    "end": 1285.46,
+    "text": "Right."
+  },
+  {
+    "index": 269,
+    "start": 1286.16,
+    "end": 1293.1,
+    "text": "And in winter, it's well before sunrise when we set out, so you need to make sure your bike's got lights."
+  },
+  {
+    "index": 270,
+    "start": 1293.88,
+    "end": 1294.52,
+    "text": "That's okay."
+  },
+  {
+    "index": 271,
+    "start": 1294.92,
+    "end": 1296.36,
+    "text": "Well, thanks, Jim."
+  },
+  {
+    "index": 272,
+    "start": 1296.82,
+    "end": 1298.16,
+    "text": "I definitely like to join."
+  },
+  {
+    "index": 273,
+    "start": 1298.7,
+    "end": 1300.8,
+    "text": "So what's the best way of going about it?"
+  },
+  {
+    "index": 274,
+    "start": 1301.26,
+    "end": 1301.9,
+    "text": "Oh, you can."
+  },
+  {
+    "index": 275,
+    "start": 1304.36,
+    "end": 1305.46,
+    "text": "Thanks for coming, everyone."
+  },
+  {
+    "index": 276,
+    "start": 1306.48,
+    "end": 1313.26,
+    "text": "Okay, so this meeting is for a new staff and staff who haven't been involved with our volunteering projects yet."
+  },
+  {
+    "index": 277,
+    "start": 1314.2,
+    "end": 1323.74,
+    "text": "So basically, the idea is that we allow staff to give up some of their work time to help on various charity projects to benefit the local community."
+  },
+  {
+    "index": 278,
+    "start": 1325.04,
+    "end": 1328.8,
+    "text": "We've been doing this for the last five years, and it's been very successful."
+  },
+  {
+    "index": 279,
+    "start": 1330.28,
+    "end": 1333.96,
+    "text": "Participating doesn't necessarily involve a huge time commitment."
+  },
+  {
+    "index": 280,
+    "start": 1334.34,
+    "end": 1337.44,
+    "text": "The company will pay for eight hours of your time."
+  },
+  {
+    "index": 281,
+    "start": 1338.2,
+    "end": 1345.36,
+    "text": "That can be used over one or two days, all at once, or spread over several months throughout the year."
+  },
+  {
+    "index": 282,
+    "start": 1346.6,
+    "end": 1349.82,
+    "text": "There are some staff who enjoy volunteering so much."
+  },
+  {
+    "index": 283,
+    "start": 1350.18,
+    "end": 1353.92,
+    "text": "They also give up their own free time for a couple of hours every week."
+  },
+  {
+    "index": 284,
+    "start": 1353.92,
+    "end": 1356.46,
+    "text": "It's completely up to you."
+  },
+  {
+    "index": 285,
+    "start": 1357.28,
+    "end": 1363.44,
+    "text": "Obviously, many people will have family commitments and aren't as available as other members of staff."
+  },
+  {
+    "index": 286,
+    "start": 1365.26,
+    "end": 1371.46,
+    "text": "Feedback from staff has been overwhelmingly positive because they felt they were doing something really useful."
+  },
+  {
+    "index": 287,
+    "start": 1372.02,
+    "end": 1376.92,
+    "text": "Nearly everyone agreed that volunteering made them feel more motivated at work."
+  },
+  {
+    "index": 288,
+    "start": 1378.0,
+    "end": 1383.74,
+    "text": "They also liked building relationships with the people in the local community and felt valued by them."
+  },
+  {
+    "index": 289,
+    "start": 1384.62,
+    "end": 1388.86,
+    "text": "One or two people also said it was a good thing to have on their CVs."
+  },
+  {
+    "index": 290,
+    "start": 1390.74,
+    "end": 1395.84,
+    "text": "One particularly successful project last year was the Get Working Project."
+  },
+  {
+    "index": 291,
+    "start": 1397.06,
+    "end": 1400.9,
+    "text": "This was aimed at helping unemployed people in the area get back to work."
+  },
+  {
+    "index": 292,
+    "start": 1401.98,
+    "end": 1413.56,
+    "text": "Our staff were able to help them improve their telephone skills, such as writing down messages and speaking with confidence to potential customers, which they had found quite difficult."
+  },
+  {
+    "index": 293,
+    "start": 1414.82,
+    "end": 1422.94,
+    "text": "This is something many employers look for in job applicants, and something we all do without even thinking about every day at work."
+  },
+  {
+    "index": 294,
+    "start": 1424.98,
+    "end": 1427.38,
+    "text": "We've got an exciting new project starting this year."
+  },
+  {
+    "index": 295,
+    "start": 1427.96,
+    "end": 1437.94,
+    "text": "Up until now, we've mainly focused on projects to do with education and training, and we'll continue with our reading project in schools and our work with local charities."
+  },
+  {
+    "index": 296,
+    "start": 1439.02,
+    "end": 1450.86,
+    "text": "But we've also agreed to help out on a conservation project in Redfern Park, so if any of you fancy being outside and getting your hands dirty, this is the project for you."
+  },
+  {
+    "index": 297,
+    "start": 1452.38,
+    "end": 1457.52,
+    "text": "I also wanted to mention the annual Digital Inclusion Day, which is coming up next month."
+  },
+  {
+    "index": 298,
+    "start": 1458.6,
+    "end": 1472.3,
+    "text": "The aim of this is to help older people keep up with technology, and this year, instead of hosting the event in our own training facility, we're using the ICT suite at Hill College, as it can hold far more people."
+  },
+  {
+    "index": 299,
+    "start": 1473.56,
+    "end": 1481.64,
+    "text": "We've invited over 60 people from the Silver Age Community Center to take part, so we'll need a lot of volunteers to help with this event."
+  },
+  {
+    "index": 300,
+    "start": 1483.14,
+    "end": 1489.78,
+    "text": "If you're interested in taking part, please go to the volunteering section of our website and complete the relevant form."
+  },
+  {
+    "index": 301,
+    "start": 1490.78,
+    "end": 1497.98,
+    "text": "We won't be providing any training for this, but you'll be paired with an experience volunteer if you've never done it before."
+  },
+  {
+    "index": 302,
+    "start": 1499.32,
+    "end": 1505.2,
+    "text": "By the way, don't forget to tell your manager about any volunteering activities you decide to do."
+  },
+  {
+    "index": 303,
+    "start": 1506.3,
+    "end": 1509.62,
+    "text": "The participants on the Digital Inclusion Day really benefited."
+  },
+  {
+    "index": 304,
+    "start": 1510.1,
+    "end": 1515.92,
+    "text": "The majority were in their 70s, though some were younger, and a few were even in their 90s."
+  },
+  {
+    "index": 305,
+    "start": 1516.64,
+    "end": 1522.48,
+    "text": "Quite a few owned both a computer and a mobile phone, but these tended to be outdated models."
+  },
+  {
+    "index": 306,
+    "start": 1523.46,
+    "end": 1531.98,
+    "text": "They generally knew how to do simple things like send texts, but weren't aware of recent developments in mobile phone technology."
+  },
+  {
+    "index": 307,
+    "start": 1533.04,
+    "end": 1536.88,
+    "text": "A few were keen to learn, but most were quite dismissive at first."
+  },
+  {
+    "index": 308,
+    "start": 1537.4,
+    "end": 1541.52,
+    "text": "They couldn't see the point of updating their skills, but that soon changed."
+  },
+  {
+    "index": 309,
+    "start": 1542.68,
+    "end": 1544.46,
+    "text": "The feedback was very positive."
+  },
+  {
+    "index": 310,
+    "start": 1544.84,
+    "end": 1558.5,
+    "text": "The really encouraging thing was that participants all said they felt much more confident about using social media to keep in touch with their grandchildren, who prefer this form of communication to phoning or sending emails."
+  },
+  {
+    "index": 311,
+    "start": 1559.66,
+    "end": 1565.6,
+    "text": "A lot of them also said playing online games would help them make new friends and keep their brains active."
+  },
+  {
+    "index": 312,
+    "start": 1566.84,
+    "end": 1578.78,
+    "text": "They weren't that impressed with being able to order their groceries online as they liked going out to the shops, but some said it would come in handy if they were ill or the weather was really bad."
+  },
+  {
+    "index": 313,
+    "start": 1580.42,
+    "end": 1584.86,
+    "text": "One thing they asked about was using tablets for things like reading newspapers."
+  },
+  {
+    "index": 314,
+    "start": 1585.5,
+    "end": 1592.66,
+    "text": "Some people had been given tablets as presents, but had never used them, so that's something we'll make sure we include this time."
+  },
+  {
+    "index": 315,
+    "start": 1595.12,
+    "end": 1596.22,
+    "text": "Come in, Russ."
+  },
+  {
+    "index": 316,
+    "start": 1596.58,
+    "end": 1597.12,
+    "text": "Thank you."
+  },
+  {
+    "index": 317,
+    "start": 1597.48,
+    "end": 1602.34,
+    "text": "Now, you wanted to consult me about your class presentation on nanotechnology."
+  },
+  {
+    "index": 318,
+    "start": 1602.96,
+    "end": 1605.22,
+    "text": "You would do to give it next week, aren't you?"
+  },
+  {
+    "index": 319,
+    "start": 1605.5,
+    "end": 1607.94,
+    "text": "That's right, and I'm really struggling."
+  },
+  {
+    "index": 320,
+    "start": 1608.4,
+    "end": 1617.4,
+    "text": "I chose the topic because I didn't know much about it and wanted to learn more, but now I've read so much about it in a way there's too much to say."
+  },
+  {
+    "index": 321,
+    "start": 1617.5,
+    "end": 1621.88,
+    "text": "I could talk for much longer than the 20 minutes I've been allocated."
+  },
+  {
+    "index": 322,
+    "start": 1622.42,
+    "end": 1633.26,
+    "text": "Should I assume the other students don't know much and give them a kind of general introduction, or should I try and make them share my fascination with a particular aspect?"
+  },
+  {
+    "index": 323,
+    "start": 1634.18,
+    "end": 1638.1,
+    "text": "You could do either, but you'll need to have it clear in your own mind."
+  },
+  {
+    "index": 324,
+    "start": 1638.6,
+    "end": 1641.02,
+    "text": "Then I think I'll give an overview."
+  },
+  {
+    "index": 325,
+    "start": 1641.76,
+    "end": 1647.68,
+    "text": "OK, now one way of approaching this is to work through developments in chronological order."
+  },
+  {
+    "index": 326,
+    "start": 1648.0,
+    "end": 1648.26,
+    "text": "Uh-huh."
+  },
+  {
+    "index": 327,
+    "start": 1648.8,
+    "end": 1653.84,
+    "text": "On the other hand, you could talk about the numerous ways that nanotechnology is being applied."
+  },
+  {
+    "index": 328,
+    "start": 1654.26,
+    "end": 1663.38,
+    "text": "You mean things like thin films on camera displays to make them water repellent and additives to make motorcycle helmets stronger and lighter?"
+  },
+  {
+    "index": 329,
+    "start": 1664.02,
+    "end": 1664.22,
+    "text": "Exactly."
+  },
+  {
+    "index": 330,
+    "start": 1664.8,
+    "end": 1672.7,
+    "text": "Or another way would be to focus on its impact in one particular area, say medicine or space exploration."
+  },
+  {
+    "index": 331,
+    "start": 1673.14,
+    "end": 1675.28,
+    "text": "That would make it easier to focus."
+  },
+  {
+    "index": 332,
+    "start": 1675.78,
+    "end": 1676.9,
+    "text": "Perhaps I should do that."
+  },
+  {
+    "index": 333,
+    "start": 1676.9,
+    "end": 1679.24,
+    "text": "I think that would be a good idea."
+  },
+  {
+    "index": 334,
+    "start": 1679.88,
+    "end": 1680.08,
+    "text": "Right."
+  },
+  {
+    "index": 335,
+    "start": 1680.4,
+    "end": 1684.44,
+    "text": "How important is it to include slides in the presentation?"
+  },
+  {
+    "index": 336,
+    "start": 1684.5,
+    "end": 1692.5,
+    "text": "They aren't essential by any means, and there's a danger of tailoring what you say to fit whatever slides you can find."
+  },
+  {
+    "index": 337,
+    "start": 1693.36,
+    "end": 1699.26,
+    "text": "While it can be good to include slides, you could end up spending too long looking for suitable ones."
+  },
+  {
+    "index": 338,
+    "start": 1700.02,
+    "end": 1702.02,
+    "text": "You might find it bitter to leave them out."
+  },
+  {
+    "index": 339,
+    "start": 1702.32,
+    "end": 1702.88,
+    "text": "I see."
+  },
+  {
+    "index": 340,
+    "start": 1703.26,
+    "end": 1706.66,
+    "text": "Another thing I was wondering about was how to start."
+  },
+  {
+    "index": 341,
+    "start": 1706.66,
+    "end": 1713.62,
+    "text": "I know presentations often begin with first I'm going to talk about this, and then I'll talk about that."
+  },
+  {
+    "index": 342,
+    "start": 1714.46,
+    "end": 1718.72,
+    "text": "But I thought about asking the audience what they know about nanotechnology."
+  },
+  {
+    "index": 343,
+    "start": 1719.6,
+    "end": 1730.2,
+    "text": "That would be fine if you had an hour or two for the presentation, but you might find that you can't do anything with the answers you get, and it simply eats into the short time that's available."
+  },
+  {
+    "index": 344,
+    "start": 1731.02,
+    "end": 1736.88,
+    "text": "So maybe I should mention a particular way that nanotechnology is used to focus people's attention."
+  },
+  {
+    "index": 345,
+    "start": 1737.48,
+    "end": 1738.42,
+    "text": "That sounds sensible."
+  },
+  {
+    "index": 346,
+    "start": 1738.94,
+    "end": 1740.78,
+    "text": "What do you think I should do next?"
+  },
+  {
+    "index": 347,
+    "start": 1741.56,
+    "end": 1744.66,
+    "text": "I really have to plan the presentation today and tomorrow."
+  },
+  {
+    "index": 348,
+    "start": 1745.52,
+    "end": 1749.26,
+    "text": "Well, initially I think you should ignore all the notes you've made."
+  },
+  {
+    "index": 349,
+    "start": 1749.84,
+    "end": 1755.46,
+    "text": "Take a small piece of paper and write a single short sentence that ties together the whole presentation."
+  },
+  {
+    "index": 350,
+    "start": 1755.5,
+    "end": 1761.06,
+    "text": "It can be something as simple as nanotechnology is already improving our lives."
+  },
+  {
+    "index": 351,
+    "start": 1761.92,
+    "end": 1764.04,
+    "text": "Then start planning the content around that."
+  },
+  {
+    "index": 352,
+    "start": 1764.74,
+    "end": 1767.86,
+    "text": "You can always modify that sentence later if you need to."
+  },
+  {
+    "index": 353,
+    "start": 1768.24,
+    "end": 1768.52,
+    "text": "Okay."
+  },
+  {
+    "index": 354,
+    "start": 1770.08,
+    "end": 1770.26,
+    "text": "Okay."
+  },
+  {
+    "index": 355,
+    "start": 1770.8,
+    "end": 1773.98,
+    "text": "Now let's think about actually giving the presentation."
+  },
+  {
+    "index": 356,
+    "start": 1774.7,
+    "end": 1779.98,
+    "text": "You've only given one before if I remember correctly about an experiment you'd been involved in."
+  },
+  {
+    "index": 357,
+    "start": 1779.98,
+    "end": 1780.86,
+    "text": "That's right."
+  },
+  {
+    "index": 358,
+    "start": 1781.4,
+    "end": 1782.64,
+    "text": "It was pretty rubbish."
+  },
+  {
+    "index": 359,
+    "start": 1783.34,
+    "end": 1786.1,
+    "text": "Let's say it was better in some respects than in others."
+  },
+  {
+    "index": 360,
+    "start": 1787.02,
+    "end": 1792.26,
+    "text": "With regard to the structure, I felt that you ended rather abruptly without rounding it off."
+  },
+  {
+    "index": 361,
+    "start": 1793.12,
+    "end": 1795.9,
+    "text": "Be careful not to do that in next week's presentation."
+  },
+  {
+    "index": 362,
+    "start": 1796.34,
+    "end": 1796.62,
+    "text": "Okay."
+  },
+  {
+    "index": 363,
+    "start": 1797.56,
+    "end": 1803.48,
+    "text": "And you made very little eye contact with the audience because you were looking down at your notes most of the time."
+  },
+  {
+    "index": 364,
+    "start": 1804.58,
+    "end": 1808.88,
+    "text": "You need to be looking at the audience and only occasionally glancing at your notes."
+  },
+  {
+    "index": 365,
+    "start": 1810.04,
+    "end": 1811.84,
+    "text": "Your body language was a little odd."
+  },
+  {
+    "index": 366,
+    "start": 1812.64,
+    "end": 1816.78,
+    "text": "Every time you showed a slide, you turned your back on the audience so you could look at it."
+  },
+  {
+    "index": 367,
+    "start": 1817.52,
+    "end": 1819.06,
+    "text": "You should have been looking at your laptop."
+  },
+  {
+    "index": 368,
+    "start": 1820.2,
+    "end": 1825.06,
+    "text": "And you kept scratching your head so I fell myself wondering when you were next going to do that."
+  },
+  {
+    "index": 369,
+    "start": 1825.7,
+    "end": 1828.4,
+    "text": "Instead of listening to what you were saying, oh dear."
+  },
+  {
+    "index": 370,
+    "start": 1829.5,
+    "end": 1830.9,
+    "text": "What did you think of the language?"
+  },
+  {
+    "index": 371,
+    "start": 1831.38,
+    "end": 1837.4,
+    "text": "I knew that not everyone was familiar with the subject so I tried to make it as simple as I could."
+  },
+  {
+    "index": 372,
+    "start": 1838.0,
+    "end": 1839.24,
+    "text": "Yes, that came across."
+  },
+  {
+    "index": 373,
+    "start": 1840.16,
+    "end": 1848.68,
+    "text": "You used a few words that are specific to the field but you always explained what they meant so the audience wouldn't have had any difficulty understanding."
+  },
+  {
+    "index": 374,
+    "start": 1849.28,
+    "end": 1849.66,
+    "text": "Uh-huh."
+  },
+  {
+    "index": 375,
+    "start": 1850.06,
+    "end": 1853.4,
+    "text": "I must say the handouts you prepared were well thought out."
+  },
+  {
+    "index": 376,
+    "start": 1854.08,
+    "end": 1859.0,
+    "text": "They were a good summary of your presentation which people would have been able to refer to later on."
+  },
+  {
+    "index": 377,
+    "start": 1859.4,
+    "end": 1860.62,
+    "text": "So well done on that."
+  },
+  {
+    "index": 378,
+    "start": 1861.16,
+    "end": 1861.5,
+    "text": "Thank you."
+  },
+  {
+    "index": 379,
+    "start": 1862.54,
+    "end": 1865.2,
+    "text": "Well, I hope that helps you with next week's presentation."
+  },
+  {
+    "index": 380,
+    "start": 1865.36,
+    "end": 1866.44,
+    "text": "Yes, it will."
+  },
+  {
+    "index": 381,
+    "start": 1866.74,
+    "end": 1867.46,
+    "text": "Thanks a lot."
+  },
+  {
+    "index": 382,
+    "start": 1868.02,
+    "end": 1870.34,
+    "text": "I'll look forward to seeing a big improvement then."
+  },
+  {
+    "index": 383,
+    "start": 1872.26,
+    "end": 1880.68,
+    "text": "Today we'll be continuing the series of lectures on memory by focusing on what is called episodic memory."
+  },
+  {
+    "index": 384,
+    "start": 1881.5,
+    "end": 1885.2,
+    "text": "And what can happen if this is not working properly?"
+  },
+  {
+    "index": 385,
+    "start": 1886.76,
+    "end": 1891.78,
+    "text": "Episodic memory refers to the memory of an event or episode."
+  },
+  {
+    "index": 386,
+    "start": 1893.22,
+    "end": 1899.94,
+    "text": "Episodic memories allow us to mentally travel back in time to an event from the past."
+  },
+  {
+    "index": 387,
+    "start": 1901.18,
+    "end": 1905.9,
+    "text": "Episodic memories include various details about these events."
+  },
+  {
+    "index": 388,
+    "start": 1905.9,
+    "end": 1914.16,
+    "text": "For example, when an event happened and other information such as the location."
+  },
+  {
+    "index": 389,
+    "start": 1916.04,
+    "end": 1922.84,
+    "text": "To help understand this concept, try to remember the last time you ate dinner at a restaurant."
+  },
+  {
+    "index": 390,
+    "start": 1924.2,
+    "end": 1934.4,
+    "text": "The ability to remember where you ate, who you were with and the items you ordered are all features of an episodic memory."
+  },
+  {
+    "index": 391,
+    "start": 1936.08,
+    "end": 1942.94,
+    "text": "Episodic memory is distinct from another type of memory called semantic memory."
+  },
+  {
+    "index": 392,
+    "start": 1944.22,
+    "end": 1949.82,
+    "text": "This is the type of factual memory that we have in common with everyone else."
+  },
+  {
+    "index": 393,
+    "start": 1950.92,
+    "end": 1954.38,
+    "text": "That is your general knowledge of the world."
+  },
+  {
+    "index": 394,
+    "start": 1956.1,
+    "end": 1964.42,
+    "text": "To build upon a previous example, remembering where you parked your car is an example of episodic memory."
+  },
+  {
+    "index": 395,
+    "start": 1965.4,
+    "end": 1975.2,
+    "text": "But your understanding of what a car is and how an engine works are examples of semantic memory."
+  },
+  {
+    "index": 396,
+    "start": 1976.42,
+    "end": 1984.98,
+    "text": "Unlike episodic memory, semantic memory isn't dependent on recalling personal experiences."
+  },
+  {
+    "index": 397,
+    "start": 1987.14,
+    "end": 2001.06,
+    "text": "Episodic memory can be thought of as a process with several different steps of memory processing, encoding, consolidation and retrieval."
+  },
+  {
+    "index": 398,
+    "start": 2002.62,
+    "end": 2005.52,
+    "text": "The initial step is called encoding."
+  },
+  {
+    "index": 399,
+    "start": 2007.04,
+    "end": 2019.08,
+    "text": "This involves the process of receiving and registering information which is necessary for creating memories of information or events that you experience."
+  },
+  {
+    "index": 400,
+    "start": 2020.54,
+    "end": 2032.34,
+    "text": "The degree to which you can successfully encode information depends on the level of attention you give to an event while it's actually happening."
+  },
+  {
+    "index": 401,
+    "start": 2033.66,
+    "end": 2038.7,
+    "text": "Being distracted can make effective encoding very difficult."
+  },
+  {
+    "index": 402,
+    "start": 2040.18,
+    "end": 2047.48,
+    "text": "Encoding of episodic memories is also influenced by how you process the event."
+  },
+  {
+    "index": 403,
+    "start": 2048.62,
+    "end": 2058.9,
+    "text": "If you were introduced to someone called Charlie, you might make the connection that your uncle has the same name."
+  },
+  {
+    "index": 404,
+    "start": 2060.12,
+    "end": 2068.4,
+    "text": "Future recollection of Charlie's name is much easier if you have a strategy to help you encode it."
+  },
+  {
+    "index": 405,
+    "start": 2070.6,
+    "end": 2087.9,
+    "text": "Memory consolidation, the next step in forming an episodic memory, is the process by which memories of encoded information are strengthened, stabilized and stored to facilitate later retrieval."
+  },
+  {
+    "index": 406,
+    "start": 2089.48,
+    "end": 2100.26,
+    "text": "Consolidation is most effective when the information being stored can be linked to an existing network of information."
+  },
+  {
+    "index": 407,
+    "start": 2102.0,
+    "end": 2108.92,
+    "text": "Consolidation makes it possible for you to store memories for later retrieval indefinitely."
+  },
+  {
+    "index": 408,
+    "start": 2110.42,
+    "end": 2118.24,
+    "text": "Forming strong memories depends on the frequency with which you try to retrieve them."
+  },
+  {
+    "index": 409,
+    "start": 2119.18,
+    "end": 2125.58,
+    "text": "Memories can fade or become harder to retrieve if they aren't used very often."
+  },
+  {
+    "index": 410,
+    "start": 2127.48,
+    "end": 2138.36,
+    "text": "The last step in forming episodic memories is called retrieval, which is the conscious recollection of encoded information."
+  },
+  {
+    "index": 411,
+    "start": 2139.56,
+    "end": 2150.8,
+    "text": "Retrieving information from episodic memory depends upon semantic, all-factory, auditory and visual factors."
+  },
+  {
+    "index": 412,
+    "start": 2152.32,
+    "end": 2158.04,
+    "text": "These help episodic memory retrieval by acting as a prompt."
+  },
+  {
+    "index": 413,
+    "start": 2159.18,
+    "end": 2169.2,
+    "text": "For example, when recalling where you parked your car, you may use the colour of a sign close to where you parked."
+  },
+  {
+    "index": 414,
+    "start": 2170.42,
+    "end": 2175.46,
+    "text": "You actually have to mentally travel back to the moment you parked."
+  },
+  {
+    "index": 415,
+    "start": 2177.34,
+    "end": 2186.0,
+    "text": "There are a wide range of neurological diseases and conditions that can affect episodic memory."
+  },
+  {
+    "index": 416,
+    "start": 2187.18,
+    "end": 2192.94,
+    "text": "These range from Alzheimer's to schizophrenia to autism."
+  },
+  {
+    "index": 417,
+    "start": 2194.6,
+    "end": 2202.32,
+    "text": "An impairment of episodic memory can have a profound effect on individuals' lives."
+  },
+  {
+    "index": 418,
+    "start": 2203.46,
+    "end": 2211.92,
+    "text": "For example, the symptoms of schizophrenia can be reasonably well controlled by medication."
+  },
+  {
+    "index": 419,
+    "start": 2213.06,
+    "end": 2223.76,
+    "text": "However, patients' episodic memory may still be impaired and so they are often unable to return to university or work."
+  },
+  {
+    "index": 420,
+    "start": 2225.24,
+    "end": 2236.02,
+    "text": "Recent studies have shown that computer assisted games designed to keep the brain active can help improve their episodic memory."
+  },
+  {
+    "index": 421,
+    "start": 2238.28,
+    "end": 2248.4,
+    "text": "Episodic memories can help people connect with others, for instance by sharing intimate details about their past."
+  },
+  {
+    "index": 422,
+    "start": 2249.34,
+    "end": 2254.16,
+    "text": "Something individuals with autism often have problems with."
+  },
+  {
+    "index": 423,
+    "start": 2255.38,
+    "end": 2260.42,
+    "text": "This may be caused by an absence of a sense of self."
+  },
+  {
+    "index": 424,
+    "start": 2262.18,
+    "end": 2271.66,
+    "text": "This is essential for the storage of episodic memory and has been found to be impaired in children with autism."
+  },
+  {
+    "index": 425,
+    "start": 2273.36,
+    "end": 2283.68,
+    "text": "Research has shown that treatments that improve memory may also have a positive impact on children's social development."
+  },
+  {
+    "index": 426,
+    "start": 2285.58,
+    "end": 2286.24,
+    "text": "One study."
+  },
+  {
+    "index": 427,
+    "start": 2290.42,
+    "end": 2292.0,
+    "text": "Hello, Linda speaking."
+  },
+  {
+    "index": 428,
+    "start": 2293.1,
+    "end": 2294.18,
+    "text": "Oh, hi, Linda."
+  },
+  {
+    "index": 429,
+    "start": 2294.48,
+    "end": 2295.86,
+    "text": "This is Matt Brooks."
+  },
+  {
+    "index": 430,
+    "start": 2296.52,
+    "end": 2298.4,
+    "text": "Alex White gave me your number."
+  },
+  {
+    "index": 431,
+    "start": 2299.06,
+    "end": 2302.64,
+    "text": "He said you'd be able to give me some advice about moving to Banford."
+  },
+  {
+    "index": 432,
+    "start": 2303.28,
+    "end": 2306.14,
+    "text": "Yes, Alex did mention you."
+  },
+  {
+    "index": 433,
+    "start": 2306.56,
+    "end": 2307.62,
+    "text": "How can I help?"
+  },
+  {
+    "index": 434,
+    "start": 2308.52,
+    "end": 2312.18,
+    "text": "Well, first of all, which area to live in?"
+  },
+  {
+    "index": 435,
+    "start": 2313.06,
+    "end": 2323.08,
+    "text": "Well, I live in Dalton, which is a really nice suburb, not too expensive and there's a nice park."
+  },
+  {
+    "index": 436,
+    "start": 2324.3,
+    "end": 2324.84,
+    "text": "Sounds good."
+  },
+  {
+    "index": 437,
+    "start": 2325.4,
+    "end": 2329.28,
+    "text": "Do you know how much it would be to rent a two bedroom flat there?"
+  },
+  {
+    "index": 438,
+    "start": 2330.16,
+    "end": 2337.44,
+    "text": "Yeah, you should be able to get something reasonable for £850 per month."
+  },
+  {
+    "index": 439,
+    "start": 2337.9,
+    "end": 2340.7,
+    "text": "That's what people typically pay."
+  },
+  {
+    "index": 440,
+    "start": 2341.78,
+    "end": 2345.62,
+    "text": "You certainly wouldn't want to pay more than £900."
+  },
+  {
+    "index": 441,
+    "start": 2346.4,
+    "end": 2349.4,
+    "text": "That doesn't include bills or anything."
+  },
+  {
+    "index": 442,
+    "start": 2350.44,
+    "end": 2351.62,
+    "text": "No, that sounds alright."
+  },
+  {
+    "index": 443,
+    "start": 2352.12,
+    "end": 2354.12,
+    "text": "I'll definitely have a look there."
+  },
+  {
+    "index": 444,
+    "start": 2354.66,
+    "end": 2358.18,
+    "text": "Are the transport links easy from where you live?"
+  },
+  {
+    "index": 445,
+    "start": 2358.68,
+    "end": 2360.64,
+    "text": "Well, I'm very lucky."
+  },
+  {
+    "index": 446,
+    "start": 2361.04,
+    "end": 2366.64,
+    "text": "I work in the city centre so I don't have to use public transport."
+  },
+  {
+    "index": 447,
+    "start": 2367.12,
+    "end": 2368.88,
+    "text": "I go by bike."
+  },
+  {
+    "index": 448,
+    "start": 2369.82,
+    "end": 2371.62,
+    "text": "Oh, I wish I could do that."
+  },
+  {
+    "index": 449,
+    "start": 2371.94,
+    "end": 2374.36,
+    "text": "Is it safe to cycle around the city?"
+  },
+  {
+    "index": 450,
+    "start": 2374.74,
+    "end": 2376.52,
+    "text": "Yes, it's fine."
+  },
+  {
+    "index": 451,
+    "start": 2377.06,
+    "end": 2378.94,
+    "text": "And it keeps me fit."
+  },
+  {
+    "index": 452,
+    "start": 2380.28,
+    "end": 2389.12,
+    "text": "Anyway, driving to work in the city centre would be a nightmare because there's hardly any parking."
+  },
+  {
+    "index": 453,
+    "start": 2390.34,
+    "end": 2393.96,
+    "text": "And the traffic during the rush hour can be bad."
+  },
+  {
+    "index": 454,
+    "start": 2394.74,
+    "end": 2399.8,
+    "text": "I'd be working from home, but I'd have to go to London one or two days a week."
+  },
+  {
+    "index": 455,
+    "start": 2400.58,
+    "end": 2402.34,
+    "text": "Oh, that's perfect."
+  },
+  {
+    "index": 456,
+    "start": 2402.88,
+    "end": 2406.16,
+    "text": "Getting to London is no problem."
+  },
+  {
+    "index": 457,
+    "start": 2407.22,
+    "end": 2413.36,
+    "text": "There's a fast train every 30 minutes, which only takes 45 minutes."
+  },
+  {
+    "index": 458,
+    "start": 2414.44,
+    "end": 2414.9,
+    "text": "That's good."
+  },
+  {
+    "index": 459,
+    "start": 2415.62,
+    "end": 2423.18,
+    "text": "Yeah, the train service isn't bad during the week and they run quite late at night."
+  },
+  {
+    "index": 460,
+    "start": 2424.2,
+    "end": 2427.38,
+    "text": "It's weekends that are a problem."
+  },
+  {
+    "index": 461,
+    "start": 2427.94,
+    "end": 2438.92,
+    "text": "They're always doing engineering work and you have to take a bus to had them and pick up the train there, which is really slow."
+  },
+  {
+    "index": 462,
+    "start": 2440.24,
+    "end": 2445.12,
+    "text": "But other than that, Banford's a great place to live."
+  },
+  {
+    "index": 463,
+    "start": 2445.58,
+    "end": 2447.2,
+    "text": "I've never been happier."
+  },
+  {
+    "index": 464,
+    "start": 2448.58,
+    "end": 2457.86,
+    "text": "There are some nice restaurants in the city centre and a brand new cinema, which has only been open a couple of months."
+  },
+  {
+    "index": 465,
+    "start": 2459.0,
+    "end": 2461.02,
+    "text": "There's a good art centre too."
+  },
+  {
+    "index": 466,
+    "start": 2461.54,
+    "end": 2463.5,
+    "text": "Sounds like Banford's got it all."
+  },
+  {
+    "index": 467,
+    "start": 2463.74,
+    "end": 2466.08,
+    "text": "Yes, we're really lucky."
+  },
+  {
+    "index": 468,
+    "start": 2466.46,
+    "end": 2470.48,
+    "text": "There are lots of really good aspects to living here."
+  },
+  {
+    "index": 469,
+    "start": 2471.44,
+    "end": 2477.5,
+    "text": "The schools are good and the hospital here is one of the best in the country."
+  },
+  {
+    "index": 470,
+    "start": 2478.98,
+    "end": 2483.46,
+    "text": "Everyone I know who's been there's had a positive experience."
+  },
+  {
+    "index": 471,
+    "start": 2484.5,
+    "end": 2492.5,
+    "text": "Oh, I can give you the name of my dentist too in Bridge Street, if you're interested."
+  },
+  {
+    "index": 472,
+    "start": 2493.78,
+    "end": 2498.54,
+    "text": "I've been going to him for years and I've never had any problems."
+  },
+  {
+    "index": 473,
+    "start": 2499.48,
+    "end": 2501.4,
+    "text": "Oh, okay, thanks."
+  },
+  {
+    "index": 474,
+    "start": 2502.04,
+    "end": 2505.22,
+    "text": "I'll find his number and send it to you."
+  },
+  {
+    "index": 475,
+    "start": 2506.14,
+    "end": 2508.44,
+    "text": "Thanks, that would be really helpful."
+  },
+  {
+    "index": 476,
+    "start": 2509.48,
+    "end": 2512.1,
+    "text": "Are you planning to visit Banford soon?"
+  },
+  {
+    "index": 477,
+    "start": 2513.02,
+    "end": 2516.14,
+    "text": "Yes, my wife and I are both coming next week."
+  },
+  {
+    "index": 478,
+    "start": 2517.16,
+    "end": 2519.78,
+    "text": "We want to make some appointments with the state agents."
+  },
+  {
+    "index": 479,
+    "start": 2520.5,
+    "end": 2523.66,
+    "text": "I could meet you if you like and show you around."
+  },
+  {
+    "index": 480,
+    "start": 2524.82,
+    "end": 2525.38,
+    "text": "Are you sure?"
+  },
+  {
+    "index": 481,
+    "start": 2525.7,
+    "end": 2527.72,
+    "text": "We'd really appreciate that."
+  },
+  {
+    "index": 482,
+    "start": 2528.64,
+    "end": 2534.88,
+    "text": "Either Tuesday or Thursday is good for me after 5.30."
+  },
+  {
+    "index": 483,
+    "start": 2536.04,
+    "end": 2537.42,
+    "text": "Thursday is preferable."
+  },
+  {
+    "index": 484,
+    "start": 2538.12,
+    "end": 2541.32,
+    "text": "Tuesday I need to get home before 6pm."
+  },
+  {
+    "index": 485,
+    "start": 2542.12,
+    "end": 2544.02,
+    "text": "Okay, great."
+  },
+  {
+    "index": 486,
+    "start": 2545.44,
+    "end": 2551.96,
+    "text": "Let me know which train you're catching and I'll meet you in the cafe outside."
+  },
+  {
+    "index": 487,
+    "start": 2553.18,
+    "end": 2554.36,
+    "text": "You can't miss it."
+  },
+  {
+    "index": 488,
+    "start": 2554.94,
+    "end": 2558.9,
+    "text": "It's opposite the station and next to the museum."
+  },
+  {
+    "index": 489,
+    "start": 2559.9,
+    "end": 2560.34,
+    "text": "Brilliant."
+  },
+  {
+    "index": 490,
+    "start": 2560.88,
+    "end": 2563.68,
+    "text": "I'll text you next week then."
+  },
+  {
+    "index": 491,
+    "start": 2564.52,
+    "end": 2566.6,
+    "text": "Thanks so much for all the advice."
+  },
+  {
+    "index": 492,
+    "start": 2567.34,
+    "end": 2568.18,
+    "text": "No problem."
+  },
+  {
+    "index": 493,
+    "start": 2568.8,
+    "end": 2570.3,
+    "text": "I'll see you next week."
+  },
+  {
+    "index": 494,
+    "start": 2572.44,
+    "end": 2583.02,
+    "text": "So, if you're one of those people who hasn't found the perfect physical activity yet, here are some things to think about which might help you make the right decision for you."
+  },
+  {
+    "index": 495,
+    "start": 2584.62,
+    "end": 2589.38,
+    "text": "The first question to ask yourself is whether you would enjoy training in a gym."
+  },
+  {
+    "index": 496,
+    "start": 2590.72,
+    "end": 2596.16,
+    "text": "Many people are put off by the idea of having to fit a visit to the gym into their busy day."
+  },
+  {
+    "index": 497,
+    "start": 2596.94,
+    "end": 2602.08,
+    "text": "You often have to go very early or late as some gyms can get very crowded."
+  },
+  {
+    "index": 498,
+    "start": 2603.28,
+    "end": 2608.24,
+    "text": "But with regular training, you'll see a big difference in a relatively short space of time."
+  },
+  {
+    "index": 499,
+    "start": 2610.04,
+    "end": 2613.3,
+    "text": "Running has become incredibly popular in recent years."
+  },
+  {
+    "index": 500,
+    "start": 2614.02,
+    "end": 2619.1,
+    "text": "That's probably got a lot to do with the fact that it's a very accessible form of exercise."
+  },
+  {
+    "index": 501,
+    "start": 2619.1,
+    "end": 2624.36,
+    "text": "Anyone can run, even if you can only run a few meters to begin with."
+  },
+  {
+    "index": 502,
+    "start": 2625.34,
+    "end": 2627.26,
+    "text": "But make sure you get the right shoes."
+  },
+  {
+    "index": 503,
+    "start": 2628.22,
+    "end": 2632.14,
+    "text": "It's worth investing in a high quality pair and they don't come cheap."
+  },
+  {
+    "index": 504,
+    "start": 2633.72,
+    "end": 2638.46,
+    "text": "Another great thing about running is that you can do it at any time of day or night."
+  },
+  {
+    "index": 505,
+    "start": 2639.16,
+    "end": 2642.18,
+    "text": "The only thing that may stop you is snow and ice."
+  },
+  {
+    "index": 506,
+    "start": 2644.16,
+    "end": 2647.12,
+    "text": "Swimming is another really good way to build fitness."
+  },
+  {
+    "index": 507,
+    "start": 2648.2,
+    "end": 2653.84,
+    "text": "What attracts many people is that you can swim in an indoor pool at any time of year."
+  },
+  {
+    "index": 508,
+    "start": 2654.94,
+    "end": 2658.1,
+    "text": "On the other hand, it can be quite boring or solitary."
+  },
+  {
+    "index": 509,
+    "start": 2658.82,
+    "end": 2661.48,
+    "text": "It's hard to chat to people while you're swimming lengths."
+  },
+  {
+    "index": 510,
+    "start": 2663.12,
+    "end": 2666.8,
+    "text": "Cycling has become almost as popular as running in recent years."
+  },
+  {
+    "index": 511,
+    "start": 2667.58,
+    "end": 2676.68,
+    "text": "That's probably because as well as improving their fitness, many people say being out in the fresh air in a park or in the countryside can be fun."
+  },
+  {
+    "index": 512,
+    "start": 2677.34,
+    "end": 2682.46,
+    "text": "Provided the conditions are right, of course, only fanatics go out in the wind and rain."
+  },
+  {
+    "index": 513,
+    "start": 2684.26,
+    "end": 2691.98,
+    "text": "Yoga is a good choice for those of you looking for exercise which focuses on developing both a healthy mind and body."
+  },
+  {
+    "index": 514,
+    "start": 2693.2,
+    "end": 2701.3,
+    "text": "It's a good way of building strength and with the right instructor there's less chance of hurting yourself than with other more active sports."
+  },
+  {
+    "index": 515,
+    "start": 2702.52,
+    "end": 2704.48,
+    "text": "But don't expect to find it easy."
+  },
+  {
+    "index": 516,
+    "start": 2705.16,
+    "end": 2709.68,
+    "text": "It can be surprisingly challenging, especially for people who aren't very flexible."
+  },
+  {
+    "index": 517,
+    "start": 2711.72,
+    "end": 2715.74,
+    "text": "Getting a personal trainer is a good way to start your fitness program."
+  },
+  {
+    "index": 518,
+    "start": 2716.58,
+    "end": 2719.34,
+    "text": "Obviously there can be significant costs involved."
+  },
+  {
+    "index": 519,
+    "start": 2720.08,
+    "end": 2726.66,
+    "text": "But if you've got someone there to encourage you and help you achieve your goals, you're less likely to give up."
+  },
+  {
+    "index": 520,
+    "start": 2727.9,
+    "end": 2733.98,
+    "text": "Make sure you get someone with a recognized qualification though, or you could do yourself permanent damage."
+  },
+  {
+    "index": 521,
+    "start": 2735.24,
+    "end": 2740.4,
+    "text": "Whatever you do, don't join a gym unless you're sure you'll make good use of it."
+  },
+  {
+    "index": 522,
+    "start": 2741.26,
+    "end": 2746.9,
+    "text": "So many people waste lots of money by signing up for membership and then hardly ever go."
+  },
+  {
+    "index": 523,
+    "start": 2748.04,
+    "end": 2749.84,
+    "text": "What happens to their good intentions?"
+  },
+  {
+    "index": 524,
+    "start": 2751.12,
+    "end": 2758.24,
+    "text": "I don't think people suddenly stop caring about improving their fitness or decide they have more important things to do."
+  },
+  {
+    "index": 525,
+    "start": 2759.14,
+    "end": 2764.18,
+    "text": "I think people lose interest when they don't think they're making enough progress."
+  },
+  {
+    "index": 526,
+    "start": 2765.3,
+    "end": 2770.22,
+    "text": "That's when they give up hope and stop believing they'll ever achieve their goals."
+  },
+  {
+    "index": 527,
+    "start": 2771.74,
+    "end": 2786.04,
+    "text": "Also, what people sometimes don't realise when they start is that it takes a lot of determination and hard work to keep training week after week and lots of people don't have that kind of commitment."
+  },
+  {
+    "index": 528,
+    "start": 2787.94,
+    "end": 2796.06,
+    "text": "One thing you can do to help yourself is to set manageable goals, be realistic and don't push yourself too far."
+  },
+  {
+    "index": 529,
+    "start": 2797.68,
+    "end": 2803.16,
+    "text": "Some people advise writing goals down, but I think it's better to have a flexible approach."
+  },
+  {
+    "index": 530,
+    "start": 2804.06,
+    "end": 2808.24,
+    "text": "Give yourself a really nice treat every time you reach one of your goals."
+  },
+  {
+    "index": 531,
+    "start": 2809.24,
+    "end": 2812.54,
+    "text": "And don't get too upset if you experience setbacks."
+  },
+  {
+    "index": 532,
+    "start": 2813.04,
+    "end": 2814.22,
+    "text": "It's a journey."
+  },
+  {
+    "index": 533,
+    "start": 2814.66,
+    "end": 2817.16,
+    "text": "There are bound to be difficulties along the way."
+  },
+  {
+    "index": 534,
+    "start": 2819.0,
+    "end": 2823.66,
+    "text": "Okay, Jim, you wanted to see me about your textile design project."
+  },
+  {
+    "index": 535,
+    "start": 2823.78,
+    "end": 2824.4,
+    "text": "That's right."
+  },
+  {
+    "index": 536,
+    "start": 2824.92,
+    "end": 2830.84,
+    "text": "I've been looking at how a range of natural dyes can be used to colour fabrics like cotton and wool."
+  },
+  {
+    "index": 537,
+    "start": 2831.52,
+    "end": 2832.98,
+    "text": "Why did you choose that topic?"
+  },
+  {
+    "index": 538,
+    "start": 2833.44,
+    "end": 2838.6,
+    "text": "Well, I got a lot of useful ideas from the museum, you know, at that exhibition of textiles."
+  },
+  {
+    "index": 539,
+    "start": 2839.48,
+    "end": 2842.22,
+    "text": "But I've always been interested in anything to do with colour."
+  },
+  {
+    "index": 540,
+    "start": 2843.04,
+    "end": 2847.26,
+    "text": "Years ago, I went to a carpet shop with my parents when we were on holiday in Turkey."
+  },
+  {
+    "index": 541,
+    "start": 2847.98,
+    "end": 2849.78,
+    "text": "And I remember all the amazing colours."
+  },
+  {
+    "index": 542,
+    "start": 2850.36,
+    "end": 2852.94,
+    "text": "They might not all have been natural dyes."
+  },
+  {
+    "index": 543,
+    "start": 2853.24,
+    "end": 2853.78,
+    "text": "Maybe not."
+  },
+  {
+    "index": 544,
+    "start": 2854.2,
+    "end": 2856.8,
+    "text": "But for the projects, I decided to follow it up."
+  },
+  {
+    "index": 545,
+    "start": 2857.56,
+    "end": 2864.1,
+    "text": "And I found a great book about a botanic garden in California that specialises in plants used for dyes."
+  },
+  {
+    "index": 546,
+    "start": 2864.54,
+    "end": 2864.76,
+    "text": "Okay."
+  },
+  {
+    "index": 547,
+    "start": 2865.24,
+    "end": 2869.52,
+    "text": "So in your project, you had to include a practical investigation."
+  },
+  {
+    "index": 548,
+    "start": 2869.52,
+    "end": 2870.22,
+    "text": "Yeah."
+  },
+  {
+    "index": 549,
+    "start": 2870.54,
+    "end": 2872.84,
+    "text": "At first I couldn't decide on my variables."
+  },
+  {
+    "index": 550,
+    "start": 2873.38,
+    "end": 2878.1,
+    "text": "I was going to just look at one type of fiber, for example, like cotton."
+  },
+  {
+    "index": 551,
+    "start": 2878.36,
+    "end": 2881.06,
+    "text": "And see how different types of dyes affected it?"
+  },
+  {
+    "index": 552,
+    "start": 2881.06,
+    "end": 2881.5,
+    "text": "Yes."
+  },
+  {
+    "index": 553,
+    "start": 2882.14,
+    "end": 2884.18,
+    "text": "Then I decided to include others as well."
+  },
+  {
+    "index": 554,
+    "start": 2884.64,
+    "end": 2887.78,
+    "text": "So I looked at cotton and wool and nylon."
+  },
+  {
+    "index": 555,
+    "start": 2888.24,
+    "end": 2889.72,
+    "text": "With just one type of dye?"
+  },
+  {
+    "index": 556,
+    "start": 2889.72,
+    "end": 2893.64,
+    "text": "Various types, including some that weren't natural for comparison."
+  },
+  {
+    "index": 557,
+    "start": 2893.9,
+    "end": 2894.22,
+    "text": "Okay."
+  },
+  {
+    "index": 558,
+    "start": 2894.58,
+    "end": 2896.96,
+    "text": "So I did the experiments last week."
+  },
+  {
+    "index": 559,
+    "start": 2896.96,
+    "end": 2900.22,
+    "text": "I used some ready-made natural dyes."
+  },
+  {
+    "index": 560,
+    "start": 2900.36,
+    "end": 2902.44,
+    "text": "I found a website which supplied them."
+  },
+  {
+    "index": 561,
+    "start": 2903.1,
+    "end": 2906.68,
+    "text": "They came in just a few days, but I also made some of my own."
+  },
+  {
+    "index": 562,
+    "start": 2906.96,
+    "end": 2908.82,
+    "text": "That must have taken quite a bit of time."
+  },
+  {
+    "index": 563,
+    "start": 2908.82,
+    "end": 2909.32,
+    "text": "Yes."
+  },
+  {
+    "index": 564,
+    "start": 2909.98,
+    "end": 2913.38,
+    "text": "I thought it'd just be a matter of a teaspoon or so of dye."
+  },
+  {
+    "index": 565,
+    "start": 2913.72,
+    "end": 2915.84,
+    "text": "And actually that wasn't the case at all."
+  },
+  {
+    "index": 566,
+    "start": 2915.84,
+    "end": 2922.3,
+    "text": "Like I was using one vegetable, a beetroot for a red dye, and I had to chop up a whole pile of it."
+  },
+  {
+    "index": 567,
+    "start": 2922.94,
+    "end": 2924.76,
+    "text": "So it all took longer than I'd expected."
+  },
+  {
+    "index": 568,
+    "start": 2925.58,
+    "end": 2928.2,
+    "text": "One possibility is to use food colourings."
+  },
+  {
+    "index": 569,
+    "start": 2928.24,
+    "end": 2929.14,
+    "text": "I did use one."
+  },
+  {
+    "index": 570,
+    "start": 2929.64,
+    "end": 2931.88,
+    "text": "That was a yellow dye, an artificial one."
+  },
+  {
+    "index": 571,
+    "start": 2932.36,
+    "end": 2933.0,
+    "text": "Tatrazine?"
+  },
+  {
+    "index": 572,
+    "start": 2933.82,
+    "end": 2934.04,
+    "text": "Yeah."
+  },
+  {
+    "index": 573,
+    "start": 2934.44,
+    "end": 2935.8,
+    "text": "I used it on cotton first."
+  },
+  {
+    "index": 574,
+    "start": 2936.2,
+    "end": 2937.58,
+    "text": "It came out a great colour."
+  },
+  {
+    "index": 575,
+    "start": 2938.06,
+    "end": 2940.48,
+    "text": "But when I rinsed the material, the colour just washed away."
+  },
+  {
+    "index": 576,
+    "start": 2940.5,
+    "end": 2944.52,
+    "text": "I'd been going to try it out on nylon, but I abandoned that idea."
+  },
+  {
+    "index": 577,
+    "start": 2945.16,
+    "end": 2947.12,
+    "text": "Were you worried about health issues?"
+  },
+  {
+    "index": 578,
+    "start": 2947.12,
+    "end": 2950.64,
+    "text": "I thought if it's a legal food colouring, it must be safe."
+  },
+  {
+    "index": 579,
+    "start": 2951.2,
+    "end": 2954.52,
+    "text": "Well, it can occasionally cause allergic reactions, I believe."
+  },
+  {
+    "index": 580,
+    "start": 2955.48,
+    "end": 2957.48,
+    "text": "So what natural dyes did you look at?"
+  },
+  {
+    "index": 581,
+    "start": 2958.12,
+    "end": 2959.64,
+    "text": "Well, warm was turmeric."
+  },
+  {
+    "index": 582,
+    "start": 2960.1,
+    "end": 2961.0,
+    "text": "The colour's great."
+  },
+  {
+    "index": 583,
+    "start": 2961.4,
+    "end": 2962.84,
+    "text": "It's a really strong yellow."
+  },
+  {
+    "index": 584,
+    "start": 2963.64,
+    "end": 2965.82,
+    "text": "It's generally used in dishes like curry."
+  },
+  {
+    "index": 585,
+    "start": 2966.6,
+    "end": 2968.78,
+    "text": "It's meant to be quite good for your health when eaten."
+  },
+  {
+    "index": 586,
+    "start": 2969.4,
+    "end": 2972.32,
+    "text": "But you might find it's not permanent when it's used as a dye."
+  },
+  {
+    "index": 587,
+    "start": 2972.62,
+    "end": 2974.06,
+    "text": "A few washes and it's gone."
+  },
+  {
+    "index": 588,
+    "start": 2974.44,
+    "end": 2974.74,
+    "text": "Right."
+  },
+  {
+    "index": 589,
+    "start": 2975.78,
+    "end": 2978.08,
+    "text": "I used beetroot as a dye for wool."
+  },
+  {
+    "index": 590,
+    "start": 2978.54,
+    "end": 2982.14,
+    "text": "When I chop up beetroot to eat, I always end up with bright red hands."
+  },
+  {
+    "index": 591,
+    "start": 2982.14,
+    "end": 2986.64,
+    "text": "But the wool ended up just a sort of watery cream shade, disappointing."
+  },
+  {
+    "index": 592,
+    "start": 2987.18,
+    "end": 2990.36,
+    "text": "There's a natural dye called Tyrion Purple, have you heard of that?"
+  },
+  {
+    "index": 593,
+    "start": 2990.76,
+    "end": 2991.0,
+    "text": "Yes."
+  },
+  {
+    "index": 594,
+    "start": 2991.54,
+    "end": 2994.98,
+    "text": "It comes from a shellfish, and it was worn in ancient times."
+  },
+  {
+    "index": 595,
+    "start": 2994.98,
+    "end": 2998.16,
+    "text": "But only by important people, as it was so rare."
+  },
+  {
+    "index": 596,
+    "start": 2998.6,
+    "end": 2999.74,
+    "text": "I didn't use it."
+  },
+  {
+    "index": 597,
+    "start": 2999.96,
+    "end": 3004.7,
+    "text": "It fell out of use centuries ago, though one researcher managed to get hold of some recently."
+  },
+  {
+    "index": 598,
+    "start": 3005.42,
+    "end": 3008.62,
+    "text": "But that shade of purple can be produced by chemical dyes nowadays."
+  },
+  {
+    "index": 599,
+    "start": 3009.28,
+    "end": 3010.84,
+    "text": "Did you use any black dyes?"
+  },
+  {
+    "index": 600,
+    "start": 3011.18,
+    "end": 3011.72,
+    "text": "Log wood."
+  },
+  {
+    "index": 601,
+    "start": 3012.06,
+    "end": 3013.52,
+    "text": "That was quite complicated."
+  },
+  {
+    "index": 602,
+    "start": 3014.26,
+    "end": 3016.52,
+    "text": "I had to prepare the fabrics so the dye would take."
+  },
+  {
+    "index": 603,
+    "start": 3016.82,
+    "end": 3018.28,
+    "text": "I hope you were careful to wear gloves."
+  },
+  {
+    "index": 604,
+    "start": 3018.54,
+    "end": 3020.42,
+    "text": "Yes, I know the danger with that dye."
+  },
+  {
+    "index": 605,
+    "start": 3020.66,
+    "end": 3023.1,
+    "text": "Good, it can be extremely dangerous if it's ingested."
+  },
+  {
+    "index": 606,
+    "start": 3024.0,
+    "end": 3028.52,
+    "text": "Now, presumably you had a look at an insect-based dye like cochineal, for example."
+  },
+  {
+    "index": 607,
+    "start": 3029.06,
+    "end": 3030.9,
+    "text": "Yes, I didn't actually make that."
+  },
+  {
+    "index": 608,
+    "start": 3031.24,
+    "end": 3034.68,
+    "text": "I didn't have time to start crushing up insects to get the red colour."
+  },
+  {
+    "index": 609,
+    "start": 3035.28,
+    "end": 3036.98,
+    "text": "And anyway, they're not available here."
+  },
+  {
+    "index": 610,
+    "start": 3037.6,
+    "end": 3042.22,
+    "text": "But I managed to get the dye quite easily from a website, but it cost a fortune."
+  },
+  {
+    "index": 611,
+    "start": 3042.94,
+    "end": 3046.9,
+    "text": "I can see why it's generally just used in cooking and in small quantities."
+  },
+  {
+    "index": 612,
+    "start": 3047.46,
+    "end": 3051.42,
+    "text": "Yes, it's very effective, but that's precisely why it's not used as a dye."
+  },
+  {
+    "index": 613,
+    "start": 3051.84,
+    "end": 3054.14,
+    "text": "I also read about using metal oxide."
+  },
+  {
+    "index": 614,
+    "start": 3054.96,
+    "end": 3060.3,
+    "text": "Apparently, you can allow ions of rust while it's in contact with the fabric, and that colours it."
+  },
+  {
+    "index": 615,
+    "start": 3060.78,
+    "end": 3062.68,
+    "text": "Yes, that works well for dyeing cotton."
+  },
+  {
+    "index": 616,
+    "start": 3063.28,
+    "end": 3070.4,
+    "text": "But you have to be careful as the metal can actually affect the fabric, and so you can't expect to get a lot of wear out of fabrics treated in this way."
+  },
+  {
+    "index": 617,
+    "start": 3071.16,
+    "end": 3074.46,
+    "text": "And the colours are quite subtle, not everyone likes them."
+  },
+  {
+    "index": 618,
+    "start": 3075.5,
+    "end": 3077.76,
+    "text": "Anyway, it looks as if you've done a lot of work."
+  },
+  {
+    "index": 619,
+    "start": 3079.8,
+    "end": 3084.18,
+    "text": "Last week, we started looking at reptiles, including crocodiles and snakes."
+  },
+  {
+    "index": 620,
+    "start": 3085.16,
+    "end": 3088.86,
+    "text": "Today, I'd like us to have a look at another reptile, the lizard."
+  },
+  {
+    "index": 621,
+    "start": 3089.52,
+    "end": 3097.1,
+    "text": "And in particular, at some studies that have been done on a particular type of lizard, whose Latin name is Taliqua Rugosa."
+  },
+  {
+    "index": 622,
+    "start": 3098.44,
+    "end": 3107.98,
+    "text": "This is commonly known as the sleepy lizard, because it's quite slow in its movements and spends quite a lot of its time dosing under rocks or lying in the sun."
+  },
+  {
+    "index": 623,
+    "start": 3109.82,
+    "end": 3111.52,
+    "text": "I'll start with a general description."
+  },
+  {
+    "index": 624,
+    "start": 3112.92,
+    "end": 3117.24,
+    "text": "Sleepy lizards live in Western and South Australia, where they're quite common."
+  },
+  {
+    "index": 625,
+    "start": 3117.94,
+    "end": 3130.32,
+    "text": "Unlike European lizards, which are mostly small, green and fast moving, sleepy lizards are brown, but what's particularly distinctive about them is the colour of their tongue, which is dark blue."
+  },
+  {
+    "index": 626,
+    "start": 3130.98,
+    "end": 3134.54,
+    "text": "In contrast with the lining of their mouth, which is bright pink."
+  },
+  {
+    "index": 627,
+    "start": 3136.0,
+    "end": 3138.26,
+    "text": "And they're much bigger than most European lizards."
+  },
+  {
+    "index": 628,
+    "start": 3139.38,
+    "end": 3148.06,
+    "text": "They have quite a varied diet, including insects and even small animals, but they mostly eat plants, are very in kinds."
+  },
+  {
+    "index": 629,
+    "start": 3149.7,
+    "end": 3157.62,
+    "text": "Even though they're quite large and powerful, with strong jaws that can crush beetles and snail shells, they still have quite a few predators."
+  },
+  {
+    "index": 630,
+    "start": 3158.98,
+    "end": 3163.02,
+    "text": "Large birds, like cassowaries, were one of the main ones in the past."
+  },
+  {
+    "index": 631,
+    "start": 3163.64,
+    "end": 3167.64,
+    "text": "But nowadays, they're more likely to be caught and killed by snakes."
+  },
+  {
+    "index": 632,
+    "start": 3169.72,
+    "end": 3175.06,
+    "text": "Actually, another threat to their survival isn't a predator at all, but is man-made."
+  },
+  {
+    "index": 633,
+    "start": 3175.94,
+    "end": 3180.86,
+    "text": "Quite a large number of sleepy lizards are killed by cars when they're trying to cross highways."
+  },
+  {
+    "index": 634,
+    "start": 3182.78,
+    "end": 3189.76,
+    "text": "One study carried out by Michael Freak at Flinders University investigated the methods of navigation of these lizards."
+  },
+  {
+    "index": 635,
+    "start": 3190.76,
+    "end": 3194.38,
+    "text": "Though they move slowly, they can travel quite long distances."
+  },
+  {
+    "index": 636,
+    "start": 3195.7,
+    "end": 3204.36,
+    "text": "And he found that even if they were taken some distance away from their home territory, they could usually find their way back home as long as they could see the sky."
+  },
+  {
+    "index": 637,
+    "start": 3205.82,
+    "end": 3208.02,
+    "text": "They didn't need any other landmarks on the ground."
+  },
+  {
+    "index": 638,
+    "start": 3209.66,
+    "end": 3215.06,
+    "text": "The observations of these lizards in the wild have also revealed that their mating habits are quite unusual."
+  },
+  {
+    "index": 639,
+    "start": 3216.5,
+    "end": 3223.36,
+    "text": "Unlike most animals, it seems that they're relatively monogamous, returning to the same partner year after year."
+  },
+  {
+    "index": 640,
+    "start": 3224.7,
+    "end": 3231.56,
+    "text": "And the male and female also stay together for a long time, both before and after the birth of their young."
+  },
+  {
+    "index": 641,
+    "start": 3233.5,
+    "end": 3236.5,
+    "text": "It's interesting to think about the possible reasons for this."
+  },
+  {
+    "index": 642,
+    "start": 3237.14,
+    "end": 3239.8,
+    "text": "It could be that it's to do with protecting their young."
+  },
+  {
+    "index": 643,
+    "start": 3240.74,
+    "end": 3245.36,
+    "text": "You'd expect them to have a much better chance of survival if they have both parents around."
+  },
+  {
+    "index": 644,
+    "start": 3246.58,
+    "end": 3253.96,
+    "text": "But in fact, observers have noted that once the babies have hatched out of their eggs, they have hardly any contact with their parents."
+  },
+  {
+    "index": 645,
+    "start": 3254.68,
+    "end": 3257.36,
+    "text": "So there's not really any evidence to support that idea."
+  },
+  {
+    "index": 646,
+    "start": 3259.2,
+    "end": 3266.84,
+    "text": "Another suggestion is based on the observation that male lizards in monogamous relationships tend to be bigger and stronger than other males."
+  },
+  {
+    "index": 647,
+    "start": 3268.28,
+    "end": 3273.7,
+    "text": "So maybe the male lizards stay around so they can give the female lizards protection from other males."
+  },
+  {
+    "index": 648,
+    "start": 3274.76,
+    "end": 3276.4,
+    "text": "But again, we're not really sure."
+  },
+  {
+    "index": 649,
+    "start": 3279.1,
+    "end": 3284.32,
+    "text": "Finally, I'd like to mention another study that involved collecting data by tracking the lizards."
+  },
+  {
+    "index": 650,
+    "start": 3285.2,
+    "end": 3287.08,
+    "text": "I was actually involved in this myself."
+  },
+  {
+    "index": 651,
+    "start": 3288.1,
+    "end": 3296.52,
+    "text": "So we caught some lizards in the wild, and we developed a tiny GPS system that would allow us to track them, and we fixed this onto their tails."
+  },
+  {
+    "index": 652,
+    "start": 3297.84,
+    "end": 3303.24,
+    "text": "Then we set the lizards free again, and we were able to track them for 12 days and gather data."
+  },
+  {
+    "index": 653,
+    "start": 3303.96,
+    "end": 3309.16,
+    "text": "Not just about their location, but even about how many steps they took during this period."
+  },
+  {
+    "index": 654,
+    "start": 3311.08,
+    "end": 3317.32,
+    "text": "One surprising thing we discovered from this is that there were far fewer meetings between lizards than we expected."
+  },
+  {
+    "index": 655,
+    "start": 3318.24,
+    "end": 3321.24,
+    "text": "It seems that they were actually trying to avoid one another."
+  },
+  {
+    "index": 656,
+    "start": 3322.62,
+    "end": 3323.68,
+    "text": "So why would that be?"
+  },
+  {
+    "index": 657,
+    "start": 3324.82,
+    "end": 3332.76,
+    "text": "Well, again, we have no clear evidence, but one hypothesis is that male lizards can cause quite serious injuries to one another."
+  },
+  {
+    "index": 658,
+    "start": 3333.52,
+    "end": 3339.08,
+    "text": "So maybe this avoidance is a way of preventing this, of self-preservation, if you like."
+  },
+  {
+    "index": 659,
+    "start": 3340.16,
+    "end": 3343.92,
+    "text": "But we need to collect a lot more data before we can be sure of any of this."
+  },
+  {
+    "index": 660,
+    "start": 3345.86,
+    "end": 3346.74,
+    "text": "Hi, Alex."
+  },
+  {
+    "index": 661,
+    "start": 3347.44,
+    "end": 3349.06,
+    "text": "It's Martha Klein's here."
+  },
+  {
+    "index": 662,
+    "start": 3349.52,
+    "end": 3351.36,
+    "text": "James White gave me your number."
+  },
+  {
+    "index": 663,
+    "start": 3351.76,
+    "end": 3353.56,
+    "text": "I hope you don't mind me calling you."
+  },
+  {
+    "index": 664,
+    "start": 3354.12,
+    "end": 3354.92,
+    "text": "Of course not."
+  },
+  {
+    "index": 665,
+    "start": 3355.12,
+    "end": 3356.02,
+    "text": "How are you, Martha?"
+  },
+  {
+    "index": 666,
+    "start": 3356.68,
+    "end": 3357.28,
+    "text": "Good, thanks."
+  },
+  {
+    "index": 667,
+    "start": 3357.66,
+    "end": 3360.56,
+    "text": "I'm ringing because I need a bit of advice."
+  },
+  {
+    "index": 668,
+    "start": 3361.32,
+    "end": 3362.28,
+    "text": "Oh yeah, what about?"
+  },
+  {
+    "index": 669,
+    "start": 3362.78,
+    "end": 3366.14,
+    "text": "The training you did at JPMW a few years ago."
+  },
+  {
+    "index": 670,
+    "start": 3366.32,
+    "end": 3368.46,
+    "text": "I'm applying for the same thing."
+  },
+  {
+    "index": 671,
+    "start": 3368.74,
+    "end": 3371.56,
+    "text": "Oh right, yes, I did mine in 2014."
+  },
+  {
+    "index": 672,
+    "start": 3372.2,
+    "end": 3374.56,
+    "text": "Best thing I ever did, I'm still working there."
+  },
+  {
+    "index": 673,
+    "start": 3374.72,
+    "end": 3375.18,
+    "text": "Really?"
+  },
+  {
+    "index": 674,
+    "start": 3375.54,
+    "end": 3376.9,
+    "text": "What are you doing?"
+  },
+  {
+    "index": 675,
+    "start": 3377.44,
+    "end": 3382.64,
+    "text": "Well, now I work in the customer services department, but I did my initial training in finance."
+  },
+  {
+    "index": 676,
+    "start": 3382.64,
+    "end": 3386.84,
+    "text": "I stayed there for the first two years and then moved to where I am now."
+  },
+  {
+    "index": 677,
+    "start": 3387.18,
+    "end": 3389.48,
+    "text": "That's the same department I'm applying for."
+  },
+  {
+    "index": 678,
+    "start": 3389.92,
+    "end": 3391.34,
+    "text": "Did you enjoy it?"
+  },
+  {
+    "index": 679,
+    "start": 3391.64,
+    "end": 3393.88,
+    "text": "I was pretty nervous to begin with."
+  },
+  {
+    "index": 680,
+    "start": 3394.16,
+    "end": 3398.48,
+    "text": "I didn't do well in my exams at school and I was really worried because I failed maths."
+  },
+  {
+    "index": 681,
+    "start": 3399.06,
+    "end": 3402.46,
+    "text": "But it didn't actually matter because I did lots of courses on the job."
+  },
+  {
+    "index": 682,
+    "start": 3403.0,
+    "end": 3406.0,
+    "text": "Did you get a diploma at the end of your trainee period?"
+  },
+  {
+    "index": 683,
+    "start": 3406.44,
+    "end": 3408.8,
+    "text": "I'm hoping to do the one in business skills."
+  },
+  {
+    "index": 684,
+    "start": 3409.46,
+    "end": 3410.56,
+    "text": "Yes, that sounds good."
+  },
+  {
+    "index": 685,
+    "start": 3411.14,
+    "end": 3414.64,
+    "text": "I took the one on IT skills, but I wish I'd done that one instead."
+  },
+  {
+    "index": 686,
+    "start": 3415.16,
+    "end": 3416.84,
+    "text": "Okay, that's good to know."
+  },
+  {
+    "index": 687,
+    "start": 3417.22,
+    "end": 3419.74,
+    "text": "What about the other trainees?"
+  },
+  {
+    "index": 688,
+    "start": 3420.46,
+    "end": 3421.78,
+    "text": "How did you get on with them?"
+  },
+  {
+    "index": 689,
+    "start": 3422.52,
+    "end": 3427.82,
+    "text": "There were about 20 obviously started at the same time and we were all around the same age."
+  },
+  {
+    "index": 690,
+    "start": 3427.82,
+    "end": 3432.86,
+    "text": "I was 18 and there was only one person younger than me who was 17."
+  },
+  {
+    "index": 691,
+    "start": 3433.24,
+    "end": 3435.8,
+    "text": "The rest were between 18 and 20."
+  },
+  {
+    "index": 692,
+    "start": 3436.24,
+    "end": 3437.38,
+    "text": "I made some good friends."
+  },
+  {
+    "index": 693,
+    "start": 3437.9,
+    "end": 3441.38,
+    "text": "I've had lots of good things about the training at JP and W."
+  },
+  {
+    "index": 694,
+    "start": 3441.66,
+    "end": 3444.82,
+    "text": "It seems like there are a lot of opportunities there."
+  },
+  {
+    "index": 695,
+    "start": 3445.22,
+    "end": 3445.92,
+    "text": "Yeah, definitely."
+  },
+  {
+    "index": 696,
+    "start": 3446.68,
+    "end": 3450.96,
+    "text": "Because of its size, you can work in loads of different areas within the organisation."
+  },
+  {
+    "index": 697,
+    "start": 3451.48,
+    "end": 3452.6,
+    "text": "What about pay?"
+  },
+  {
+    "index": 698,
+    "start": 3453.04,
+    "end": 3456.66,
+    "text": "I know you get a lower minimum wage than regular employees."
+  },
+  {
+    "index": 699,
+    "start": 3457.28,
+    "end": 3458.74,
+    "text": "That's right, which isn't great."
+  },
+  {
+    "index": 700,
+    "start": 3459.26,
+    "end": 3462.02,
+    "text": "But you get the same number of days holidays everyone else."
+  },
+  {
+    "index": 701,
+    "start": 3462.6,
+    "end": 3466.74,
+    "text": "And the pay goes up massively if they offer you a job at the end of the training period."
+  },
+  {
+    "index": 702,
+    "start": 3467.18,
+    "end": 3469.58,
+    "text": "Yeah, but I'm not doing it for the money."
+  },
+  {
+    "index": 703,
+    "start": 3469.94,
+    "end": 3472.74,
+    "text": "It's the experience I think will be really useful."
+  },
+  {
+    "index": 704,
+    "start": 3473.66,
+    "end": 3477.0,
+    "text": "Everyone says by the end of the year you gained so much confidence."
+  },
+  {
+    "index": 705,
+    "start": 3477.76,
+    "end": 3480.32,
+    "text": "You're right, that's the most useful part about it."
+  },
+  {
+    "index": 706,
+    "start": 3480.92,
+    "end": 3482.72,
+    "text": "There's a lot of variety too."
+  },
+  {
+    "index": 707,
+    "start": 3483.18,
+    "end": 3485.04,
+    "text": "You're given lots of different things to do."
+  },
+  {
+    "index": 708,
+    "start": 3485.64,
+    "end": 3486.64,
+    "text": "I enjoyed it all."
+  },
+  {
+    "index": 709,
+    "start": 3486.94,
+    "end": 3488.28,
+    "text": "I didn't even mind the studying."
+  },
+  {
+    "index": 710,
+    "start": 3488.86,
+    "end": 3490.68,
+    "text": "Do you have to spend any time in college?"
+  },
+  {
+    "index": 711,
+    "start": 3491.26,
+    "end": 3492.74,
+    "text": "Yes, one day each month."
+  },
+  {
+    "index": 712,
+    "start": 3493.16,
+    "end": 3496.58,
+    "text": "So you get lots of support from both your tutor and your manager."
+  },
+  {
+    "index": 713,
+    "start": 3497.08,
+    "end": 3498.14,
+    "text": "That's good."
+  },
+  {
+    "index": 714,
+    "start": 3499.14,
+    "end": 3501.72,
+    "text": "And the company is easy to get to, isn't it?"
+  },
+  {
+    "index": 715,
+    "start": 3502.06,
+    "end": 3506.42,
+    "text": "Yes, it's very close to the train station, so the locations are real advantage."
+  },
+  {
+    "index": 716,
+    "start": 3507.36,
+    "end": 3509.36,
+    "text": "Have you got a date for your interview yet?"
+  },
+  {
+    "index": 717,
+    "start": 3509.68,
+    "end": 3512.42,
+    "text": "Yes, it's on the 23rd of this month."
+  },
+  {
+    "index": 718,
+    "start": 3512.96,
+    "end": 3515.78,
+    "text": "So long as you're well prepared, there's nothing to worry about."
+  },
+  {
+    "index": 719,
+    "start": 3516.1,
+    "end": 3517.38,
+    "text": "Everyone's very friendly."
+  },
+  {
+    "index": 720,
+    "start": 3517.98,
+    "end": 3520.22,
+    "text": "I am not sure what I should wear."
+  },
+  {
+    "index": 721,
+    "start": 3520.62,
+    "end": 3521.86,
+    "text": "What do you think?"
+  },
+  {
+    "index": 722,
+    "start": 3522.68,
+    "end": 3525.36,
+    "text": "Nothing too casual, like jeans, for example."
+  },
+  {
+    "index": 723,
+    "start": 3526.2,
+    "end": 3529.72,
+    "text": "If you've got a nice jacket, wear that with a skirt or trousers."
+  },
+  {
+    "index": 724,
+    "start": 3530.22,
+    "end": 3531.26,
+    "text": "Okay, thanks."
+  },
+  {
+    "index": 725,
+    "start": 3531.86,
+    "end": 3533.22,
+    "text": "Any other tips?"
+  },
+  {
+    "index": 726,
+    "start": 3534.0,
+    "end": 3538.18,
+    "text": "Well, I know it's really obvious, but arrive in plenty of time."
+  },
+  {
+    "index": 727,
+    "start": 3538.66,
+    "end": 3539.96,
+    "text": "They hate people who are late."
+  },
+  {
+    "index": 728,
+    "start": 3540.64,
+    "end": 3543.28,
+    "text": "So make sure you know exactly where you have to get to."
+  },
+  {
+    "index": 729,
+    "start": 3543.96,
+    "end": 3550.04,
+    "text": "And one other useful piece of advice my manager told me before I had the interview for this job is to smile."
+  },
+  {
+    "index": 730,
+    "start": 3550.84,
+    "end": 3554.58,
+    "text": "Even if you feel terrified, it makes people respond better to you."
+  },
+  {
+    "index": 731,
+    "start": 3554.7,
+    "end": 3557.52,
+    "text": "I'll have to practice doing that in the mirror."
+  },
+  {
+    "index": 732,
+    "start": 3558.46,
+    "end": 3559.74,
+    "text": "Yeah, well, good luck."
+  },
+  {
+    "index": 733,
+    "start": 3560.22,
+    "end": 3562.14,
+    "text": "Let me know if you need any more information."
+  },
+  {
+    "index": 734,
+    "start": 3562.58,
+    "end": 3563.44,
+    "text": "Thanks very much."
+  },
+  {
+    "index": 735,
+    "start": 3565.96,
+    "end": 3566.8,
+    "text": "Hi, everyone."
+  },
+  {
+    "index": 736,
+    "start": 3567.22,
+    "end": 3568.84,
+    "text": "Welcome to the Snow Center."
+  },
+  {
+    "index": 737,
+    "start": 3569.48,
+    "end": 3570.52,
+    "text": "My name's Annie."
+  },
+  {
+    "index": 738,
+    "start": 3571.2,
+    "end": 3573.52,
+    "text": "I hope you enjoyed the bus trip from the airport."
+  },
+  {
+    "index": 739,
+    "start": 3574.12,
+    "end": 3576.4,
+    "text": "We've certainly got plenty of snow today."
+  },
+  {
+    "index": 740,
+    "start": 3577.4,
+    "end": 3584.6,
+    "text": "Well, you've come to New Zealand's premier snow and ski center, and we've a whole load of activities for you during your week here."
+  },
+  {
+    "index": 741,
+    "start": 3585.76,
+    "end": 3594.28,
+    "text": "Most visitors come here for the cross-country skiing, where you're on fairly flat ground for most of the time, rather than going down steep mountain sides."
+  },
+  {
+    "index": 742,
+    "start": 3595.12,
+    "end": 3602.0,
+    "text": "There are marked trails, but you can also leave these and go off on your own, and that's an experience not to be missed."
+  },
+  {
+    "index": 743,
+    "start": 3602.86,
+    "end": 3604.42,
+    "text": "You can go at your own speed."
+  },
+  {
+    "index": 744,
+    "start": 3604.72,
+    "end": 3613.86,
+    "text": "It's great aerobic exercise if you really push yourself, or if you prefer, you can just glide gently along and enjoy the beautiful scenery."
+  },
+  {
+    "index": 745,
+    "start": 3616.06,
+    "end": 3618.9,
+    "text": "This afternoon, you'll be going on a dog sled trip."
+  },
+  {
+    "index": 746,
+    "start": 3619.76,
+    "end": 3624.22,
+    "text": "I have seen our dogs on TV recently racing in the Winter Sleed Festival."
+  },
+  {
+    "index": 747,
+    "start": 3625.12,
+    "end": 3632.28,
+    "text": "If you want, you can have your own team for the afternoon and learn how to drive them, following behind our leader on the trail."
+  },
+  {
+    "index": 748,
+    "start": 3633.02,
+    "end": 3637.6,
+    "text": "Or if you'd prefer, you can just sit back in the sled and enjoy the ride as a passenger."
+  },
+  {
+    "index": 749,
+    "start": 3639.08,
+    "end": 3643.42,
+    "text": "At the weekend, we have the team relay event, and you're all welcome to join in."
+  },
+  {
+    "index": 750,
+    "start": 3644.38,
+    "end": 3648.9,
+    "text": "We have a local school coming along, and a lot of the teachers are taking part too."
+  },
+  {
+    "index": 751,
+    "start": 3650.0,
+    "end": 3655.58,
+    "text": "Participation rather than winning is the main focus, and there's a medal for everyone who takes part."
+  },
+  {
+    "index": 752,
+    "start": 3656.78,
+    "end": 3662.36,
+    "text": "Participants are in teams of two to four, and each team must complete four laps of the course."
+  },
+  {
+    "index": 753,
+    "start": 3663.74,
+    "end": 3671.22,
+    "text": "For your final expedition, you'll head off to Mount Frenner, wearing a pair of special snow shoes, which allow you to walk on top of the snow."
+  },
+  {
+    "index": 754,
+    "start": 3672.38,
+    "end": 3678.44,
+    "text": "This is an area where mine is once searched for gold, though there are very few traces of their work left now."
+  },
+  {
+    "index": 755,
+    "start": 3679.56,
+    "end": 3683.8,
+    "text": "When the snow melts in summer, the mountain slopes are carpeted in flowers and plants."
+  },
+  {
+    "index": 756,
+    "start": 3684.68,
+    "end": 3691.42,
+    "text": "It's a long ascent, though not too steep, and walkers generally take a couple of days to get to the summit and return."
+  },
+  {
+    "index": 757,
+    "start": 3693.0,
+    "end": 3695.66,
+    "text": "You'll spend the night in a hut halfway up the mountain."
+  },
+  {
+    "index": 758,
+    "start": 3696.28,
+    "end": 3698.4,
+    "text": "That's included in your package for this day."
+  },
+  {
+    "index": 759,
+    "start": 3699.18,
+    "end": 3702.52,
+    "text": "It's got cooking facilities, firewood and water for drinking."
+  },
+  {
+    "index": 760,
+    "start": 3703.48,
+    "end": 3707.86,
+    "text": "For washing, we recommend you use melted snow, though, to conserve supplies."
+  },
+  {
+    "index": 761,
+    "start": 3709.26,
+    "end": 3713.76,
+    "text": "We can take your luggage up on our snowmobile for you for just $10 a person."
+  },
+  {
+    "index": 762,
+    "start": 3714.62,
+    "end": 3720.7,
+    "text": "The hut has cooking facilities, so you can make a hot meal in the evening and morning, but you need to take your own food."
+  },
+  {
+    "index": 763,
+    "start": 3721.74,
+    "end": 3724.54,
+    "text": "The weather on Mount Frenner can be very stormy."
+  },
+  {
+    "index": 764,
+    "start": 3724.98,
+    "end": 3726.62,
+    "text": "In that case, stay in the hut."
+  },
+  {
+    "index": 765,
+    "start": 3727.08,
+    "end": 3728.8,
+    "text": "Generally, the storms don't last long."
+  },
+  {
+    "index": 766,
+    "start": 3729.58,
+    "end": 3733.62,
+    "text": "Don't stress about getting back here to the centre in time to catch the airport bus."
+  },
+  {
+    "index": 767,
+    "start": 3734.16,
+    "end": 3735.9,
+    "text": "They'll probably not be running anyway."
+  },
+  {
+    "index": 768,
+    "start": 3736.88,
+    "end": 3744.46,
+    "text": "We do have an emergency locator beacon in the hut, but only use that if it's a real emergency, like if someone's ill or injured."
+  },
+  {
+    "index": 769,
+    "start": 3745.42,
+    "end": 3751.18,
+    "text": "Now, let me tell you something about the different ski trails you can follow during your stay here."
+  },
+  {
+    "index": 770,
+    "start": 3752.52,
+    "end": 3755.76,
+    "text": "Highland trails directly accessible from where we are now."
+  },
+  {
+    "index": 771,
+    "start": 3756.54,
+    "end": 3766.16,
+    "text": "This trail's been designed to give first timers an experience they'll enjoy regardless of their age or skill, but it's also ideal for experts to practice their technique."
+  },
+  {
+    "index": 772,
+    "start": 3767.86,
+    "end": 3769.06,
+    "text": "Then there's Pine Trail."
+  },
+  {
+    "index": 773,
+    "start": 3769.74,
+    "end": 3772.86,
+    "text": "If you're nervous about skiing, leave this one to the experts."
+  },
+  {
+    "index": 774,
+    "start": 3773.78,
+    "end": 3776.74,
+    "text": "You follow a steep valley looking right down on the river below."
+  },
+  {
+    "index": 775,
+    "start": 3777.12,
+    "end": 3777.56,
+    "text": "Scary!"
+  },
+  {
+    "index": 776,
+    "start": 3778.44,
+    "end": 3782.12,
+    "text": "But if you fully master the techniques needed for hills, it's great fun."
+  },
+  {
+    "index": 777,
+    "start": 3783.94,
+    "end": 3787.74,
+    "text": "Stoney Trail's a good choice once you've got a general idea of the basics."
+  },
+  {
+    "index": 778,
+    "start": 3788.6,
+    "end": 3791.9,
+    "text": "There are one or two tricky sections, but nothing too challenging."
+  },
+  {
+    "index": 779,
+    "start": 3792.92,
+    "end": 3797.8,
+    "text": "There's a shelter halfway where you can sit and take a break and enjoy the afternoon sunshine."
+  },
+  {
+    "index": 780,
+    "start": 3799.38,
+    "end": 3801.28,
+    "text": "And finally, Loser's Trail."
+  },
+  {
+    "index": 781,
+    "start": 3802.14,
+    "end": 3809.34,
+    "text": "This starts off following a gentle river valley, but the last part is quite exposed, so the snow conditions can be challenging."
+  },
+  {
+    "index": 782,
+    "start": 3810.1,
+    "end": 3815.78,
+    "text": "If it's snowing or windy, check with us before you set out to make sure the trails open that day."
+  },
+  {
+    "index": 783,
+    "start": 3816.72,
+    "end": 3819.78,
+    "text": "Right, so now if you'd like to follow me, we'll get started."
+  },
+  {
+    "index": 784,
+    "start": 3821.92,
+    "end": 3825.98,
+    "text": "I still got loads to do for our report on nutritional food labels."
+  },
+  {
+    "index": 785,
+    "start": 3826.96,
+    "end": 3827.54,
+    "text": "Me too."
+  },
+  {
+    "index": 786,
+    "start": 3828.34,
+    "end": 3831.98,
+    "text": "What did you learn from doing the project about your own shopping habits?"
+  },
+  {
+    "index": 787,
+    "start": 3833.26,
+    "end": 3839.26,
+    "text": "Well, I've always had to check labels for traces of peanuts and everything I eat because of my allergy."
+  },
+  {
+    "index": 788,
+    "start": 3840.16,
+    "end": 3845.6,
+    "text": "But beyond that, I've never really been concerned enough to check how healthy a product is."
+  },
+  {
+    "index": 789,
+    "start": 3846.68,
+    "end": 3850.78,
+    "text": "This project has actually taught me to read the labels much more carefully."
+  },
+  {
+    "index": 790,
+    "start": 3851.76,
+    "end": 3856.14,
+    "text": "I tended to believe claims on packaging, like low-in fat."
+  },
+  {
+    "index": 791,
+    "start": 3857.0,
+    "end": 3865.86,
+    "text": "But I now realise that the healthy yogurt I've bought for years is full of sugar, and that it's actually quite high in calories."
+  },
+  {
+    "index": 792,
+    "start": 3866.94,
+    "end": 3868.22,
+    "text": "Ready meals are the worst."
+  },
+  {
+    "index": 793,
+    "start": 3869.0,
+    "end": 3873.32,
+    "text": "Comparing the labels on supermarket pizzas was a real eye opener."
+  },
+  {
+    "index": 794,
+    "start": 3874.28,
+    "end": 3877.24,
+    "text": "Did you have any idea how many calories they contain?"
+  },
+  {
+    "index": 795,
+    "start": 3877.66,
+    "end": 3878.38,
+    "text": "I was amazed."
+  },
+  {
+    "index": 796,
+    "start": 3879.04,
+    "end": 3888.12,
+    "text": "Yes, because unless you read the label really carefully, you wouldn't know that the nutritional values given are for half a pizza."
+  },
+  {
+    "index": 797,
+    "start": 3888.7,
+    "end": 3893.04,
+    "text": "When most people eat the whole pizza, not exactly transparent, is it?"
+  },
+  {
+    "index": 798,
+    "start": 3893.3,
+    "end": 3894.1,
+    "text": "Not at all."
+  },
+  {
+    "index": 799,
+    "start": 3894.56,
+    "end": 3898.34,
+    "text": "But I expect it won't stop you from buying pizza."
+  },
+  {
+    "index": 800,
+    "start": 3899.0,
+    "end": 3899.68,
+    "text": "Probably not now."
+  },
+  {
+    "index": 801,
+    "start": 3900.68,
+    "end": 3906.06,
+    "text": "I thought comparing the different labeling systems used by food manufacturers was interesting."
+  },
+  {
+    "index": 802,
+    "start": 3907.18,
+    "end": 3910.64,
+    "text": "I think the kind of labeling system used makes a big difference."
+  },
+  {
+    "index": 803,
+    "start": 3911.6,
+    "end": 3912.72,
+    "text": "Which one did you prefer?"
+  },
+  {
+    "index": 804,
+    "start": 3913.38,
+    "end": 3917.16,
+    "text": "I like the traditional daily value system best."
+  },
+  {
+    "index": 805,
+    "start": 3917.16,
+    "end": 3924.44,
+    "text": "The one which tells you what proportion of your required daily intake of each ingredient the product contains."
+  },
+  {
+    "index": 806,
+    "start": 3925.88,
+    "end": 3930.34,
+    "text": "I'm not sure it's the easiest for people to use, but at least you get the full story."
+  },
+  {
+    "index": 807,
+    "start": 3931.24,
+    "end": 3937.34,
+    "text": "I like to know all the ingredients in a product, not just how much fat, salt and sugar they contain."
+  },
+  {
+    "index": 808,
+    "start": 3938.5,
+    "end": 3944.64,
+    "text": "But it's good supermarkets have been making an effort to provide reliable information for customers."
+  },
+  {
+    "index": 809,
+    "start": 3944.94,
+    "end": 3945.18,
+    "text": "Yes."
+  },
+  {
+    "index": 810,
+    "start": 3945.56,
+    "end": 3953.74,
+    "text": "There just needs to be more consistency between labeling systems used by different supermarkets in terms of portion sizes, etc."
+  },
+  {
+    "index": 811,
+    "start": 3955.98,
+    "end": 3961.42,
+    "text": "The labels on the different brands of chicken flavor crisps were quite revealing too, weren't they?"
+  },
+  {
+    "index": 812,
+    "start": 3962.9,
+    "end": 3970.12,
+    "text": "I don't understand how they can get away with calling them chicken flavor when they only contain artificial additives."
+  },
+  {
+    "index": 813,
+    "start": 3970.12,
+    "end": 3971.12,
+    "text": "I know."
+  },
+  {
+    "index": 814,
+    "start": 3971.5,
+    "end": 3976.74,
+    "text": "I'd at least have expected them to contain a small percentage of real chicken."
+  },
+  {
+    "index": 815,
+    "start": 3977.02,
+    "end": 3977.48,
+    "text": "Absolutely."
+  },
+  {
+    "index": 816,
+    "start": 3978.38,
+    "end": 3982.54,
+    "text": "I think having nutritional food labeling has been a good idea, don't you?"
+  },
+  {
+    "index": 817,
+    "start": 3983.3,
+    "end": 3989.3,
+    "text": "I think it will change people's behavior and stop mothers in particular buying the wrong things."
+  },
+  {
+    "index": 818,
+    "start": 3990.44,
+    "end": 3993.1,
+    "text": "But didn't that study kind of prove the opposite?"
+  },
+  {
+    "index": 819,
+    "start": 3993.56,
+    "end": 3997.3,
+    "text": "People didn't necessarily stop buying unhealthy products."
+  },
+  {
+    "index": 820,
+    "start": 3998.3,
+    "end": 4000.8,
+    "text": "They only said that might be the case."
+  },
+  {
+    "index": 821,
+    "start": 4001.3,
+    "end": 4006.18,
+    "text": "Those findings weren't that conclusive, and it was quite a small scale study."
+  },
+  {
+    "index": 822,
+    "start": 4006.98,
+    "end": 4009.02,
+    "text": "I think more research has to be done."
+  },
+  {
+    "index": 823,
+    "start": 4009.42,
+    "end": 4010.88,
+    "text": "Yes, I think you're probably right."
+  },
+  {
+    "index": 824,
+    "start": 4012.4,
+    "end": 4014.66,
+    "text": "What do you think of the traffic light system?"
+  },
+  {
+    "index": 825,
+    "start": 4015.84,
+    "end": 4025.58,
+    "text": "I think supermarkets like the idea of having a colour-coded system, red, orange or green, for levels of fat, sugar and salt in a product."
+  },
+  {
+    "index": 826,
+    "start": 4025.58,
+    "end": 4029.72,
+    "text": "But it's not been adopted universally, and not on all products."
+  },
+  {
+    "index": 827,
+    "start": 4030.34,
+    "end": 4031.8,
+    "text": "Why do you suppose that is?"
+  },
+  {
+    "index": 828,
+    "start": 4032.68,
+    "end": 4040.74,
+    "text": "Pressure from the food manufacturers, hardly surprising that some of them are opposed to flagging up how unhealthy their products are."
+  },
+  {
+    "index": 829,
+    "start": 4041.7,
+    "end": 4043.84,
+    "text": "It would have been compulsory."
+  },
+  {
+    "index": 830,
+    "start": 4044.14,
+    "end": 4045.76,
+    "text": "It seems ridiculous, isn't it?"
+  },
+  {
+    "index": 831,
+    "start": 4046.02,
+    "end": 4046.52,
+    "text": "I know."
+  },
+  {
+    "index": 832,
+    "start": 4047.16,
+    "end": 4052.26,
+    "text": "And what I couldn't get over is the fact that it was brought in without enough consultation."
+  },
+  {
+    "index": 833,
+    "start": 4053.06,
+    "end": 4056.0,
+    "text": "A lot of experts had deep reservations about it."
+  },
+  {
+    "index": 834,
+    "start": 4056.72,
+    "end": 4057.56,
+    "text": "That is a bit weird."
+  },
+  {
+    "index": 835,
+    "start": 4058.68,
+    "end": 4064.26,
+    "text": "I suppose there's an argument for doing the research now when consumers are familiar with this system."
+  },
+  {
+    "index": 836,
+    "start": 4065.08,
+    "end": 4065.88,
+    "text": "Yeah, maybe."
+  },
+  {
+    "index": 837,
+    "start": 4066.72,
+    "end": 4070.82,
+    "text": "The participants in the survey were quite positive about the traffic light system."
+  },
+  {
+    "index": 838,
+    "start": 4072.74,
+    "end": 4075.38,
+    "text": "But I don't think they targeted the right people."
+  },
+  {
+    "index": 839,
+    "start": 4076.24,
+    "end": 4082.8,
+    "text": "They should have focused on people with low literacy levels, because these labels are designed to be accessible to them."
+  },
+  {
+    "index": 840,
+    "start": 4082.98,
+    "end": 4090.46,
+    "text": "Yeah, but it's good to get feedback from all socioeconomic groups, and there wasn't much variation in their responses."
+  },
+  {
+    "index": 841,
+    "start": 4091.24,
+    "end": 4091.42,
+    "text": "No."
+  },
+  {
+    "index": 842,
+    "start": 4091.9,
+    "end": 4098.4,
+    "text": "But if they hadn't interviewed participants face to face, they could have used a much bigger sample size."
+  },
+  {
+    "index": 843,
+    "start": 4099.22,
+    "end": 4100.94,
+    "text": "I wonder why they chose that method."
+  },
+  {
+    "index": 844,
+    "start": 4101.78,
+    "end": 4103.98,
+    "text": "Do you know how were they selected?"
+  },
+  {
+    "index": 845,
+    "start": 4104.36,
+    "end": 4106.88,
+    "text": "Did they volunteer or were they approached?"
+  },
+  {
+    "index": 846,
+    "start": 4107.6,
+    "end": 4108.92,
+    "text": "I think they volunteered."
+  },
+  {
+    "index": 847,
+    "start": 4109.66,
+    "end": 4113.58,
+    "text": "The thing that wasn't stated was how often they bought packaged food."
+  },
+  {
+    "index": 848,
+    "start": 4114.24,
+    "end": 4117.18,
+    "text": "All we know is how frequently they use the supermarket."
+  },
+  {
+    "index": 849,
+    "start": 4119.24,
+    "end": 4126.64,
+    "text": "In my presentation, I'm going to talk about coffee, and its importance both in economic and social terms."
+  },
+  {
+    "index": 850,
+    "start": 4127.9,
+    "end": 4140.26,
+    "text": "We think it was first drunk in the Arab world, but there's hardly any documentary evidence of it before the 1500s, although of course that doesn't mean that people didn't know about it before then."
+  },
+  {
+    "index": 851,
+    "start": 4141.58,
+    "end": 4150.02,
+    "text": "However, there is evidence that coffee was originally gathered from bushes growing wild in Ethiopia, in the northeast of Africa."
+  },
+  {
+    "index": 852,
+    "start": 4151.5,
+    "end": 4160.4,
+    "text": "In the early 16th century, it was being bought by traders, and gradually its use as a drink spread throughout the Middle East."
+  },
+  {
+    "index": 853,
+    "start": 4161.78,
+    "end": 4173.6,
+    "text": "It's also known that in 1522, in the Turkish city of Constantinople, which was the centre of the Ottoman Empire, the court physician approved its use as a medicine."
+  },
+  {
+    "index": 854,
+    "start": 4175.76,
+    "end": 4188.12,
+    "text": "By the mid 1500s, coffee bushes were being cultivated in the Yemen, and for the next hundred years, this region produced most of the coffee drunk in Africa and the Arab world."
+  },
+  {
+    "index": 855,
+    "start": 4189.66,
+    "end": 4194.26,
+    "text": "What's particularly interesting about coffee is its effect on social life."
+  },
+  {
+    "index": 856,
+    "start": 4195.42,
+    "end": 4200.9,
+    "text": "It was rarely drunk at home, but instead people went to coffee houses to drink it."
+  },
+  {
+    "index": 857,
+    "start": 4201.94,
+    "end": 4207.8,
+    "text": "These people, usually men, would meet to drink coffee and chat about issues of the day."
+  },
+  {
+    "index": 858,
+    "start": 4209.08,
+    "end": 4225.34,
+    "text": "But at the time, this chance to share ideas and opinions were seen as something that was potentially dangerous, and in 1623, the ruler of Constantinople demanded the destruction of all the coffee houses in the city."
+  },
+  {
+    "index": 859,
+    "start": 4226.3,
+    "end": 4231.68,
+    "text": "Although after his death, many new ones opened, and coffee consumption continued."
+  },
+  {
+    "index": 860,
+    "start": 4233.18,
+    "end": 4245.26,
+    "text": "In the 17th century, coffee drinking spread to Europe, and here too, coffee shops became places where ordinary people, nearly always men, could meet to exchange ideas."
+  },
+  {
+    "index": 861,
+    "start": 4246.52,
+    "end": 4252.74,
+    "text": "Because of this, some people said that these places performed a similar function to universities."
+  },
+  {
+    "index": 862,
+    "start": 4254.02,
+    "end": 4271.0,
+    "text": "The opportunity they provided for people to meet together outside their own homes, and to discuss the topics of the day, had an enormous impact on social life, and many social movements and political developments had their origins in coffee house discussions."
+  },
+  {
+    "index": 863,
+    "start": 4271.98,
+    "end": 4282.98,
+    "text": "In the late 1600s, the Yemeni monopoly on coffee production broke down, and coffee production started to spread around the world, helped by European colonization."
+  },
+  {
+    "index": 864,
+    "start": 4283.98,
+    "end": 4292.6,
+    "text": "Europeans set up coffee plantations in Indonesia and the Caribbean, and production of coffee in the colonies skyrocketed."
+  },
+  {
+    "index": 865,
+    "start": 4294.02,
+    "end": 4307.46,
+    "text": "Different types of coffee were produced in different areas, and it's interesting that the names given to these different types, like mocker or Java coffee, were often taken from the port they were shipped to Europe from."
+  },
+  {
+    "index": 866,
+    "start": 4308.98,
+    "end": 4314.04,
+    "text": "But if you look at the labour system in the different colonies, there were some significant differences."
+  },
+  {
+    "index": 867,
+    "start": 4315.64,
+    "end": 4324.9,
+    "text": "In Brazil and the various Caribbean colonies, coffee was grown in huge plantations, and the workers there were almost all slaves."
+  },
+  {
+    "index": 868,
+    "start": 4326.44,
+    "end": 4340.06,
+    "text": "But this wasn't the same in all colonies, for example in Java, which had been colonized by the Dutch, the peasants grew coffee and passed a proportion of this onto the Dutch, so it was used as a means of taxation."
+  },
+  {
+    "index": 869,
+    "start": 4341.96,
+    "end": 4350.78,
+    "text": "But whatever system was used under the European powers of the 18th century, coffee production was very closely linked to colonization."
+  },
+  {
+    "index": 870,
+    "start": 4352.68,
+    "end": 4364.32,
+    "text": "Coffee was grown in every increasing quantities to satisfy the growing demand from Europe, and it became nearly as important as sugar production, which was grown under very similar conditions."
+  },
+  {
+    "index": 871,
+    "start": 4365.92,
+    "end": 4378.82,
+    "text": "However, coffee prices were not yet low enough for people to drink it regularly at home, so most coffee consumption still took place in public coffee houses, and it still remained something of a luxury item."
+  },
+  {
+    "index": 872,
+    "start": 4380.14,
+    "end": 4393.0,
+    "text": "In Britain, however, a new drink was introduced from China, and started to become popular, gradually taking over from coffee, although at first it was so expensive that only the upper classes could afford it."
+  },
+  {
+    "index": 873,
+    "start": 4394.02,
+    "end": 4399.64,
+    "text": "This was tea, and by the late 1700s it was being widely drunk."
+  },
+  {
+    "index": 874,
+    "start": 4400.12,
+    "end": 4413.34,
+    "text": "However, when the USA gained independence from Britain in 1776, they identified this drink with Britain, and coffee remained the preferred drink in the USA as it still is today."
+  },
+  {
+    "index": 875,
+    "start": 4415.18,
+    "end": 4421.04,
+    "text": "So, by the early 19th century, coffee was already being widely produced and consumed."
+  },
+  {
+    "index": 876,
+    "start": 4421.6,
+    "end": 4427.42,
+    "text": "But during this century, production boomed, and coffee prices started to fall."
+  },
+  {
+    "index": 877,
+    "start": 4428.44,
+    "end": 4434.4,
+    "text": "This was partly because new types of transportation had been developed, which were cheaper and more efficient."
+  },
+  {
+    "index": 878,
+    "start": 4435.54,
+    "end": 4438.46,
+    "text": "So now, working people could afford to buy coffee."
+  },
+  {
+    "index": 879,
+    "start": 4438.82,
+    "end": 4441.1,
+    "text": "It wasn't just a drink for the middle classes."
+  },
+  {
+    "index": 880,
+    "start": 4442.54,
+    "end": 4451.42,
+    "text": "And this was at a time when large parts of Europe were starting to work in industries, and sometimes this meant their work didn't stop when it got dark."
+  },
+  {
+    "index": 881,
+    "start": 4451.8,
+    "end": 4454.54,
+    "text": "They might have to continue throughout the night."
+  },
+  {
+    "index": 882,
+    "start": 4455.62,
+    "end": 4458.64,
+    "text": "So the use of coffee as a stimulant became important."
+  },
+  {
+    "index": 883,
+    "start": 4459.02,
+    "end": 4462.48,
+    "text": "It wasn't just a drink people drank in the morning for breakfast."
+  },
+  {
+    "index": 884,
+    "start": 4464.08,
+    "end": 4465.78,
+    "text": "There were also changes in cultivation."
+  }
+]

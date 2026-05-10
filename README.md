@@ -1,4 +1,4 @@
-# 🎧 Dictation App (Docker)
+# 🎧 Dictation App 
 
 A simple TOEIC dictation app .
 

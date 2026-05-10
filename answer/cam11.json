@@ -1,0 +1,5822 @@
+[
+  {
+    "index": 0,
+    "start": 0.0,
+    "end": 0.7,
+    "text": "Hello?"
+  },
+  {
+    "index": 1,
+    "start": 1.16,
+    "end": 1.92,
+    "text": "Oh, hello."
+  },
+  {
+    "index": 2,
+    "start": 2.22,
+    "end": 9.42,
+    "text": "I wanted to inquire about hiring a room in the village hall for the evening of September the 1st."
+  },
+  {
+    "index": 3,
+    "start": 9.56,
+    "end": 11.06,
+    "text": "Let me just see."
+  },
+  {
+    "index": 4,
+    "start": 12.48,
+    "end": 16.16,
+    "text": "Yes, we have both rooms available that evening."
+  },
+  {
+    "index": 5,
+    "start": 16.44,
+    "end": 21.3,
+    "text": "There's our main hall that's got seating for 200 people."
+  },
+  {
+    "index": 6,
+    "start": 21.8,
+    "end": 24.0,
+    "text": "Or there's the Charlton room."
+  },
+  {
+    "index": 7,
+    "start": 24.0,
+    "end": 25.1,
+    "text": "Sorry?"
+  },
+  {
+    "index": 8,
+    "start": 25.44,
+    "end": 26.8,
+    "text": "The Charlton room."
+  },
+  {
+    "index": 9,
+    "start": 27.02,
+    "end": 32.54,
+    "text": "C -H -A -R -L -T -O -N."
+  },
+  {
+    "index": 10,
+    "start": 32.94,
+    "end": 35.56,
+    "text": "That's got seating for up to 100."
+  },
+  {
+    "index": 11,
+    "start": 36.54,
+    "end": 44.42,
+    "text": "Well, we're organising a dinner to raise money for a charity, and we're hoping for at least 150 people."
+  },
+  {
+    "index": 12,
+    "start": 45.28,
+    "end": 48.7,
+    "text": "So, I think we'll go for the main hall."
+  },
+  {
+    "index": 13,
+    "start": 49.14,
+    "end": 51.06,
+    "text": "How much would that cost?"
+  },
+  {
+    "index": 14,
+    "start": 51.06,
+    "end": 52.46,
+    "text": "Let's see."
+  },
+  {
+    "index": 15,
+    "start": 52.92,
+    "end": 56.64,
+    "text": "You wanted it for the evening of September the 1st?"
+  },
+  {
+    "index": 16,
+    "start": 56.86,
+    "end": 58.56,
+    "text": "Yes, that's a Saturday."
+  },
+  {
+    "index": 17,
+    "start": 58.96,
+    "end": 64.2,
+    "text": "So, from 6pm to midnight, that'd be £115."
+  },
+  {
+    "index": 18,
+    "start": 65.4,
+    "end": 67.46,
+    "text": "That's the weekend price."
+  },
+  {
+    "index": 19,
+    "start": 67.74,
+    "end": 70.84,
+    "text": "It's £75 on weekdays."
+  },
+  {
+    "index": 20,
+    "start": 71.38,
+    "end": 72.5,
+    "text": "That's all right."
+  },
+  {
+    "index": 21,
+    "start": 72.5,
+    "end": 82.34,
+    "text": "And I have to tell you, there's also a deposit of £250, which is returnable, of course, as long as there's no damage."
+  },
+  {
+    "index": 22,
+    "start": 82.76,
+    "end": 86.46,
+    "text": "But we do insist that this is paid in cash."
+  },
+  {
+    "index": 23,
+    "start": 86.7,
+    "end": 88.78,
+    "text": "We don't take cards for that."
+  },
+  {
+    "index": 24,
+    "start": 89.16,
+    "end": 93.94,
+    "text": "You can pay the actual rent of the room however you like, though."
+  },
+  {
+    "index": 25,
+    "start": 94.36,
+    "end": 96.86,
+    "text": "Cash, credit card, cheque."
+  },
+  {
+    "index": 26,
+    "start": 96.86,
+    "end": 99.3,
+    "text": "Oh, well, I suppose that's OK."
+  },
+  {
+    "index": 27,
+    "start": 100.38,
+    "end": 105.3,
+    "text": "So, does the charge include use of tables and chairs and so on?"
+  },
+  {
+    "index": 28,
+    "start": 105.5,
+    "end": 106.3,
+    "text": "Oh, yes."
+  },
+  {
+    "index": 29,
+    "start": 106.88,
+    "end": 108.84,
+    "text": "And what about parking?"
+  },
+  {
+    "index": 30,
+    "start": 109.32,
+    "end": 111.14,
+    "text": "Yeah, that's all included."
+  },
+  {
+    "index": 31,
+    "start": 111.62,
+    "end": 117.42,
+    "text": "The only thing that isn't included is, er, you said you were organising a dinner?"
+  },
+  {
+    "index": 32,
+    "start": 117.84,
+    "end": 118.18,
+    "text": "Yeah."
+  },
+  {
+    "index": 33,
+    "start": 118.18,
+    "end": 122.8,
+    "text": "Well, you'll have to pay extra for the kitchen if you want to use that."
+  },
+  {
+    "index": 34,
+    "start": 123.12,
+    "end": 124.4,
+    "text": "It's £25."
+  },
+  {
+    "index": 35,
+    "start": 125.32,
+    "end": 130.88,
+    "text": "It's got very good facilities, good quality cookers and fridges and so on."
+  },
+  {
+    "index": 36,
+    "start": 131.32,
+    "end": 131.7,
+    "text": "OK."
+  },
+  {
+    "index": 37,
+    "start": 132.3,
+    "end": 134.28,
+    "text": "Well, I suppose that's all right."
+  },
+  {
+    "index": 38,
+    "start": 134.66,
+    "end": 137.54,
+    "text": "We can cover the cost in our entry charges."
+  },
+  {
+    "index": 39,
+    "start": 137.86,
+    "end": 138.38,
+    "text": "Right."
+  },
+  {
+    "index": 40,
+    "start": 138.58,
+    "end": 140.56,
+    "text": "So, I'll make a note of that."
+  },
+  {
+    "index": 41,
+    "start": 142.0,
+    "end": 146.84,
+    "text": "Now, there are just one or two things you need to think about before the event."
+  },
+  {
+    "index": 42,
+    "start": 147.1,
+    "end": 154.28,
+    "text": "For example, you'll have to see about getting a licence if you're planning to have any music during the meal."
+  },
+  {
+    "index": 43,
+    "start": 154.5,
+    "end": 155.28,
+    "text": "Oh, really?"
+  },
+  {
+    "index": 44,
+    "start": 155.6,
+    "end": 156.88,
+    "text": "It's quite straightforward."
+  },
+  {
+    "index": 45,
+    "start": 157.2,
+    "end": 159.6,
+    "text": "I'll give you the details later on."
+  },
+  {
+    "index": 46,
+    "start": 159.6,
+    "end": 170.6,
+    "text": "And about a week or ten days before your event, you'll need to contact the caretaker, that's Mr Evans, to make the arrangements for entry."
+  },
+  {
+    "index": 47,
+    "start": 170.96,
+    "end": 172.64,
+    "text": "He'll sort that out with you."
+  },
+  {
+    "index": 48,
+    "start": 172.96,
+    "end": 175.7,
+    "text": "And do I give him the payment as well?"
+  },
+  {
+    "index": 49,
+    "start": 175.94,
+    "end": 178.46,
+    "text": "No, you do that directly with me."
+  },
+  {
+    "index": 50,
+    "start": 179.08,
+    "end": 179.6,
+    "text": "Right."
+  },
+  {
+    "index": 51,
+    "start": 179.88,
+    "end": 184.36,
+    "text": "Now, is there anything I need to know about what happens during the event?"
+  },
+  {
+    "index": 52,
+    "start": 184.36,
+    "end": 190.06,
+    "text": "Well, as you'll be aware, of course, the building is no smoking throughout."
+  },
+  {
+    "index": 53,
+    "start": 190.66,
+    "end": 191.24,
+    "text": "Of course."
+  },
+  {
+    "index": 54,
+    "start": 191.62,
+    "end": 193.28,
+    "text": "Now, are you having a band?"
+  },
+  {
+    "index": 55,
+    "start": 193.9,
+    "end": 194.5,
+    "text": "Yes."
+  },
+  {
+    "index": 56,
+    "start": 194.88,
+    "end": 204.48,
+    "text": "Well, they'll have a lot of equipment, so rather than using the front door, they should park their van round the back and use the stage door there."
+  },
+  {
+    "index": 57,
+    "start": 204.76,
+    "end": 209.48,
+    "text": "You can open that from inside, but don't forget to lock it at the end."
+  },
+  {
+    "index": 58,
+    "start": 209.84,
+    "end": 210.32,
+    "text": "OK."
+  },
+  {
+    "index": 59,
+    "start": 210.32,
+    "end": 221.02,
+    "text": "And talking of bands, I'm sure I don't need to tell you this, but you must make sure that no one fiddles about with the black box by the fire door."
+  },
+  {
+    "index": 60,
+    "start": 221.44,
+    "end": 226.26,
+    "text": "That's a system that cuts in when the volume reaches a certain level."
+  },
+  {
+    "index": 61,
+    "start": 226.5,
+    "end": 228.08,
+    "text": "It's a legal requirement."
+  },
+  {
+    "index": 62,
+    "start": 228.46,
+    "end": 228.92,
+    "text": "Sure."
+  },
+  {
+    "index": 63,
+    "start": 229.5,
+    "end": 235.1,
+    "text": "Anyway, we want people to be able to talk to one another, so we don't want anything too loud."
+  },
+  {
+    "index": 64,
+    "start": 235.1,
+    "end": 237.44,
+    "text": "Oh, that reminds me."
+  },
+  {
+    "index": 65,
+    "start": 237.62,
+    "end": 239.32,
+    "text": "We'll be having speeches."
+  },
+  {
+    "index": 66,
+    "start": 239.82,
+    "end": 242.42,
+    "text": "Are there any microphones available?"
+  },
+  {
+    "index": 67,
+    "start": 242.88,
+    "end": 243.2,
+    "text": "Yep."
+  },
+  {
+    "index": 68,
+    "start": 243.58,
+    "end": 245.28,
+    "text": "Just let the caretaker know."
+  },
+  {
+    "index": 69,
+    "start": 245.52,
+    "end": 246.72,
+    "text": "He'll get those for you."
+  },
+  {
+    "index": 70,
+    "start": 247.66,
+    "end": 248.22,
+    "text": "Right."
+  },
+  {
+    "index": 71,
+    "start": 248.42,
+    "end": 253.76,
+    "text": "Now, when the event is over, we do ask that the premises are left in good condition."
+  },
+  {
+    "index": 72,
+    "start": 254.22,
+    "end": 260.26,
+    "text": "So, there's a locked cupboard, and you'll be informed of the code you need to open that."
+  },
+  {
+    "index": 73,
+    "start": 260.6,
+    "end": 266.2,
+    "text": "It's got all the cleaning equipment, brushes and detergent and so on."
+  },
+  {
+    "index": 74,
+    "start": 266.66,
+    "end": 267.12,
+    "text": "Right."
+  },
+  {
+    "index": 75,
+    "start": 267.62,
+    "end": 271.12,
+    "text": "So, what do we need to do after everyone's gone?"
+  },
+  {
+    "index": 76,
+    "start": 271.78,
+    "end": 273.44,
+    "text": "Sweep the floors, I suppose?"
+  },
+  {
+    "index": 77,
+    "start": 273.44,
+    "end": 277.78,
+    "text": "Well, actually, they have to be washed, not just swept."
+  },
+  {
+    "index": 78,
+    "start": 278.5,
+    "end": 286.34,
+    "text": "Then you'll be provided with black plastic bags, so all the rubbish must be collected up and left outside the door."
+  },
+  {
+    "index": 79,
+    "start": 286.56,
+    "end": 287.5,
+    "text": "Of course."
+  },
+  {
+    "index": 80,
+    "start": 287.78,
+    "end": 290.1,
+    "text": "We'll make sure everything's left tidy."
+  },
+  {
+    "index": 81,
+    "start": 290.7,
+    "end": 292.96,
+    "text": "Oh, and I forgot to ask."
+  },
+  {
+    "index": 82,
+    "start": 293.1,
+    "end": 296.52,
+    "text": "I presume we can have decorations in the room?"
+  },
+  {
+    "index": 83,
+    "start": 296.88,
+    "end": 299.76,
+    "text": "Yes, but you must take them down afterwards."
+  },
+  {
+    "index": 84,
+    "start": 300.34,
+    "end": 300.84,
+    "text": "Sure."
+  },
+  {
+    "index": 85,
+    "start": 300.84,
+    "end": 306.4,
+    "text": "And the chairs and tables should be stacked up neatly at the back of the room."
+  },
+  {
+    "index": 86,
+    "start": 307.0,
+    "end": 309.76,
+    "text": "I'll make sure I've got a few people to help me."
+  },
+  {
+    "index": 87,
+    "start": 311.88,
+    "end": 314.96,
+    "text": "Welcome to the Fiddy Working Heritage Farm."
+  },
+  {
+    "index": 88,
+    "start": 315.4,
+    "end": 324.5,
+    "text": "This open -air museum gives you the experience of agriculture and rural life in the English countryside at the end of the 19th century."
+  },
+  {
+    "index": 89,
+    "start": 325.02,
+    "end": 332.6,
+    "text": "So, you'll see a typical farm of that period, and like me, all the staff are dressed in clothes of that time."
+  },
+  {
+    "index": 90,
+    "start": 333.4,
+    "end": 338.16,
+    "text": "I must give you some advice and safety tips before we go any further."
+  },
+  {
+    "index": 91,
+    "start": 338.8,
+    "end": 343.54,
+    "text": "As it's a working farm, please don't frighten or injure the animals."
+  },
+  {
+    "index": 92,
+    "start": 343.78,
+    "end": 348.74,
+    "text": "We have a lot here, and many of them are breeds that are now quite rare."
+  },
+  {
+    "index": 93,
+    "start": 349.56,
+    "end": 353.0,
+    "text": "And do stay at a safe distance from the tools."
+  },
+  {
+    "index": 94,
+    "start": 353.34,
+    "end": 359.34,
+    "text": "Some of them have sharp points, which can be pretty dangerous, so please don't touch them."
+  },
+  {
+    "index": 95,
+    "start": 359.54,
+    "end": 361.62,
+    "text": "We don't want any accidents, do we?"
+  },
+  {
+    "index": 96,
+    "start": 362.46,
+    "end": 371.14,
+    "text": "The ground is very uneven, and you might slip if you're wearing sandals, so I'm glad to see you're all wearing shoes."
+  },
+  {
+    "index": 97,
+    "start": 371.14,
+    "end": 374.06,
+    "text": "We always advise people to do that."
+  },
+  {
+    "index": 98,
+    "start": 374.94,
+    "end": 386.46,
+    "text": "Now, children of all ages are very welcome here, and usually even very young children love the ducks and lambs, so do bring them along next time you come."
+  },
+  {
+    "index": 99,
+    "start": 387.44,
+    "end": 397.46,
+    "text": "I don't think any of you have brought dogs with you, but in case you have, I'm afraid they'll have to stay in the car park unless they're guide dogs."
+  },
+  {
+    "index": 100,
+    "start": 397.46,
+    "end": 403.12,
+    "text": "I'm sure you'll understand that they could cause a lot of problems on a farm."
+  },
+  {
+    "index": 101,
+    "start": 403.66,
+    "end": 407.2,
+    "text": "Now, let me give you some idea of the layout of the farm."
+  },
+  {
+    "index": 102,
+    "start": 407.74,
+    "end": 417.44,
+    "text": "The building where you bought your tickets is the new barn immediately to your right, and we're now at the beginning of the main path to the farmland."
+  },
+  {
+    "index": 103,
+    "start": 417.68,
+    "end": 420.76,
+    "text": "And, of course, the car park is on your left."
+  },
+  {
+    "index": 104,
+    "start": 420.76,
+    "end": 431.34,
+    "text": "The scarecrow you can see in the car park in the corner beside the main path is a traditional figure for keeping the birds away from crops."
+  },
+  {
+    "index": 105,
+    "start": 431.68,
+    "end": 434.86,
+    "text": "But our scarecrow is a permanent sculpture."
+  },
+  {
+    "index": 106,
+    "start": 435.32,
+    "end": 440.32,
+    "text": "It's taller than a human being, so you can see it from quite a distance."
+  },
+  {
+    "index": 107,
+    "start": 441.66,
+    "end": 444.82,
+    "text": "If you look ahead of you, you'll see a maze."
+  },
+  {
+    "index": 108,
+    "start": 445.18,
+    "end": 452.1,
+    "text": "It's opposite the new barn, beside the side path that branches off to the right, just over there."
+  },
+  {
+    "index": 109,
+    "start": 452.94,
+    "end": 462.6,
+    "text": "The maze is made out of hedges which are too tall for young children to see over them, but it's quite small, so you can't get lost in it."
+  },
+  {
+    "index": 110,
+    "start": 463.92,
+    "end": 469.12,
+    "text": "Now, can you see the bridge crossing the fish pool further up the main path?"
+  },
+  {
+    "index": 111,
+    "start": 469.58,
+    "end": 476.08,
+    "text": "If you want to go to the cafe, go towards the bridge and turn right just before it."
+  },
+  {
+    "index": 112,
+    "start": 476.62,
+    "end": 481.92,
+    "text": "Walk along the side path and the cafes on the first bend you come to."
+  },
+  {
+    "index": 113,
+    "start": 482.64,
+    "end": 488.44,
+    "text": "The building was originally the schoolhouse, and it's well over a hundred years old."
+  },
+  {
+    "index": 114,
+    "start": 489.88,
+    "end": 498.68,
+    "text": "As you may know, we run skills workshops here, where you can learn traditional crafts like woodwork and basket making."
+  },
+  {
+    "index": 115,
+    "start": 499.32,
+    "end": 505.9,
+    "text": "You can see examples of the work and talk to someone about the courses in the black barn."
+  },
+  {
+    "index": 116,
+    "start": 506.82,
+    "end": 516.1,
+    "text": "If you take the side path to the right, here, just by the new barn, you'll come to the black barn, just where the path first bends."
+  },
+  {
+    "index": 117,
+    "start": 517.22,
+    "end": 524.38,
+    "text": "Now, I mustn't forget to tell you about picnicking, as I can see some of you have brought your lunch with you."
+  },
+  {
+    "index": 118,
+    "start": 524.88,
+    "end": 529.88,
+    "text": "You can picnic in the field, though do clear up behind you, of course."
+  },
+  {
+    "index": 119,
+    "start": 530.36,
+    "end": 537.62,
+    "text": "Or if you'd prefer a covered picnic area, there's one near the farmyard, just after you cross the bridge."
+  },
+  {
+    "index": 120,
+    "start": 537.94,
+    "end": 540.58,
+    "text": "There's a covered picnic spot on the right."
+  },
+  {
+    "index": 121,
+    "start": 541.5,
+    "end": 545.48,
+    "text": "And the last thing to mention is Fiddy House itself."
+  },
+  {
+    "index": 122,
+    "start": 546.42,
+    "end": 553.28,
+    "text": "From here you can cross the bridge, then walk along the footpath through the field to the left of the farmyard."
+  },
+  {
+    "index": 123,
+    "start": 553.76,
+    "end": 558.3,
+    "text": "That goes to the house, and it'll give you a lovely view of it."
+  },
+  {
+    "index": 124,
+    "start": 558.68,
+    "end": 565.78,
+    "text": "It's certainly worth a few photographs, but as it's a private home, I'm afraid you can't go inside."
+  },
+  {
+    "index": 125,
+    "start": 566.62,
+    "end": 567.22,
+    "text": "Right."
+  },
+  {
+    "index": 126,
+    "start": 567.52,
+    "end": 571.36,
+    "text": "Well, if you're all ready, we'll set off on our tour of the farm."
+  },
+  {
+    "index": 127,
+    "start": 573.0,
+    "end": 574.0,
+    "text": "OK, Greg."
+  },
+  {
+    "index": 128,
+    "start": 574.3,
+    "end": 578.18,
+    "text": "So, I finally managed to read the article you mentioned."
+  },
+  {
+    "index": 129,
+    "start": 578.48,
+    "end": 581.38,
+    "text": "The one about the study on gender and physics."
+  },
+  {
+    "index": 130,
+    "start": 581.62,
+    "end": 586.4,
+    "text": "About the study of college students done by Akira Miyake and his team."
+  },
+  {
+    "index": 131,
+    "start": 586.4,
+    "end": 587.2,
+    "text": "Yeah."
+  },
+  {
+    "index": 132,
+    "start": 587.56,
+    "end": 593.2,
+    "text": "I was interested that the researchers were actually a mix of psychologists and physicists."
+  },
+  {
+    "index": 133,
+    "start": 593.78,
+    "end": 595.54,
+    "text": "That's an unusual combination."
+  },
+  {
+    "index": 134,
+    "start": 595.92,
+    "end": 596.3,
+    "text": "Yeah."
+  },
+  {
+    "index": 135,
+    "start": 596.58,
+    "end": 602.58,
+    "text": "I got a little confused at first about which students the study was based on."
+  },
+  {
+    "index": 136,
+    "start": 602.78,
+    "end": 605.48,
+    "text": "They weren't actually majoring in physics."
+  },
+  {
+    "index": 137,
+    "start": 605.96,
+    "end": 609.1,
+    "text": "They were majoring in what's known as the STEM disciplines."
+  },
+  {
+    "index": 138,
+    "start": 609.46,
+    "end": 613.62,
+    "text": "That's science, technology, engineering and..."
+  },
+  {
+    "index": 139,
+    "start": 613.62,
+    "end": 614.34,
+    "text": "And math."
+  },
+  {
+    "index": 140,
+    "start": 614.58,
+    "end": 619.16,
+    "text": "Yes, but they were all doing physics courses as part of their studies."
+  },
+  {
+    "index": 141,
+    "start": 619.72,
+    "end": 620.68,
+    "text": "That's correct."
+  },
+  {
+    "index": 142,
+    "start": 620.92,
+    "end": 632.34,
+    "text": "So, as I understood it, Miyake and co started from the fact that women are underrepresented in introductory physics courses at college."
+  },
+  {
+    "index": 143,
+    "start": 632.58,
+    "end": 639.96,
+    "text": "And also, that on average, the women who do enrol on these courses perform more poorly than the men."
+  },
+  {
+    "index": 144,
+    "start": 640.6,
+    "end": 642.84,
+    "text": "No one really knows why this is the case."
+  },
+  {
+    "index": 145,
+    "start": 642.84,
+    "end": 643.62,
+    "text": "Yeah."
+  },
+  {
+    "index": 146,
+    "start": 643.96,
+    "end": 651.68,
+    "text": "But what the researchers wanted to find out was basically what they could do about the relatively low level of the women's results."
+  },
+  {
+    "index": 147,
+    "start": 651.96,
+    "end": 657.54,
+    "text": "But in order to find a solution, they needed to find out more about the nature of the problem."
+  },
+  {
+    "index": 148,
+    "start": 658.08,
+    "end": 658.68,
+    "text": "Right."
+  },
+  {
+    "index": 149,
+    "start": 659.06,
+    "end": 661.06,
+    "text": "Now, let's see if I can remember."
+  },
+  {
+    "index": 150,
+    "start": 661.06,
+    "end": 670.9,
+    "text": "It was that in the physics class, the female students thought the male students all assumed that women weren't any good at physics."
+  },
+  {
+    "index": 151,
+    "start": 671.02,
+    "end": 672.12,
+    "text": "Was that it?"
+  },
+  {
+    "index": 152,
+    "start": 672.64,
+    "end": 677.9,
+    "text": "And they thought that the men expected them to get poor results in their tests."
+  },
+  {
+    "index": 153,
+    "start": 678.12,
+    "end": 679.64,
+    "text": "That's what the women thought."
+  },
+  {
+    "index": 154,
+    "start": 679.64,
+    "end": 681.38,
+    "text": "And that made them nervous."
+  },
+  {
+    "index": 155,
+    "start": 681.38,
+    "end": 683.54,
+    "text": "So they did get poor results."
+  },
+  {
+    "index": 156,
+    "start": 683.54,
+    "end": 685.82,
+    "text": "But actually, they were wrong."
+  },
+  {
+    "index": 157,
+    "start": 686.04,
+    "end": 690.62,
+    "text": "No one was making any assumptions about the female students at all."
+  },
+  {
+    "index": 158,
+    "start": 690.88,
+    "end": 694.72,
+    "text": "Anyway, what Miyake's team did was quite simple."
+  },
+  {
+    "index": 159,
+    "start": 695.02,
+    "end": 699.38,
+    "text": "Getting the students to do some writing before they went into the physics class."
+  },
+  {
+    "index": 160,
+    "start": 699.68,
+    "end": 701.2,
+    "text": "What did they call it?"
+  },
+  {
+    "index": 161,
+    "start": 701.46,
+    "end": 703.02,
+    "text": "Values affirmation."
+  },
+  {
+    "index": 162,
+    "start": 703.02,
+    "end": 716.46,
+    "text": "They had to write an essay focusing on things that were significant to them, not particularly to do with the subject they were studying, but more general things like music or people who mattered to them."
+  },
+  {
+    "index": 163,
+    "start": 716.66,
+    "end": 717.16,
+    "text": "Right."
+  },
+  {
+    "index": 164,
+    "start": 717.48,
+    "end": 723.74,
+    "text": "So the idea of doing the writing is that this gets the students thinking in a positive way."
+  },
+  {
+    "index": 165,
+    "start": 723.74,
+    "end": 731.82,
+    "text": "And putting these thoughts into words can relax them and help them overcome the psychological factors that lead to poor performance."
+  },
+  {
+    "index": 166,
+    "start": 732.08,
+    "end": 732.28,
+    "text": "Yeah."
+  },
+  {
+    "index": 167,
+    "start": 732.72,
+    "end": 742.46,
+    "text": "But what the researchers in the study hadn't expected was that this one activity raised the women's physics grades from the C to the B range."
+  },
+  {
+    "index": 168,
+    "start": 742.56,
+    "end": 744.12,
+    "text": "A huge change."
+  },
+  {
+    "index": 169,
+    "start": 744.54,
+    "end": 747.04,
+    "text": "Pity it wasn't to an A, but still."
+  },
+  {
+    "index": 170,
+    "start": 747.04,
+    "end": 755.06,
+    "text": "No, but it does suggest that the women were seriously underperforming beforehand in comparison with the men."
+  },
+  {
+    "index": 171,
+    "start": 755.28,
+    "end": 755.7,
+    "text": "Yes."
+  },
+  {
+    "index": 172,
+    "start": 756.16,
+    "end": 759.94,
+    "text": "Mind you, Miyake's article left out a lot of details."
+  },
+  {
+    "index": 173,
+    "start": 760.28,
+    "end": 764.76,
+    "text": "Like, did the students do the writing just once or several times?"
+  },
+  {
+    "index": 174,
+    "start": 764.98,
+    "end": 770.4,
+    "text": "And had they been told why they were doing the writing, that might have affected the results."
+  },
+  {
+    "index": 175,
+    "start": 770.4,
+    "end": 778.42,
+    "text": "You mean, if they know the researchers thought it might help them to improve, then they'd just try to fulfil that expectation?"
+  },
+  {
+    "index": 176,
+    "start": 778.66,
+    "end": 779.26,
+    "text": "Exactly."
+  },
+  {
+    "index": 177,
+    "start": 779.98,
+    "end": 789.8,
+    "text": "So anyway, I thought for our project we could do a similar study, but investigate whether it really was the writing activity that had that result."
+  },
+  {
+    "index": 178,
+    "start": 789.8,
+    "end": 790.66,
+    "text": "OK."
+  },
+  {
+    "index": 179,
+    "start": 791.16,
+    "end": 801.54,
+    "text": "So we could ask them to do a writing task about something completely different, something more factual, like a general knowledge topic."
+  },
+  {
+    "index": 180,
+    "start": 802.02,
+    "end": 802.86,
+    "text": "Maybe."
+  },
+  {
+    "index": 181,
+    "start": 803.2,
+    "end": 811.36,
+    "text": "Or we could have half the students doing a writing task and half doing something else, like an oral task."
+  },
+  {
+    "index": 182,
+    "start": 811.36,
+    "end": 819.54,
+    "text": "Or even half do the same writing task as in the original research, and half do a factual writing task."
+  },
+  {
+    "index": 183,
+    "start": 819.92,
+    "end": 825.08,
+    "text": "Then we'd see if it really is the topic that made the difference, or something else."
+  },
+  {
+    "index": 184,
+    "start": 825.28,
+    "end": 826.0,
+    "text": "That's it."
+  },
+  {
+    "index": 185,
+    "start": 826.14,
+    "end": 826.5,
+    "text": "Good."
+  },
+  {
+    "index": 186,
+    "start": 826.82,
+    "end": 832.92,
+    "text": "So, at our meeting with the supervisor on Monday, we can tell him we've decided on our project."
+  },
+  {
+    "index": 187,
+    "start": 833.3,
+    "end": 835.64,
+    "text": "We should have our aims ready by then."
+  },
+  {
+    "index": 188,
+    "start": 839.08,
+    "end": 845.26,
+    "text": "And there was another article I read by Smolinski."
+  },
+  {
+    "index": 189,
+    "start": 845.7,
+    "end": 854.54,
+    "text": "It was about her research on how women and men perform in mixed teams in class, compared with single -sex teams and on their own."
+  },
+  {
+    "index": 190,
+    "start": 854.66,
+    "end": 855.4,
+    "text": "Let me guess."
+  },
+  {
+    "index": 191,
+    "start": 855.7,
+    "end": 857.46,
+    "text": "The women were better at teamwork."
+  },
+  {
+    "index": 192,
+    "start": 857.46,
+    "end": 858.92,
+    "text": "That's what I expected."
+  },
+  {
+    "index": 193,
+    "start": 859.08,
+    "end": 866.26,
+    "text": "But actually, the men and the women got the same results, whether they were working in teams or on their own."
+  },
+  {
+    "index": 194,
+    "start": 867.28,
+    "end": 869.84,
+    "text": "But I guess it's not that relevant to us."
+  },
+  {
+    "index": 195,
+    "start": 870.28,
+    "end": 875.16,
+    "text": "What worries me, anyway, is how we're going to get everything done in the time."
+  },
+  {
+    "index": 196,
+    "start": 875.42,
+    "end": 877.68,
+    "text": "We'll be OK now we know what we're doing."
+  },
+  {
+    "index": 197,
+    "start": 878.12,
+    "end": 886.28,
+    "text": "Though I'm not clear how we assess whether the students in our experiment actually make any progress or not."
+  },
+  {
+    "index": 198,
+    "start": 886.28,
+    "end": 886.8,
+    "text": "No."
+  },
+  {
+    "index": 199,
+    "start": 887.3,
+    "end": 889.4,
+    "text": "We may need some advice on that."
+  },
+  {
+    "index": 200,
+    "start": 889.72,
+    "end": 895.7,
+    "text": "The main thing's to make sure we have the right size sample, not too big or too small."
+  },
+  {
+    "index": 201,
+    "start": 895.96,
+    "end": 897.26,
+    "text": "That shouldn't be difficult."
+  },
+  {
+    "index": 202,
+    "start": 898.4,
+    "end": 898.92,
+    "text": "Right."
+  },
+  {
+    "index": 203,
+    "start": 898.92,
+    "end": 900.68,
+    "text": "What do we need to do next?"
+  },
+  {
+    "index": 204,
+    "start": 901.06,
+    "end": 904.14,
+    "text": "We could have a look at the timetable for the science classes."
+  },
+  {
+    "index": 205,
+    "start": 904.66,
+    "end": 908.92,
+    "text": "Or perhaps we should just make an appointment to see one of the science professors."
+  },
+  {
+    "index": 206,
+    "start": 909.5,
+    "end": 910.36,
+    "text": "That'd be better."
+  },
+  {
+    "index": 207,
+    "start": 910.7,
+    "end": 911.1,
+    "text": "Great."
+  },
+  {
+    "index": 208,
+    "start": 911.34,
+    "end": 914.1,
+    "text": "And we could even get to observe one of the classes."
+  },
+  {
+    "index": 209,
+    "start": 914.46,
+    "end": 915.14,
+    "text": "What for?"
+  },
+  {
+    "index": 210,
+    "start": 915.14,
+    "end": 918.88,
+    "text": "Oh, well, OK, maybe let's just go with your idea."
+  },
+  {
+    "index": 211,
+    "start": 919.62,
+    "end": 920.06,
+    "text": "Right."
+  },
+  {
+    "index": 212,
+    "start": 920.36,
+    "end": 922.52,
+    "text": "Well, I think that's everything for now."
+  },
+  {
+    "index": 213,
+    "start": 924.12,
+    "end": 926.88,
+    "text": "I've been looking at ocean biodiversity."
+  },
+  {
+    "index": 214,
+    "start": 927.06,
+    "end": 931.24,
+    "text": "That's the diversity of species that live in the world's oceans."
+  },
+  {
+    "index": 215,
+    "start": 931.74,
+    "end": 939.18,
+    "text": "About 20 years ago, biologists developed the idea of what they called biodiversity hotspots."
+  },
+  {
+    "index": 216,
+    "start": 939.18,
+    "end": 943.52,
+    "text": "These are the areas which have the greatest mixture of species."
+  },
+  {
+    "index": 217,
+    "start": 943.84,
+    "end": 946.52,
+    "text": "So, one example is Madagascar."
+  },
+  {
+    "index": 218,
+    "start": 947.0,
+    "end": 954.86,
+    "text": "These hotspots are significant because they allow us to locate key areas for focusing efforts at conservation."
+  },
+  {
+    "index": 219,
+    "start": 954.86,
+    "end": 959.56,
+    "text": "Biologists can identify hotspots on land fairly easily."
+  },
+  {
+    "index": 220,
+    "start": 959.84,
+    "end": 966.6,
+    "text": "But until recently, very little was known about species distribution and diversity in the oceans."
+  },
+  {
+    "index": 221,
+    "start": 966.6,
+    "end": 970.36,
+    "text": "And no one even knew if hotspots existed there."
+  },
+  {
+    "index": 222,
+    "start": 970.92,
+    "end": 981.96,
+    "text": "Then a Canadian biologist called Boris Worm did some research in 2005 on data on ocean species that he got from the fishing industry."
+  },
+  {
+    "index": 223,
+    "start": 981.96,
+    "end": 990.58,
+    "text": "Worm located five hotspots for large ocean predators like sharks and looked at what they had in common."
+  },
+  {
+    "index": 224,
+    "start": 991.24,
+    "end": 997.12,
+    "text": "The main thing he'd expected to find was that they had very high concentrations of food."
+  },
+  {
+    "index": 225,
+    "start": 997.3,
+    "end": 1001.82,
+    "text": "But to his surprise, that was only true for four of the hotspots."
+  },
+  {
+    "index": 226,
+    "start": 1002.08,
+    "end": 1005.88,
+    "text": "The remaining hotspot was quite badly off in that regard."
+  },
+  {
+    "index": 227,
+    "start": 1006.14,
+    "end": 1017.16,
+    "text": "But what he did find was that in all cases, the water at the surface of the ocean had relatively high temperatures, even when it was cool at greater depths."
+  },
+  {
+    "index": 228,
+    "start": 1017.16,
+    "end": 1023.46,
+    "text": "So, this seemed to be a factor in supporting a diverse range of these large predators."
+  },
+  {
+    "index": 229,
+    "start": 1024.36,
+    "end": 1031.9,
+    "text": "However, this wasn't enough on its own, because he also found that the water needed to have enough oxygen in it."
+  },
+  {
+    "index": 230,
+    "start": 1032.06,
+    "end": 1038.48,
+    "text": "So these two factors seemed necessary to support the high metabolic rate of these large fish."
+  },
+  {
+    "index": 231,
+    "start": 1039.38,
+    "end": 1051.76,
+    "text": "A couple of years later, in 2007, a researcher called Lisa Balance, who was working in California, also started looking for ocean hotspots, but not for fish"
+  },
+  {
+    "index": 232,
+    "start": 1052.1,
+    "end": 1056.8,
+    "text": "What she was interested in was marine mammals, things like seals."
+  },
+  {
+    "index": 233,
+    "start": 1057.12,
+    "end": 1060.66,
+    "text": "And she found three places in the oceans which were hotspots."
+  },
+  {
+    "index": 234,
+    "start": 1060.66,
+    "end": 1068.26,
+    "text": "And what these had in common was that these hotspots were all located at boundaries between ocean currents."
+  },
+  {
+    "index": 235,
+    "start": 1068.62,
+    "end": 1075.0,
+    "text": "And this seems to be the sort of place that has lots of the plankton that some of these species feed on."
+  },
+  {
+    "index": 236,
+    "start": 1075.98,
+    "end": 1082.74,
+    "text": "So now people who want to protect the species that are endangered need to get as much information as possible."
+  },
+  {
+    "index": 237,
+    "start": 1082.74,
+    "end": 1087.92,
+    "text": "For example, there's an international project called the Census of Marine Life."
+  },
+  {
+    "index": 238,
+    "start": 1088.16,
+    "end": 1092.54,
+    "text": "They've been surveying oceans all over the world, including the Arctic."
+  },
+  {
+    "index": 239,
+    "start": 1093.08,
+    "end": 1105.32,
+    "text": "One thing they found there, which stunned other researchers, was that there were large numbers of species which live below the ice, sometimes under a layer up to 20 metres thick."
+  },
+  {
+    "index": 240,
+    "start": 1105.96,
+    "end": 1109.42,
+    "text": "Some of these species had never been seen before."
+  },
+  {
+    "index": 241,
+    "start": 1109.42,
+    "end": 1114.1,
+    "text": "They've even found species of octopus living in these conditions."
+  },
+  {
+    "index": 242,
+    "start": 1114.85,
+    "end": 1130.9,
+    "text": "And other scientists working on the same project, but researching very different habitats on the ocean floor, have found large numbers of species congregating around volcanoes, attracted to them by the warmth and nutrients there."
+  },
+  {
+    "index": 243,
+    "start": 1131.5,
+    "end": 1139.62,
+    "text": "However, biologists still don't know how serious the threat to their survival is for each individual species."
+  },
+  {
+    "index": 244,
+    "start": 1140.16,
+    "end": 1161.42,
+    "text": "So a body called the Global Marine Species Assessment is now creating a list of endangered species on land, so they consider things like the size of the population, how many members of one species there are in a particular place, and then they look at their distribution in geographical terms."
+  },
+  {
+    "index": 245,
+    "start": 1161.64,
+    "end": 1172.56,
+    "text": "Although this is quite difficult when you're looking at fish, because they're so mobile, and then thirdly they calculate the rate at which the decline of the species is happening."
+  },
+  {
+    "index": 246,
+    "start": 1173.62,
+    "end": 1181.74,
+    "text": "So far only 1 ,500 species have been assessed, but they want to increase this figure to 20 ,000."
+  },
+  {
+    "index": 247,
+    "start": 1182.22,
+    "end": 1190.26,
+    "text": "For each one they assess, they use the data they collect on that species to produce a map showing its distribution."
+  },
+  {
+    "index": 248,
+    "start": 1191.22,
+    "end": 1200.4,
+    "text": "Ultimately, they will be able to use these to figure out not only where most species are located, but also where they are most threatened."
+  },
+  {
+    "index": 249,
+    "start": 1201.06,
+    "end": 1207.14,
+    "text": "So, finally, what can be done to retain the diversity of species in the world's oceans?"
+  },
+  {
+    "index": 250,
+    "start": 1207.92,
+    "end": 1215.02,
+    "text": "Firstly, we need to set up more reserves in our oceans, places where marine species are protected."
+  },
+  {
+    "index": 251,
+    "start": 1215.28,
+    "end": 1217.4,
+    "text": "We have some, but not enough."
+  },
+  {
+    "index": 252,
+    "start": 1217.4,
+    "end": 1235.12,
+    "text": "In addition, to preserve species such as leatherback turtles, which live out in the high seas, but have their nesting sites on the American coast, we need to create corridors for migration, so they can get from one area to another safely."
+  },
+  {
+    "index": 253,
+    "start": 1235.84,
+    "end": 1244.78,
+    "text": "As well as this, action needs to be taken to lower the levels of fishing quotas to prevent overfishing of endangered species."
+  },
+  {
+    "index": 254,
+    "start": 1244.78,
+    "end": 1248.72,
+    "text": "And finally, there's the problem of bycatch."
+  },
+  {
+    "index": 255,
+    "start": 1249.24,
+    "end": 1253.54,
+    "text": "This refers to the catching of unwanted fish by fishing boats."
+  },
+  {
+    "index": 256,
+    "start": 1253.72,
+    "end": 1257.54,
+    "text": "They're returned to the sea, but they're often dead or dying."
+  },
+  {
+    "index": 257,
+    "start": 1258.06,
+    "end": 1269.26,
+    "text": "If these commercial fishing boats used equipment which was more selective so that only the fish wanted for consumption were caught, this problem could be overcome."
+  },
+  {
+    "index": 258,
+    "start": 1270.0,
+    "end": 1273.26,
+    "text": "OK, so does anyone have any questions..."
+  },
+  {
+    "index": 259,
+    "start": 1275.64,
+    "end": 1277.46,
+    "text": "Good morning, Youth Council."
+  },
+  {
+    "index": 260,
+    "start": 1277.76,
+    "end": 1278.56,
+    "text": "Caroline speaking."
+  },
+  {
+    "index": 261,
+    "start": 1279.2,
+    "end": 1279.56,
+    "text": "Oh, hello."
+  },
+  {
+    "index": 262,
+    "start": 1279.8,
+    "end": 1285.28,
+    "text": "I'm interested in standing for election to the Youth Council, and I was told to give you a call."
+  },
+  {
+    "index": 263,
+    "start": 1285.58,
+    "end": 1286.26,
+    "text": "That's good."
+  },
+  {
+    "index": 264,
+    "start": 1286.66,
+    "end": 1288.32,
+    "text": "Could I have your name, please?"
+  },
+  {
+    "index": 265,
+    "start": 1288.68,
+    "end": 1290.52,
+    "text": "Yes, it's Roger Brown."
+  },
+  {
+    "index": 266,
+    "start": 1291.06,
+    "end": 1291.62,
+    "text": "Thank you."
+  },
+  {
+    "index": 267,
+    "start": 1292.12,
+    "end": 1295.3,
+    "text": "I'm Caroline, the Youth Council Administrator."
+  },
+  {
+    "index": 268,
+    "start": 1295.3,
+    "end": 1298.9,
+    "text": "So, do you know much about what the council does, Roger?"
+  },
+  {
+    "index": 269,
+    "start": 1299.26,
+    "end": 1300.56,
+    "text": "I've talked to Stephanie."
+  },
+  {
+    "index": 270,
+    "start": 1300.86,
+    "end": 1303.32,
+    "text": "I think she's the chair of the council."
+  },
+  {
+    "index": 271,
+    "start": 1303.64,
+    "end": 1304.42,
+    "text": "That's right."
+  },
+  {
+    "index": 272,
+    "start": 1304.62,
+    "end": 1306.44,
+    "text": "And she told me a lot about it."
+  },
+  {
+    "index": 273,
+    "start": 1306.72,
+    "end": 1313.18,
+    "text": "How it's a way for young people to discuss local issues, for example, and make suggestions to the town council."
+  },
+  {
+    "index": 274,
+    "start": 1313.5,
+    "end": 1314.9,
+    "text": "That's what made me interested."
+  },
+  {
+    "index": 275,
+    "start": 1315.58,
+    "end": 1316.1,
+    "text": "Fine."
+  },
+  {
+    "index": 276,
+    "start": 1316.4,
+    "end": 1318.9,
+    "text": "Well, let me take down some of your details."
+  },
+  {
+    "index": 277,
+    "start": 1319.58,
+    "end": 1321.84,
+    "text": "First of all, how old are you?"
+  },
+  {
+    "index": 278,
+    "start": 1321.84,
+    "end": 1326.22,
+    "text": "You know the council is for young people aged from 13 to 18?"
+  },
+  {
+    "index": 279,
+    "start": 1326.54,
+    "end": 1327.98,
+    "text": "I've just turned 18."
+  },
+  {
+    "index": 280,
+    "start": 1328.46,
+    "end": 1330.14,
+    "text": "And where do you live, Roger?"
+  },
+  {
+    "index": 281,
+    "start": 1330.68,
+    "end": 1332.94,
+    "text": "Well, that's a bit complicated."
+  },
+  {
+    "index": 282,
+    "start": 1333.24,
+    "end": 1339.66,
+    "text": "At the moment, I'm looking for a flat to rent here, so I'm in a hostel from Monday to Friday."
+  },
+  {
+    "index": 283,
+    "start": 1340.02,
+    "end": 1342.52,
+    "text": "I go back to my parents' place at the weekend."
+  },
+  {
+    "index": 284,
+    "start": 1343.06,
+    "end": 1343.56,
+    "text": "OK."
+  },
+  {
+    "index": 285,
+    "start": 1344.04,
+    "end": 1347.84,
+    "text": "So where's the best place to send you some information about the council?"
+  },
+  {
+    "index": 286,
+    "start": 1348.22,
+    "end": 1350.08,
+    "text": "Oh, to my parents' address, please."
+  },
+  {
+    "index": 287,
+    "start": 1350.08,
+    "end": 1353.8,
+    "text": "That's 17 Buckley Street."
+  },
+  {
+    "index": 288,
+    "start": 1354.58,
+    "end": 1360.54,
+    "text": "B -U -C -K -L -E -I -G -H Street."
+  },
+  {
+    "index": 289,
+    "start": 1361.28,
+    "end": 1363.4,
+    "text": "Stamford, Lincolnshire."
+  },
+  {
+    "index": 290,
+    "start": 1363.82,
+    "end": 1365.88,
+    "text": "Though you don't really need the county."
+  },
+  {
+    "index": 291,
+    "start": 1366.42,
+    "end": 1368.04,
+    "text": "Oh, I know Stamford."
+  },
+  {
+    "index": 292,
+    "start": 1368.04,
+    "end": 1369.66,
+    "text": "It's a lovely town."
+  },
+  {
+    "index": 293,
+    "start": 1369.96,
+    "end": 1371.52,
+    "text": "And what's the postcode?"
+  },
+  {
+    "index": 294,
+    "start": 1371.92,
+    "end": 1375.84,
+    "text": "P -E -9 -7 -Q -T."
+  },
+  {
+    "index": 295,
+    "start": 1376.3,
+    "end": 1376.86,
+    "text": "Right."
+  },
+  {
+    "index": 296,
+    "start": 1377.26,
+    "end": 1377.98,
+    "text": "Thank you."
+  },
+  {
+    "index": 297,
+    "start": 1377.98,
+    "end": 1381.54,
+    "text": "So are you working here or are you a student?"
+  },
+  {
+    "index": 298,
+    "start": 1382.28,
+    "end": 1388.54,
+    "text": "I started studying at the university a couple of weeks ago and I've got a part -time job for a few hours a week."
+  },
+  {
+    "index": 299,
+    "start": 1388.74,
+    "end": 1389.58,
+    "text": "What do you do?"
+  },
+  {
+    "index": 300,
+    "start": 1389.94,
+    "end": 1391.84,
+    "text": "Well, I've done several different things."
+  },
+  {
+    "index": 301,
+    "start": 1392.06,
+    "end": 1398.94,
+    "text": "I've just finished a short -term contract as a courier and now I'm working as a waiter in one of the big hotels."
+  },
+  {
+    "index": 302,
+    "start": 1398.94,
+    "end": 1399.76,
+    "text": "Uh -huh."
+  },
+  {
+    "index": 303,
+    "start": 1400.16,
+    "end": 1402.16,
+    "text": "That can't leave you much time for studying."
+  },
+  {
+    "index": 304,
+    "start": 1402.5,
+    "end": 1403.72,
+    "text": "Oh, it's not too bad."
+  },
+  {
+    "index": 305,
+    "start": 1403.92,
+    "end": 1405.32,
+    "text": "I managed to fit it all in."
+  },
+  {
+    "index": 306,
+    "start": 1405.78,
+    "end": 1406.84,
+    "text": "What are you studying?"
+  },
+  {
+    "index": 307,
+    "start": 1407.26,
+    "end": 1412.38,
+    "text": "My ambition is to go into parliament eventually, so my major subject is politics."
+  },
+  {
+    "index": 308,
+    "start": 1413.16,
+    "end": 1418.0,
+    "text": "That's partly why I think the Youth Council is important and want to be a part of it."
+  },
+  {
+    "index": 309,
+    "start": 1418.32,
+    "end": 1421.88,
+    "text": "And I suppose you're also taking a minor subject, aren't you?"
+  },
+  {
+    "index": 310,
+    "start": 1421.88,
+    "end": 1424.98,
+    "text": "I know a lot of people study economics too."
+  },
+  {
+    "index": 311,
+    "start": 1425.26,
+    "end": 1426.58,
+    "text": "I chose history."
+  },
+  {
+    "index": 312,
+    "start": 1426.9,
+    "end": 1430.28,
+    "text": "To be honest, I'm not finding it as interesting as I expected."
+  },
+  {
+    "index": 313,
+    "start": 1431.1,
+    "end": 1431.5,
+    "text": "OK."
+  },
+  {
+    "index": 314,
+    "start": 1431.88,
+    "end": 1437.84,
+    "text": "So with your studying and your part -time job, do you have time for any other interests or hobbies?"
+  },
+  {
+    "index": 315,
+    "start": 1438.28,
+    "end": 1448.06,
+    "text": "Well, I spend quite a lot of time cycling, both around town to get to university and to work, and also long distance, from here to London, for instance."
+  },
+  {
+    "index": 316,
+    "start": 1448.06,
+    "end": 1449.92,
+    "text": "That's pretty impressive."
+  },
+  {
+    "index": 317,
+    "start": 1450.44,
+    "end": 1451.38,
+    "text": "Anything else?"
+  },
+  {
+    "index": 318,
+    "start": 1452.0,
+    "end": 1454.74,
+    "text": "For relaxation, I'm also keen on the cinema."
+  },
+  {
+    "index": 319,
+    "start": 1455.16,
+    "end": 1459.58,
+    "text": "I used to go at least once a week, but I can't manage to go so often now."
+  },
+  {
+    "index": 320,
+    "start": 1460.12,
+    "end": 1460.52,
+    "text": "Right."
+  },
+  {
+    "index": 321,
+    "start": 1460.96,
+    "end": 1463.94,
+    "text": "Are you sure you'll have enough time for the Youth Council?"
+  },
+  {
+    "index": 322,
+    "start": 1464.34,
+    "end": 1464.78,
+    "text": "Yes."
+  },
+  {
+    "index": 323,
+    "start": 1464.98,
+    "end": 1469.28,
+    "text": "I've worked out that I can afford to reduce my hours at work, and that will make the time."
+  },
+  {
+    "index": 324,
+    "start": 1469.54,
+    "end": 1474.38,
+    "text": "So is there any particular aspect of the Youth Council's work that appeals to you, Roger?"
+  },
+  {
+    "index": 325,
+    "start": 1474.84,
+    "end": 1485.12,
+    "text": "Well, my sister is blind, so I'm particularly interested in working with disabled young people to try and improve the quality of their lives."
+  },
+  {
+    "index": 326,
+    "start": 1485.34,
+    "end": 1486.32,
+    "text": "That's great."
+  },
+  {
+    "index": 327,
+    "start": 1486.7,
+    "end": 1491.6,
+    "text": "Well, the best way to get involved is to be nominated by some people who you know."
+  },
+  {
+    "index": 328,
+    "start": 1491.84,
+    "end": 1492.28,
+    "text": "Right."
+  },
+  {
+    "index": 329,
+    "start": 1492.72,
+    "end": 1495.2,
+    "text": "Can you tell me how to set about organising that?"
+  },
+  {
+    "index": 330,
+    "start": 1495.48,
+    "end": 1498.8,
+    "text": "You should talk to Geoffrey, our elections officer."
+  },
+  {
+    "index": 331,
+    "start": 1499.1,
+    "end": 1502.86,
+    "text": "I can arrange a meeting in the council office with him, if you like."
+  },
+  {
+    "index": 332,
+    "start": 1503.02,
+    "end": 1503.78,
+    "text": "Yes, please."
+  },
+  {
+    "index": 333,
+    "start": 1503.78,
+    "end": 1507.64,
+    "text": "He'll be here next Monday, if that suits you."
+  },
+  {
+    "index": 334,
+    "start": 1507.94,
+    "end": 1509.98,
+    "text": "That's the 14th, isn't it?"
+  },
+  {
+    "index": 335,
+    "start": 1510.26,
+    "end": 1510.58,
+    "text": "Yes."
+  },
+  {
+    "index": 336,
+    "start": 1510.98,
+    "end": 1512.64,
+    "text": "I can manage late afternoon."
+  },
+  {
+    "index": 337,
+    "start": 1513.1,
+    "end": 1515.04,
+    "text": "Would you like to suggest a time?"
+  },
+  {
+    "index": 338,
+    "start": 1515.28,
+    "end": 1517.84,
+    "text": "He generally leaves around 5 .30."
+  },
+  {
+    "index": 339,
+    "start": 1518.42,
+    "end": 1520.8,
+    "text": "Well, would 4 .30 be OK?"
+  },
+  {
+    "index": 340,
+    "start": 1521.52,
+    "end": 1525.9,
+    "text": "My last class finishes at 4, so I'd have plenty of time to get to your office."
+  },
+  {
+    "index": 341,
+    "start": 1526.42,
+    "end": 1527.74,
+    "text": "Right, that's fine."
+  },
+  {
+    "index": 342,
+    "start": 1528.22,
+    "end": 1531.84,
+    "text": "Oh, and could I have a phone number we can contact you on?"
+  },
+  {
+    "index": 343,
+    "start": 1532.06,
+    "end": 1532.54,
+    "text": "Yes."
+  },
+  {
+    "index": 344,
+    "start": 1532.82,
+    "end": 1539.8,
+    "text": "My mobile number's 07788136711."
+  },
+  {
+    "index": 345,
+    "start": 1540.56,
+    "end": 1541.64,
+    "text": "Thank you."
+  },
+  {
+    "index": 346,
+    "start": 1541.92,
+    "end": 1544.52,
+    "text": "Well, we'll look forward to seeing you next week."
+  },
+  {
+    "index": 347,
+    "start": 1544.82,
+    "end": 1545.86,
+    "text": "Thanks very much."
+  },
+  {
+    "index": 348,
+    "start": 1546.16,
+    "end": 1546.64,
+    "text": "Goodbye."
+  },
+  {
+    "index": 349,
+    "start": 1547.22,
+    "end": 1547.6,
+    "text": "Bye."
+  },
+  {
+    "index": 350,
+    "start": 1549.36,
+    "end": 1549.98,
+    "text": "Hi."
+  },
+  {
+    "index": 351,
+    "start": 1550.36,
+    "end": 1550.72,
+    "text": "Hi."
+  },
+  {
+    "index": 352,
+    "start": 1550.72,
+    "end": 1551.34,
+    "text": "Great to see you."
+  },
+  {
+    "index": 353,
+    "start": 1551.74,
+    "end": 1558.46,
+    "text": "I'm Jodie, and I'll be looking after both of you for the first month you're working here at the Amersham Theatre."
+  },
+  {
+    "index": 354,
+    "start": 1559.54,
+    "end": 1564.9,
+    "text": "I'll tell you something about the theatre now, then take you to meet two of the other staff."
+  },
+  {
+    "index": 355,
+    "start": 1566.14,
+    "end": 1570.4,
+    "text": "It's an old building, and it's been modernised several times."
+  },
+  {
+    "index": 356,
+    "start": 1570.84,
+    "end": 1576.38,
+    "text": "In fact, as you can see, we're carrying out a major refurbishment at the moment."
+  },
+  {
+    "index": 357,
+    "start": 1576.98,
+    "end": 1583.32,
+    "text": "The interior has just been repainted, and we're about to start on the exterior of the building."
+  },
+  {
+    "index": 358,
+    "start": 1583.66,
+    "end": 1585.2,
+    "text": "That'll be a big job."
+  },
+  {
+    "index": 359,
+    "start": 1585.84,
+    "end": 1591.0,
+    "text": "The work's running over budget, so we've had to postpone installing an elevator."
+  },
+  {
+    "index": 360,
+    "start": 1591.46,
+    "end": 1594.3,
+    "text": "I hope you're happy running up and down stairs."
+  },
+  {
+    "index": 361,
+    "start": 1595.3,
+    "end": 1603.02,
+    "text": "When the theatre was built, people were generally slimmer and shorter than now, and the seats were very close together."
+  },
+  {
+    "index": 362,
+    "start": 1603.64,
+    "end": 1607.52,
+    "text": "We've replaced them with larger seats, with more legroom."
+  },
+  {
+    "index": 363,
+    "start": 1608.24,
+    "end": 1617.92,
+    "text": "This means fewer seats in total, but we've taken the opportunity to install seats that can easily be moved to create different acting spaces."
+  },
+  {
+    "index": 364,
+    "start": 1618.82,
+    "end": 1624.42,
+    "text": "We've also turned a few storerooms over to other purposes, like using them for meetings."
+  },
+  {
+    "index": 365,
+    "start": 1625.86,
+    "end": 1629.76,
+    "text": "We try hard to involve members of the public in the theatre."
+  },
+  {
+    "index": 366,
+    "start": 1630.32,
+    "end": 1638.76,
+    "text": "One way is by organising backstage tours, so people can be shown round the building and learn how a theatre operates."
+  },
+  {
+    "index": 367,
+    "start": 1639.26,
+    "end": 1641.26,
+    "text": "These are proving very popular."
+  },
+  {
+    "index": 368,
+    "start": 1642.38,
+    "end": 1652.86,
+    "text": "What we're finding is that people want to have lunch or a cup of coffee while they're here, so we're looking into the possibility of opening a cafe in due course."
+  },
+  {
+    "index": 369,
+    "start": 1653.64,
+    "end": 1660.42,
+    "text": "We have a bookshop, which specialises in books about drama, and that attracts plenty of customers."
+  },
+  {
+    "index": 370,
+    "start": 1661.44,
+    "end": 1671.34,
+    "text": "Then there are two large rooms that will be decorated next month, and they'll be available for hire, for conferences and private functions, such as parties."
+  },
+  {
+    "index": 371,
+    "start": 1672.26,
+    "end": 1676.3,
+    "text": "We're also considering hiring out costumes to amateur drama clubs."
+  },
+  {
+    "index": 372,
+    "start": 1678.66,
+    "end": 1681.04,
+    "text": "Now I want to tell you about our workshops."
+  },
+  {
+    "index": 373,
+    "start": 1682.0,
+    "end": 1686.4,
+    "text": "We recently started a programme of workshops that anyone can join."
+  },
+  {
+    "index": 374,
+    "start": 1687.34,
+    "end": 1694.76,
+    "text": "Eventually, we intend to run courses in acting, but we're waiting until we've got the right people in place as trainers."
+  },
+  {
+    "index": 375,
+    "start": 1695.96,
+    "end": 1698.72,
+    "text": "That's proving more difficult than we'd expected."
+  },
+  {
+    "index": 376,
+    "start": 1699.88,
+    "end": 1709.0,
+    "text": "There's a big demand to learn about the technical side of putting on a production, and our lighting workshop has already started with great success."
+  },
+  {
+    "index": 377,
+    "start": 1709.86,
+    "end": 1712.7,
+    "text": "We're going to start one on sound next month."
+  },
+  {
+    "index": 378,
+    "start": 1713.52,
+    "end": 1719.84,
+    "text": "A number of people have enquired about workshops on make -up, and that's something we're considering for the future."
+  },
+  {
+    "index": 379,
+    "start": 1720.84,
+    "end": 1724.9,
+    "text": "A surprise success is the workshop on making puppets."
+  },
+  {
+    "index": 380,
+    "start": 1725.12,
+    "end": 1730.94,
+    "text": "We happen to have someone working here who does it as a hobby, and she offered to run a workshop."
+  },
+  {
+    "index": 381,
+    "start": 1731.38,
+    "end": 1735.08,
+    "text": "It was so popular, we're now running them every month."
+  },
+  {
+    "index": 382,
+    "start": 1736.0,
+    "end": 1738.86,
+    "text": "Now, a word about the layout of the building."
+  },
+  {
+    "index": 383,
+    "start": 1739.7,
+    "end": 1745.46,
+    "text": "The auditorium, stage and dressing rooms for the actors are all below ground level."
+  },
+  {
+    "index": 384,
+    "start": 1746.12,
+    "end": 1750.94,
+    "text": "Here on the ground floor, we have most of the rooms that the public doesn't see."
+  },
+  {
+    "index": 385,
+    "start": 1751.46,
+    "end": 1756.7,
+    "text": "The majority are internal, so they have windows in the roof to light them."
+  },
+  {
+    "index": 386,
+    "start": 1757.94,
+    "end": 1765.92,
+    "text": "Standing here in the foyer, you're probably wondering why the box office isn't here, where the public would expect to find it."
+  },
+  {
+    "index": 387,
+    "start": 1766.9,
+    "end": 1769.92,
+    "text": "Well, you might have noticed it on your way in."
+  },
+  {
+    "index": 388,
+    "start": 1770.42,
+    "end": 1775.72,
+    "text": "Although it's part of this building, it's next door, with a separate entrance from the road."
+  },
+  {
+    "index": 389,
+    "start": 1776.82,
+    "end": 1782.88,
+    "text": "For the theatre manager's office, you go across the foyer and through the double doors."
+  },
+  {
+    "index": 390,
+    "start": 1783.38,
+    "end": 1788.98,
+    "text": "Turn right, and it's the room at the end of the corridor, with the door on the left."
+  },
+  {
+    "index": 391,
+    "start": 1790.6,
+    "end": 1797.76,
+    "text": "The lighting box is where the computerised stage lighting is operated, and it's at the back of the building."
+  },
+  {
+    "index": 392,
+    "start": 1798.68,
+    "end": 1807.2,
+    "text": "When you're through the double doors, turn left, turn right at the water cooler, and right again at the end."
+  },
+  {
+    "index": 393,
+    "start": 1807.96,
+    "end": 1810.48,
+    "text": "It's the second room along that corridor."
+  },
+  {
+    "index": 394,
+    "start": 1811.44,
+    "end": 1816.96,
+    "text": "The lighting box has a window into the auditorium, which of course is below us."
+  },
+  {
+    "index": 395,
+    "start": 1818.08,
+    "end": 1827.94,
+    "text": "The artistic director's office is through the double doors, turn right, and it's the first room you come to on the right -hand side."
+  },
+  {
+    "index": 396,
+    "start": 1829.06,
+    "end": 1835.0,
+    "text": "And finally, for the moment, the room where I'll take you next, the relaxation room."
+  },
+  {
+    "index": 397,
+    "start": 1835.78,
+    "end": 1838.2,
+    "text": "So, if you'd like to come with me..."
+  },
+  {
+    "index": 398,
+    "start": 1839.84,
+    "end": 1847.7,
+    "text": "I've brought my notes on our biology field trip to Rocky Bay, Colin, so we can work on our report on the research we did together."
+  },
+  {
+    "index": 399,
+    "start": 1847.98,
+    "end": 1848.4,
+    "text": "OK."
+  },
+  {
+    "index": 400,
+    "start": 1848.76,
+    "end": 1849.82,
+    "text": "I've got mine too."
+  },
+  {
+    "index": 401,
+    "start": 1850.0,
+    "end": 1852.16,
+    "text": "Let's look at the aims of the trip first."
+  },
+  {
+    "index": 402,
+    "start": 1852.46,
+    "end": 1852.96,
+    "text": "Right."
+  },
+  {
+    "index": 403,
+    "start": 1853.08,
+    "end": 1854.26,
+    "text": "What did you have?"
+  },
+  {
+    "index": 404,
+    "start": 1854.26,
+    "end": 1860.48,
+    "text": "I just put something about getting experience of the different sorts of procedures used on a field trip."
+  },
+  {
+    "index": 405,
+    "start": 1860.76,
+    "end": 1866.32,
+    "text": "But we need something about what causes different organisms to choose particular habitats."
+  },
+  {
+    "index": 406,
+    "start": 1866.56,
+    "end": 1867.26,
+    "text": "I agree."
+  },
+  {
+    "index": 407,
+    "start": 1867.56,
+    "end": 1872.92,
+    "text": "And something about finding out how to protect organisms in danger of dying out."
+  },
+  {
+    "index": 408,
+    "start": 1873.1,
+    "end": 1874.1,
+    "text": "In our aims?"
+  },
+  {
+    "index": 409,
+    "start": 1874.26,
+    "end": 1874.46,
+    "text": "Mm."
+  },
+  {
+    "index": 410,
+    "start": 1874.68,
+    "end": 1876.5,
+    "text": "But we weren't really looking at that."
+  },
+  {
+    "index": 411,
+    "start": 1876.7,
+    "end": 1877.92,
+    "text": "I suppose not."
+  },
+  {
+    "index": 412,
+    "start": 1878.44,
+    "end": 1879.0,
+    "text": "OK."
+  },
+  {
+    "index": 413,
+    "start": 1879.32,
+    "end": 1883.16,
+    "text": "Now there's the list of equipment we all had to bring on the field trip."
+  },
+  {
+    "index": 414,
+    "start": 1883.66,
+    "end": 1886.04,
+    "text": "What did they tell us to bring a ruler for?"
+  },
+  {
+    "index": 415,
+    "start": 1886.36,
+    "end": 1889.06,
+    "text": "It was something about measuring the slope of the shore."
+  },
+  {
+    "index": 416,
+    "start": 1889.62,
+    "end": 1895.34,
+    "text": "But, of course, we didn't need it because we were measuring wind direction and we'd brought the compass for that."
+  },
+  {
+    "index": 417,
+    "start": 1895.54,
+    "end": 1898.46,
+    "text": "But not the piece of string to hold up in the air."
+  },
+  {
+    "index": 418,
+    "start": 1899.32,
+    "end": 1902.86,
+    "text": "Didn't Mr Blake make a fuss about us leaving that behind?"
+  },
+  {
+    "index": 419,
+    "start": 1903.04,
+    "end": 1903.36,
+    "text": "Yeah."
+  },
+  {
+    "index": 420,
+    "start": 1903.72,
+    "end": 1904.78,
+    "text": "He does go on."
+  },
+  {
+    "index": 421,
+    "start": 1905.32,
+    "end": 1908.12,
+    "text": "Anyway, it was easy to get one from another of the students."
+  },
+  {
+    "index": 422,
+    "start": 1908.86,
+    "end": 1911.5,
+    "text": "Now, the next section's the procedure."
+  },
+  {
+    "index": 423,
+    "start": 1911.76,
+    "end": 1913.82,
+    "text": "I sent you the draft of that."
+  },
+  {
+    "index": 424,
+    "start": 1914.22,
+    "end": 1914.48,
+    "text": "Yeah."
+  },
+  {
+    "index": 425,
+    "start": 1914.98,
+    "end": 1925.62,
+    "text": "Um, it was clear, but I don't think we need all these details of what time we left and what time we got back and how we divided up the different research tasks."
+  },
+  {
+    "index": 426,
+    "start": 1925.84,
+    "end": 1926.62,
+    "text": "Mm, OK."
+  },
+  {
+    "index": 427,
+    "start": 1927.0,
+    "end": 1928.32,
+    "text": "I'll look at that again."
+  },
+  {
+    "index": 428,
+    "start": 1928.94,
+    "end": 1933.12,
+    "text": "Then we have to describe our method of investigation in detail."
+  },
+  {
+    "index": 429,
+    "start": 1933.38,
+    "end": 1933.62,
+    "text": "Mm."
+  },
+  {
+    "index": 430,
+    "start": 1933.62,
+    "end": 1936.98,
+    "text": "So let's begin with how we measured wave speed."
+  },
+  {
+    "index": 431,
+    "start": 1937.28,
+    "end": 1939.96,
+    "text": "I was surprised how straightforward that was."
+  },
+  {
+    "index": 432,
+    "start": 1940.24,
+    "end": 1947.26,
+    "text": "I'd expected us to have some sort of high -tech device, not just stand there and count the number of waves per minute."
+  },
+  {
+    "index": 433,
+    "start": 1947.54,
+    "end": 1950.92,
+    "text": "Not very precise, but I suppose it was good enough."
+  },
+  {
+    "index": 434,
+    "start": 1951.46,
+    "end": 1954.46,
+    "text": "But the way we measured the amount of salt was interesting."
+  },
+  {
+    "index": 435,
+    "start": 1954.8,
+    "end": 1956.46,
+    "text": "In the water from the rock pools?"
+  },
+  {
+    "index": 436,
+    "start": 1956.46,
+    "end": 1957.0,
+    "text": "Yeah."
+  },
+  {
+    "index": 437,
+    "start": 1957.44,
+    "end": 1962.0,
+    "text": "Oh, I wanted to check the chemicals we used in the lab when we analysed those samples."
+  },
+  {
+    "index": 438,
+    "start": 1962.4,
+    "end": 1965.6,
+    "text": "Was it potassium chromate and silver nitrate?"
+  },
+  {
+    "index": 439,
+    "start": 1965.86,
+    "end": 1966.38,
+    "text": "That's right."
+  },
+  {
+    "index": 440,
+    "start": 1966.8,
+    "end": 1967.16,
+    "text": "OK."
+  },
+  {
+    "index": 441,
+    "start": 1967.6,
+    "end": 1970.0,
+    "text": "And we need the map of the seashore."
+  },
+  {
+    "index": 442,
+    "start": 1970.2,
+    "end": 1971.76,
+    "text": "You just left that to me."
+  },
+  {
+    "index": 443,
+    "start": 1972.52,
+    "end": 1975.34,
+    "text": "And I had to do it while the tide was low."
+  },
+  {
+    "index": 444,
+    "start": 1975.6,
+    "end": 1980.66,
+    "text": "Well, that was OK, but the place I started it from was down on the beach."
+  },
+  {
+    "index": 445,
+    "start": 1980.84,
+    "end": 1986.24,
+    "text": "Then I realised I should have gone up higher to get better visibility, so I had to start all over again."
+  },
+  {
+    "index": 446,
+    "start": 1986.46,
+    "end": 1991.72,
+    "text": "But at least I'd got the squared paper, or I'd have had problems drawing it all to scale."
+  },
+  {
+    "index": 447,
+    "start": 1991.96,
+    "end": 1992.3,
+    "text": "Yeah."
+  },
+  {
+    "index": 448,
+    "start": 1992.64,
+    "end": 1993.52,
+    "text": "It looks good."
+  },
+  {
+    "index": 449,
+    "start": 1994.1,
+    "end": 1998.5,
+    "text": "We could get a map of the region off the internet and see if we need to make any changes."
+  },
+  {
+    "index": 450,
+    "start": 1998.86,
+    "end": 1999.22,
+    "text": "Hmm."
+  },
+  {
+    "index": 451,
+    "start": 1999.42,
+    "end": 2001.92,
+    "text": "I had a look, but I couldn't find anything."
+  },
+  {
+    "index": 452,
+    "start": 2002.28,
+    "end": 2004.34,
+    "text": "But you took some pictures, didn't you?"
+  },
+  {
+    "index": 453,
+    "start": 2004.68,
+    "end": 2005.14,
+    "text": "Yeah."
+  },
+  {
+    "index": 454,
+    "start": 2005.42,
+    "end": 2007.08,
+    "text": "I'll email you them if you want."
+  },
+  {
+    "index": 455,
+    "start": 2007.4,
+    "end": 2007.82,
+    "text": "OK."
+  },
+  {
+    "index": 456,
+    "start": 2008.3,
+    "end": 2010.58,
+    "text": "I'll make my amendments using those."
+  },
+  {
+    "index": 457,
+    "start": 2010.86,
+    "end": 2013.04,
+    "text": "Then I can scan it into our report."
+  },
+  {
+    "index": 458,
+    "start": 2013.36,
+    "end": 2013.74,
+    "text": "Great."
+  },
+  {
+    "index": 459,
+    "start": 2014.6,
+    "end": 2025.26,
+    "text": "Now, when we get to our findings, I thought we could divide them up into the different zones we identified on the shore and the problems organisms face in each zone."
+  },
+  {
+    "index": 460,
+    "start": 2025.48,
+    "end": 2027.12,
+    "text": "So for the highest area..."
+  },
+  {
+    "index": 461,
+    "start": 2027.6,
+    "end": 2028.46,
+    "text": "The splash zone."
+  },
+  {
+    "index": 462,
+    "start": 2028.78,
+    "end": 2029.08,
+    "text": "Yeah."
+  },
+  {
+    "index": 463,
+    "start": 2029.5,
+    "end": 2034.72,
+    "text": "We found mostly those tiny shellfish that have strong hard shells that act as protection."
+  },
+  {
+    "index": 464,
+    "start": 2035.06,
+    "end": 2037.54,
+    "text": "But not from other organisms that might eat them."
+  },
+  {
+    "index": 465,
+    "start": 2037.82,
+    "end": 2038.32,
+    "text": "Predators."
+  },
+  {
+    "index": 466,
+    "start": 2038.32,
+    "end": 2040.94,
+    "text": "No, that's not the main danger for them."
+  },
+  {
+    "index": 467,
+    "start": 2041.06,
+    "end": 2046.26,
+    "text": "But the shells prevent them from drying out because they're in the open air for most of the time."
+  },
+  {
+    "index": 468,
+    "start": 2046.44,
+    "end": 2046.58,
+    "text": "Right."
+  },
+  {
+    "index": 469,
+    "start": 2047.08,
+    "end": 2053.98,
+    "text": "And since they're exposed, they need to be able to find some sort of shelter or cover themselves up so they don't get too hot."
+  },
+  {
+    "index": 470,
+    "start": 2054.1,
+    "end": 2054.24,
+    "text": "Hmm."
+  },
+  {
+    "index": 471,
+    "start": 2055.0,
+    "end": 2060.88,
+    "text": "Then in the middle and lower zones nearer the sea, we need to discuss the effects of wave action."
+  },
+  {
+    "index": 472,
+    "start": 2060.88,
+    "end": 2069.12,
+    "text": "Yes, and how organisms develop structures to prevent themselves from being swept away or even destroyed by being smashed against the rocks."
+  },
+  {
+    "index": 473,
+    "start": 2069.28,
+    "end": 2072.54,
+    "text": "I haven't done anything on the geological changes."
+  },
+  {
+    "index": 474,
+    "start": 2072.62,
+    "end": 2074.22,
+    "text": "I don't know what to put for that."
+  },
+  {
+    "index": 475,
+    "start": 2074.64,
+    "end": 2074.94,
+    "text": "Hmm."
+  },
+  {
+    "index": 476,
+    "start": 2075.18,
+    "end": 2077.52,
+    "text": "No, we weren't concentrating on that."
+  },
+  {
+    "index": 477,
+    "start": 2078.02,
+    "end": 2080.18,
+    "text": "Maybe we need to find some websites."
+  },
+  {
+    "index": 478,
+    "start": 2080.64,
+    "end": 2081.34,
+    "text": "Good idea."
+  },
+  {
+    "index": 479,
+    "start": 2081.84,
+    "end": 2086.86,
+    "text": "I've got the lecture notes from Mr Blake's geology course, but they're too general."
+  },
+  {
+    "index": 480,
+    "start": 2086.86,
+    "end": 2087.44,
+    "text": "Hmm."
+  },
+  {
+    "index": 481,
+    "start": 2087.78,
+    "end": 2091.64,
+    "text": "But we could ask him which books on our reading list might be most helpful."
+  },
+  {
+    "index": 482,
+    "start": 2092.0,
+    "end": 2092.34,
+    "text": "Right."
+  },
+  {
+    "index": 483,
+    "start": 2093.02,
+    "end": 2093.54,
+    "text": "OK."
+  },
+  {
+    "index": 484,
+    "start": 2093.92,
+    "end": 2100.84,
+    "text": "Now, I did a draft of the section of sources of possible error in our research, but I don't know if you agree."
+  },
+  {
+    "index": 485,
+    "start": 2101.36,
+    "end": 2107.08,
+    "text": "For example, the size of the sample and whether it's big enough to make any general conclusions from."
+  },
+  {
+    "index": 486,
+    "start": 2107.32,
+    "end": 2110.74,
+    "text": "But I thought, actually, we did have quite a big sample."
+  },
+  {
+    "index": 487,
+    "start": 2110.9,
+    "end": 2111.36,
+    "text": "We did."
+  },
+  {
+    "index": 488,
+    "start": 2111.7,
+    "end": 2114.82,
+    "text": "And our general method of observation seemed quite reliable."
+  },
+  {
+    "index": 489,
+    "start": 2115.62,
+    "end": 2119.88,
+    "text": "But we might not be all that accurate as far as the actual numbers go."
+  },
+  {
+    "index": 490,
+    "start": 2120.32,
+    "end": 2120.52,
+    "text": "Yeah."
+  },
+  {
+    "index": 491,
+    "start": 2120.76,
+    "end": 2125.2,
+    "text": "We might have missed some organisms if they were hiding under a rock, for example."
+  },
+  {
+    "index": 492,
+    "start": 2125.4,
+    "end": 2125.84,
+    "text": "Hmm."
+  },
+  {
+    "index": 493,
+    "start": 2126.06,
+    "end": 2129.18,
+    "text": "I wasn't sure about the way we described their habitats."
+  },
+  {
+    "index": 494,
+    "start": 2129.56,
+    "end": 2131.84,
+    "text": "I decided it was probably OK."
+  },
+  {
+    "index": 495,
+    "start": 2132.48,
+    "end": 2132.86,
+    "text": "Yeah."
+  },
+  {
+    "index": 496,
+    "start": 2133.08,
+    "end": 2140.3,
+    "text": "And the descriptions we gave of the smaller organisms, they weren't very detailed, but they were adequate in this context."
+  },
+  {
+    "index": 497,
+    "start": 2140.92,
+    "end": 2144.3,
+    "text": "I'm not sure we identified all the species correctly, though."
+  },
+  {
+    "index": 498,
+    "start": 2144.3,
+    "end": 2145.08,
+    "text": "OK."
+  },
+  {
+    "index": 499,
+    "start": 2145.48,
+    "end": 2146.86,
+    "text": "We'd better mention that."
+  },
+  {
+    "index": 500,
+    "start": 2147.54,
+    "end": 2149.26,
+    "text": "Now, how are we going..."
+  },
+  {
+    "index": 501,
+    "start": 2149.26,
+    "end": 2156.56,
+    "text": "We've been discussing the factors the architect has to consider when designing domestic buildings."
+  },
+  {
+    "index": 502,
+    "start": 2156.98,
+    "end": 2169.9,
+    "text": "I'm going to move on now to consider the design of public buildings, and I'll illustrate this by referring to the new Taylor Concert Hall that's recently been completed here in the city."
+  },
+  {
+    "index": 503,
+    "start": 2169.9,
+    "end": 2179.98,
+    "text": "So, as with a domestic building, when designing a public building, an architect needs to consider the function of the building."
+  },
+  {
+    "index": 504,
+    "start": 2180.2,
+    "end": 2188.14,
+    "text": "For example, is it to be used primarily for entertainment or for education or for administration?"
+  },
+  {
+    "index": 505,
+    "start": 2189.08,
+    "end": 2194.64,
+    "text": "The second thing the architect needs to think about is the context of the building."
+  },
+  {
+    "index": 506,
+    "start": 2194.64,
+    "end": 2205.24,
+    "text": "This includes its physical location, obviously, but it also includes the social meaning of the building, how it relates to the people it's built for."
+  },
+  {
+    "index": 507,
+    "start": 2205.86,
+    "end": 2220.6,
+    "text": "And finally, for important public buildings, the architect may also be looking for a central symbolic idea on which to base the design, a sort of metaphor for the building and the way in which it is used."
+  },
+  {
+    "index": 508,
+    "start": 2221.8,
+    "end": 2226.12,
+    "text": "Let's look at the new Taylor Concert Hall in relation to these ideas."
+  },
+  {
+    "index": 509,
+    "start": 2226.96,
+    "end": 2233.78,
+    "text": "The location chosen was a site in a run -down district that has been ignored in previous redevelopment plans."
+  },
+  {
+    "index": 510,
+    "start": 2234.14,
+    "end": 2238.22,
+    "text": "It was occupied by a factory that has been empty for some years."
+  },
+  {
+    "index": 511,
+    "start": 2238.84,
+    "end": 2249.5,
+    "text": "The whole area was some distance from the high -rise office blocks of the central business district and shopping centre, but it was only one kilometre from the ring road."
+  },
+  {
+    "index": 512,
+    "start": 2249.5,
+    "end": 2259.54,
+    "text": "The site itself was bordered to the north by a canal, which had once been used by boats bringing in raw materials when the area was used for manufacturing."
+  },
+  {
+    "index": 513,
+    "start": 2261.26,
+    "end": 2264.62,
+    "text": "The architect chosen for the project was Tom Harrison."
+  },
+  {
+    "index": 514,
+    "start": 2265.04,
+    "end": 2273.32,
+    "text": "He found the main design challenge was the location of the site in an area that had no neighbouring buildings of any importance."
+  },
+  {
+    "index": 515,
+    "start": 2273.92,
+    "end": 2290.62,
+    "text": "To reflect the fact that the significance of the building in this quite run -down location was as yet unknown, he decided to create a building centred around the idea of a mystery, something whose meaning still has to be discovered."
+  },
+  {
+    "index": 516,
+    "start": 2291.54,
+    "end": 2295.54,
+    "text": "So, how was this reflected in the design of the building?"
+  },
+  {
+    "index": 517,
+    "start": 2295.54,
+    "end": 2304.56,
+    "text": "Well, Harrison decided to create pedestrian access to the building and to make use of the presence of water on the site."
+  },
+  {
+    "index": 518,
+    "start": 2305.22,
+    "end": 2310.06,
+    "text": "As people approached the entrance, they therefore have to cross over a bridge."
+  },
+  {
+    "index": 519,
+    "start": 2310.44,
+    "end": 2324.36,
+    "text": "He wanted to give people a feeling of suspense as they see the building first from a distance and then close up, and the initial impression he wanted to create from the shape of the building as a whole was that of a box."
+  },
+  {
+    "index": 520,
+    "start": 2325.31,
+    "end": 2332.86,
+    "text": "The first side that people see, the southern wall, is just a high, flat wall uninterrupted by any windows."
+  },
+  {
+    "index": 521,
+    "start": 2333.36,
+    "end": 2343.54,
+    "text": "This might sound off -putting, but it supports Harrison's concept of the building, that the person approaching is intrigued and wonders what will be inside."
+  },
+  {
+    "index": 522,
+    "start": 2344.2,
+    "end": 2347.46,
+    "text": "And this flat wall also has another purpose."
+  },
+  {
+    "index": 523,
+    "start": 2347.94,
+    "end": 2355.78,
+    "text": "At night -time, projectors are switched on, and it functions as a huge screen onto which images are projected."
+  },
+  {
+    "index": 524,
+    "start": 2356.72,
+    "end": 2360.32,
+    "text": "The auditorium itself seats 1 ,500 people."
+  },
+  {
+    "index": 525,
+    "start": 2360.74,
+    "end": 2364.1,
+    "text": "The floor is supported by ten massive pads."
+  },
+  {
+    "index": 526,
+    "start": 2364.56,
+    "end": 2373.1,
+    "text": "These are constructed from rubber and so are able to absorb any vibrations from outside and prevent them from affecting the auditorium."
+  },
+  {
+    "index": 527,
+    "start": 2373.89,
+    "end": 2379.98,
+    "text": "The walls are made of several layers of honey -coloured wood, all sourced from local beech trees."
+  },
+  {
+    "index": 528,
+    "start": 2380.9,
+    "end": 2389.08,
+    "text": "In order to improve the acoustic properties of the auditorium and to amplify the sound, they are not straight, they are curved."
+  },
+  {
+    "index": 529,
+    "start": 2390.02,
+    "end": 2396.12,
+    "text": "The acoustics are also adjustable, according to the size of orchestra and the type of music being played."
+  },
+  {
+    "index": 530,
+    "start": 2396.62,
+    "end": 2411.44,
+    "text": "In order to achieve this, there are nine movable panels in the ceiling above the orchestra, which are all individually motorised. and the walls also have curtains which can be opened or closed to change the acoustics."
+  },
+  {
+    "index": 531,
+    "start": 2413.0,
+    "end": 2417.12,
+    "text": "The reaction of the public to the new building has generally been positive."
+  },
+  {
+    "index": 532,
+    "start": 2417.58,
+    "end": 2422.5,
+    "text": "However, the evaluation of some critics has been less enthusiastic."
+  },
+  {
+    "index": 533,
+    "start": 2423.4,
+    "end": 2438.66,
+    "text": "In spite of Harrison's efforts to use local materials, they criticise the style of the design as being international rather than local, and say it doesn't reflect features of the landscape or society for which it is built."
+  },
+  {
+    "index": 534,
+    "start": 2440.92,
+    "end": 2443.9,
+    "text": "Good morning, this is Burnham Tourist Office Martin speaking."
+  },
+  {
+    "index": 535,
+    "start": 2444.5,
+    "end": 2445.02,
+    "text": "Oh, hello."
+  },
+  {
+    "index": 536,
+    "start": 2445.36,
+    "end": 2451.94,
+    "text": "I saw a poster about free things to do in the area, and it said people should phone you for information."
+  },
+  {
+    "index": 537,
+    "start": 2452.42,
+    "end": 2464.46,
+    "text": "I'm coming to Burnham with my husband and two children for a few days on June the 27th or possibly the 28th, and I'd like some ideas for things to do on the"
+  },
+  {
+    "index": 538,
+    "start": 2464.46,
+    "end": 2465.2,
+    "text": "29th."
+  },
+  {
+    "index": 539,
+    "start": 2465.3,
+    "end": 2466.16,
+    "text": "Yes, of course."
+  },
+  {
+    "index": 540,
+    "start": 2466.42,
+    "end": 2466.8,
+    "text": "OK."
+  },
+  {
+    "index": 541,
+    "start": 2467.3,
+    "end": 2470.26,
+    "text": "Then let's start with a couple of events especially for children."
+  },
+  {
+    "index": 542,
+    "start": 2470.62,
+    "end": 2477.64,
+    "text": "The Art Gallery is holding an event called Family Welcome that day, when there are activities and trails to use throughout the gallery."
+  },
+  {
+    "index": 543,
+    "start": 2477.96,
+    "end": 2479.3,
+    "text": "That sounds interesting."
+  },
+  {
+    "index": 544,
+    "start": 2479.64,
+    "end": 2481.02,
+    "text": "What time does it start?"
+  },
+  {
+    "index": 545,
+    "start": 2481.32,
+    "end": 2486.18,
+    "text": "The gallery opens at 10 and the Family Welcome event runs from 10 .30 until 2 o 'clock."
+  },
+  {
+    "index": 546,
+    "start": 2486.62,
+    "end": 2493.78,
+    "text": "The gallery stays open until 5, and several times during the day they're going to show a short film that the gallery has produced."
+  },
+  {
+    "index": 547,
+    "start": 2494.08,
+    "end": 2499.94,
+    "text": "It demonstrates how ceramics are made, and there'll be equipment and materials for children to have a go themselves."
+  },
+  {
+    "index": 548,
+    "start": 2500.66,
+    "end": 2507.94,
+    "text": "Last time they ran the event there was a film about painting, which went down very well with the children, and they're now working on one about sculpture."
+  },
+  {
+    "index": 549,
+    "start": 2508.64,
+    "end": 2510.38,
+    "text": "I like the sound of that."
+  },
+  {
+    "index": 550,
+    "start": 2510.78,
+    "end": 2513.32,
+    "text": "And what other events happen in Burnham?"
+  },
+  {
+    "index": 551,
+    "start": 2513.58,
+    "end": 2515.4,
+    "text": "Well, do you all enjoy listening to music?"
+  },
+  {
+    "index": 552,
+    "start": 2515.64,
+    "end": 2516.46,
+    "text": "Oh, yes."
+  },
+  {
+    "index": 553,
+    "start": 2516.9,
+    "end": 2527.72,
+    "text": "Well, there are several free concerts taking place at different times, one or two in the morning, the majority at lunchtime, and a couple in the evening, and they range from pop music to Latin American."
+  },
+  {
+    "index": 554,
+    "start": 2528.16,
+    "end": 2530.14,
+    "text": "The Latin American could be fun."
+  },
+  {
+    "index": 555,
+    "start": 2530.3,
+    "end": 2531.38,
+    "text": "What time is that?"
+  },
+  {
+    "index": 556,
+    "start": 2531.64,
+    "end": 2534.32,
+    "text": "It's being repeated several times in different places."
+  },
+  {
+    "index": 557,
+    "start": 2534.64,
+    "end": 2543.98,
+    "text": "They're performing in the Central Library at 1 o 'clock, then at 4 it's in the City Museum, and in the evening at 7 .30 there's a longer concert in the theatre."
+  },
+  {
+    "index": 558,
+    "start": 2544.56,
+    "end": 2544.94,
+    "text": "Right."
+  },
+  {
+    "index": 559,
+    "start": 2545.12,
+    "end": 2547.42,
+    "text": "I'll suggest that to the rest of the family."
+  },
+  {
+    "index": 560,
+    "start": 2547.68,
+    "end": 2550.98,
+    "text": "Something else you might be interested in is the boat race along the river."
+  },
+  {
+    "index": 561,
+    "start": 2551.24,
+    "end": 2552.14,
+    "text": "Oh, yes."
+  },
+  {
+    "index": 562,
+    "start": 2552.14,
+    "end": 2553.5,
+    "text": "Do tell me about that."
+  },
+  {
+    "index": 563,
+    "start": 2553.76,
+    "end": 2558.82,
+    "text": "The race starts at Offord Marina to the north of Burnham and goes as far as Summer Pool."
+  },
+  {
+    "index": 564,
+    "start": 2559.26,
+    "end": 2563.66,
+    "text": "The best place to watch it from is Charlesworth Bridge, though that does get rather crowded."
+  },
+  {
+    "index": 565,
+    "start": 2564.02,
+    "end": 2565.48,
+    "text": "And who's taking part?"
+  },
+  {
+    "index": 566,
+    "start": 2565.86,
+    "end": 2568.94,
+    "text": "Well, local boat clubs, but the standard is very high."
+  },
+  {
+    "index": 567,
+    "start": 2569.54,
+    "end": 2574.02,
+    "text": "One of them came first in the West of England Regional Championship in May this year."
+  },
+  {
+    "index": 568,
+    "start": 2574.28,
+    "end": 2576.56,
+    "text": "It was the first time a team from Burnham has won."
+  },
+  {
+    "index": 569,
+    "start": 2577.0,
+    "end": 2581.16,
+    "text": "It means that next year they'll be representing the region in the National Championship."
+  },
+  {
+    "index": 570,
+    "start": 2582.14,
+    "end": 2585.5,
+    "text": "Now, I've heard something about Paxton Nature Reserve."
+  },
+  {
+    "index": 571,
+    "start": 2585.88,
+    "end": 2589.16,
+    "text": "It's a good place for spotting unusual birds, isn't it?"
+  },
+  {
+    "index": 572,
+    "start": 2589.34,
+    "end": 2590.78,
+    "text": "That's right, throughout the year."
+  },
+  {
+    "index": 573,
+    "start": 2591.3,
+    "end": 2595.66,
+    "text": "There is a lake there as well as a river, and they provide a very attractive habitat."
+  },
+  {
+    "index": 574,
+    "start": 2595.86,
+    "end": 2598.68,
+    "text": "So it's a good idea to bring binoculars if you have them."
+  },
+  {
+    "index": 575,
+    "start": 2598.96,
+    "end": 2602.56,
+    "text": "And just at the moment you can see various flowers that are pretty unusual."
+  },
+  {
+    "index": 576,
+    "start": 2602.92,
+    "end": 2604.82,
+    "text": "The soil at Paxton isn't very common."
+  },
+  {
+    "index": 577,
+    "start": 2605.3,
+    "end": 2606.72,
+    "text": "They're looking good right now."
+  },
+  {
+    "index": 578,
+    "start": 2607.2,
+    "end": 2607.68,
+    "text": "Right."
+  },
+  {
+    "index": 579,
+    "start": 2607.68,
+    "end": 2611.0,
+    "text": "My husband will be particularly interested in that."
+  },
+  {
+    "index": 580,
+    "start": 2611.28,
+    "end": 2618.62,
+    "text": "And there's going to be a talk and slideshow about mushrooms, and you'll be able to go out and pick some afterwards and study the different varieties."
+  },
+  {
+    "index": 581,
+    "start": 2619.26,
+    "end": 2619.72,
+    "text": "Uh -huh."
+  },
+  {
+    "index": 582,
+    "start": 2620.06,
+    "end": 2622.9,
+    "text": "And is it possible for children to swim in the river?"
+  },
+  {
+    "index": 583,
+    "start": 2623.12,
+    "end": 2623.5,
+    "text": "Yes."
+  },
+  {
+    "index": 584,
+    "start": 2623.72,
+    "end": 2626.7,
+    "text": "Part of it has been fenced off to make it safe for children to swim in."
+  },
+  {
+    "index": 585,
+    "start": 2626.9,
+    "end": 2630.52,
+    "text": "It's very shallow, and there's a lifeguard on duty whenever it's open."
+  },
+  {
+    "index": 586,
+    "start": 2630.84,
+    "end": 2633.7,
+    "text": "The lake is too deep, so swimming isn't allowed there."
+  },
+  {
+    "index": 587,
+    "start": 2633.7,
+    "end": 2634.6,
+    "text": "OK."
+  },
+  {
+    "index": 588,
+    "start": 2634.94,
+    "end": 2638.58,
+    "text": "We must remember to bring their swimming things in case we go to Paxton."
+  },
+  {
+    "index": 589,
+    "start": 2639.22,
+    "end": 2642.42,
+    "text": "How long does it take to get there by car from Burnham?"
+  },
+  {
+    "index": 590,
+    "start": 2643.06,
+    "end": 2650.3,
+    "text": "About 20 minutes, but parking is very limited, so it's usually much easier to go by bus, and it takes about the same time."
+  },
+  {
+    "index": 591,
+    "start": 2650.72,
+    "end": 2651.1,
+    "text": "Right."
+  },
+  {
+    "index": 592,
+    "start": 2651.62,
+    "end": 2654.74,
+    "text": "Well, I'll discuss the options with the rest of the family."
+  },
+  {
+    "index": 593,
+    "start": 2655.02,
+    "end": 2657.1,
+    "text": "Thanks very much for all your help."
+  },
+  {
+    "index": 594,
+    "start": 2657.24,
+    "end": 2657.7,
+    "text": "You're welcome."
+  },
+  {
+    "index": 595,
+    "start": 2658.02,
+    "end": 2658.48,
+    "text": "Goodbye."
+  },
+  {
+    "index": 596,
+    "start": 2658.8,
+    "end": 2659.04,
+    "text": "Bye."
+  },
+  {
+    "index": 597,
+    "start": 2660.64,
+    "end": 2665.5,
+    "text": "First of all, let me thank you all for coming to this public meeting to discuss the future of our town."
+  },
+  {
+    "index": 598,
+    "start": 2665.86,
+    "end": 2670.0,
+    "text": "Our first speaker is Shona Ferguson from Barford Town Council."
+  },
+  {
+    "index": 599,
+    "start": 2670.26,
+    "end": 2670.76,
+    "text": "Shona."
+  },
+  {
+    "index": 600,
+    "start": 2671.32,
+    "end": 2672.18,
+    "text": "Thank you."
+  },
+  {
+    "index": 601,
+    "start": 2672.66,
+    "end": 2679.2,
+    "text": "First, I'll briefly give you some background information, then I'll be asking you for your comments on developments in the town."
+  },
+  {
+    "index": 602,
+    "start": 2679.96,
+    "end": 2685.92,
+    "text": "Well, as you don't need me to tell you, Barford has changed a great deal in the last 50 years."
+  },
+  {
+    "index": 603,
+    "start": 2686.44,
+    "end": 2688.48,
+    "text": "These are some of the main changes."
+  },
+  {
+    "index": 604,
+    "start": 2689.14,
+    "end": 2695.06,
+    "text": "50 years ago, buses linked virtually every part of the town and the neighbouring towns and villages."
+  },
+  {
+    "index": 605,
+    "start": 2695.42,
+    "end": 2703.76,
+    "text": "Most people use them frequently, but not now, because the bus companies concentrate on just the routes that attract most passengers."
+  },
+  {
+    "index": 606,
+    "start": 2704.18,
+    "end": 2707.48,
+    "text": "So parts of the town are no longer served by buses."
+  },
+  {
+    "index": 607,
+    "start": 2708.2,
+    "end": 2715.22,
+    "text": "Even replacing old, uncomfortable buses with smart new ones has had little impact on passenger numbers."
+  },
+  {
+    "index": 608,
+    "start": 2715.8,
+    "end": 2724.52,
+    "text": "It's sometimes said that bus fares are too high, but in relation to average incomes, fares are not much higher than they were 50 years ago."
+  },
+  {
+    "index": 609,
+    "start": 2725.84,
+    "end": 2729.02,
+    "text": "Changes in the road network are affecting the town."
+  },
+  {
+    "index": 610,
+    "start": 2729.26,
+    "end": 2735.52,
+    "text": "The centre was recently closed to traffic on a trial basis, making it much safer for pedestrians."
+  },
+  {
+    "index": 611,
+    "start": 2736.08,
+    "end": 2738.38,
+    "text": "The impact of this is being measured."
+  },
+  {
+    "index": 612,
+    "start": 2739.0,
+    "end": 2749.92,
+    "text": "The new cycle paths, separating bikes from cars in most main roads, are being used far more than was expected, reducing traffic and improving air quality."
+  },
+  {
+    "index": 613,
+    "start": 2750.34,
+    "end": 2759.2,
+    "text": "And although the council's attempts to have a bypass constructed have failed, we haven't given up hope of persuading the government to change its mind."
+  },
+  {
+    "index": 614,
+    "start": 2760.34,
+    "end": 2763.4,
+    "text": "Shopping in the town centre has changed over the years."
+  },
+  {
+    "index": 615,
+    "start": 2763.84,
+    "end": 2767.72,
+    "text": "Many of us can remember when the town was crowded with people going shopping."
+  },
+  {
+    "index": 616,
+    "start": 2768.14,
+    "end": 2776.02,
+    "text": "Numbers have been falling for several years, despite efforts to attract shoppers, for instance, by opening new car parks."
+  },
+  {
+    "index": 617,
+    "start": 2776.8,
+    "end": 2780.8,
+    "text": "Some people combine shopping with visits to the town's restaurants and cafes."
+  },
+  {
+    "index": 618,
+    "start": 2781.32,
+    "end": 2793.76,
+    "text": "Most shops are small, independent stores, which is good, but many people prefer to use supermarkets and department stores in nearby large towns, as there are so few well -known chain stores here."
+  },
+  {
+    "index": 619,
+    "start": 2794.76,
+    "end": 2796.9,
+    "text": "Turning now to medical facilities."
+  },
+  {
+    "index": 620,
+    "start": 2797.3,
+    "end": 2805.88,
+    "text": "The town is served by family doctors in several medical practices, fewer than 50 years ago, but each catering for far more patients."
+  },
+  {
+    "index": 621,
+    "start": 2806.66,
+    "end": 2812.48,
+    "text": "Our hospital closed 15 years ago, which means journeys to other towns are unavoidable."
+  },
+  {
+    "index": 622,
+    "start": 2812.72,
+    "end": 2816.78,
+    "text": "On the other hand, there are more dentists than there used to be."
+  },
+  {
+    "index": 623,
+    "start": 2817.68,
+    "end": 2821.18,
+    "text": "Employment patterns have changed, along with almost everything else."
+  },
+  {
+    "index": 624,
+    "start": 2821.48,
+    "end": 2826.42,
+    "text": "The number of schools and colleges has increased, making that the main employment sector."
+  },
+  {
+    "index": 625,
+    "start": 2826.94,
+    "end": 2838.7,
+    "text": "Services such as website design and accountancy have grown in importance, and surprisingly perhaps, manufacturing hasn't seen the decline that has affected it in other parts of the country."
+  },
+  {
+    "index": 626,
+    "start": 2839.92,
+    "end": 2846.68,
+    "text": "Now I'll very quickly outline current plans for some of the town's facilities, before asking for your comments."
+  },
+  {
+    "index": 627,
+    "start": 2847.96,
+    "end": 2853.48,
+    "text": "As you'll know, if you regularly use the car park at the railway station, it's usually full."
+  },
+  {
+    "index": 628,
+    "start": 2853.76,
+    "end": 2859.8,
+    "text": "The railway company applied for permission to replace it with a multi -storey car park, but that was refused."
+  },
+  {
+    "index": 629,
+    "start": 2859.8,
+    "end": 2866.2,
+    "text": "Instead, the company has bought some adjoining land, and this will be used to increase the number of parking spaces."
+  },
+  {
+    "index": 630,
+    "start": 2867.06,
+    "end": 2874.04,
+    "text": "The Grand, the old cinema in the high street, will close at the end of the year and reopen on a different site."
+  },
+  {
+    "index": 631,
+    "start": 2874.14,
+    "end": 2876.7,
+    "text": "You've probably seen the building under construction."
+  },
+  {
+    "index": 632,
+    "start": 2877.04,
+    "end": 2884.06,
+    "text": "The plan is to have three screens with fewer seats rather than just the one large auditorium in the old cinema."
+  },
+  {
+    "index": 633,
+    "start": 2884.82,
+    "end": 2888.04,
+    "text": "I expect many of you shop in the indoor market."
+  },
+  {
+    "index": 634,
+    "start": 2888.04,
+    "end": 2895.66,
+    "text": "It's become more and more shabby looking, and because of fears about safety, it was threatened with demolition."
+  },
+  {
+    "index": 635,
+    "start": 2895.94,
+    "end": 2903.56,
+    "text": "The good news is that it will close for six weeks to be made safe and redecorated, and the improved building will open in July."
+  },
+  {
+    "index": 636,
+    "start": 2904.5,
+    "end": 2909.98,
+    "text": "Lots of people use the library, including school and college students who go there to study."
+  },
+  {
+    "index": 637,
+    "start": 2910.42,
+    "end": 2916.46,
+    "text": "The council has managed to secure funding to keep the library open later into the evening, twice a week."
+  },
+  {
+    "index": 638,
+    "start": 2916.46,
+    "end": 2922.74,
+    "text": "We would like to enlarge the building in the not -too -distant future, but this is by no means definite."
+  },
+  {
+    "index": 639,
+    "start": 2923.62,
+    "end": 2929.82,
+    "text": "There's no limit on access to the nature reserve on the edge of town, and this will continue to be the case."
+  },
+  {
+    "index": 640,
+    "start": 2930.04,
+    "end": 2934.96,
+    "text": "What will change, though, is that the council will no longer be in charge of the area."
+  },
+  {
+    "index": 641,
+    "start": 2935.3,
+    "end": 2942.24,
+    "text": "Instead, it will become the responsibility of a national body that administers most nature reserves in the country."
+  },
+  {
+    "index": 642,
+    "start": 2943.04,
+    "end": 2946.44,
+    "text": "OK, now let me ask you if you have..."
+  },
+  {
+    "index": 643,
+    "start": 2947.84,
+    "end": 2948.68,
+    "text": "Hello, Helen."
+  },
+  {
+    "index": 644,
+    "start": 2949.08,
+    "end": 2949.74,
+    "text": "Sorry I'm late."
+  },
+  {
+    "index": 645,
+    "start": 2949.96,
+    "end": 2950.68,
+    "text": "Hi, Jeremy."
+  },
+  {
+    "index": 646,
+    "start": 2950.82,
+    "end": 2951.32,
+    "text": "No problem."
+  },
+  {
+    "index": 647,
+    "start": 2951.84,
+    "end": 2955.34,
+    "text": "Well, we'd better work out where we are on our project, I suppose."
+  },
+  {
+    "index": 648,
+    "start": 2955.72,
+    "end": 2961.36,
+    "text": "Yeah, I've looked at the drawings you've done for my story, the forest, and I think they're brilliant."
+  },
+  {
+    "index": 649,
+    "start": 2961.62,
+    "end": 2965.08,
+    "text": "They really create the atmosphere I had in mind when I was writing it."
+  },
+  {
+    "index": 650,
+    "start": 2965.2,
+    "end": 2966.52,
+    "text": "I'm glad you like them."
+  },
+  {
+    "index": 651,
+    "start": 2966.68,
+    "end": 2970.0,
+    "text": "There are just a few suggestions I'd like to make."
+  },
+  {
+    "index": 652,
+    "start": 2970.18,
+    "end": 2970.56,
+    "text": "Go ahead."
+  },
+  {
+    "index": 653,
+    "start": 2970.56,
+    "end": 2974.44,
+    "text": "Now, I'm not sure about the drawing of the cave."
+  },
+  {
+    "index": 654,
+    "start": 2974.8,
+    "end": 2981.3,
+    "text": "It's got trees all around it, which is great, but the drawing's a bit too static, isn't it?"
+  },
+  {
+    "index": 655,
+    "start": 2981.58,
+    "end": 2983.42,
+    "text": "I think it needs some action."
+  },
+  {
+    "index": 656,
+    "start": 2983.76,
+    "end": 2985.34,
+    "text": "Yes, there's nothing happening."
+  },
+  {
+    "index": 657,
+    "start": 2986.28,
+    "end": 2990.02,
+    "text": "Perhaps I should add the boy, Malcolm, isn't it?"
+  },
+  {
+    "index": 658,
+    "start": 2990.26,
+    "end": 2991.88,
+    "text": "He would be walking up to it."
+  },
+  {
+    "index": 659,
+    "start": 2992.22,
+    "end": 2994.8,
+    "text": "Yes, let's have Malcolm in the drawing."
+  },
+  {
+    "index": 660,
+    "start": 2995.58,
+    "end": 3000.82,
+    "text": "And what about putting in a tiger, the one that he makes friends with a bit later?"
+  },
+  {
+    "index": 661,
+    "start": 3001.12,
+    "end": 3005.06,
+    "text": "Maybe it could be sitting under a tree, washing itself."
+  },
+  {
+    "index": 662,
+    "start": 3005.34,
+    "end": 3009.9,
+    "text": "And the tiger stops in the middle of what it's doing when it sees Malcolm walking past."
+  },
+  {
+    "index": 663,
+    "start": 3010.12,
+    "end": 3011.0,
+    "text": "That's a good idea."
+  },
+  {
+    "index": 664,
+    "start": 3011.26,
+    "end": 3012.58,
+    "text": "OK, I'll have a go at that."
+  },
+  {
+    "index": 665,
+    "start": 3013.02,
+    "end": 3016.22,
+    "text": "Then there's the drawing of the crowd of men and women dancing."
+  },
+  {
+    "index": 666,
+    "start": 3016.76,
+    "end": 3020.34,
+    "text": "They're just outside the forest, and there's a lot going on."
+  },
+  {
+    "index": 667,
+    "start": 3020.64,
+    "end": 3021.4,
+    "text": "That's right."
+  },
+  {
+    "index": 668,
+    "start": 3021.52,
+    "end": 3026.52,
+    "text": "You wanted them to be watching a carnival procession, but I thought it would be too crowded."
+  },
+  {
+    "index": 669,
+    "start": 3026.96,
+    "end": 3028.5,
+    "text": "Do you think it works like this?"
+  },
+  {
+    "index": 670,
+    "start": 3029.56,
+    "end": 3031.58,
+    "text": "Yes, I like what you've done."
+  },
+  {
+    "index": 671,
+    "start": 3032.0,
+    "end": 3037.46,
+    "text": "The only thing is, could you add Malcolm to it without changing what's already there?"
+  },
+  {
+    "index": 672,
+    "start": 3038.84,
+    "end": 3042.64,
+    "text": "What about having him sitting on the tree trunk on the right of the picture?"
+  },
+  {
+    "index": 673,
+    "start": 3043.54,
+    "end": 3045.12,
+    "text": "Yes, that would be fine."
+  },
+  {
+    "index": 674,
+    "start": 3045.4,
+    "end": 3047.6,
+    "text": "And do you want him watching the other people?"
+  },
+  {
+    "index": 675,
+    "start": 3047.86,
+    "end": 3052.04,
+    "text": "No, he's been left out of all the fun, so I'd like him to be crying."
+  },
+  {
+    "index": 676,
+    "start": 3052.56,
+    "end": 3058.0,
+    "text": "That'll contrast nicely with the next picture where he's laughing at the clowns in the carnival."
+  },
+  {
+    "index": 677,
+    "start": 3058.16,
+    "end": 3059.36,
+    "text": "Right, I'll do that."
+  },
+  {
+    "index": 678,
+    "start": 3059.86,
+    "end": 3063.34,
+    "text": "And then the drawing of the people ice skating in the forest."
+  },
+  {
+    "index": 679,
+    "start": 3063.52,
+    "end": 3069.18,
+    "text": "I wasn't too happy with that one, because they're supposed to be skating on grass, aren't they?"
+  },
+  {
+    "index": 680,
+    "start": 3069.3,
+    "end": 3071.16,
+    "text": "That's right, and it's frozen over."
+  },
+  {
+    "index": 681,
+    "start": 3071.76,
+    "end": 3074.76,
+    "text": "At the moment, it doesn't look quite right."
+  },
+  {
+    "index": 682,
+    "start": 3075.4,
+    "end": 3076.74,
+    "text": "I see what you mean."
+  },
+  {
+    "index": 683,
+    "start": 3077.14,
+    "end": 3078.66,
+    "text": "I'll have another go at that."
+  },
+  {
+    "index": 684,
+    "start": 3079.1,
+    "end": 3081.74,
+    "text": "And I like the wool hats they're wearing."
+  },
+  {
+    "index": 685,
+    "start": 3081.98,
+    "end": 3084.52,
+    "text": "Maybe you could give each of them a scarf as well?"
+  },
+  {
+    "index": 686,
+    "start": 3084.52,
+    "end": 3086.1,
+    "text": "Yeah, that's easy enough."
+  },
+  {
+    "index": 687,
+    "start": 3086.34,
+    "end": 3090.26,
+    "text": "They can be streaming out behind the people to suggest they're skating really fast."
+  },
+  {
+    "index": 688,
+    "start": 3090.56,
+    "end": 3091.12,
+    "text": "Great."
+  },
+  {
+    "index": 689,
+    "start": 3091.96,
+    "end": 3094.16,
+    "text": "Well, that's all on the drawings."
+  },
+  {
+    "index": 690,
+    "start": 3094.54,
+    "end": 3094.9,
+    "text": "Right."
+  },
+  {
+    "index": 691,
+    "start": 3095.1,
+    "end": 3103.6,
+    "text": "So, you finish writing your story, and I just need to finish illustrating it, and my story and your drawings are done."
+  },
+  {
+    "index": 692,
+    "start": 3104.8,
+    "end": 3114.34,
+    "text": "So, the next thing is to decide what exactly we need to write about in the report that goes with the stories, and how we're going to divide the work."
+  },
+  {
+    "index": 693,
+    "start": 3114.34,
+    "end": 3115.0,
+    "text": "Right, Helen."
+  },
+  {
+    "index": 694,
+    "start": 3115.8,
+    "end": 3120.62,
+    "text": "What do you think about including a section on how we planned the project as a whole, Jeremy?"
+  },
+  {
+    "index": 695,
+    "start": 3120.98,
+    "end": 3122.62,
+    "text": "That's probably quite important."
+  },
+  {
+    "index": 696,
+    "start": 3122.96,
+    "end": 3126.72,
+    "text": "Yeah, well, you've had most of the good ideas so far."
+  },
+  {
+    "index": 697,
+    "start": 3127.38,
+    "end": 3129.44,
+    "text": "How do you feel about drafting something?"
+  },
+  {
+    "index": 698,
+    "start": 3129.7,
+    "end": 3132.38,
+    "text": "Then we can go through it together and discuss it."
+  },
+  {
+    "index": 699,
+    "start": 3132.58,
+    "end": 3134.14,
+    "text": "Okay, that seems reasonable."
+  },
+  {
+    "index": 700,
+    "start": 3134.82,
+    "end": 3139.24,
+    "text": "And I could include something on how we came up with the ideas for our two stories, couldn't I?"
+  },
+  {
+    "index": 701,
+    "start": 3139.24,
+    "end": 3146.58,
+    "text": "Well, I've started writing something about that, so why don't you do the same and we can include the two things?"
+  },
+  {
+    "index": 702,
+    "start": 3146.8,
+    "end": 3147.02,
+    "text": "Right."
+  },
+  {
+    "index": 703,
+    "start": 3147.3,
+    "end": 3150.32,
+    "text": "So, what about our interpretation of the stories?"
+  },
+  {
+    "index": 704,
+    "start": 3150.58,
+    "end": 3156.56,
+    "text": "Do we need to write about what we think they show, like the value of helping other people or that sort of thing?"
+  },
+  {
+    "index": 705,
+    "start": 3157.34,
+    "end": 3159.22,
+    "text": "That's going to come up later, isn't it?"
+  },
+  {
+    "index": 706,
+    "start": 3159.84,
+    "end": 3168.76,
+    "text": "I think everyone in the class is going to read each other's stories and come up with their own interpretations which we're going to discuss."
+  },
+  {
+    "index": 707,
+    "start": 3169.08,
+    "end": 3170.48,
+    "text": "Oh, I missed that."
+  },
+  {
+    "index": 708,
+    "start": 3170.7,
+    "end": 3173.72,
+    "text": "So, it isn't going to be part of the report at all?"
+  },
+  {
+    "index": 709,
+    "start": 3173.8,
+    "end": 3181.78,
+    "text": "No, but we need to write about the illustrations because they're an essential element of children's experience of reading the stories."
+  },
+  {
+    "index": 710,
+    "start": 3182.46,
+    "end": 3188.24,
+    "text": "It's probably easiest for you to write that section as you know more about drawing than I do."
+  },
+  {
+    "index": 711,
+    "start": 3188.56,
+    "end": 3191.44,
+    "text": "Maybe, but I find it quite hard to write about."
+  },
+  {
+    "index": 712,
+    "start": 3191.92,
+    "end": 3193.7,
+    "text": "I'd be happier if you did it."
+  },
+  {
+    "index": 713,
+    "start": 3194.08,
+    "end": 3194.58,
+    "text": "OK."
+  },
+  {
+    "index": 714,
+    "start": 3195.46,
+    "end": 3197.58,
+    "text": "So, when do you think we can get this ready?"
+  },
+  {
+    "index": 715,
+    "start": 3199.9,
+    "end": 3205.28,
+    "text": "So, what I'm going to talk about to you today is something called ethnography."
+  },
+  {
+    "index": 716,
+    "start": 3205.76,
+    "end": 3210.9,
+    "text": "This is a type of research aimed at exploring the way human cultures work."
+  },
+  {
+    "index": 717,
+    "start": 3211.2,
+    "end": 3218.84,
+    "text": "It was first developed for use in anthropology and it's also been used in sociology and communication studies."
+  },
+  {
+    "index": 718,
+    "start": 3218.84,
+    "end": 3223.16,
+    "text": "So, what's it got to do with business, you may ask?"
+  },
+  {
+    "index": 719,
+    "start": 3223.5,
+    "end": 3238.46,
+    "text": "Well, businesses are finding that ethnography can offer them deeper insight into the possible needs of customers, either present or future, as well as providing valuable information about their attitudes towards existing products."
+  },
+  {
+    "index": 720,
+    "start": 3238.9,
+    "end": 3252.76,
+    "text": "And ethnography can also help companies to design new products or services that customers really want. need to look at some examples of how ethnographic research works in business."
+  },
+  {
+    "index": 721,
+    "start": 3253.44,
+    "end": 3258.7,
+    "text": "One team of researchers did a project for a company manufacturing kitchen equipment."
+  },
+  {
+    "index": 722,
+    "start": 3259.04,
+    "end": 3265.2,
+    "text": "They watched how cooks used measuring cups to measure out things like sugar and flour."
+  },
+  {
+    "index": 723,
+    "start": 3265.62,
+    "end": 3275.62,
+    "text": "They saw that the cooks had to check and recheck the contents because although the measuring cups had numbers inside them, the cooks couldn't see these easily."
+  },
+  {
+    "index": 724,
+    "start": 3275.92,
+    "end": 3282.6,
+    "text": "So a new design of cup was developed to overcome this problem, and it was a top seller."
+  },
+  {
+    "index": 725,
+    "start": 3283.74,
+    "end": 3290.14,
+    "text": "Another team of ethnographic researchers looked at how cell phones were used in Uganda, in Africa."
+  },
+  {
+    "index": 726,
+    "start": 3290.8,
+    "end": 3297.0,
+    "text": "They found that people who didn't have their own phones could pay to use the phones of local entrepreneurs."
+  },
+  {
+    "index": 727,
+    "start": 3297.74,
+    "end": 3305.44,
+    "text": "Because these customers paid in advance for their calls, they were eager to know how much time they'd spent on the call so far."
+  },
+  {
+    "index": 728,
+    "start": 3305.98,
+    "end": 3311.5,
+    "text": "So the phone company designed phones for use globally with this added feature."
+  },
+  {
+    "index": 729,
+    "start": 3313.14,
+    "end": 3317.4,
+    "text": "Ethnographic research has also been carried out in computer companies."
+  },
+  {
+    "index": 730,
+    "start": 3318.04,
+    "end": 3323.1,
+    "text": "In one company, IT systems administrators were observed for several weeks."
+  },
+  {
+    "index": 731,
+    "start": 3323.64,
+    "end": 3336.2,
+    "text": "It was found that a large amount of their work involved communicating with colleagues in order to solve problems, but that they didn't have a standard way of exchanging information from spreadsheets and so on."
+  },
+  {
+    "index": 732,
+    "start": 3336.64,
+    "end": 3341.78,
+    "text": "So the team came up with an idea for software that would help them to do this."
+  },
+  {
+    "index": 733,
+    "start": 3342.54,
+    "end": 3348.56,
+    "text": "In another piece of research, a team observed and talked to nurses working in hospitals."
+  },
+  {
+    "index": 734,
+    "start": 3349.34,
+    "end": 3357.0,
+    "text": "This led to the recognition that the nurses needed to access the computer records of their patients no matter where they were."
+  },
+  {
+    "index": 735,
+    "start": 3357.88,
+    "end": 3366.08,
+    "text": "This led to the development of a portable computer tablet that allowed the nurses to check records in locations throughout the hospital."
+  },
+  {
+    "index": 736,
+    "start": 3367.66,
+    "end": 3373.22,
+    "text": "Occasionally, research can be done even in environments where the researchers can't be present."
+  },
+  {
+    "index": 737,
+    "start": 3373.66,
+    "end": 3387.66,
+    "text": "For example, in one project done for an airline, respondents used their smartphones to record information during airline trips, in a study aiming at tracking the emotions of passengers during a flight."
+  },
+  {
+    "index": 738,
+    "start": 3388.18,
+    "end": 3392.54,
+    "text": "So what makes studies like these different from ordinary research?"
+  },
+  {
+    "index": 739,
+    "start": 3393.26,
+    "end": 3398.1,
+    "text": "Let's look at some of the general principles behind ethnographic research in business."
+  },
+  {
+    "index": 740,
+    "start": 3398.8,
+    "end": 3402.86,
+    "text": "First of all, the researcher has to be completely open -minded."
+  },
+  {
+    "index": 741,
+    "start": 3403.32,
+    "end": 3410.16,
+    "text": "He or she hasn't thought up a hypothesis to be tested, as is the case in other types of research."
+  },
+  {
+    "index": 742,
+    "start": 3410.7,
+    "end": 3415.34,
+    "text": "Instead, they wait for the participants in the research to inform them."
+  },
+  {
+    "index": 743,
+    "start": 3416.06,
+    "end": 3422.82,
+    "text": "As far as choosing the participants themselves is concerned, that's not really all that different from ordinary research."
+  },
+  {
+    "index": 744,
+    "start": 3423.04,
+    "end": 3438.68,
+    "text": "The criteria according to which the participants are chosen may be something as simple as the age bracket they fall into, or the researchers may select them according to their income, or they might try to find a set of people who all use a particular product, for example."
+  },
+  {
+    "index": 745,
+    "start": 3439.4,
+    "end": 3444.64,
+    "text": "But it's absolutely crucial to recruit the right people as participants."
+  },
+  {
+    "index": 746,
+    "start": 3445.6,
+    "end": 3454.32,
+    "text": "As well as the criteria I've mentioned, they have to be comfortable talking about themselves and being watched as they go about their activities."
+  },
+  {
+    "index": 747,
+    "start": 3455.12,
+    "end": 3462.98,
+    "text": "Actually, most researchers say that people open up pretty easily, maybe because they're often in their own home or workplace."
+  },
+  {
+    "index": 748,
+    "start": 3463.94,
+    "end": 3470.54,
+    "text": "So, what makes this type of research special is that it's not just a matter of sending a questionnaire to the participants."
+  },
+  {
+    "index": 749,
+    "start": 3470.54,
+    "end": 3477.36,
+    "text": "Instead, the research is usually based on first -hand observation of what they are doing at the time."
+  },
+  {
+    "index": 750,
+    "start": 3477.66,
+    "end": 3481.56,
+    "text": "But that doesn't mean that the researcher never talks to the participants."
+  },
+  {
+    "index": 751,
+    "start": 3482.14,
+    "end": 3493.82,
+    "text": "However, unlike in traditional research, in this case, it's the participant rather than the researchers who decides what direction the interview will follow."
+  },
+  {
+    "index": 752,
+    "start": 3494.54,
+    "end": 3501.96,
+    "text": "This means that there's less likelihood of the researcher imposing his or her own ideas on the participant."
+  },
+  {
+    "index": 753,
+    "start": 3503.22,
+    "end": 3510.36,
+    "text": "But after they've said goodbye to their participants and got back to their office, the researcher's work isn't finished."
+  },
+  {
+    "index": 754,
+    "start": 3511.02,
+    "end": 3524.04,
+    "text": "Most researchers estimate that 70 to 80 percent of their time is spent not on the collecting of data, but on its analysis, looking at photos, listening to recordings and transcribing them, and so on."
+  },
+  {
+    "index": 755,
+    "start": 3524.04,
+    "end": 3534.68,
+    "text": "The researchers may end up with hundreds of pages of notes, and to determine what's significant, they don't focus on the sensational things or the unusual things."
+  },
+  {
+    "index": 756,
+    "start": 3534.92,
+    "end": 3543.02,
+    "text": "Instead, they try to identify a pattern of some sort in all this data and to discern the meaning behind it."
+  },
+  {
+    "index": 757,
+    "start": 3543.44,
+    "end": 3551.84,
+    "text": "This can result in some compelling insights that can, in turn, feed back to the whole design process."
+  },
+  {
+    "index": 758,
+    "start": 3553.6,
+    "end": 3556.58,
+    "text": "Good morning, Stratton Festival Box Office."
+  },
+  {
+    "index": 759,
+    "start": 3556.82,
+    "end": 3557.74,
+    "text": "How can I help you?"
+  },
+  {
+    "index": 760,
+    "start": 3558.2,
+    "end": 3558.86,
+    "text": "Oh, hello."
+  },
+  {
+    "index": 761,
+    "start": 3559.2,
+    "end": 3565.86,
+    "text": "My family and I are on holiday in the area, and we've seen some posters about the festival this week."
+  },
+  {
+    "index": 762,
+    "start": 3566.1,
+    "end": 3568.84,
+    "text": "Could you tell me about some of the events, please?"
+  },
+  {
+    "index": 763,
+    "start": 3569.24,
+    "end": 3569.9,
+    "text": "Of course."
+  },
+  {
+    "index": 764,
+    "start": 3570.8,
+    "end": 3575.36,
+    "text": "First of all, are there still tickets available for the jazz band on Saturday?"
+  },
+  {
+    "index": 765,
+    "start": 3575.8,
+    "end": 3579.24,
+    "text": "There are, but only 15 pounds."
+  },
+  {
+    "index": 766,
+    "start": 3579.24,
+    "end": 3582.14,
+    "text": "The 12 pounds seats have all been sold."
+  },
+  {
+    "index": 767,
+    "start": 3582.86,
+    "end": 3583.1,
+    "text": "OK."
+  },
+  {
+    "index": 768,
+    "start": 3583.42,
+    "end": 3586.06,
+    "text": "And the venue is the school, isn't it?"
+  },
+  {
+    "index": 769,
+    "start": 3586.48,
+    "end": 3587.52,
+    "text": "Yes, that's right."
+  },
+  {
+    "index": 770,
+    "start": 3587.76,
+    "end": 3588.84,
+    "text": "The secondary school."
+  },
+  {
+    "index": 771,
+    "start": 3589.36,
+    "end": 3592.7,
+    "text": "Make sure you don't go to the primary school by mistake."
+  },
+  {
+    "index": 772,
+    "start": 3593.0,
+    "end": 3597.02,
+    "text": "And there's an additional performer who isn't mentioned on the posters."
+  },
+  {
+    "index": 773,
+    "start": 3597.78,
+    "end": 3600.48,
+    "text": "Carolyn Hart is going to play with the band."
+  },
+  {
+    "index": 774,
+    "start": 3600.7,
+    "end": 3602.64,
+    "text": "Oh, I think I've heard her on the radio."
+  },
+  {
+    "index": 775,
+    "start": 3603.12,
+    "end": 3605.82,
+    "text": "Doesn't she play the oboe or flutes or something?"
+  },
+  {
+    "index": 776,
+    "start": 3605.82,
+    "end": 3607.16,
+    "text": "Yes, the flute."
+  },
+  {
+    "index": 777,
+    "start": 3607.5,
+    "end": 3613.52,
+    "text": "She usually plays with symphony orchestras, and apparently this is her first time with a jazz band."
+  },
+  {
+    "index": 778,
+    "start": 3613.78,
+    "end": 3615.66,
+    "text": "Well, I'd certainly like to hear her."
+  },
+  {
+    "index": 779,
+    "start": 3616.2,
+    "end": 3619.62,
+    "text": "Then the next thing I want to ask about is the duck races."
+  },
+  {
+    "index": 780,
+    "start": 3619.78,
+    "end": 3621.98,
+    "text": "I saw a poster beside a river."
+  },
+  {
+    "index": 781,
+    "start": 3622.14,
+    "end": 3623.18,
+    "text": "What are they exactly?"
+  },
+  {
+    "index": 782,
+    "start": 3624.42,
+    "end": 3628.82,
+    "text": "Well, you buy a yellow plastic duck, or as many as you like."
+  },
+  {
+    "index": 783,
+    "start": 3629.08,
+    "end": 3630.22,
+    "text": "They're a pound each."
+  },
+  {
+    "index": 784,
+    "start": 3630.22,
+    "end": 3632.92,
+    "text": "And you write your name on each one."
+  },
+  {
+    "index": 785,
+    "start": 3633.4,
+    "end": 3637.88,
+    "text": "There'll be several races, depending on the number of ducks taking part."
+  },
+  {
+    "index": 786,
+    "start": 3638.4,
+    "end": 3644.12,
+    "text": "And John Stevens, a champion swimmer who lives locally, is going to start the races."
+  },
+  {
+    "index": 787,
+    "start": 3644.9,
+    "end": 3648.56,
+    "text": "All the ducks will be launched into the river at the back of the cinema."
+  },
+  {
+    "index": 788,
+    "start": 3648.98,
+    "end": 3653.86,
+    "text": "Then they'll float along the river for 500 metres, as far as the railway bridge."
+  },
+  {
+    "index": 789,
+    "start": 3654.08,
+    "end": 3655.48,
+    "text": "And are there any prizes?"
+  },
+  {
+    "index": 790,
+    "start": 3655.9,
+    "end": 3656.46,
+    "text": "Yes."
+  },
+  {
+    "index": 791,
+    "start": 3656.46,
+    "end": 3665.08,
+    "text": "The first duck in each race to arrive at the finishing line wins its owner free tickets for the concert on the last night of the festival."
+  },
+  {
+    "index": 792,
+    "start": 3665.66,
+    "end": 3667.34,
+    "text": "You said you can buy a duck."
+  },
+  {
+    "index": 793,
+    "start": 3667.64,
+    "end": 3669.72,
+    "text": "I'm sure my children will both want one."
+  },
+  {
+    "index": 794,
+    "start": 3670.02,
+    "end": 3672.2,
+    "text": "They're on sale at a stall in the market."
+  },
+  {
+    "index": 795,
+    "start": 3672.5,
+    "end": 3673.44,
+    "text": "You can't miss it."
+  },
+  {
+    "index": 796,
+    "start": 3673.64,
+    "end": 3676.44,
+    "text": "It's got an enormous sign showing a couple of ducks."
+  },
+  {
+    "index": 797,
+    "start": 3676.9,
+    "end": 3677.26,
+    "text": "OK."
+  },
+  {
+    "index": 798,
+    "start": 3677.58,
+    "end": 3678.98,
+    "text": "I'll go there this afternoon."
+  },
+  {
+    "index": 799,
+    "start": 3679.32,
+    "end": 3681.46,
+    "text": "I remember walking past there yesterday."
+  },
+  {
+    "index": 800,
+    "start": 3681.96,
+    "end": 3685.36,
+    "text": "Now, could you tell me something about the flower show, please?"
+  },
+  {
+    "index": 801,
+    "start": 3685.36,
+    "end": 3691.92,
+    "text": "Well, admission is free and the show is being held in Bythwaite Hall."
+  },
+  {
+    "index": 802,
+    "start": 3692.32,
+    "end": 3693.92,
+    "text": "Sorry, how do you spell that?"
+  },
+  {
+    "index": 803,
+    "start": 3694.44,
+    "end": 3700.92,
+    "text": "B -Y -T -H -W -A -I -T -E."
+  },
+  {
+    "index": 804,
+    "start": 3701.54,
+    "end": 3702.16,
+    "text": "Bythwaite."
+  },
+  {
+    "index": 805,
+    "start": 3702.62,
+    "end": 3704.12,
+    "text": "Is it easy to find?"
+  },
+  {
+    "index": 806,
+    "start": 3704.34,
+    "end": 3706.8,
+    "text": "I'm not very familiar with the town yet."
+  },
+  {
+    "index": 807,
+    "start": 3707.22,
+    "end": 3708.74,
+    "text": "Oh, you won't have any problem."
+  },
+  {
+    "index": 808,
+    "start": 3709.22,
+    "end": 3711.64,
+    "text": "It's right in the centre of Stretton."
+  },
+  {
+    "index": 809,
+    "start": 3711.64,
+    "end": 3715.96,
+    "text": "It's the only old building in the town, so it's easy to recognise."
+  },
+  {
+    "index": 810,
+    "start": 3716.42,
+    "end": 3717.3,
+    "text": "I know it."
+  },
+  {
+    "index": 811,
+    "start": 3717.58,
+    "end": 3719.22,
+    "text": "I presume it's open all day."
+  },
+  {
+    "index": 812,
+    "start": 3719.66,
+    "end": 3726.64,
+    "text": "Yes, but if you'd like to see the prizes being awarded for the best flowers, you'll need to be there at five o 'clock."
+  },
+  {
+    "index": 813,
+    "start": 3727.06,
+    "end": 3731.56,
+    "text": "The prizes are being given by a famous actor, Kevin Shapless."
+  },
+  {
+    "index": 814,
+    "start": 3732.14,
+    "end": 3735.74,
+    "text": "He lives nearby and gets involved in a lot of community events."
+  },
+  {
+    "index": 815,
+    "start": 3735.9,
+    "end": 3737.34,
+    "text": "Gosh, I've seen him on TV."
+  },
+  {
+    "index": 816,
+    "start": 3737.5,
+    "end": 3739.5,
+    "text": "I'll definitely go to the prize -giving."
+  },
+  {
+    "index": 817,
+    "start": 3739.5,
+    "end": 3740.38,
+    "text": "Right."
+  },
+  {
+    "index": 818,
+    "start": 3741.48,
+    "end": 3750.32,
+    "text": "I've seen a list of plays that are being performed this week, and I'd like to know which are suitable for my children and which ones my husband and I might go to."
+  },
+  {
+    "index": 819,
+    "start": 3750.62,
+    "end": 3751.76,
+    "text": "How old are your children?"
+  },
+  {
+    "index": 820,
+    "start": 3752.14,
+    "end": 3753.08,
+    "text": "Five and seven."
+  },
+  {
+    "index": 821,
+    "start": 3753.48,
+    "end": 3755.74,
+    "text": "What about The Mystery of Muldoon?"
+  },
+  {
+    "index": 822,
+    "start": 3756.06,
+    "end": 3758.04,
+    "text": "That's aimed at five to ten -year -olds."
+  },
+  {
+    "index": 823,
+    "start": 3758.3,
+    "end": 3762.16,
+    "text": "So if I take my children, I can expect them to enjoy it more than I do?"
+  },
+  {
+    "index": 824,
+    "start": 3762.42,
+    "end": 3763.34,
+    "text": "I think so."
+  },
+  {
+    "index": 825,
+    "start": 3763.88,
+    "end": 3772.06,
+    "text": "If you'd like something for yourself and your husband and leave your children with a babysitter, you might like to see Fire and Flood."
+  },
+  {
+    "index": 826,
+    "start": 3772.34,
+    "end": 3778.92,
+    "text": "It's about events that really happened in Stretton two hundred years ago, and children might find it rather frightening."
+  },
+  {
+    "index": 827,
+    "start": 3779.22,
+    "end": 3780.66,
+    "text": "Oh, thanks for the warning."
+  },
+  {
+    "index": 828,
+    "start": 3781.44,
+    "end": 3784.16,
+    "text": "And finally, what about Silly Sailor?"
+  },
+  {
+    "index": 829,
+    "start": 3784.28,
+    "end": 3787.72,
+    "text": "That's a comedy, and it's for young and old."
+  },
+  {
+    "index": 830,
+    "start": 3787.92,
+    "end": 3792.22,
+    "text": "In fact, it won an award in the Stretton Drama Festival a couple of months ago."
+  },
+  {
+    "index": 831,
+    "start": 3792.54,
+    "end": 3793.02,
+    "text": "OK."
+  },
+  {
+    "index": 832,
+    "start": 3793.52,
+    "end": 3795.78,
+    "text": "Well, goodbye and thanks for all the information."
+  },
+  {
+    "index": 833,
+    "start": 3796.16,
+    "end": 3797.72,
+    "text": "I'm looking forward to the festival."
+  },
+  {
+    "index": 834,
+    "start": 3798.08,
+    "end": 3798.56,
+    "text": "Goodbye."
+  },
+  {
+    "index": 835,
+    "start": 3800.38,
+    "end": 3806.94,
+    "text": "Good morning and welcome to the museum, one with a remarkable range of exhibits which I'm sure you'll enjoy."
+  },
+  {
+    "index": 836,
+    "start": 3807.28,
+    "end": 3811.54,
+    "text": "My name's Greg, and I'll tell you about the various collections as we go around."
+  },
+  {
+    "index": 837,
+    "start": 3811.78,
+    "end": 3815.62,
+    "text": "But before we go, let me just give you a taste of what we have here."
+  },
+  {
+    "index": 838,
+    "start": 3816.56,
+    "end": 3823.02,
+    "text": "Well, for one thing, we have a fine collection of 20th and 21st century paintings, many by very well -known artists."
+  },
+  {
+    "index": 839,
+    "start": 3823.02,
+    "end": 3825.44,
+    "text": "I'm sure you'll recognize several of the paintings."
+  },
+  {
+    "index": 840,
+    "start": 3826.02,
+    "end": 3832.54,
+    "text": "This is the gallery that attracts the largest number of visitors, so it's best to go in early in the day before the crowds arrive."
+  },
+  {
+    "index": 841,
+    "start": 3833.6,
+    "end": 3835.94,
+    "text": "Then there are the 19th century paintings."
+  },
+  {
+    "index": 842,
+    "start": 3836.2,
+    "end": 3844.06,
+    "text": "The museum was opened in the middle of that century, and several of the artists each donated one work to get the museum started, as it were."
+  },
+  {
+    "index": 843,
+    "start": 3844.38,
+    "end": 3846.56,
+    "text": "So they're of special interest to us."
+  },
+  {
+    "index": 844,
+    "start": 3846.72,
+    "end": 3849.02,
+    "text": "We feel closer to them than to other works."
+  },
+  {
+    "index": 845,
+    "start": 3849.68,
+    "end": 3855.52,
+    "text": "The sculpture gallery has a number of fine exhibits, but I'm afraid it's currently closed for refurbishment."
+  },
+  {
+    "index": 846,
+    "start": 3855.72,
+    "end": 3862.1,
+    "text": "You'll need to come back next year to see it properly, but a number of the sculptures have been moved to other parts of the museum."
+  },
+  {
+    "index": 847,
+    "start": 3863.14,
+    "end": 3866.1,
+    "text": "Around the World is a temporary exhibition."
+  },
+  {
+    "index": 848,
+    "start": 3866.42,
+    "end": 3869.98,
+    "text": "You've probably seen something about it on TV or in the newspapers."
+  },
+  {
+    "index": 849,
+    "start": 3870.26,
+    "end": 3883.22,
+    "text": "It's created a great deal of interest because it presents objects from every continent and many countries, and provides information about their social context, why they were made, who for, and so on."
+  },
+  {
+    "index": 850,
+    "start": 3883.68,
+    "end": 3885.68,
+    "text": "Then there's the collection of coins."
+  },
+  {
+    "index": 851,
+    "start": 3885.96,
+    "end": 3902.32,
+    "text": "This is what you might call a focused specialist collection because all the coins come from this country and were produced between 2 ,000 and 1 ,000 years ago, and many of them were discovered by ordinary people digging their gardens and donated to the museum."
+  },
+  {
+    "index": 852,
+    "start": 3903.5,
+    "end": 3913.22,
+    "text": "All our porcelain and glass was left to the museum by its founder when he died in 1878, and in the terms of his will, we're not allowed to add anything to that collection."
+  },
+  {
+    "index": 853,
+    "start": 3913.4,
+    "end": 3917.94,
+    "text": "He believed it was perfect in itself, and we don't see any reason to disagree."
+  },
+  {
+    "index": 854,
+    "start": 3919.62,
+    "end": 3926.4,
+    "text": "Okay, that was something about the collections, and now here's some more practical information, in case you need it."
+  },
+  {
+    "index": 855,
+    "start": 3927.18,
+    "end": 3933.42,
+    "text": "Most of the museum facilities are downstairs in the basement, so you go down the stairs here."
+  },
+  {
+    "index": 856,
+    "start": 3933.78,
+    "end": 3944.0,
+    "text": "When you reach the bottom of the stairs, you'll find yourself in a sitting area with comfortable chairs and sofas where you can have a rest before continuing your exploration of the museum."
+  },
+  {
+    "index": 857,
+    "start": 3944.86,
+    "end": 3950.44,
+    "text": "We have a very good restaurant which serves excellent food all day in a relaxing atmosphere."
+  },
+  {
+    "index": 858,
+    "start": 3950.76,
+    "end": 3960.3,
+    "text": "To reach it, when you get to the bottom of the stairs, go straight ahead to the far side of the sitting area, then turn right into the corridor."
+  },
+  {
+    "index": 859,
+    "start": 3960.3,
+    "end": 3963.6,
+    "text": "You'll see the door of the restaurant facing you."
+  },
+  {
+    "index": 860,
+    "start": 3964.64,
+    "end": 3970.58,
+    "text": "If you just want a snack, or if you'd like to eat somewhere with facilities for children, we also have a cafe."
+  },
+  {
+    "index": 861,
+    "start": 3971.18,
+    "end": 3981.0,
+    "text": "When you reach the bottom of the stairs, you'll need to go straight ahead, turn right into the corridor, and the cafe is immediately on the right."
+  },
+  {
+    "index": 862,
+    "start": 3981.84,
+    "end": 3995.94,
+    "text": "And talking about children, there are baby changing facilities downstairs, cross the sitting area, continue straight ahead along the corridor on the left, and you and your baby will find the facilities on the left -hand side."
+  },
+  {
+    "index": 863,
+    "start": 3997.36,
+    "end": 4004.84,
+    "text": "The cloakroom, where you should leave coats, umbrellas, and any large bags, is on the left -hand side of the sitting area."
+  },
+  {
+    "index": 864,
+    "start": 4005.58,
+    "end": 4009.18,
+    "text": "It's through the last door before you come to the corridor."
+  },
+  {
+    "index": 865,
+    "start": 4009.82,
+    "end": 4016.68,
+    "text": "There are toilets on every floor, but in the basement, they're the first rooms on the left when you get down there."
+  },
+  {
+    "index": 866,
+    "start": 4017.3,
+    "end": 4017.78,
+    "text": "Okay."
+  },
+  {
+    "index": 867,
+    "start": 4018.34,
+    "end": 4023.7,
+    "text": "Now, if you've got anything to leave in the cloakroom, please do that now, and then we'll start our tour."
+  },
+  {
+    "index": 868,
+    "start": 4025.62,
+    "end": 4026.72,
+    "text": "Hi, Joanna."
+  },
+  {
+    "index": 869,
+    "start": 4026.92,
+    "end": 4027.62,
+    "text": "Good to meet you."
+  },
+  {
+    "index": 870,
+    "start": 4027.96,
+    "end": 4037.16,
+    "text": "Now, before we discuss your new research project, I'd like to hear something about the psychology study you did last year for your master's degree."
+  },
+  {
+    "index": 871,
+    "start": 4037.92,
+    "end": 4041.16,
+    "text": "So, how did you choose your subjects for that?"
+  },
+  {
+    "index": 872,
+    "start": 4041.76,
+    "end": 4047.68,
+    "text": "Well, I had six subjects, all professional musicians and all female."
+  },
+  {
+    "index": 873,
+    "start": 4048.34,
+    "end": 4055.56,
+    "text": "Three were violinists, and there was also a cello player and a pianist and a flute player."
+  },
+  {
+    "index": 874,
+    "start": 4055.8,
+    "end": 4065.36,
+    "text": "They were all very highly regarded in the music world, and they'd done quite extensive tours in different continents, and quite a few had won prizes and competitions as well."
+  },
+  {
+    "index": 875,
+    "start": 4065.6,
+    "end": 4067.74,
+    "text": "And they were quite young, weren't they?"
+  },
+  {
+    "index": 876,
+    "start": 4067.96,
+    "end": 4071.26,
+    "text": "Yes, between 25 and 29."
+  },
+  {
+    "index": 877,
+    "start": 4071.84,
+    "end": 4074.62,
+    "text": "The mean was 27 .8."
+  },
+  {
+    "index": 878,
+    "start": 4074.94,
+    "end": 4084.0,
+    "text": "I wasn't specifically looking for artists who'd produced recordings, but this is something that's just taken for granted these days, and they all had."
+  },
+  {
+    "index": 879,
+    "start": 4084.14,
+    "end": 4084.44,
+    "text": "Right."
+  },
+  {
+    "index": 880,
+    "start": 4085.04,
+    "end": 4089.2,
+    "text": "Now, you collected your data through telephone interviews, didn't you?"
+  },
+  {
+    "index": 881,
+    "start": 4089.46,
+    "end": 4090.0,
+    "text": "Yes."
+  },
+  {
+    "index": 882,
+    "start": 4090.5,
+    "end": 4097.66,
+    "text": "I realised if I was going to interview leading musicians, it'd only be possible over the phone because they're so busy."
+  },
+  {
+    "index": 883,
+    "start": 4098.14,
+    "end": 4101.54,
+    "text": "I recorded them using a telephone recording adapter."
+  },
+  {
+    "index": 884,
+    "start": 4102.24,
+    "end": 4106.48,
+    "text": "I'd been worried about the quality, but it worked out all right."
+  },
+  {
+    "index": 885,
+    "start": 4106.48,
+    "end": 4112.64,
+    "text": "I managed at least a 30 -minute interview with each subject, sometimes longer."
+  },
+  {
+    "index": 886,
+    "start": 4113.26,
+    "end": 4116.08,
+    "text": "Did doing it on the phone make it more stressful?"
+  },
+  {
+    "index": 887,
+    "start": 4116.62,
+    "end": 4118.22,
+    "text": "I thought it might."
+  },
+  {
+    "index": 888,
+    "start": 4119.06,
+    "end": 4124.1,
+    "text": "It was all quite informal, though, and in fact they seemed very keen to talk."
+  },
+  {
+    "index": 889,
+    "start": 4124.42,
+    "end": 4128.4,
+    "text": "And I don't think using the phone meant I got less rich data."
+  },
+  {
+    "index": 890,
+    "start": 4128.96,
+    "end": 4130.52,
+    "text": "Rather the opposite, in fact."
+  },
+  {
+    "index": 891,
+    "start": 4131.04,
+    "end": 4131.5,
+    "text": "Interesting."
+  },
+  {
+    "index": 892,
+    "start": 4131.5,
+    "end": 4136.54,
+    "text": "And you were looking at how performers dress for concert performances."
+  },
+  {
+    "index": 893,
+    "start": 4136.8,
+    "end": 4137.48,
+    "text": "That's right."
+  },
+  {
+    "index": 894,
+    "start": 4138.32,
+    "end": 4146.96,
+    "text": "My research investigated the way players see their role as a musician and how this is linked to the type of clothing they decide to wear."
+  },
+  {
+    "index": 895,
+    "start": 4147.56,
+    "end": 4150.16,
+    "text": "But that focus didn't emerge immediately."
+  },
+  {
+    "index": 896,
+    "start": 4150.68,
+    "end": 4166.3,
+    "text": "When I started, I was more interested in trying to investigate the impact of what was worn on those listening, and also whether someone like a violinist might adopt a different style of clothing from, say, someone playing the flute or the trumpet."
+  },
+  {
+    "index": 897,
+    "start": 4166.58,
+    "end": 4166.82,
+    "text": "Hmm."
+  },
+  {
+    "index": 898,
+    "start": 4167.36,
+    "end": 4171.3,
+    "text": "It's interesting that the choice of dress is up to the individual, isn't it?"
+  },
+  {
+    "index": 899,
+    "start": 4171.54,
+    "end": 4172.06,
+    "text": "Yes."
+  },
+  {
+    "index": 900,
+    "start": 4172.28,
+    "end": 4176.5,
+    "text": "You'd expect there to be rules about it in orchestras, but that's quite rare."
+  },
+  {
+    "index": 901,
+    "start": 4177.86,
+    "end": 4181.06,
+    "text": "You only had women performers in your study."
+  },
+  {
+    "index": 902,
+    "start": 4181.2,
+    "end": 4185.16,
+    "text": "Was that because male musicians are less worried about fashion?"
+  },
+  {
+    "index": 903,
+    "start": 4185.16,
+    "end": 4193.06,
+    "text": "I think a lot of the men are very much influenced by fashion, but in social terms, the choices they have are more limited."
+  },
+  {
+    "index": 904,
+    "start": 4193.58,
+    "end": 4198.12,
+    "text": "They'd really upset audiences if they strayed away from quite narrow boundaries."
+  },
+  {
+    "index": 905,
+    "start": 4198.48,
+    "end": 4198.56,
+    "text": "Hmm."
+  },
+  {
+    "index": 906,
+    "start": 4199.3,
+    "end": 4202.56,
+    "text": "Now, popular music has quite different expectations."
+  },
+  {
+    "index": 907,
+    "start": 4203.4,
+    "end": 4208.36,
+    "text": "Did you read Mike Frost's article about the dress of women performers in popular music?"
+  },
+  {
+    "index": 908,
+    "start": 4208.52,
+    "end": 4208.88,
+    "text": "No."
+  },
+  {
+    "index": 909,
+    "start": 4209.08,
+    "end": 4220.38,
+    "text": "Well, he points out that a lot of female singers and musicians in popular music tend to dress down in performances and wear less feminine clothes, like jeans instead of skirts."
+  },
+  {
+    "index": 910,
+    "start": 4220.94,
+    "end": 4225.14,
+    "text": "And he suggests this is because otherwise they'd just be discounted as trivial."
+  },
+  {
+    "index": 911,
+    "start": 4225.32,
+    "end": 4227.78,
+    "text": "But you could argue they're just wearing what's practical."
+  },
+  {
+    "index": 912,
+    "start": 4228.16,
+    "end": 4232.24,
+    "text": "I mean, a pop music concert is usually a pretty energetic affair."
+  },
+  {
+    "index": 913,
+    "start": 4232.44,
+    "end": 4232.82,
+    "text": "Yes."
+  },
+  {
+    "index": 914,
+    "start": 4232.82,
+    "end": 4235.76,
+    "text": "He doesn't make that point, but I think you're probably right."
+  },
+  {
+    "index": 915,
+    "start": 4236.28,
+    "end": 4242.12,
+    "text": "I was interested by the effect of the audience at a musical performance when it came to the choice of dress."
+  },
+  {
+    "index": 916,
+    "start": 4242.12,
+    "end": 4245.7,
+    "text": "The subjects I interviewed felt this was really important."
+  },
+  {
+    "index": 917,
+    "start": 4246.3,
+    "end": 4250.42,
+    "text": "It's all to do with what we understand by performance as a public event."
+  },
+  {
+    "index": 918,
+    "start": 4250.84,
+    "end": 4261.66,
+    "text": "They believed the audience had certain expectations and it was up to them as performers to fulfil these expectations, to show a kind of esteem."
+  },
+  {
+    "index": 919,
+    "start": 4261.66,
+    "end": 4265.2,
+    "text": "They weren't afraid of looking as if they'd made an effort to look good."
+  },
+  {
+    "index": 920,
+    "start": 4265.88,
+    "end": 4273.46,
+    "text": "I think in the past, the audience would have had those expectations of one another too, but that's not really the case now."
+  },
+  {
+    "index": 921,
+    "start": 4273.64,
+    "end": 4274.98,
+    "text": "Not in the UK anyway."
+  },
+  {
+    "index": 922,
+    "start": 4275.28,
+    "end": 4275.54,
+    "text": "No."
+  },
+  {
+    "index": 923,
+    "start": 4275.86,
+    "end": 4281.42,
+    "text": "And I also got interested in what sports scientists are doing too with regard to clothing."
+  },
+  {
+    "index": 924,
+    "start": 4282.36,
+    "end": 4285.86,
+    "text": "Musicians are quite vulnerable physically, aren't they?"
+  },
+  {
+    "index": 925,
+    "start": 4285.86,
+    "end": 4290.04,
+    "text": "Because the movements they carry out are very intensive and repetitive."
+  },
+  {
+    "index": 926,
+    "start": 4290.34,
+    "end": 4298.64,
+    "text": "So I'd imagine some features of sports clothing could safeguard the players from the potentially dangerous effects of this sort of thing."
+  },
+  {
+    "index": 927,
+    "start": 4298.94,
+    "end": 4299.38,
+    "text": "Yes."
+  },
+  {
+    "index": 928,
+    "start": 4299.6,
+    "end": 4302.36,
+    "text": "But musicians don't really consider it."
+  },
+  {
+    "index": 929,
+    "start": 4302.58,
+    "end": 4308.0,
+    "text": "They avoid clothing that obviously restricts their movements, but that's as far as they go."
+  },
+  {
+    "index": 930,
+    "start": 4308.36,
+    "end": 4313.28,
+    "text": "Anyway, coming back to your own research, do you have any idea where you're going from here?"
+  },
+  {
+    "index": 931,
+    "start": 4313.28,
+    "end": 4318.78,
+    "text": "I was thinking of doing a study using an audience, including..."
+  },
+  {
+    "index": 932,
+    "start": 4320.42,
+    "end": 4330.66,
+    "text": "As we saw in the last lecture, a major cause of climate change is the rapid rise in the level of carbon dioxide in the atmosphere over the last century."
+  },
+  {
+    "index": 933,
+    "start": 4331.32,
+    "end": 4338.1,
+    "text": "If we could reduce the amount of CO2, perhaps the rate of climate change could also be slowed down."
+  },
+  {
+    "index": 934,
+    "start": 4338.68,
+    "end": 4346.74,
+    "text": "One potential method involves enhancing the role of the soil that plants grow in, with regard to absorbing CO2."
+  },
+  {
+    "index": 935,
+    "start": 4347.36,
+    "end": 4365.38,
+    "text": "Ratan Lau, a soil scientist from Ohio State University in the USA, claims that the world's agricultural soils could potentially absorb 13 % of the carbon dioxide in the atmosphere, the equivalent of the amount released in the last 30 years."
+  },
+  {
+    "index": 936,
+    "start": 4365.38,
+    "end": 4369.26,
+    "text": "And research is going on into how this might be achieved."
+  },
+  {
+    "index": 937,
+    "start": 4370.2,
+    "end": 4382.54,
+    "text": "Laos first came to the idea that soil might be valuable in this way, not through an interest in climate change, but rather out of concern for the land itself and the people dependent on it."
+  },
+  {
+    "index": 938,
+    "start": 4383.58,
+    "end": 4389.3,
+    "text": "Carbon -rich soil is dark, crumbly and fertile, and retains some water."
+  },
+  {
+    "index": 939,
+    "start": 4389.3,
+    "end": 4397.62,
+    "text": "But erosion can occur if soil is dry, which is a likely effect if it contains inadequate amounts of carbon."
+  },
+  {
+    "index": 940,
+    "start": 4398.84,
+    "end": 4404.58,
+    "text": "Erosion is of course bad for people trying to grow crops or breed animals on that terrain."
+  },
+  {
+    "index": 941,
+    "start": 4404.58,
+    "end": 4416.72,
+    "text": "In the 1970s and 80s, Lau was studying soils in Africa so devoid of organic matter that the ground had become extremely hard, like cement."
+  },
+  {
+    "index": 942,
+    "start": 4417.52,
+    "end": 4425.68,
+    "text": "There he met a pioneer in the study of global warming, who suggested that carbon from the soil had moved into the atmosphere."
+  },
+  {
+    "index": 943,
+    "start": 4426.2,
+    "end": 4428.88,
+    "text": "This is now looking increasingly likely."
+  },
+  {
+    "index": 944,
+    "start": 4428.88,
+    "end": 4430.82,
+    "text": "Let me explain."
+  },
+  {
+    "index": 945,
+    "start": 4431.64,
+    "end": 4444.0,
+    "text": "For millions of years, carbon dioxide levels in the atmosphere have been regulated, in part, by a natural partnership between plants and microbes, tiny organisms in the soil."
+  },
+  {
+    "index": 946,
+    "start": 4444.88,
+    "end": 4452.22,
+    "text": "Plants absorb CO2 from the air and transform it into sugars and other carbon -based substances."
+  },
+  {
+    "index": 947,
+    "start": 4452.92,
+    "end": 4463.88,
+    "text": "While a proportion of these carbon products remain in the plant, some transfer from the roots to fungi and soil microbes, which store the carbon in the soil."
+  },
+  {
+    "index": 948,
+    "start": 4464.96,
+    "end": 4475.92,
+    "text": "The invention of agriculture some 10 ,000 years ago disrupted these ancient soil -building processes and led to the loss of carbon from the soil."
+  },
+  {
+    "index": 949,
+    "start": 4476.86,
+    "end": 4485.34,
+    "text": "When humans started draining the natural topsoil and ploughing it up for planting, they exposed the buried carbon to oxygen."
+  },
+  {
+    "index": 950,
+    "start": 4486.82,
+    "end": 4490.64,
+    "text": "This created carbon dioxide and released it into the air."
+  },
+  {
+    "index": 951,
+    "start": 4490.9,
+    "end": 4499.4,
+    "text": "And in some places, grazing by domesticated animals has removed all vegetation, releasing carbon into the air."
+  },
+  {
+    "index": 952,
+    "start": 4500.28,
+    "end": 4507.02,
+    "text": "Tons of carbon have been stripped from the world's soils, where it's needed, and pumped into the atmosphere."
+  },
+  {
+    "index": 953,
+    "start": 4507.94,
+    "end": 4509.74,
+    "text": "So, what can be done?"
+  },
+  {
+    "index": 954,
+    "start": 4510.72,
+    "end": 4519.94,
+    "text": "Researchers are now coming up with evidence that even modest changes to farming can significantly help to reduce the amount of carbon in the atmosphere."
+  },
+  {
+    "index": 955,
+    "start": 4521.24,
+    "end": 4526.56,
+    "text": "Some growers have already started using an approach known as regenerative agriculture."
+  },
+  {
+    "index": 956,
+    "start": 4526.56,
+    "end": 4533.5,
+    "text": "This aims to boost the fertility of soil and keep it moist through established practices."
+  },
+  {
+    "index": 957,
+    "start": 4534.39,
+    "end": 4541.52,
+    "text": "These include keeping fields planted all year round and increasing the variety of plants being grown."
+  },
+  {
+    "index": 958,
+    "start": 4542.7,
+    "end": 4554.22,
+    "text": "Strategies like these can significantly increase the amount of carbon stored in the soil, So, agricultural researchers are now building a case for their use in combating climate change."
+  },
+  {
+    "index": 959,
+    "start": 4555.6,
+    "end": 4564.36,
+    "text": "One American investigation into the potential for storing CO2 on agricultural lands is taking place in California."
+  },
+  {
+    "index": 960,
+    "start": 4565.18,
+    "end": 4575.82,
+    "text": "Soil scientist Wendy Silver of the University of California, Berkeley, is conducting a first -of -its -kind study on a large cattle farm in the state."
+  },
+  {
+    "index": 961,
+    "start": 4576.78,
+    "end": 4592.78,
+    "text": "She and her students are testing the effects on carbon storage of the compost that is created from waste, both agricultural, including manure and corn stalks, and waste produced in gardens, such as leaves, branches and lawn trimmings."
+  },
+  {
+    "index": 962,
+    "start": 4592.78,
+    "end": 4601.0,
+    "text": "In Australia, soil ecologist Christine Jones is testing another promising soil enrichment strategy."
+  },
+  {
+    "index": 963,
+    "start": 4602.04,
+    "end": 4610.82,
+    "text": "Jones and 12 farmers are working to build up soil carbon by cultivating grasses that stay green all year round."
+  },
+  {
+    "index": 964,
+    "start": 4611.38,
+    "end": 4616.24,
+    "text": "Like composting, the approach has already been proved experimentally."
+  },
+  {
+    "index": 965,
+    "start": 4616.72,
+    "end": 4624.68,
+    "text": "Jones now hopes to show that it can be applied on working farms and that the resulting carbon capture can be accurately measured."
+  },
+  {
+    "index": 966,
+    "start": 4625.58,
+    "end": 4636.72,
+    "text": "It's hoped in the future that projects such as these will demonstrate the role that farmers and other land managers can play in reducing the harmful effects of greenhouse gases."
+  },
+  {
+    "index": 967,
+    "start": 4637.08,
+    "end": 4649.88,
+    "text": "For example, in countries like the United States, where most farming operations use large applications of fertiliser, changing such long -standing habits will require a change of system."
+  },
+  {
+    "index": 968,
+    "start": 4650.78,
+    "end": 4660.88,
+    "text": "Rattan Lal argues that farmers should receive payment, not just for the corn or beef they produce, but also for the carbon they can store in their soil."
+  },
+  {
+    "index": 969,
+    "start": 4661.82,
+    "end": 4664.42,
+    "text": "Another study being carried out..."
+  }
+]

@@ -46215,49 +46215,7 @@ function jumpToFavorite(p, i) {
     load();
 }
 
-// ========================================
-// SUBTITLE ELEMENT
-// ========================================
-
-const subtitleEl = document.createElement("div")
-
-subtitleEl.id = "subtitle"
-
-subtitleEl.style.position = "fixed"
-subtitleEl.style.bottom = "20px"
-subtitleEl.style.left = "50%"
-subtitleEl.style.transform = "translateX(-50%)"
-
-subtitleEl.style.background = "rgba(0,0,0,0.8)"
-subtitleEl.style.color = "#fff"
-
-subtitleEl.style.padding = "12px 24px"
-subtitleEl.style.borderRadius = "10px"
-
-subtitleEl.style.fontSize = "22px"
-subtitleEl.style.fontWeight = "bold"
-
-subtitleEl.style.maxWidth = "80%"
-subtitleEl.style.textAlign = "center"
-
-subtitleEl.style.zIndex = "9999"
-
-subtitleEl.style.display = "none"
-
-document.body.appendChild(subtitleEl)
-
-// ========================================
-// DISPLAY SUB CHECKBOX
-// ========================================
-
-const displaySub = document.getElementById("displaySub")
-
-// ========================================
-// UPDATE SUBTITLE
-// ========================================
-
 function updateSubtitle() {
-
     // checkbox off
     if (!displaySub.checked) {
 
@@ -46265,24 +46223,9 @@ function updateSubtitle() {
 
         return
     }
-
-    // lấy answer realtime theo
-    // part + index hiện tại
-    const answer = getAnswer()
-
-    subtitleEl.innerText = answer
-
-    subtitleEl.style.display = "block"
+    showAnswer()
 }
 
-// ========================================
-// CHECKBOX EVENT
-// ========================================
-
-displaySub.addEventListener(
-    "change",
-    updateSubtitle
-)
 // =========================
 // 📂 LIST UI
 // =========================
